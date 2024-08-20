@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-community
+tiktoken
+langchain-openai
+langchainhub
+chromadb
+youtube-transcript-api
