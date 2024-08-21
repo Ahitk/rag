@@ -6,3 +6,6 @@ langchain-openai
 langchainhub
 chromadb
 youtube-transcript-api
+streamlit
+openai
+chromadb
