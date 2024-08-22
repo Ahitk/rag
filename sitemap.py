@@ -1,3 +1,5 @@
+#pdf ve video dosyalarini bulmak icin yazilan ChatGPT kodu ama calismadi.
+
 import requests
 from bs4 import BeautifulSoup
 import re
