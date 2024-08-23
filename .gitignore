@@ -3,3 +3,4 @@ venv/
 myenv/
 env/
 data.csv
+output_folder/
