@@ -8,3 +8,6 @@ Windows: .\venv\Scripts\activate
 MacOS: source venv/bin/activate
 
 deactivate
+
+#youtube transkriptlerini almak icin bu gerekti, belirtmek gerekebilir
+brew install ffmpeg
