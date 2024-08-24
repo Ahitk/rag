@@ -4,3 +4,6 @@ myenv/
 env/
 data.csv
 output_folder/
+downloaded_pdfs/
+transcripts/
+pdfs/
