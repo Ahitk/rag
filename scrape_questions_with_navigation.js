@@ -2,13 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
-// Define your URL list (you may generate or fetch this list dynamically)
-const urls = [
-    'https://www.telekom.de/hilfe/page1',
-    'https://www.telekom.de/hilfe/page2',
-    // Add more URLs here
-];
-
+const INPUT_FILE = './scrape_telekom/sitemap.json';
 const OUTPUT_FOLDER = './qa_output';
 const MAX_CONCURRENT_REQUESTS = 5;
 
@@ -27,12 +21,21 @@ const extractAndAnalyzeContent = async (page) => {
     return await page.evaluate(() => {
         const content = [];
         
-        // Collect text from potential question and answer containers
-        const elements = document.querySelectorAll('h2, h3, p, div');
-        elements.forEach(element => {
+        // Example selectors; adjust as needed
+        const questionElements = document.querySelectorAll('.question-class');
+        const answerElements = document.querySelectorAll('.answer-class');
+
+        questionElements.forEach(element => {
             const text = element.innerText.trim();
             if (text) {
-                content.push(text);
+                content.push(`Q: ${text}`);
+            }
+        });
+
+        answerElements.forEach(element => {
+            const text = element.innerText.trim();
+            if (text) {
+                content.push(`A: ${text}`);
             }
         });
 
@@ -44,8 +47,7 @@ const extractAndAnalyzeContent = async (page) => {
  * Determine if content has question-answer format.
  */
 const containsQuestionAnswer = (content) => {
-    // Simple heuristic to identify question-answer pairs
-    const questions = content.filter(text => text.includes('?'));
+    const questions = content.filter(text => text.startsWith('Q:'));
     return questions.length > 0;
 };
 
@@ -53,12 +55,15 @@ const containsQuestionAnswer = (content) => {
  * Fetch and process content from a given URL.
  */
 const fetchAndProcessPage = async (url) => {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
     let content = '';
     try {
         await page.goto(url, { waitUntil: 'networkidle2' });
         const pageContent = await extractAndAnalyzeContent(page);
+        
+        // Log content for debugging
+        console.log(`Content extracted from ${url}:`, pageContent);
 
         if (containsQuestionAnswer(pageContent)) {
             content += `URL: ${url}\n\n`;
@@ -100,6 +105,19 @@ const scrapeUrl = async (url) => {
 };
 
 /**
+ * Read URLs from the JSON file.
+ */
+const readUrlsFromFile = async (filePath) => {
+    try {
+        const data = await fs.promises.readFile(filePath, 'utf-8');
+        return JSON.parse(data);
+    } catch (error) {
+        console.error(`Error reading file ${filePath}: ${error.message}`);
+        return [];
+    }
+};
+
+/**
  * Process URLs in batches with concurrency limits.
  */
 const processUrls = async () => {
@@ -107,9 +125,18 @@ const processUrls = async () => {
         fs.mkdirSync(OUTPUT_FOLDER, { recursive: true });
     }
 
+    const urls = await readUrlsFromFile(INPUT_FILE);
+    if (urls.length === 0) {
+        console.log('No URLs to process.');
+        return;
+    }
+
+    console.log(`Processing ${urls.length} URLs...`);
+
     for (let i = 0; i < urls.length; i += MAX_CONCURRENT_REQUESTS) {
         const batch = urls.slice(i, i + MAX_CONCURRENT_REQUESTS);
         await Promise.all(batch.map(url => scrapeUrl(url)));
+        console.log(`Processed batch ${Math.floor(i / MAX_CONCURRENT_REQUESTS) + 1}`);
     }
 
     console.log('All URLs processed successfully.');

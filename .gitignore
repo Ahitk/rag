@@ -8,4 +8,6 @@ downloaded_pdfs/
 transcripts/
 pdfs/
 downloads/
-new_output_folder
+new_output_folder/
+qa_output/
+node_modules/
