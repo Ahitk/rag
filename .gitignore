@@ -2,12 +2,6 @@
 venv/
 myenv/
 env/
-data.csv
 output_folder/
-downloaded_pdfs/
-transcripts/
-pdfs/
-downloads/
-new_output_folder/
-qa_output/
 node_modules/
+data/

@@ -12,6 +12,12 @@ beautifulsoup4
 pytube 
 openai-whisper
 google-api-python-client
+whisper
 git+https://github.com/openai/whisper.git
 yt-dlp
+moviepy
+pydub
+aiohttp
+
+
 
