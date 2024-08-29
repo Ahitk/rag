@@ -6,6 +6,7 @@ langchain-openai
 langchainhub
 youtube-transcript-api
 streamlit
+chromadb
 openai
 requests
 beautifulsoup4
