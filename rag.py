@@ -2,26 +2,24 @@ import os
 import re
 import unicodedata
 from dotenv import load_dotenv
-from langchain.chains import RetrievalQA
-from langchain.vectorstores import Chroma
-from langchain.llms import OpenAI
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.prompts import PromptTemplate
+from langchain import OpenAI, create_retrieval_chain
+from langchain.chains import ChatPromptTemplate, create_stuff_documents_chain
+from langchain_chains import create_retrieval_chain
+from langchain_chroma import Chroma
 from chromadb import Client
 from chromadb.config import Settings
-import streamlit as st
 
-# .env dosyasını yükle
+# Load environment variables
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# Veri Yükleme ve Ayıklama
+# Data Loading and Extraction
 
 data_directory = "rag_data/website/organized_data"
 
 def extract_qa_pairs(text):
     """
-    Bir txt dosyasındaki tüm soru-cevap çiftlerini çıkartır.
+    Extracts all question-answer pairs from a txt file.
     """
     qa_pairs = []
     pattern = r"(\d+)\.\s*Question:(.*?)\n\s*Answer:(.*?)(?=\n\d+\.|\Z)"
@@ -36,7 +34,7 @@ def extract_qa_pairs(text):
 
 def load_data(directory):
     """
-    Klasördeki tüm txt dosyalarını yükler ve bunları kategorilere göre sınıflandırır.
+    Loads all txt files in the folder and classifies them by category.
     """
     categorized_data = {}
     
@@ -56,19 +54,21 @@ def load_data(directory):
     return categorized_data
 
 categorized_data = load_data(data_directory)
-print(f"Yüklendi {sum(len(v) for v in categorized_data.values())} adet soru-cevap çifti.")
+print(f"Loaded {sum(len(v) for v in categorized_data.values())} question-answer pairs.")
 
-# Embeddings ve Veritabanına Yükleme
+# Embeddings and Database Loading
 
-# OpenAI Embeddings başlat
+# Initialize OpenAI Embeddings
+from langchain_openai import OpenAIEmbeddings
 embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
-# ChromaDB Client oluştur
-chroma_client = Client(Settings())
+# Initialize ChromaDB Client
+settings = Settings()
+chroma_client = Client(settings=settings)
 
 def normalize_text(text):
     """
-    Özel karakterleri kaldırarak metni normalleştirir.
+    Normalizes text by removing special characters.
     """
     replacements = {
         'ö': 'o', 'ü': 'u', 'ä': 'a', 'ß': 'ss', 
@@ -80,13 +80,13 @@ def normalize_text(text):
 
 def create_embeddings(text):
     """
-    Bir metni vektöre dönüştürür.
+    Converts text into a vector.
     """
     return embeddings.embed_query(text)
 
 def valid_collection_name(name):
     """
-    Koleksiyon ismini geçerli bir formata dönüştürür.
+    Converts the collection name into a valid format.
     """
     name = normalize_text(name.lower())
     name = name.replace(" ", "_").replace("&", "and").replace(",", "")
@@ -96,21 +96,27 @@ def valid_collection_name(name):
 
 def create_and_populate_database(categorized_data):
     """
-    Kategorilere göre veritabanına vektörleri ekler.
+    Adds vectors to the database by categories.
     """
-    existing_collections = set(chroma_client.list_collections())
+    # List existing collections
+    existing_collections = {c.name for c in chroma_client.list_collections()}
+    print(f"Existing Collections: {existing_collections}")
     
     for category, qa_pairs in categorized_data.items():
         valid_name = valid_collection_name(category)
 
-        # Eğer koleksiyon mevcut değilse oluştur
         if valid_name not in existing_collections:
-            print(f"Koleksiyon '{valid_name}' bulunamadı, oluşturulacak.")
+            print(f"Collection '{valid_name}' not found, creating.")
             collection = chroma_client.create_collection(name=valid_name)
         else:
-            print(f"Mevcut koleksiyon '{valid_name}' kullanılıyor.")
+            print(f"Using existing collection '{valid_name}'.")
             collection = chroma_client.get_collection(name=valid_name)
-        
+
+        # Correct way to handle existing documents: fetch IDs in a different way
+        existing_docs = collection.get()
+        existing_ids = {doc["id"] for doc in existing_docs}
+
+        new_ids = set()
         for idx, qa_pair in enumerate(qa_pairs):
             question = qa_pair["question"]
             answer = qa_pair["answer"]
@@ -118,60 +124,66 @@ def create_and_populate_database(categorized_data):
             metadata = {"question": question, "answer": answer}
             unique_id = f"{valid_name}_{idx}"
 
-            # Koleksiyona veriyi ekle
-            collection.add(ids=[unique_id], documents=[question], embeddings=[vector], metadatas=[metadata])
+            # Skip if the ID already exists
+            if unique_id in existing_ids:
+                continue
 
-        print(f"{len(qa_pairs)} adet soru-cevap çifti '{valid_name}' kategorisine eklendi.")
+            # Add data to the collection
+            collection.add(ids=[unique_id], documents=[question], embeddings=[vector], metadatas=[metadata])
+            new_ids.add(unique_id)
+
+        print(f"Added {len(new_ids)} new question-answer pairs to the '{valid_name}' category.")
 
 create_and_populate_database(categorized_data)
 
-# Streamlit Uygulaması
+def initialize_qa_chain():
+    """
+    Initializes the RAG Retrieval QA chain for all categories.
+    """
+    retrievers = []
+    for category in categorized_data.keys():
+        collection_name = valid_collection_name(category)
+        vectorstore = Chroma(collection_name, embedding_function=embeddings.embed_query)
+        retrievers.append(vectorstore.as_retriever())
 
-def initialize_qa_chain(category):
-    """
-    Belirli bir kategori için RAG Retrieval QA zincirini başlatır.
-    """
-    collection_name = valid_collection_name(category)
-    vectorstore = Chroma(collection_name, embedding_function=embeddings.embed_query)
+    # Combine all retrievers into a single retriever
+    combined_retriever = Chroma.combine_retrievers(retrievers)
 
     llm = OpenAI(model="gpt-4", openai_api_key=OPENAI_API_KEY)
 
-    prompt_template = PromptTemplate(
-        template="Soru: {question}\n\nCevap:",
-        input_variables=["question"]
+    system_prompt = (
+        "Use the given context to answer the question. "
+        "If you don't know the answer, say you don't know. "
+        "Use three sentence maximum and keep the answer concise. "
+        "Context: {context}"
+    )
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
     )
 
-    qa_chain = RetrievalQA.from_chain_type(
-        llm=llm,
-        chain_type="stuff",
-        retriever=vectorstore.as_retriever(),
-        prompt=prompt_template
-    )
+    question_answer_chain = create_stuff_documents_chain(llm, prompt)
+    chain = create_retrieval_chain(retriever=combined_retriever, combine_docs_chain=question_answer_chain)
     
-    return qa_chain
+    return chain
 
-def main():
-    st.title("RAG QA Uygulaması")
-    
-    # Kategori seçim listesi
-    categories = ["magentaeins", "hilfe_bei_storungen", "gerate_and_zubehor", "others", 
-                  "tv_collection", "vertrag_and_rechnung", "internet_and_telefonie", 
-                  "apps_and_dienste", "mobilfunk"]
-    
-    st.sidebar.header("Ayarlar")
-    selected_category = st.sidebar.selectbox("Kategori Seçin", categories)
-    
-    st.sidebar.write(f"Seçilen Kategori: {selected_category}")
-    
-    question = st.text_input("Sorunuzu buraya yazın:")
-    
-    if st.button("Soru Sor"):
-        if question:
-            qa_chain = initialize_qa_chain(selected_category)
-            response = qa_chain({"question": question})
-            st.write("Cevap:", response)
-        else:
-            st.write("Lütfen bir soru girin.")
+def ask_question(chain):
+    """
+    Asks a question via the console and retrieves an answer.
+    """
+    while True:
+        question = input("Enter your question (or type 'exit' to quit): ")
+        if question.lower() == 'exit':
+            break
+        
+        response = chain.invoke({"input": question})
+        print("Answer:", response.get("result", "No answer found"))
 
+# Main Execution
 if __name__ == "__main__":
-    main()
+    print("Initializing QA Chain...")
+    qa_chain = initialize_qa_chain()
+    print("QA Chain is ready. You can now ask questions.")
+    ask_question(qa_chain)

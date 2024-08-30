@@ -8,3 +8,4 @@ data/
 qa_data/
 organized_data/
 scraped_data/
+chroma_db/
