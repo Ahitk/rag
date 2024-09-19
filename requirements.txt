@@ -19,6 +19,7 @@ yt-dlp
 moviepy
 pydub
 aiohttp
+ragatouille
 
 
 
