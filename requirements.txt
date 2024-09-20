@@ -1,13 +1,14 @@
 langchain
+langgraph
 langchain-openai
 langchain-community
-tiktoken
+openai
 langchain-openai
 langchainhub
 youtube-transcript-api
 streamlit
 chromadb
-openai
+tiktoken
 requests
 beautifulsoup4
 pytube 
@@ -20,6 +21,8 @@ moviepy
 pydub
 aiohttp
 ragatouille
+tavily-python
+
 
 
 
