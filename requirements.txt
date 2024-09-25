@@ -23,7 +23,20 @@ pydub
 aiohttp
 ragatouille
 tavily-python
-
+pypdf
+chainlit
+cryptography
+pdfplumber
+layoutparser
+paddleocr
+pdf2image
+opencv-python
+opencv-python-headless
+Pillow
+paddlepaddle
+torchvision
+unstructured
+unstructured[all-docs]
 
 
 
