@@ -57,4 +57,3 @@ if user_query is not None and user_query != "":
         ai_response = st.write_stream(get_answer(user_query, st.session_state.chat_history))
 
     st.session_state.chat_history.append(AIMessage(ai_response))
-   
