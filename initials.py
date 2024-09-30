@@ -3,6 +3,7 @@ import tiktoken
 import numpy as np
 from dotenv import load_dotenv
 from langchain_openai.embeddings import OpenAIEmbeddings
+from langchain.load import dumps, loads
 
 # Load API Keys from environment variables
 load_dotenv()  # Load environment variables from a .env file
@@ -74,12 +75,23 @@ def format_docs(docs, question):
         # Format the document's source, similarity score, and content
         formatted_docs.append(
             f"**{i}. Document:** \n\n"  # Document title in bold
-            f"Cosine Similarity: {similarity * 100:.2f}%\n\n"
+            f"Cosine Similarity: {similarity * 100:.0f}%\n\n"
             f"Source file: {source}\n\n"
             f"Context:\n\n{content}\n"
         )
 
     return f"\n\n".join(formatted_docs)
+
+
+# Retrieve and return unique documents
+def get_unique_union(documents):
+    """
+    Returns a unique union of retrieved documents by flattening and removing duplicates.
+    """
+    flattened_docs = [dumps(doc) for sublist in documents for doc in sublist]
+    unique_docs = list(set(flattened_docs))  # Remove duplicates
+    return [loads(doc) for doc in unique_docs]
+
 
 # Tokenizer
 def num_tokens_from_string(string: str, encoding_name: str) -> int:
@@ -101,3 +113,4 @@ def get_token_count(docs, question, prompt, chat_history):
     total_tokens = prompt_tokens + question_tokens + docs_tokens
     
     return question_tokens, docs_tokens, prompt_tokens, total_tokens
+
