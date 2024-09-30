@@ -1,5 +1,6 @@
-import numpy as np
 import os
+import tiktoken
+import numpy as np
 from dotenv import load_dotenv
 from langchain_openai.embeddings import OpenAIEmbeddings
 
@@ -10,6 +11,7 @@ load_dotenv()  # Load environment variables from a .env file
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
 
+# Calculate cosine similarity between two vectors
 def cosine_similarity(vec1, vec2):
     """
     Computes the cosine similarity between two vectors.
@@ -26,6 +28,7 @@ def cosine_similarity(vec1, vec2):
     norm_vec2 = np.linalg.norm(vec2)
     return dot_product / (norm_vec1 * norm_vec2) if (norm_vec1 and norm_vec2) else 0.0
 
+## Format streamlit output text
 def format_docs(docs, question):
     """
     Formats the retrieved documents with their source and cosine similarity score, sorted by similarity.
@@ -77,3 +80,24 @@ def format_docs(docs, question):
         )
 
     return f"\n\n".join(formatted_docs)
+
+# Tokenizer
+def num_tokens_from_string(string: str, encoding_name: str) -> int:
+    """Returns the number of tokens in a text string."""
+    encoding = tiktoken.get_encoding(encoding_name)
+    num_tokens = len(encoding.encode(string))
+    return num_tokens
+
+def get_token_count(docs, question, prompt, chat_history):
+    """
+    Calculate and return token counts for the prompt, question, retrieved documents, and total.
+    """
+    # Calculate token counts for different components
+    prompt_tokens = num_tokens_from_string(prompt.format(context="dummy", question=question, chat_history=chat_history), "cl100k_base")
+    question_tokens = num_tokens_from_string(question, "cl100k_base")
+    docs_tokens = sum([num_tokens_from_string(doc.page_content, "cl100k_base") for doc in docs])
+    
+    # Total token count including prompt, question, and documents
+    total_tokens = prompt_tokens + question_tokens + docs_tokens
+    
+    return question_tokens, docs_tokens, prompt_tokens, total_tokens
