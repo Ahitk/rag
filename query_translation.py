@@ -1,35 +1,4 @@
 
-### Multi-query
-
-# Define a pipeline for generating alternative queries
-generate_multi_queries = (
-    multi_query_prompt 
-    | ChatOpenAI(temperature=0) 
-    | StrOutputParser() 
-    | (lambda x: x.split("\n"))  # Split the generated output into individual queries
-)
-
-def get_unique_union(documents):
-    """
-    Returns a unique union of retrieved documents.
-
-    This function takes a list of lists of documents, flattens it, and removes duplicates
-    to ensure each document is unique.
-
-    Args:
-        documents (list of lists): A list where each element is a list of documents.
-
-    Returns:
-        list: A list of unique documents.
-    """
-    # Flatten the list of lists of documents
-    flattened_docs = [dumps(doc) for sublist in documents for doc in sublist]
-    # Remove duplicates by converting to a set and then back to a list
-    unique_docs = list(set(flattened_docs))
-    # Deserialize the documents back into their original form
-    return [loads(doc) for doc in unique_docs]
-
-
 ### RAG-Fusion
 
 # Create a chain for generating four related search queries
@@ -39,45 +8,6 @@ generate_fusion_queries = (
     | StrOutputParser() 
     | (lambda x: x.split("\n"))
 )
-
-
-# Function for Reciprocal Rank Fusion (RRF)
-def reciprocal_rank_fusion(results: list[list], k=60):
-    """
-    Applies Reciprocal Rank Fusion (RRF) to combine multiple lists of ranked documents.
-    
-    Parameters:
-    - results (list[list]): A list of lists where each inner list contains ranked documents.
-    - k (int): An optional parameter for the RRF formula, default is 60.
-    
-    Returns:
-    - list: A list of tuples where each tuple contains a document and its fused score.
-    """
-    
-    # Initialize a dictionary to store the fused scores for each unique document
-    fused_scores = {}
-
-    # Iterate through each list of ranked documents
-    for docs in results:
-        # Iterate through each document in the list, with its rank (position in the list)
-        for rank, doc in enumerate(docs):
-            # Serialize the document to a string format to use as a key
-            doc_str = dumps(doc)
-            # Initialize the document's score if not already present
-            if doc_str not in fused_scores:
-                fused_scores[doc_str] = 0
-            # Update the document's score using the RRF formula: 1 / (rank + k)
-            fused_scores[doc_str] += 1 / (rank + k)
-
-    # Sort documents based on their fused scores in descending order
-    reranked_results = [
-        (loads(doc), score)
-        for doc, score in sorted(fused_scores.items(), key=lambda x: x[1], reverse=True)
-    ]
-
-    # Return the reranked results as a list of tuples
-    return reranked_results
-
 
 ### HyDE
 
