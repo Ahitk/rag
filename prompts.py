@@ -154,8 +154,9 @@ step_back_prompt = ChatPromptTemplate.from_messages(
 # Define a template for generating content.
 # The template specifies that the content should be brief, clear, and informative.
 hyde_content_template = """You are creating professional and customer-focused web page content and texts for a major telecommunications provider like Telekom.de. 
-Your content is very brief, very clear, and informative. Please write a text for the following question:
+Your content is very brief, very clear, and informative. Please write a text for the following question and question history:
 Question: {question}
+Question history: {question_history}
 text:"""
 
 # Create a prompt template using the defined template.
