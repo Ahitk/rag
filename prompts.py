@@ -140,12 +140,50 @@ step_back_prompt = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            """You are an expert at world knowledge. Your task is to step back and paraphrase a question to a more generic step-back question, which is easier to answer. Here are a few examples:""",
+            """You are an expert at understanding and reformulating questions. 
+            Your task is to step back and paraphrase a question to a more general and easier-to-answer step-back question. 
+            Take into account the chat history and prior questions to ensure coherence. 
+            Here are a few examples of this transformation process:""",
         ),
         few_shot_prompt,
         ("user", "{question}"),
+        ("system", "Here is the question history to consider: {question_history}"),
     ]
 )
+
+response_prompt_template = """
+You are a friendly and helpful chatbot assistant designed to answer questions related to telekom.de support. 
+You assist both Telekom IT Support employees and experts, as well as Telekom customers, by providing accurate and helpful responses.
+
+Your task is to generate a comprehensive yet concise response based on the provided context and prior conversation history. 
+Ensure your response is consistent and coherent with the information available. Use both the normal and step-back contexts when applicable to provide the most accurate answer. 
+Always respond in the language in which the question was asked.
+
+If you do not know the answer or the provided documents do not contain the necessary information, 
+politely state that you cannot assist with this query and redirect the user to www.telekom.de/hilfe for further support.
+
+Keep your answers concise (up to four sentences), but if the response is technical, provide sufficient detail to assist Telekom IT Support staff.
+
+# Normal Context: {normal_context}
+# Step-Back Context: {step_back_context}
+# Original Question: {question}
+# Conversation History: {chat_history}
+# Question History: {question_history}
+# Answer:
+"""
+#yedek prompt
+'''# Stepback esponse prompt template
+response_prompt_template = """You are an expert in generating comprehensive responses based on available information. 
+I am going to ask you a question. Your response should be consistent and coherent with the provided context, 
+which includes both the current and prior questions in the conversation history. If the context is irrelevant, feel free to ignore it.
+Use both normal and step-back contexts when applicable to provide the most accurate answer.
+# Normal Context: {normal_context}
+# Step-Back Context: {step_back_context}
+# Original Question: {question}
+# Question History: {question_history}
+# Answer:
+"""'''
+stepback_response_prompt = ChatPromptTemplate.from_template(response_prompt_template)
 
 ## HyDE: Document Generation
 # This section is responsible for creating professional and customer-focused content
