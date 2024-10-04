@@ -7,7 +7,6 @@ from langchain_openai import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
-from langchain.load import dumps, loads
 from indexing import get_vectorstore
 import prompts
 import initials

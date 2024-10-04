@@ -2,13 +2,13 @@ from langchain_core.prompts import ChatPromptTemplate, FewShotChatMessagePromptT
 
 ## Main prompt: telekom assistant
 telekom_template = """
-You are a friendly and helpful chatbot assistant designed for question-answering tasks related to telekom.de support, providing assistance to both Telekom IT Support employees and experts, as well as Telekom customers.
+You are a friendly and helpful IT support chatbot assistant designed for question-answering tasks related to telekom.de support, providing assistance to Telekom IT Support employees and experts.
 
 Use the provided context and the conversation history to answer the questions. Always respond in the language in which the question was asked.
 
 If you don't know the answer or if the provided documents do not contain the necessary information, simply state that you cannot assist with this query and kindly redirect the user to visit www.telekom.de/hilfe for further support.
 
-Keep your answers concise (up to four sentences), but if the response is technical, provide sufficient detail to assist Telekom IT Support staff.
+If the response is technical, provide sufficient detail to assist Telekom IT Support staff.
 
 Question: {question}
 Context: {context}
@@ -201,14 +201,14 @@ text:"""
 # This template will be used to generate content for a given question.
 prompt_hyde = ChatPromptTemplate.from_template(hyde_content_template)
 
-## Decomposition: Sub-questions prompt
-decomposition_template = """You are a helpful assistant that generates multiple sub-questions related to an input question. \n
-The goal is to break down the input into a set of sub-problems / sub-questions that can be answered in isolation. \n
-Generate multiple search queries related to: {question} \n
+## Sub-questions prompt template
+subquestions_template = """You are a helpful assistant tasked with generating several sub-questions related to the input question. \n
+Your objective is to break the main question down into smaller sub-problems or sub-questions that can be addressed individually. \n
+Generate multiple relevant search queries based on the main question, question history, and chat history: {question}, {question_history}, {chat_history}. \n
 Output (3 queries):"""
-prompt_decomposition = ChatPromptTemplate.from_template(decomposition_template)
+prompt_subquestions = ChatPromptTemplate.from_template(subquestions_template)
 
-# Decomposition answer recursion
+## Decomposition answer recursion with chat history
 decomposition_template = """Here is the question you need to answer:
 
 \n --- \n {question} \n --- \n
@@ -217,11 +217,15 @@ Here is any available background question + answer pairs:
 
 \n --- \n {q_a_pairs} \n --- \n
 
+Here is the chat history that may provide additional context:
+
+\n --- \n {chat_history} \n --- \n
+
 Here is additional context relevant to the question: 
 
 \n --- \n {context} \n --- \n
 
-Use the above context and any background question + answer pairs to answer the question: \n {question}
+Use the above context, any background Q&A pairs, and chat history to answer the question: \n {question}
 """
 decomposition_prompt = ChatPromptTemplate.from_template(decomposition_template)
 
