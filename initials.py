@@ -12,6 +12,14 @@ load_dotenv()  # Load environment variables from a .env file
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
 
+# Available OpenAI models
+models = {
+    "GPT-4o mini: Affordable and intelligent small model for fast, lightweight tasks": "gpt-4o-mini",
+    "GPT-4o: High-intelligence flagship model for complex, multi-step tasks": "gpt-4o",
+    "GPT-4: The previous set of high-intelligence model": "gpt-4",
+    "GPT-3.5 Turbo: A fast, inexpensive model for simple tasks": "gpt-3.5-turbo-0125",
+}
+
 # Calculate cosine similarity between two vectors
 def cosine_similarity(vec1, vec2):
     """

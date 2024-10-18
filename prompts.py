@@ -43,8 +43,8 @@ grade_prompt = ChatPromptTemplate.from_messages(
 )
 
 ## CRAG and Self-RAG: re_write prompt
-re_write_system = """You are a question re-writer that converts an input question into a better version optimized for web search and context search.\n 
-     Always provide the question in German. Look at the input  and try to reason about the underlying semantic intent or meaning."""
+re_write_system = """You are a question re-writer that converts an input question into a better version optimized for context search and web search.\n 
+     Always provide the question in German. Look at the input and try to reason about the underlying semantic intent or meaning."""
 re_write_prompt = ChatPromptTemplate.from_messages(
     [
         ("system", re_write_system),

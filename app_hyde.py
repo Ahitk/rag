@@ -36,14 +36,6 @@ if "model" not in st.session_state:
 st.set_page_config(page_title="Telekom Hilfe Bot")
 st.image("telekom.png")
 
-# Available models
-models = {
-    "GPT-4o mini: Affordable and intelligent small model for fast, lightweight tasks": "gpt-4o-mini",
-    "GPT-4o: High-intelligence flagship model for complex, multi-step tasks": "gpt-4o",
-    "GPT-4: The previous set of high-intelligence model": "gpt-4",
-    "GPT-3.5 Turbo: A fast, inexpensive model for simple tasks": "gpt-3.5-turbo-0125",
-}
-
 # Function to get answer
 def get_response(user_input, chat_history, question_history):
     # Load vector store and retriever
@@ -75,11 +67,11 @@ def get_response(user_input, chat_history, question_history):
 
 # Dropdown for selecting model (only if a model hasn't been selected yet)
 if st.session_state.model is None:
-    selected_model = st.selectbox("Select the OpenAI model to use:", list(models.keys()), index=None, placeholder="...")
+    selected_model = st.selectbox("Select the OpenAI model to use:", list(initials.models.keys()), index=None, placeholder="...")
 
     if selected_model:  # Ensure a model has been selected
         # Update selected model in session state
-        st.session_state.model = models[selected_model]
+        st.session_state.model = initials.models[selected_model]
 
         # Initialize the model and embedding based on the selected model
         model = ChatOpenAI(model=st.session_state.model, api_key=OPENAI_API_KEY)
