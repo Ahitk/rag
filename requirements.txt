@@ -37,6 +37,7 @@ paddlepaddle
 torchvision
 unstructured
 unstructured[all-docs]
+selenium
 
 
 
