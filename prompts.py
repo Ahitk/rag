@@ -17,6 +17,8 @@ Answer:
 """
 prompt_telekom = ChatPromptTemplate.from_template(telekom_template)
 
+
+
 #yedek main prompt:
 '''
 ## Main prompt: telekom assistant

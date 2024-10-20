@@ -1,11 +1,6 @@
 .env
 venv/
-myenv/
-env/
-output_folder/
-node_modules/
 data/
-qa_data/
-organized_data/
-scraped_data/
-chroma_db/
+rag_data/pdfs/data/
+rag_data/web/data/
+rag_data/youtube/data/

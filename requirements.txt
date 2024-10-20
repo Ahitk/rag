@@ -24,7 +24,6 @@ aiohttp
 ragatouille
 tavily-python
 pypdf
-chainlit
 cryptography
 pdfplumber
 layoutparser
