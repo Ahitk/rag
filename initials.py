@@ -4,12 +4,17 @@ import numpy as np
 from dotenv import load_dotenv
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain.load import dumps, loads
+from langchain_openai import ChatOpenAI
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
+
 
 # Load API Keys from environment variables
 load_dotenv()  # Load environment variables from a .env file
 
 # Retrieve API keys from environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+model = ChatOpenAI(model="gpt-4o-mini", api_key=OPENAI_API_KEY)
 embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
 
 # Available OpenAI models
@@ -193,3 +198,43 @@ def get_token_count(docs, question, prompt, chat_history):
     
     return question_tokens, docs_tokens, prompt_tokens, total_tokens
 
+# Özetleme zincirini oluşturma
+def create_summary(doc_content):
+    summary_template = ChatPromptTemplate.from_template(
+        "Summarize the following document in a way that best describes it semantically:\n\n{doc}"
+    )
+    chain = summary_template | model | StrOutputParser()
+    return chain.invoke({"doc": doc_content})
+
+# Ana klasörün yolu (data klasörünün yolu)
+data_directory = 'data'
+
+# data klasörü altındaki her bir ana klasör için işlem yapıyoruz
+for root, dirs, files in os.walk(data_directory):
+    # root sadece bir üst seviyedeki dizini verir, bu yüzden sadece root içindeki ana klasörlerde işlemi yaparız
+    if root == data_directory:
+        for folder in dirs:
+            folder_path = os.path.join(data_directory, folder)
+            
+            # _summary.txt dosyasını bu ana klasör içinde oluşturuyoruz (alfabetik olarak en üstte olacak şekilde)
+            summary_file_path = os.path.join(folder_path, '_summary.txt')
+            
+            with open(summary_file_path, 'w') as summary_file:
+                # Bu klasörün altındaki tüm dosyaları listelemek için tekrar os.walk kullanıyoruz
+                for sub_root, sub_dirs, sub_files in os.walk(folder_path):
+                    for file_name in sub_files:
+                        if file_name != '_summary.txt' and file_name.endswith('.txt'):
+                            # Her txt dosyasının tam yolunu alıyoruz
+                            file_path = os.path.join(sub_root, file_name)
+                            
+                            # Dosyanın içeriğini okuyoruz
+                            with open(file_path, 'r', encoding='utf-8') as txt_file:
+                                content = txt_file.read()
+                            
+                            # LangChain chain yapısını kullanarak belgeyi özetliyoruz
+                            summary = create_summary(content)
+                            
+                            # Dosya yolunu ve özetini _summary.txt dosyasına yazıyoruz
+                            summary_file.write(f"\n=== Chunk ===\n[File path: {file_path}\nFile summary: {summary}]\n")
+            
+            print(f"{folder} klasörüne _summary.txt dosyası yazıldı.")

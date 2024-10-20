@@ -8,7 +8,6 @@ from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from indexing import get_vectorstore
-from operator import itemgetter
 import prompts
 import initials
 from langchain_community.callbacks import get_openai_callback

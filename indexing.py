@@ -1,6 +1,5 @@
 
 
-
 ## NORMAL NAIVE RETREVER EKLEMEM GEREKIYOR MU BURAYA?
 
 
@@ -14,6 +13,8 @@ from routing import get_specific_directory
 # DenseX
 # Orjnal DenseX, specific_directory'den cekio
 # Yedek 2 li retriever drive'da
+
+# Çöp toplama işlemi cagrilmiyor ki hicbir fonksiyonu yko  niye burada tutuyoruz?
 
 # Sabitler
 TOP_N = 20 # Ilgili specified directory'den kac tane en yakin dosyayi getirmek istedigim.
