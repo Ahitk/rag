@@ -7,7 +7,7 @@ import gc
 import glob
 import os
 from langchain.docstore.document import Document
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
 from routing import get_specific_directory
 
 # DenseX

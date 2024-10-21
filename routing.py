@@ -21,6 +21,18 @@ class RouteQuery(BaseModel):
     )
 
 
+# Data model
+class RouteUserQuery(BaseModel):
+    """ Route a user query to the most relevant datasource. """
+
+    datasource: Literal["vectorstore", "websearch"] = Field(
+        ...,
+        description="Given a user question choose to route it to web search or a vectorstore.",
+    )
+
+
+
+
 def define_router(model):
         # LLM with function call 
     structured_model = model.with_structured_output(RouteQuery)

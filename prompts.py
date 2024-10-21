@@ -32,6 +32,12 @@ Answer:
 """
 prompt_telekom = ChatPromptTemplate.from_template(telekom_template)'''
 
+# Question router prompt 
+router_instructions = """You are an expert at routing a user question to a vectorstore or web search.
+The vectorstore contains documents related to agents, prompt engineering, and adversarial attacks.                                    
+Use the vectorstore for questions on these topics. For all else, use web-search."""
+
+
 ## CRAG and Self-RAG: retrieval grader
 system = """You are a grader assessing relevance of a retrieved document to a user question. \n
     It does not need to be a stringent test. The goal is to filter out erroneous retrievals. \n

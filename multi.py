@@ -1,25 +1,14 @@
 # Import necessary libraries
-import os
-import time  # Import time to measure response time
+import time
 import streamlit as st
-from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
+from langchain_community.callbacks import get_openai_callback
 from indexing import get_vectorstore
 import prompts
 import initials
-from langchain_community.callbacks import get_openai_callback
-
-# Define the directory containing the rag data
-data_directory = "/Users/taha/Desktop/rag/data"
-
-# Load API Keys from environment variables
-load_dotenv()  # Load environment variables from a .env file
-
-# Retrieve API keys from environment variables
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Initialize the chat history and token/cost tracking
 if "chat_history" not in st.session_state:
@@ -27,72 +16,86 @@ if "chat_history" not in st.session_state:
 if "question_history" not in st.session_state:
     st.session_state.question_history = []
 if "total_tokens" not in st.session_state:
-    st.session_state.total_tokens = 0  # Track total tokens
+    st.session_state.total_tokens = 0
 if "total_cost" not in st.session_state:
-    st.session_state.total_cost = 0.0  # Track total cost
+    st.session_state.total_cost = 0.0
 if "model" not in st.session_state:
-    st.session_state.model = None  # Track selected model
+    st.session_state.model = None
 
-st.set_page_config(page_title="Telekom Hilfe Bot")
+st.set_page_config(page_title="Telekom Help Bot")
 st.image("telekom.png")
 
-# Function to get answer
+# Function to get response with error handling
 def get_response(user_input, chat_history, question_history):
-    # Load vector store and retriever
-    vector_store = get_vectorstore(user_input, model, data_directory, embedding)
-    retriever = vector_store.as_retriever()
+    try:
+        # Prune chat history before processing
+        initials.prune_chat_history_if_needed()
 
-    # Generate multiple queries using the multi_query_prompt and model
-    generate_multi_queries = (
-        prompts.multi_query_prompt 
-        | model 
-        | StrOutputParser() 
-        | (lambda x: x.split("\n"))  # Split the generated output into individual queries
-    )
+        # Load vector store and retriever
+        vector_store = get_vectorstore(user_input, model, initials.data_directory, embedding)
+        retriever = vector_store.as_retriever()
 
-    # Generate the multiple queries based on user input
-    multiple_queries = generate_multi_queries.invoke({"question": user_input, "question_history": question_history})
+        # Generate multiple queries using the multi_query_prompt and model
+        generate_multi_queries = (
+            prompts.multi_query_prompt 
+            | model 
+            | StrOutputParser() 
+            | (lambda x: x.split("\n"))  # Split the generated output into individual queries
+        )
 
-    retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
+        # Generate the multiple queries based on user input
+        multiple_queries = generate_multi_queries.invoke({"question": user_input, "question_history": question_history})
 
-    fusion_docs = retrieval_chain_rag_fusion.invoke({"question": user_input, "question_history": question_history})
-    formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, user_input)
+        # Now, use the generated queries to retrieve documents
+        if multiple_queries:
+            # Use retriever to fetch documents for each query
+            documents = []
+            for query in multiple_queries:
+                retrieved_docs = retriever.get_relevant_documents(query)
+                documents.append(retrieved_docs)
 
-    fusion_rag_chain = (prompts.prompt_telekom | model | StrOutputParser())
+            # Use the get_unique_union function to ensure unique documents
+            multi_query_docs = initials.get_unique_union(documents)
 
-  # Use OpenAI callback to track costs and tokens
-    with get_openai_callback() as cb:
-        response = fusion_rag_chain.invoke({
-            "context": formatted_docs, 
-            "question": user_input,
-            "chat_history": chat_history
-        }) if formatted_docs else "No relevant documents found."
+        # Create prompt for final response generation
+        multi_query_rag_chain = (prompts.prompt_telekom | model | StrOutputParser())
 
-    # Update total tokens and cost
-    st.session_state.total_tokens += cb.total_tokens
-    st.session_state.total_cost += cb.total_cost
+        # Use OpenAI callback to track costs and tokens
+        with get_openai_callback() as cb:
+            response = multi_query_rag_chain.invoke({
+                "context": multi_query_docs, 
+                "question": user_input,
+                "chat_history": chat_history
+            }) if multi_query_docs else "No relevant documents found."
 
-    # Return both the response, the generated multiple queries, and the retrieved documents
-    return response, multiple_queries, formatted_docs
+        # Update total tokens and cost
+        st.session_state.total_tokens += cb.total_tokens
+        st.session_state.total_cost += cb.total_cost
+
+        # Return both the response, the generated multiple queries, and the retrieved documents
+        return response, multiple_queries, initials.format_docs(multi_query_docs, user_input)
+
+    except FileNotFoundError:
+        st.error("Documents could not be loaded. Please check the data directory path.")
+        return None, None, None
+
+    except Exception as e:
+        st.error(f"An error occurred: {str(e)}")
+        return None, None, None
 
 
 # Dropdown for selecting model (only if a model hasn't been selected yet)
 if st.session_state.model is None:
     selected_model = st.selectbox("Select the OpenAI model to use:", list(initials.models.keys()), index=None, placeholder="...")
 
-    if selected_model:  # Ensure a model has been selected
-        # Update selected model in session state
+    if selected_model:
         st.session_state.model = initials.models[selected_model]
-
-        # Initialize the model and embedding based on the selected model
-        model = ChatOpenAI(model=st.session_state.model, api_key=OPENAI_API_KEY)
-        embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
-
+        model = ChatOpenAI(model=st.session_state.model, api_key = initials.OPENAI_API_KEY)
+        embedding = OpenAIEmbeddings(api_key = initials.OPENAI_API_KEY)
         st.write("Model selected! Start chatting below.")
 else:
-    # Model is already selected
-    model = ChatOpenAI(model=st.session_state.model, api_key=OPENAI_API_KEY)
-    embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
+    model = ChatOpenAI(model=st.session_state.model, api_key = initials.OPENAI_API_KEY)
+    embedding = OpenAIEmbeddings(api_key = initials.OPENAI_API_KEY)
 
 # Start chat if model has been selected
 if st.session_state.model:
@@ -106,7 +109,7 @@ if st.session_state.model:
                 st.markdown(message.content)
 
     # User input
-    user_query = st.chat_input("Was möchten Sie wissen?")
+    user_query = st.chat_input("What would you like to know?")
     if user_query:
         st.session_state.chat_history.append(HumanMessage(content=user_query))
         
@@ -126,7 +129,6 @@ if st.session_state.model:
                 st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
         # Append the AI response to the session state chat history
-       
         st.session_state.chat_history.append(AIMessage(content=response))
         st.session_state.question_history.append(HumanMessage(content=queries))
 

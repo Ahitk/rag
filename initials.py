@@ -2,12 +2,15 @@ import os
 import tiktoken
 import numpy as np
 from dotenv import load_dotenv
+import streamlit as st
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain.load import dumps, loads
 from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 
+# Define the directory containing the rag data
+data_directory = "/Users/taha/Desktop/rag/data"
 
 # Load API Keys from environment variables
 load_dotenv()  # Load environment variables from a .env file
@@ -24,6 +27,17 @@ models = {
     "GPT-4: The previous set of high-intelligence model": "gpt-4",
     "GPT-3.5 Turbo: A fast, inexpensive model for simple tasks": "gpt-3.5-turbo-0125",
 }
+
+# Token limit
+MAX_TOKENS = 8192
+
+# Function to prune chat history to stay within token limit
+def prune_chat_history_if_needed():
+    total_token_count = sum([len(m.content.split()) for m in st.session_state.chat_history])
+    while total_token_count > MAX_TOKENS:
+        st.session_state.chat_history.pop(0)
+        total_token_count = sum([len(m.content.split()) for m in st.session_state.chat_history])
+  
 
 # Calculate cosine similarity between two vectors
 def cosine_similarity(vec1, vec2):
@@ -209,6 +223,11 @@ def create_summary(doc_content):
 # Ana klasörün yolu (data klasörünün yolu)
 data_directory = 'data'
 
+# BURASI HER APP CALISTIGINDA TEKRARDAN SUMMARY OLSUTURUYOR
+# CÜNKÜ KOMPLE PY DOSYASINI YÜKLÜYOR VE CALISTIRIYOR.
+# SADECE SUMMARY YAPTIRMAK ISTEDIGINDE CALISTIR.
+
+'''
 # data klasörü altındaki her bir ana klasör için işlem yapıyoruz
 for root, dirs, files in os.walk(data_directory):
     # root sadece bir üst seviyedeki dizini verir, bu yüzden sadece root içindeki ana klasörlerde işlemi yaparız
@@ -238,3 +257,5 @@ for root, dirs, files in os.walk(data_directory):
                             summary_file.write(f"\n=== Chunk ===\n[File path: {file_path}\nFile summary: {summary}]\n")
             
             print(f"{folder} klasörüne _summary.txt dosyası yazıldı.")
+
+'''
