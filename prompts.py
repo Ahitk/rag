@@ -100,6 +100,9 @@ answer_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
+
+
+
 ## Multi-Query: Template for Generating Alternative Questions
 
 multi_query_template = """You are an AI language model chatbot. Your task is to generate four 
@@ -116,15 +119,21 @@ Question history: {question_history}
 """
 multi_query_prompt = ChatPromptTemplate.from_template(multi_query_template)
 
+
+
+
 # Multi-Query yedek
-'''
-multi_query_template = """You are an AI language model assistant. Your task is to generate five 
+
+multi_template = """You are an AI language model assistant. Your task is to generate five 
 different versions of the given user question to retrieve relevant documents from a vector 
 database. By generating multiple perspectives on the user question, your goal is to help
 the user overcome some of the limitations of the distance-based similarity search. 
 Provide these alternative questions separated by newlines. Always respond in the language in which the question was asked.
 Original question: {question}"""
-# Create a prompt template for generating multiple queries of the user's question'''
+# Create a prompt template for generating multiple queries of the user's question
+multi_prompt = ChatPromptTemplate.from_template(multi_query_template)
+
+
 
 
 ## RAG-Fusion: template for generating multiple search queries based on a single input query.

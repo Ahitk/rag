@@ -1,4 +1,5 @@
 import operator
+import streamlit as st
 from IPython.display import Image, display
 from tavily import TavilyClient
 from langchain_core.pydantic_v1 import BaseModel, Field
@@ -6,6 +7,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain.docstore.document import Document
 from langgraph.graph import END, StateGraph, START
+from langchain_community.callbacks import get_openai_callback
 from typing_extensions import TypedDict
 from typing import List, Annotated
 from pprint import pprint
@@ -92,7 +94,9 @@ class GraphState(TypedDict):
     answers : int # Number of answers generated
     loop_step: Annotated[int, operator.add]
     documents : List[str] # List of retrieved documents
-    multiple_queries: str #Generated multiple queries based on user input
+    chat_history : List[str]
+    question_history : List[str]
+
 
 ### Nodes
 
@@ -110,14 +114,16 @@ def transform_query(state):
 
     print("---TRANSFORM QUERY---")
     question = state["question"]
+    chat_history = state["chat_history"]
+    question_history = state["question_history"]
     #documents = state["documents"]
 
     # Re-write question
     better_question = question_rewriter.invoke({"question": question})
     print("\nModified question: ", better_question)
-    return {"question": better_question}
+    return {"question": better_question, "chat_history": chat_history, "question_history": question_history}
 
-## BURADA ARGÜMAN OLARAK RETRIEVER YOK NORMALDE CALISMIYORSA CIKAR
+
 def retrieve(state):
     """
     Retrieve documents
@@ -130,16 +136,64 @@ def retrieve(state):
     """
     print("---RETRIEVE---")
     question = state["question"]
+    question_history = state["question_history"]
 
     vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
     retriever = vector_store.as_retriever()
 
+    # Generate multiple queries using the multi_query_prompt and model
+    generate_multi_queries = (
+        prompts.multi_query_prompt
+        | initials.model 
+        | StrOutputParser() 
+        | (lambda x: x.split("\n"))
+    )
+
     # Retrieval
-    documents = retriever.get_relevant_documents(question)
-    print("\nROUTED DOCS: ",documents)
-    return {"documents": documents, "question": question}
+    # Generate the multiple queries based on user input
+    #multiple_queries = generate_multi_queries.invoke({"question": question, "question_history": question_history})
+    retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
+    fusion_docs = retrieval_chain_rag_fusion.invoke({"question": question, "question_history": question_history})
+    formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, question)
+
+    print(fusion_docs)
+    
+    return {"documents": fusion_docs, "question": question, "question_history": question_history}
 
 def grade_documents(state):
+    print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
+    question = state["question"]
+    documents = state["documents"]  # fusion_docs burada geçiyor
+    
+    filtered_docs = []
+    web_search = "No"
+    
+    for doc_tuple in documents:
+        document, similarity_score = doc_tuple  # tuple'ı Document ve score olarak ayırıyoruz
+        
+        # Document içeriğini değerlendiriyoruz
+        score = retrieval_grader.invoke({"question": question, "document": document.page_content})
+        
+        print("\nORIGINAL QUESTION:", question)
+        print("DOCUMENT CONTENT:", document.page_content)  # Her belgenin içeriğini basıyoruz
+        grade = score.binary_score.strip().lower()  # strip() gereksiz boşlukları kaldırır
+        
+        print("\nIS DOC RELEVANT?:", grade)
+        
+        # "yes", "1" ya da tam sayı 1 olan yanıtları uygun olarak değerlendiriyoruz
+        if grade == "yes" or grade == "1" or grade == 1:  
+            print("---GRADE: DOCUMENT RELEVANT---")
+            filtered_docs.append(document)  # yalnızca Document nesnesini ekliyoruz
+        else:
+            print("---GRADE: DOCUMENT NOT RELEVANT---")
+            web_search = "Yes"
+            continue
+
+    print("\nRELEVANT CONTEXT: ", filtered_docs)
+    return {"documents": filtered_docs, "question": question, "web_search": web_search}
+
+
+def grade_documentsa(state):
     print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
     question = state["question"]
     documents = state["documents"]
@@ -180,16 +234,29 @@ def generate(state):
     print("---GENERATE---")
     question = state["question"]
     documents = state["documents"]
+    chat_history = state["chat_history"]
     loop_step = state.get("loop_step", 0)
 
-    rag_chain = prompts.main_prompt | initials.model | StrOutputParser()
-    #print(documents)
 
-    # RAG generation
-    docs_txt = format_docs(documents)
+    # Prune chat history before processing
+    initials.prune_chat_history_if_needed()
 
-    generation = rag_chain.invoke({"context": docs_txt, "question": question})
-    print("\nDOCUMENTS:", docs_txt)   
+    fusion_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
+
+    # Use OpenAI callback to track costs and tokens
+    with get_openai_callback() as cb:
+        generation = fusion_rag_chain.invoke({
+            "context": documents, 
+            "question": question,
+            "chat_history": chat_history
+        }) if documents else "No relevant documents found."
+
+    # Update total tokens and cost
+    st.session_state.total_tokens += cb.total_tokens
+    st.session_state.total_cost += cb.total_cost
+
+
+    print("\nDOCUMENTS:", documents)   
     print("\nANSWER:", generation)
 
     ### =============BURADA GENERATION VE LOOP STEP GONDERSEK YETERLI MI; DIGERLERI GEREKLI MI?
@@ -320,8 +387,10 @@ def grade_generation_v_documents_and_question(state):
     else:
         print("---DECISION: MAX RETRIES REACHED---")
         return "max retries" 
+ 
 
-def run_graph(question):
+def run_graph(question, chat_history, question_history):
+    
     workflow = StateGraph(GraphState)
 
     # Define the nodes
@@ -367,7 +436,7 @@ def run_graph(question):
     app = workflow.compile()
 
     # Run
-    inputs = {"question": question}
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history}
     for output in app.stream(inputs):
         for key, value in output.items():
             # Node
@@ -380,4 +449,6 @@ def run_graph(question):
 
     # Final generation
     answer = value["generation"]
-    return answer
+    documents = value["documents"]
+    
+    return answer, documents
