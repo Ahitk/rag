@@ -20,7 +20,6 @@ class RouteQuery(BaseModel):
         description="Given a user question choose which datacategory would be most relevant for answering their question",
     )
 
-
 # Data model
 class RouteUserQuery(BaseModel):
     """ Route a user query to the most relevant datasource. """
@@ -30,7 +29,14 @@ class RouteUserQuery(BaseModel):
         description="Given a user question choose to route it to web search or a vectorstore.",
     )
 
+# Prompt 
+query_router_instructions = """You are an expert at routing a user question to a vectorstore or web search.
 
+The vector store contains extensive customer support and help documents related to telecommunications.
+
+These documents cover categories such as: Devices & Accessories, Help with Disruptions, Internet & Telephony, MagentaEINS, Mobile Communications, TV, Contract & Billing, and Apps & Services, among others.
+
+Use the vector store for questions on these telecommunications topics. For all other queries, use web search."""
 
 
 def define_router(model):

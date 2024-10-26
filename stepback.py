@@ -19,8 +19,6 @@ if "total_tokens" not in st.session_state:
     st.session_state.total_tokens = 0
 if "total_cost" not in st.session_state:
     st.session_state.total_cost = 0.0
-if "model" not in st.session_state:
-    st.session_state.model = None
 
 st.set_page_config(page_title="Telekom Help Bot")
 st.image("telekom.png")
@@ -32,11 +30,11 @@ def get_response(user_input, chat_history, question_history):
         initials.prune_chat_history_if_needed()
 
         # Load vector store and retriever
-        vector_store = get_vectorstore(user_input, model, initials.data_directory, embedding)
+        vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
         retriever = vector_store.as_retriever()
 
         # Generate step-back queries
-        generate_stepback_question = prompts.step_back_prompt | model | StrOutputParser()
+        generate_stepback_question = prompts.step_back_prompt | initials.model | StrOutputParser()
         step_back_question = generate_stepback_question.invoke({"question": user_input, "question_history": question_history })
 
         docs = initials.format_docs(retriever.invoke(user_input), user_input)
@@ -51,7 +49,7 @@ def get_response(user_input, chat_history, question_history):
             "question_history": lambda x: x["question_history"],
         }
         | prompts.stepback_response_prompt
-        | model
+        | initials.model
         | StrOutputParser()
         )
 
@@ -80,69 +78,52 @@ def get_response(user_input, chat_history, question_history):
         st.error(f"An error occurred: {str(e)}")
         return None, None, None
 
-
-# Dropdown for selecting model (only if a model hasn't been selected yet)
-if st.session_state.model is None:
-    selected_model = st.selectbox("Select the OpenAI model to use:", list(initials.models.keys()), index=None, placeholder="...")
-
-    if selected_model:
-        st.session_state.model = initials.models[selected_model]
-        model = ChatOpenAI(model=st.session_state.model, api_key = initials.OPENAI_API_KEY)
-        embedding = OpenAIEmbeddings(api_key = initials.OPENAI_API_KEY)
-        st.write("Model selected! Start chatting below.")
-else:
-    model = ChatOpenAI(model=st.session_state.model, api_key = initials.OPENAI_API_KEY)
-    embedding = OpenAIEmbeddings(api_key = initials.OPENAI_API_KEY)
-
-# Start chat if model has been selected
-if st.session_state.model:
-    # Display chat history
-    for message in st.session_state.chat_history:
-        if isinstance(message, HumanMessage):
-            with st.chat_message("Human"):
-                st.markdown(message.content)
-        else:
-            with st.chat_message("AI"):
-                st.markdown(message.content)
-
-    # User input
-    user_query = st.chat_input("What would you like to know?")
-    if user_query:
-        st.session_state.chat_history.append(HumanMessage(content=user_query))
-        
+# Start chat
+# Display chat history
+for message in st.session_state.chat_history:
+    if isinstance(message, HumanMessage):
         with st.chat_message("Human"):
-            st.markdown(user_query)
+            st.markdown(message.content)
+    else:
+        with st.chat_message("AI"):
+            st.markdown(message.content)
 
-        start_time = time.time()  # Start timing
-        with st.spinner("In progress..."):  # Spinner to show processing
-            with st.chat_message("AI"):
-                # Get the response, generated queries, and retrieved documents
-                response, stepback_query, documents, stepback_documents = get_response(user_query, st.session_state.chat_history, st.session_state.question_history)
+# User input
+user_query = st.chat_input("What would you like to know?")
+if user_query:
+    st.session_state.chat_history.append(HumanMessage(content=user_query))
+    
+    with st.chat_message("Human"):
+        st.markdown(user_query)
 
-                # Calculate response time
-                response_time = time.time() - start_time
+    start_time = time.time()  # Start timing
+    with st.spinner("In progress..."):  # Spinner to show processing
+        with st.chat_message("AI"):
+            # Get the response, generated queries, and retrieved documents
+            response, stepback_query, documents, stepback_documents = get_response(user_query, st.session_state.chat_history, st.session_state.question_history)
 
-                # Display the AI's response with the response time
-                st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
+            # Calculate response time
+            response_time = time.time() - start_time
 
-        # Append the AI response to the session state chat history
-       
-        st.session_state.chat_history.append(AIMessage(content=response))
-        st.session_state.question_history.append(HumanMessage(content=user_query))
-        st.session_state.question_history.append(HumanMessage(content=stepback_query))
+            # Display the AI's response with the response time
+            st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
-        with st.sidebar:
-            # Display the selected model short name (key) at the top of the sidebar
-            st.markdown(f"### Selected Model: {st.session_state.model}")  # Now shows only the model key
-            # Display the token count in the sidebar
-            st.markdown(f"### Total Chat Token Count: {st.session_state.total_tokens}")
-            st.markdown(f"### Total Chat Cost (USD): ${st.session_state.total_cost:.6f}")  # Display total cost
+    # Append the AI response to the session state chat history
+    
+    st.session_state.chat_history.append(AIMessage(content=response))
+    st.session_state.question_history.append(HumanMessage(content=user_query))
+    st.session_state.question_history.append(HumanMessage(content=stepback_query))
 
-            st.markdown("### Step-back question:")
-            st.markdown(stepback_query) 
+    with st.sidebar:
+        # Display the token count in the sidebar
+        st.markdown(f"### Total Chat Token Count: {st.session_state.total_tokens}")
+        st.markdown(f"### Total Chat Cost (USD): ${st.session_state.total_cost:.6f}")  # Display total cost
 
-            st.markdown("### Step-back documents:")
-            st.write(stepback_documents)
+        st.markdown("### Step-back question:")
+        st.markdown(stepback_query) 
 
-            st.markdown("### Normal documents:")
-            st.markdown(documents) 
+        st.markdown("### Step-back documents:")
+        st.write(stepback_documents)
+
+        st.markdown("### Normal documents:")
+        st.markdown(documents) 

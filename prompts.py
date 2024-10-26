@@ -18,6 +18,22 @@ Answer:
 prompt_telekom = ChatPromptTemplate.from_template(telekom_template)
 
 
+## Main prompt: =========== DENEME =========
+main_template = """
+You are a friendly and helpful IT support chatbot assistant designed for question-answering tasks related to telekom.de support, providing assistance to Telekom IT Support employees and experts.
+
+Use the provided context  to answer the questions. Always respond in the language in which the question was asked.
+
+If you don't know the answer or if the provided documents do not contain the necessary information, simply state that you cannot assist with this query and kindly redirect the user to visit www.telekom.de/hilfe for further support.
+
+If the response is technical, provide sufficient detail to assist Telekom IT Support staff.
+
+Question: {question}
+Context: {context}
+Answer:
+"""
+main_prompt = ChatPromptTemplate.from_template(main_template)
+
 
 #yedek main prompt:
 '''
@@ -39,10 +55,10 @@ Use the vectorstore for questions on these topics. For all else, use web-search.
 
 
 ## CRAG and Self-RAG: retrieval grader
-system = """You are a grader assessing relevance of a retrieved document to a user question. \n
-    It does not need to be a stringent test. The goal is to filter out erroneous retrievals. \n
-    If the document contains keyword(s) or semantic meaning related to the question, grade it as relevant. \n
-    Give a binary score 'yes' or 'no' score to indicate whether the document is relevant to the question."""
+system = """You are an evaluator assessing whether a retrieved document is useful for answering a user question. \n
+    This evaluation does not need to be highly detailed. The goal is to filter out irrelevant documents. \n
+    If the document contains keywords related to the question or potential answers to the question, rate it as necessary. \n
+    Provide a 'yes' if the document is necessary for answering this question, or 'no' if it is not."""
 grade_prompt = ChatPromptTemplate.from_messages(
     [
         ("system", system),
@@ -52,7 +68,7 @@ grade_prompt = ChatPromptTemplate.from_messages(
 
 ## CRAG and Self-RAG: re_write prompt
 re_write_system = """You are a question re-writer that converts an input question into a better version optimized for context search and web search.\n 
-     Always provide the question in German. Look at the input and try to reason about the underlying semantic intent or meaning."""
+     Always re-write question in the same language as the original question. Look at the input and try to reason about the underlying semantic intent or meaning."""
 re_write_prompt = ChatPromptTemplate.from_messages(
     [
         ("system", re_write_system),

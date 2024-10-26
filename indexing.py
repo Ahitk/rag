@@ -7,7 +7,8 @@ import gc
 import glob
 import os
 from langchain.docstore.document import Document
-from langchain_community.vectorstores import Chroma
+#from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from routing import get_specific_directory
 
 # DenseX
@@ -38,7 +39,6 @@ def load_summaries(data_directory):
             content = f.read()
         
         chunks = content.split("=== Chunk ===")
-        
         for chunk in chunks:
             if "File path:" in chunk and "File summary:" in chunk:
                 try:
@@ -158,25 +158,10 @@ def get_vectorstore(question, model, data_directory, embedding):
     closest_summary_files = find_closest_summaries_with_chroma(question, summary_retriever, top_n=TOP_N)
     # Clear Chroma vectorstore after use
     summary_vectorstore.delete_collection()  # This will delete all vectors in the collection
-    print("Summary vectorstore has been cleared.")
+    #print("Summary vectorstore has been cleared.")
     # En yakın özetlerin işaret ettiği orijinal dosyaları yükleyin
     docs = load_original_documents_from_summary_paths(closest_summary_files)
     # Orijinal belgelerden bir vektör mağazası ve retriever oluşturun
     vectorstore = Chroma.from_documents(documents=docs, embedding=embedding)
+    
     return vectorstore
-    #retriever = vectorstore.as_retriever()
-    #return retriever
-
-
-
-
-
-
-
-
-
-
-
-
-
-
