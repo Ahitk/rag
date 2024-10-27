@@ -94,8 +94,10 @@ class GraphState(TypedDict):
     answers : int # Number of answers generated
     loop_step: Annotated[int, operator.add]
     documents : List[str] # List of retrieved documents
-    chat_history : List[str]
-    question_history : List[str]
+    chat_history : list
+    question_history : list
+    total_tokens : int 
+    total_cost : float   
 
 
 ### Nodes
@@ -116,13 +118,21 @@ def transform_query(state):
     question = state["question"]
     chat_history = state["chat_history"]
     question_history = state["question_history"]
+    total_tokens = state["total_tokens"]
+    total_cost = state["total_cost"]
+    documents = state["documents"]
     #documents = state["documents"]
 
     # Re-write question
-    better_question = question_rewriter.invoke({"question": question})
+    better_question = question_rewriter.invoke({"question": question, "question_history": question_history })
     print("\nModified question: ", better_question)
-    return {"question": better_question, "chat_history": chat_history, "question_history": question_history}
-
+    print("\nQuestion history: ", question_history)
+    return {"question": better_question, 
+            "chat_history": chat_history, 
+            "question_history": question_history,
+            "total_tokens": total_tokens,
+            "total_cost": total_cost,
+            "documents": documents}
 
 def retrieve(state):
     """
@@ -239,7 +249,7 @@ def generate(state):
 
 
     # Prune chat history before processing
-    initials.prune_chat_history_if_needed()
+    #initials.prune_chat_history_if_needed()
 
     fusion_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
 
@@ -252,15 +262,20 @@ def generate(state):
         }) if documents else "No relevant documents found."
 
     # Update total tokens and cost
-    st.session_state.total_tokens += cb.total_tokens
-    st.session_state.total_cost += cb.total_cost
+    total_tokens = cb.total_tokens + 1
+    total_cost = cb.total_cost + 1
 
 
     print("\nDOCUMENTS:", documents)   
     print("\nANSWER:", generation)
 
     ### =============BURADA GENERATION VE LOOP STEP GONDERSEK YETERLI MI; DIGERLERI GEREKLI MI?
-    return {"documents": documents, "question": question, "generation": generation, "loop_step": loop_step+1}
+    return {"documents": documents,
+            "question": question,
+            "generation": generation,
+            "loop_step": loop_step+1,
+            "total_tokens": total_tokens,
+            "total_cost": total_cost}
 
 def web_search(state):
     """
@@ -389,7 +404,7 @@ def grade_generation_v_documents_and_question(state):
         return "max retries" 
  
 
-def run_graph(question, chat_history, question_history):
+def run_graph(question, chat_history, question_history, total_tokens, total_cost, documents):
     
     workflow = StateGraph(GraphState)
 
@@ -436,7 +451,7 @@ def run_graph(question, chat_history, question_history):
     app = workflow.compile()
 
     # Run
-    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history}
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "total_tokens": total_tokens, "total_cost": total_cost, "documents": documents}
     for output in app.stream(inputs):
         for key, value in output.items():
             # Node
@@ -450,5 +465,8 @@ def run_graph(question, chat_history, question_history):
     # Final generation
     answer = value["generation"]
     documents = value["documents"]
+    total_cost = value["total_cost"]
+    total_tokens = value["total_tokens"]
     
-    return answer, documents
+    
+    return answer, documents, total_cost, total_tokens

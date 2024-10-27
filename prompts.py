@@ -57,8 +57,8 @@ Use the vectorstore for questions on these topics. For all else, use web-search.
 ## CRAG and Self-RAG: retrieval grader
 system = """You are an evaluator assessing whether a retrieved document is useful for answering a user question. \n
     This evaluation does not need to be highly detailed. The goal is to filter out irrelevant documents. \n
-    If the document contains keywords related to the question or potential answers to the question, rate it as necessary. \n
-    Provide a 'yes' if the document is necessary for answering this question, or 'no' if it is not."""
+    If the document contains keywords related to the question or potential answers to the question,  \n
+    provide a 'yes', or 'no' if it is not."""
 grade_prompt = ChatPromptTemplate.from_messages(
     [
         ("system", system),
@@ -67,14 +67,18 @@ grade_prompt = ChatPromptTemplate.from_messages(
 )
 
 ## CRAG and Self-RAG: re_write prompt
+re_write_chat_system = """You are a question re-writer that converts a chat input question into a better version optimized for contextual understanding for vector search and web search. \n
+    Remember, this will be the last question within an ongoing chat. \n
+    Therefore, when rephrasing the question, you should combine the last question with those found in the question history to provide the most comprehensive question possible for contextual understanding for vector search and web search. \n
+    The rewritten question should not use pronouns; all terms from both the question and the question history must be included, otherwise irrelevant and incorrect answers will be generated. \n
+    Always rewrite the question in the same language as the original. Analyze the input to understand the semantic intent or meaning behind it."""
 re_write_system = """You are a question re-writer that converts an input question into a better version optimized for context search and web search.\n 
      Always re-write question in the same language as the original question. Look at the input and try to reason about the underlying semantic intent or meaning."""
 re_write_prompt = ChatPromptTemplate.from_messages(
     [
-        ("system", re_write_system),
+        ("system", re_write_chat_system),
         (
-            "human",
-            "Here is the initial question: \n\n {question} \n Formulate an improved question.",
+            "human", "The input question given to the chat: \n\n {question} \n\n The question history: {question_history} \n\n"
         ),
     ]
 )

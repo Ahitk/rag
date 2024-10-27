@@ -30,6 +30,7 @@ for message in st.session_state.chat_history:
 user_query = st.chat_input("What would you like to know?")
 if user_query:
     st.session_state.chat_history.append(HumanMessage(content=user_query))
+    #user_query = "\n".join([msg.content for msg in st.session_state.question_history])
     
     with st.chat_message("Human"):
         st.markdown(user_query)
@@ -38,8 +39,17 @@ if user_query:
     with st.spinner("In progress..."):
         with st.chat_message("AI"):
             # Get the response, generated queries, and retrieved documents
-            response, documents = graph_fusion.run_graph(user_query, st.session_state.chat_history, st.session_state.question_history)
+            total_tokens = st.session_state.total_tokens
+            total_cost = st.session_state.total_cost
+            documents = []
+            
+            chat_history = st.session_state.chat_history
+            question_history = st.session_state.question_history
 
+            response, documents, tokens, cost = graph_fusion.run_graph(user_query, chat_history, question_history, total_tokens, total_cost, documents)
+
+            st.session_state.total_tokens = tokens
+            st.session_state.total_cost = cost
             if response:
                 # Calculate response time
                 response_time = time.time() - start_time
@@ -48,6 +58,7 @@ if user_query:
                 st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
                 # Append the AI response to the session state chat history
+
                 st.session_state.chat_history.append(AIMessage(content=response))
                 st.session_state.question_history.append(HumanMessage(content=user_query))
 

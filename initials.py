@@ -19,7 +19,10 @@ load_dotenv()  # Load environment variables from a .env file
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
-model = ChatOpenAI(model="gpt-4o-mini", api_key=OPENAI_API_KEY)
+# Token limit
+MAX_TOKENS = 8192
+
+model = ChatOpenAI(model="gpt-4o-mini", api_key=OPENAI_API_KEY, max_tokens=MAX_TOKENS)
 embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
 
 # Available OpenAI models
@@ -30,8 +33,7 @@ models = {
     "GPT-3.5 Turbo: A fast, inexpensive model for simple tasks": "gpt-3.5-turbo-0125",
 }
 
-# Token limit
-MAX_TOKENS = 8192
+
 
 # Function to prune chat history to stay within token limit
 def prune_chat_history_if_needed():
