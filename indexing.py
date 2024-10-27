@@ -2,11 +2,11 @@
 
 ## NORMAL NAIVE RETREVER EKLEMEM GEREKIYOR MU BURAYA?
 
-
 import gc
 import glob
 import os
 from langchain.docstore.document import Document
+from langchain_experimental.text_splitter import SemanticChunker
 #from langchain_community.vectorstores import Chroma
 from langchain_chroma import Chroma
 from routing import get_specific_directory
@@ -18,7 +18,7 @@ from routing import get_specific_directory
 # Çöp toplama işlemi cagrilmiyor ki hicbir fonksiyonu yko  niye burada tutuyoruz?
 
 # Sabitler
-TOP_N = 20 # Ilgili specified directory'den kac tane en yakin dosyayi getirmek istedigim.
+TOP_N = 10 # Ilgili specified directory'den kac tane en yakin dosyayi getirmek istedigim.
 SUMMARY_FILE_PATTERN = '**/_summary.txt'
 
 vectorstore = None
@@ -68,7 +68,7 @@ def create_chroma_vectorstore(summaries, embedding):
     summary_embeddings = embedding.embed_documents(summaries_text)
     
     # Debug: Print size of embeddings and a sample embedding
-    print(f"Total embeddings calculated: {len(summary_embeddings)}")
+    #print(f"Total embeddings calculated: {len(summary_embeddings)}")
 
     # Create Document objects
     for i, summary in enumerate(summaries_text):
@@ -76,7 +76,7 @@ def create_chroma_vectorstore(summaries, embedding):
         documents.append(doc)
     
     # Debug: Print size of documents list
-    print(f"Total documents created: {len(documents)}")
+    #print(f"Total documents created: {len(documents)}")
     
     # Create Chroma vectorstore from documents
     summary_vectorstore = Chroma.from_documents(documents=documents, embedding=embedding)
@@ -95,10 +95,10 @@ def find_closest_summaries_with_chroma(question, summary_retriever, top_n=TOP_N)
 
     while len(unique_paths) < top_n and retries < 5:  # Limit retries to 5 to avoid infinite loops
         # Get results from the retriever
-        results = summary_retriever.get_relevant_documents(question)
-        
+        #results = summary_retriever.get_relevant_documents(question)
+        results = summary_retriever.invoke(question)
         # Debug: Print how many results were found in this iteration
-        print(f"Iteration {retries + 1}, results found: {len(results)}")
+        #print(f"Iteration {retries + 1}, results found: {len(results)}")
 
         for result in results:
             file_path = result.metadata['source']
@@ -115,7 +115,7 @@ def find_closest_summaries_with_chroma(question, summary_retriever, top_n=TOP_N)
         retries += 1  # Increment retry counter in case we need to search again
 
     # Debug: Print how many unique results were retrieved in total
-    print(f"Number of unique results retrieved: {len(unique_paths)}")
+    print(f"==========   NUMBER OF DOCUMENTS RETRIEVED: {len(unique_paths)}   ==========")
 
     # If after retries we still don't have enough results, warn the user
     if len(unique_paths) < top_n:
@@ -138,7 +138,7 @@ def load_original_documents_from_summary_paths(summary_paths):
             with open(summary_path, 'r') as f:
                 content = f.read()
             docs.append(Document(page_content=content, metadata={'source': summary_path}))
-            print(f"Successfully loaded document from: {summary_path}")  # Debug: Log successful load
+            #print(f"Successfully loaded document from: {summary_path}")  # Debug: Log successful load
         except FileNotFoundError:
             print(f"Original document not found for summary: {summary_path}")  # Debug: Log missing file
         except Exception as e:
@@ -148,6 +148,41 @@ def load_original_documents_from_summary_paths(summary_paths):
 
 
 def get_vectorstore(question, model, data_directory, embedding):
+    # Özetleri yükleyin
+    summaries = load_summaries(get_specific_directory(question, model, data_directory))
+    # Chroma vektör mağazasını oluşturun
+    summary_vectorstore = create_chroma_vectorstore(summaries, embedding)
+    # Chroma'dan bir retriever oluşturun
+    summary_retriever = summary_vectorstore.as_retriever(search_kwargs={"k": TOP_N})    
+    # En yakın özetleri bulun
+    closest_summary_files = find_closest_summaries_with_chroma(question, summary_retriever, top_n=TOP_N)
+    # Chroma vectorstore'u temizleyin
+    summary_vectorstore.delete_collection()  # Bu tüm vektörleri silecek
+    # En yakın özetlerin işaret ettiği orijinal dosyaları yükleyin
+    docs = load_original_documents_from_summary_paths(closest_summary_files)
+    print("==========   DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
+
+    print("==========   SEMANTIC CHUNKING WORKING  ==========")
+    # Chunking yapısı: SemanticChunker'ı başlatın
+    text_splitter = SemanticChunker(embedding)
+    
+    # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
+    splits = []
+    for doc in docs:
+        split = text_splitter.create_documents([doc.page_content])  # İçeriği küçük parçalara ayır
+        # Orijinal metadata'yı her bir parça için koru
+        for chunk in split:
+            chunk.metadata = doc.metadata  # Metadata’yı koruyarak ekle
+        splits.extend(split)
+    print(f"==========   CHUNKS CREATED: {len(splits)}  ==========")
+
+    # Chunk'lerden bir vektör mağazası oluşturun
+    vectorstore = Chroma.from_documents(documents=splits, embedding=embedding)
+    print("==========   VECTORSTORE CREATED  ==========")
+    return vectorstore
+
+###### ORIGINAL OLD WITHOUT SEMANTIC CHUNKING
+def get_vectorstore_without_semantic_chunking(question, model, data_directory, embedding):
     # Özetleri yükleyin
     summaries = load_summaries(get_specific_directory(question, model, data_directory))
     # Chroma vektör mağazasını oluşturun

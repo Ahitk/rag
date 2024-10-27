@@ -19,15 +19,6 @@ import prompts
 ### Tavily web search tool
 tavily_client = TavilyClient(api_key = initials.TAVILY_API_KEY)
 
-# Post-processing
-def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
-
-# Executing question, 
-# qna_search performs a search and returns a str containing an answer to the original query.
-#web_search_tool = tavily_client.qna_search(question)
-#print(web_search_tool)
-
 ### Retrieval Grader
 # Data model
 class GradeDocuments(BaseModel):
@@ -96,9 +87,6 @@ class GraphState(TypedDict):
     documents : List[str] # List of retrieved documents
     chat_history : list
     question_history : list
-    total_tokens : int 
-    total_cost : float   
-
 
 ### Nodes
 
@@ -118,20 +106,14 @@ def transform_query(state):
     question = state["question"]
     chat_history = state["chat_history"]
     question_history = state["question_history"]
-    total_tokens = state["total_tokens"]
-    total_cost = state["total_cost"]
     documents = state["documents"]
-    #documents = state["documents"]
 
     # Re-write question
     better_question = question_rewriter.invoke({"question": question, "question_history": question_history })
-    print("\nModified question: ", better_question)
-    print("\nQuestion history: ", question_history)
+    print("\tTransformed question: ", better_question)
     return {"question": better_question, 
             "chat_history": chat_history, 
             "question_history": question_history,
-            "total_tokens": total_tokens,
-            "total_cost": total_cost,
             "documents": documents}
 
 def retrieve(state):
@@ -164,9 +146,7 @@ def retrieve(state):
     #multiple_queries = generate_multi_queries.invoke({"question": question, "question_history": question_history})
     retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
     fusion_docs = retrieval_chain_rag_fusion.invoke({"question": question, "question_history": question_history})
-    formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, question)
-
-    print(fusion_docs)
+    #formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, question)
     
     return {"documents": fusion_docs, "question": question, "question_history": question_history}
 
@@ -178,58 +158,23 @@ def grade_documents(state):
     filtered_docs = []
     web_search = "No"
     
-    for doc_tuple in documents:
+    for idx, doc_tuple in enumerate(documents, start=1):  # enumerate ile dokümanları numaralandırıyoruz
         document, similarity_score = doc_tuple  # tuple'ı Document ve score olarak ayırıyoruz
-        
         # Document içeriğini değerlendiriyoruz
         score = retrieval_grader.invoke({"question": question, "document": document.page_content})
-        
-        print("\nORIGINAL QUESTION:", question)
-        print("DOCUMENT CONTENT:", document.page_content)  # Her belgenin içeriğini basıyoruz
         grade = score.binary_score.strip().lower()  # strip() gereksiz boşlukları kaldırır
+    
         
-        print("\nIS DOC RELEVANT?:", grade)
-        
-        # "yes", "1" ya da tam sayı 1 olan yanıtları uygun olarak değerlendiriyoruz
-        if grade == "yes" or grade == "1" or grade == 1:  
-            print("---GRADE: DOCUMENT RELEVANT---")
+        # "yes", "1", ya da "true" gibi yanıtları uygun olarak değerlendiriyoruz
+        if grade in ["yes", "1", "true", 1]:  
+            print(f"GRADE: Document-{idx} RELEVANT")
             filtered_docs.append(document)  # yalnızca Document nesnesini ekliyoruz
         else:
-            print("---GRADE: DOCUMENT NOT RELEVANT---")
+            print(f"GRADE: Document-{idx} NOT RELEVANT")
             web_search = "Yes"
             continue
-
-    print("\nRELEVANT CONTEXT: ", filtered_docs)
     return {"documents": filtered_docs, "question": question, "web_search": web_search}
 
-
-def grade_documentsa(state):
-    print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
-    question = state["question"]
-    documents = state["documents"]
-    
-    filtered_docs = []
-    web_search = "No"
-    
-    for d in documents:
-        score = retrieval_grader.invoke({"question": question, "document": d.page_content})
-        print("\nORIGINAL QUESTION:", question)
-        print(d.page_content)
-        grade = score.binary_score.strip().lower()  # strip() to remove any extra whitespace
-        
-        print("\nIS DOC RELEVANT?:", grade)
-        
-        # Document relevant if grade is 'yes' or equivalent to 'yes'
-        if grade == "yes" or grade == "1" or grade == 1:  # account for possible '1' integer/str
-            print("---GRADE: DOCUMENT RELEVANT---")
-            filtered_docs.append(d)
-        else:
-            print("---GRADE: DOCUMENT NOT RELEVANT---")
-            web_search = "Yes"
-            continue
-
-    print("\nRELEVANT CONTEXT: ", filtered_docs)
-    return {"documents": filtered_docs, "question": question, "web_search": web_search}
 
 def generate(state):
     """
@@ -247,13 +192,8 @@ def generate(state):
     chat_history = state["chat_history"]
     loop_step = state.get("loop_step", 0)
 
-
-    # Prune chat history before processing
-    #initials.prune_chat_history_if_needed()
-
     fusion_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
 
-    # Use OpenAI callback to track costs and tokens
     with get_openai_callback() as cb:
         generation = fusion_rag_chain.invoke({
             "context": documents, 
@@ -261,21 +201,14 @@ def generate(state):
             "chat_history": chat_history
         }) if documents else "No relevant documents found."
 
-    # Update total tokens and cost
-    total_tokens = cb.total_tokens + 1
-    total_cost = cb.total_cost + 1
 
-
-    print("\nDOCUMENTS:", documents)   
-    print("\nANSWER:", generation)
-
-    ### =============BURADA GENERATION VE LOOP STEP GONDERSEK YETERLI MI; DIGERLERI GEREKLI MI?
-    return {"documents": documents,
-            "question": question,
-            "generation": generation,
-            "loop_step": loop_step+1,
-            "total_tokens": total_tokens,
-            "total_cost": total_cost}
+    # Return the updated state with generation
+    return {
+        "documents": documents,
+        "question": question,
+        "generation": generation,
+        "loop_step": loop_step + 1,
+    }
 
 def web_search(state):
     """
@@ -292,8 +225,7 @@ def web_search(state):
   
     question = state["question"]
     documents = state["documents"]
-    #filtered_docs = state["filtered_docs"]
-    print(question)
+
     # Web search
     web_search_tool = tavily_client.qna_search(question)
     web_results = Document(page_content=web_search_tool)
@@ -367,44 +299,40 @@ def grade_generation_v_documents_and_question(state):
     print("---CHECK HALLUCINATIONS---")
     question = state["question"]
     documents = state["documents"]
-    docs_txt = format_docs(documents)
     generation = state["generation"]
     max_retries = state.get("max_retries", 3) # Default to 3 if not provided
-    print("\nQUESTION:", question)
-    print("\nDOCUMENTS:", docs_txt)
-    print("\nGENERATION:", generation)
+
 
     score = hallucination_grader.invoke(
         {"documents": documents, "generation": generation}
     )
     grade = score.binary_score
-    print(grade)
 
     # Check hallucination
     if grade == "yes":
-        print("---DECISION: GENERATION IS GROUNDED IN DOCUMENTS---")
+        print("DECISION: GENERATION IS GROUNDED IN DOCUMENTS")
         # Check question-answering
         print("---GRADE GENERATION vs QUESTION---")
         score = answer_grader.invoke({"question": question, "generation": generation})
         grade = score.binary_score
         if grade == "yes":
-            print("---DECISION: GENERATION ADDRESSES QUESTION---")
+            print("DECISION: GENERATION ADDRESSES QUESTION")
             return "useful"
         elif state["loop_step"] <= max_retries:
-            print("---DECISION: GENERATION DOES NOT ADDRESS QUESTION---")
+            print("DECISION: GENERATION DOES NOT ADDRESS QUESTION")
             return "not useful"
         else:
-            print("---DECISION: MAX RETRIES REACHED---")
+            print("DECISION: MAX RETRIES REACHED")
             return "max retries" 
     elif state["loop_step"] <= max_retries:
-        print("---DECISION: GENERATION IS NOT GROUNDED IN DOCUMENTS, RE-TRY---")
+        print("DECISION: GENERATION IS NOT GROUNDED IN DOCUMENTS, RE-TRY")
         return "not supported"
     else:
-        print("---DECISION: MAX RETRIES REACHED---")
+        print("DECISION: MAX RETRIES REACHED")
         return "max retries" 
  
 
-def run_graph(question, chat_history, question_history, total_tokens, total_cost, documents):
+def run_graph(question, chat_history, question_history, documents):
     
     workflow = StateGraph(GraphState)
 
@@ -451,22 +379,21 @@ def run_graph(question, chat_history, question_history, total_tokens, total_cost
     app = workflow.compile()
 
     # Run
-    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "total_tokens": total_tokens, "total_cost": total_cost, "documents": documents}
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "documents": documents}
     for output in app.stream(inputs):
         for key, value in output.items():
             # Node
-            pprint(f"Node '{key}':")
+            pprint(f"CURRENT GRAPH NODE: '{key}':")
             # Optional: print full state at each node
             # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
-        pprint("\n---\n")
+        pprint("===========================================================")
 
-    display(Image(app.get_graph().draw_mermaid_png()))
-
+    #display(Image(app.get_graph().draw_mermaid_png()))
+    print("---END!---")
     # Final generation
     answer = value["generation"]
-    documents = value["documents"]
-    total_cost = value["total_cost"]
-    total_tokens = value["total_tokens"]
-    
-    
-    return answer, documents, total_cost, total_tokens
+    docs = value["documents"]
+    question = value["question"]
+    documents = initials.format_docs(docs, question)
+
+    return answer, documents

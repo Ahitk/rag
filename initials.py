@@ -70,6 +70,59 @@ def format_docs(docs, question):
 
     Args:
         docs (list): A list of documents retrieved from the database.
+        question (str): The question to which the documents are relevant.
+
+    Returns:
+        str: A formatted string of documents including source, similarity score, and content.
+    """
+    # Initialize a set to track unique sources
+    unique_sources = set()
+    formatted_docs = []
+    question_embedding = embedding.embed_query(question)
+
+    # Collect documents with their similarity scores
+    doc_with_similarity = []
+
+    for doc in docs:
+        # Retrieve the source of the document from its metadata, or set to "Web" if metadata is missing
+        source = doc.metadata.get("source", "Web")  # "No source" durumunda "Web" olarak atanıyor
+        
+        # Check if the source is unique, add only unique sources
+        if source not in unique_sources:
+            unique_sources.add(source)
+            # Compute the embedding of the document's content
+            document_embedding = embedding.embed_query(doc.page_content)
+            # Calculate cosine similarity between the query and document embeddings
+            similarity = cosine_similarity(question_embedding, document_embedding)
+            # Add document, similarity, source, and content to the list
+            doc_with_similarity.append((doc, similarity, source))
+
+    # Sort documents by cosine similarity in descending order
+    doc_with_similarity.sort(key=lambda x: x[1], reverse=True)
+
+    # Format documents
+    for i, (doc, similarity, source) in enumerate(doc_with_similarity, start=1):
+        # Use a placeholder message if the document content is empty
+        content = doc.page_content.strip() or "This document content is empty."
+        # Format the document's source, similarity score, and content
+        formatted_docs.append(
+            f"**{i}. Document:**\n\n"  # Document title in bold with numbering
+            f"Cosine Similarity: {similarity * 100:.0f}%\n\n"
+            f"Source file: {source}\n\n"
+            f"Context:\n\n{content}\n"
+        )
+
+    return "\n\n".join(formatted_docs)
+
+def format_docs_old(docs, question):
+    """
+    Formats the retrieved documents with their source and cosine similarity score, sorted by similarity.
+
+    This function takes a list of documents and formats them to include the source of each document,
+    its cosine similarity to the query embedding, and presents them in a numbered format.
+
+    Args:
+        docs (list): A list of documents retrieved from the database.
 
     Returns:
         list: A list of formatted strings containing the source, similarity score, and content of each document.

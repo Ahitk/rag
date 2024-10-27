@@ -4,6 +4,7 @@ import streamlit as st
 from langchain_openai import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
+from langchain_experimental.text_splitter import SemanticChunker
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
 from indexing import get_vectorstore
@@ -32,6 +33,8 @@ def get_response(user_input, chat_history, question_history):
         # Load vector store and retriever
         vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
         retriever = vector_store.as_retriever()
+        documents = retriever.get_relevant_documents(user_input)
+        print("==================TXT DOSYALARI GETIRILDI!==============================")
         
         # Generate multiple queries using the multi_query_prompt and model
         generate_multi_queries = (
@@ -42,22 +45,31 @@ def get_response(user_input, chat_history, question_history):
         )
 
         # Generate the multiple queries based on user input
-        multiple_queries = generate_multi_queries.invoke({"question": user_input, "question_history": question_history})
+        #multiple_queries = generate_multi_queries.invoke({"question": user_input, "question_history": question_history})
+
+        #retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
 
         retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
 
         fusion_docs = retrieval_chain_rag_fusion.invoke({"question": user_input, "question_history": question_history})
-        formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, user_input)
+        text_splitter = SemanticChunker(initials.embedding)
+
+        for doc_tuple in fusion_docs:
+            document, similarity_score = doc_tuple
+            # Pass a list with the page content to the create_documents method
+            docs = text_splitter.create_documents([document.page_content])  # Wrap in a list
+
+        #formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, user_input)
 
         fusion_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
 
         # Use OpenAI callback to track costs and tokens
         with get_openai_callback() as cb:
             response = fusion_rag_chain.invoke({
-                "context": fusion_docs, 
+                "context": formatted_docs, 
                 "question": user_input,
                 "chat_history": chat_history
-            }) if fusion_docs else "No relevant documents found."
+            }) if formatted_docs else "No relevant documents found."
 
         # Update total tokens and cost
         st.session_state.total_tokens += cb.total_tokens
@@ -98,7 +110,7 @@ if user_query:
         with st.chat_message("AI"):
             # Get the response, generated queries, and retrieved documents
             response, queries, documents = get_response(user_query, st.session_state.chat_history, st.session_state.question_history)
-            print("==========   PROCESS ENDED  ==========")
+
             if response:
                 # Calculate response time
                 response_time = time.time() - start_time

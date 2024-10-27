@@ -2,6 +2,7 @@ langchain
 langgraph
 langchain-openai
 langchain-community
+langchain_experimental
 langchain-chroma
 openai
 langchain-openai
