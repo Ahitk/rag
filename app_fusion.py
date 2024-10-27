@@ -1,7 +1,7 @@
 import time
 import streamlit as st
-from langchain_core.messages import AIMessage, HumanMessage
 import graph_fusion
+from langchain_core.messages import AIMessage, HumanMessage
 from initials import prune_chat_history_if_needed
 
 # Initialize the chat history and token/cost tracking
@@ -51,7 +51,6 @@ if user_query:
                 st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
                 # Append the AI response to the session state chat history
-
                 st.session_state.chat_history.append(AIMessage(content=response))
                 st.session_state.question_history.append(HumanMessage(content=user_query))
                 # Prune chat history before processing

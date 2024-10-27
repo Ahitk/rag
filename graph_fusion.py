@@ -201,7 +201,6 @@ def generate(state):
             "chat_history": chat_history
         }) if documents else "No relevant documents found."
 
-
     # Return the updated state with generation
     return {
         "documents": documents,

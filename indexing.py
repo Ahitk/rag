@@ -198,5 +198,5 @@ def get_vectorstore_without_semantic_chunking(question, model, data_directory, e
     docs = load_original_documents_from_summary_paths(closest_summary_files)
     # Orijinal belgelerden bir vektör mağazası ve retriever oluşturun
     vectorstore = Chroma.from_documents(documents=docs, embedding=embedding)
-    
+
     return vectorstore
