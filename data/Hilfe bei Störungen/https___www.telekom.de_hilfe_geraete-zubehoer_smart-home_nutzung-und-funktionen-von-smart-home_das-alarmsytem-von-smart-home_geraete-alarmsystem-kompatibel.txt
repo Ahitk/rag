@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/das-alarmsytem-von-smart-home/geraete-alarmsystem-kompatibel
+
+Question: Mit welchen Geräten funktioniert mein Alarmsystem?
+Answer: Für Ihr Alarmsystem können Sie die Sirene, aber auch den Rauchmelder von Bitron Home nutzen. Zudem werden automatisch sowohl alle Leuchten, die an einen Dimmer angeschlossen sind, als auch alle Philips HUE Lampen angeschaltet und die Kamera beginnt mit der Aufzeichnung.
+Haben Sie einen Rauchmelder von Bitron Home, dann wird dieser in Ihrem Alarmsystem automatisch als Alarmgeber genutzt.Sie wählen nur die für Sie sicherheitsrelevanten Sensoren aus, bei deren Impuls das Alarmsystem Alarm geben soll.
+Um Fehlalarme zu vermeiden, empfehlen wir den Bewegungsmelder der Außenkamera im Alarmsystem auszuschließen. Die Sensitivität dieses integrierten Bewegungsmelders ist so hoch, dass Alarme bereits bei Lichtreflexionen ausgelöst werden.
+

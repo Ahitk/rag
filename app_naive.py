@@ -1,89 +1,112 @@
-import time
+# Import necessary libraries
+import os
+import time  # Import time to measure response time
 import streamlit as st
-import graph
-import chromadb
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+from langchain_openai.embeddings import OpenAIEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
-from initials import prune_chat_history_if_needed
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+import prompts as prompts
+import initials as initials
+from langchain_community.callbacks import get_openai_callback
 
-# Initialize the chat history and question history
+# Initialize the chat history and token/cost tracking
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 if "question_history" not in st.session_state:
     st.session_state.question_history = []
+if "total_tokens" not in st.session_state:
+    st.session_state.total_tokens = 0
+if "total_cost" not in st.session_state:
+    st.session_state.total_cost = 0.0
 
-# Initialize documents as an empty list
-documents = []
+st.set_page_config(page_title="Telekom Help Bot")
+st.image("telekom.png")
 
-# Set up the page
-try:
-    st.set_page_config(page_title="Telekom Help Bot")
-    st.image("telekom.png")
-except Exception as e:
-    st.warning(f"An error occurred while setting up the page: {e}", icon="⚠️")
+# Function to get response with error handling
+def get_response(user_input, chat_history):
+    try:
+        # Prune chat history before processing
+        initials.prune_chat_history_if_needed()
 
-# Start chat and display chat history
-try:
-    for message in st.session_state.chat_history:
-        if isinstance(message, HumanMessage):
-            with st.chat_message("Human"):
-                st.markdown(message.content)
-        else:
-            with st.chat_message("AI"):
-                st.markdown(message.content)
-except Exception as e:
-    st.warning(f"An error occurred while displaying chat history: {e}", icon="⚠️")
+        # Load all .txt files from the specified directory using DirectoryLoader
+        loader = DirectoryLoader(initials.data_directory, glob="**/*.txt", loader_cls=TextLoader)
+
+        # Load documents
+        docs = loader.load()
+
+        # Embedding
+        vectorstore = Chroma.from_documents(documents=docs, embedding=initials.embedding)
+        retriever = vectorstore.as_retriever()
+        retrieved_docs = retriever.get_relevant_documents(user_input)
+
+        # Create prompt for final response generation
+        rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
+
+        # Use OpenAI callback to track costs and tokens
+        with get_openai_callback() as cb:
+            response = rag_chain.invoke({
+                "context": retrieved_docs, 
+                "question": user_input,
+                "chat_history": chat_history
+            }) if retrieved_docs else "No relevant documents found."
+
+        # Update total tokens and cost
+        st.session_state.total_tokens += cb.total_tokens
+        st.session_state.total_cost += cb.total_cost
+
+        # Return both the response, the generated multiple queries, and the retrieved documents
+        return response, initials.format_docs(retrieved_docs, user_input)
+
+    except FileNotFoundError:
+        st.error("Documents could not be loaded. Please check the data directory path.")
+        return None, None, None
+
+    except Exception as e:
+        st.error(f"An error occurred: {str(e)}")
+        return None, None, None
+
+
+# Start chat
+# Display chat history
+for message in st.session_state.chat_history:
+    if isinstance(message, HumanMessage):
+        with st.chat_message("Human"):
+            st.markdown(message.content)
+    else:
+        with st.chat_message("AI"):
+            st.markdown(message.content)
 
 # User input
-user_query = st.chat_input("What would you like to know?")
+user_query = st.chat_input("Was möchten Sie wissen?")
 if user_query:
-    try:
-        st.session_state.chat_history.append(HumanMessage(content=user_query))
+    st.session_state.chat_history.append(HumanMessage(content=user_query))
+    
+    with st.chat_message("Human"):
+        st.markdown(user_query)
 
-        with st.chat_message("Human"):
-            st.markdown(user_query)
+    start_time = time.time()  # Start timing
+    with st.spinner("In progress..."):  # Spinner to show processing
+        with st.chat_message("AI"):
+            # Get the response, generated queries, and retrieved documents
+            response, documents = get_response(user_query, st.session_state.chat_history)
 
-        start_time = time.time()  # Start timing
-        with st.spinner("In progress..."):
-            with st.chat_message("AI"):
-                chat_history = st.session_state.chat_history
-                question_history = st.session_state.question_history
+            # Calculate response time
+            response_time = time.time() - start_time
 
-                try:
-                    response, documents = graph.run_graph_naive(user_query, chat_history, question_history, documents)
+            # Display the AI's response with the response time
+            st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
-                    # Move clear_system_cache here to ensure it's called after the response is processed
-                    if response:
-                        # Append the AI response to the session state chat history
-                        st.session_state.chat_history.append(AIMessage(content=response))
-                        st.session_state.question_history.append(HumanMessage(content=user_query))
+    # Append the AI response to the session state chat history
+    
+    st.session_state.chat_history.append(AIMessage(content=response))
 
-                        # Clear the system cache after processing the response
-                        chromadb.api.client.SharedSystemClient.clear_system_cache()
-
-                        # Calculate response time
-                        response_time = time.time() - start_time
-
-                        # Display the AI's response with the response time
-                        st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
-
-                        # Prune chat history before processing
-                        prune_chat_history_if_needed()
-
-                except Exception as e:
-                    st.warning(f"An error occurred while running the graph: {e}.\nPlease refresh the page.", icon="⚠️")
-                    documents = []  # Ensure documents is empty in case of an error
-
-    except Exception as e:
-        st.warning(f"An error occurred while processing your input: {e}.\nPlease refresh the page.", icon="⚠️")
-
-# Display retrieved documents in the sidebar only after user input
-if user_query:
-    try:
-        with st.sidebar:
-            st.markdown("### Retrieved documents:")
-            if documents:  # Only display documents if they are defined
-                st.write(documents)
-            else:
-                st.write("No documents retrieved.")
-    except Exception as e:
-        st.warning(f"An error occurred while displaying documents: {e}.\nPlease refresh the page.", icon="⚠️")
+    with st.sidebar:
+        # Display the token count in the sidebar
+        st.markdown(f"### Total Chat Token Count: {st.session_state.total_tokens}")
+        st.markdown(f"### Total Chat Cost (USD): ${st.session_state.total_cost:.6f}")  # Display total cost        
+        st.markdown("### Retrieved documents:")
+        st.write(documents)

@@ -1,0 +1,40 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/einrichtungsassistent-speedport-w-723v
+
+Question: Wie nehme ich die Einrichtung des Internet-Zugangs und der Telefonie mithilfe des Speedport W 723V Assistenten vor?
+Answer: Hier erfahren Sie, wie Sie mithilfe des Einrichtungsassistenten des Speedport W 723V Ihren Internetzugang und die IP-Telefonie einrichten.
+Einrichtungsprogramm aufrufen
+Öffnen Sie Ihren Internet-Browser (z. B. Internet Explorer, Firefox oder Chrome).
+Wenn sich Ihr Speedport W 723V im Auslierungszustand befindet, wird er automatisch versuchen, die Seitehttp://autokonfig.telekom.dezu öffnen, um die "Automatische Einrichtung" zu starten. Unterbrechen Sie den Vorgang, indem Sie die Taste Escape (links oben auf Ihrer Tastatur: "Esc").
+Geben Sie in die Adresszeile Ihres Browsers 192.168.2.1 ein. Drücken Sie die Eingabetaste ("ENTER" bzw. ↲ ).
+
+Es öffnet sich der Startbildschirm Ihres Routers.
+Anschließend geben Sie das Gerätepasswort in das dafür vorgesehene Feld ein. Das Gerätepasswort befindet sich auf der Rückseite des Speedport W 723V.
+
+Kurz darauf erscheint die Startseite der Konfiguration:
+1.Klicken Sie dort unter dem Punkt "Assistent" auf den Eintrag "Schritt für Schritt".
+
+2.Danach klicken Sie auf "OK & Weiter"
+Nun können Sie mit der Einrichtung des Internet-Zugangs beginnen.
+Zurück zum Anfang
+
+Internet-Zugang am DSL-Anschluss der Telekom einrichten
+Sie befinden sich nun beim ersten Schritt von drei bei der Einrichtung des Internet-Zugangs.
+3.Wählen Sie unter "Internetzugang - Bitte Ihre persönlichen Daten eingeben" den Punkt "DSL-Verbindung mit Provider aus". Als Ihren Provider nehmen Sie bitte "T-Online".
+4.Tragen Sie unter "Internetzugangsdaten für Telekom" Ihre Zugangsdaten für den Internet-Anschluss ein.
+5.Unter "Router-Einstellungen" setzen Sie bitte einen Haken bei "Immer online".
+6.Klicken Sie auf "OK & Weiter". Nach der Meldung "Daten werden gespeichert und geprüft" sollte der Hinweis "Verbindung hergestellt" erscheinen.
+
+Wenn der Hinweis "Verbindung hergestellt" erscheint, sind Sie online. An Ihrem Speedport W 723V leuchtet nun dauerhaft die Lampe "Online". Fahren Sie mit der Einrichtung Ihrer Rufnummern für die IP-basierte Telefonie fort.
+Zurück zum Anfang
+
+Einrichten der Rufnummern für die IP-basierte Telefonie (Internet-Telefonie)
+7.Im Assistenten folgt nun Schritt zwei von drei. Bitte setzen Sie einen Haken bei "Telefonie einrichten mit:" und wählen Sie dann "DSL Telefonie".
+
+8.In dem folgenden Fenster tragen Sie nun die Rufnummer inklusive der Vorwahl in das dafür vorgesehene Feld ein. Die Felder "E-Mail-Adresse" und "Passwort (Webkennwort)" müssen nicht befüllt werden.
+9.Klicken Sie auf "OK & Weiter"
+
+Wenn Sie weitere Rufnummern einrichten möchten, klicken Sie auf den Punkt "Weitere DSL-Telefonnummer einrichten". Gehen Sie wie oben beschrieben vor.
+
+Die Konfiguration des Internetzugangs und der Telefonie ist nun abgeschlossen.
+Nutzen Sie ein Smartphone? Dann können Sie dieMeinMagenta Appfür die Einrichtung Ihres Anschlusses verwenden.
+

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/umzug/zugangsdaten
+
+Question: Welche Zugangsdaten brauche ich, wenn ich mit meinem Festnetz-Anschluss umziehe?
+Answer: Die bisherigen Daten sind weiterhin gültig und müssen nicht geändert werden. Wenn Sie Ihren Router zur neuen Adresse mitnehmen, sind die Daten weiterhin dort gespeichert. Schließen Sie Ihren Router einfach in der neuen Wohnung wieder an.
+Hinweis:Wenn Sie die Reset-Taste auf der Rückseite des Routers drücken, werden die gespeicherten Daten gelöscht.
+

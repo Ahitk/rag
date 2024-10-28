@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/umwelt/blauer-engel/schnurlostelefon-strahlungsarm
+
+Question: Was bedeutet strahlungsarm im Zusammenhang mit Schnurlostelefonen?
+Answer: Alle DECT-Telefone mit dem Blauen Engel haben mit dem Blue Eco Mode folgende Eigenschaften:
+Die aktuell eingestellte Sendeleistung ist für den Verbraucher auf dem Display erkennbar und jederzeit veränderbar.
+• 100 % (volle Reichweite)
+• 45 % (halbe Reichweite)
+• 20 % (Zimmer)
+• 10 % (Schreibtisch)
+

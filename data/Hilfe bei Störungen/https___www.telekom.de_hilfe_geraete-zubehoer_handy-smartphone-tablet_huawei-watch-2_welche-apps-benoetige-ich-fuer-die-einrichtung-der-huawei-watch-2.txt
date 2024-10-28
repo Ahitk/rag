@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei-watch-2/welche-apps-benoetige-ich-fuer-die-einrichtung-der-huawei-watch-2
+
+Question: Welche Apps benötige ich für die Einrichtung der HUAWEI Watch 2?
+Answer: Für die Einrichtung der HUAWEI Watch 2 benötigen Sie die Android Wear App und die Huawei Wear App. Beginnen Sie die Einrichtung mit der Android Wear App. Für die Installation des Zugangsprofils (eSIM) benötigen Sie die Huawei Wear App.Die Apps unterscheiden sich wie folgt:
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/anmelden
+
+Question: Wie kann ich mich am Telekom HotSpot anmelden?
+Answer: Senden Sie eine SMS an die Kurzwahl 9526 mit dem Inhalt "OPEN". Sie erhalten Ihren Benutzernamen und das Passwort für die Nutzung des Telekom HotSpots dann per SMS.
+

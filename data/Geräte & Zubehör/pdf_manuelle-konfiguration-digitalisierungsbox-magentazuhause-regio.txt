@@ -1,0 +1,801 @@
+The image appears to be a manual guide for configuring a "Telekom Digitalisierungsbox" (Digitalization Box) for a "MagentaZuhause Regio" connection. Here’s a summary of the relevant information:
+
+### Title:
+**Telekom Digitalisierungsbox**
+- **Manual Configuration for Telekom Connection "MagentaZuhause Regio"**
+
+### Key Content:
+1. **Purpose**: The guide aims to assist users in manually setting up their Digitalization Box for specific Telekom services.
+2. **Step-by-Step Instructions**: The guide provides detailed, sequential steps for configuration.
+3. **Visual Aids**: Diagrams and illustrations are included to facilitate understanding and execution of the setup.
+
+### Suggested Actions:
+- Follow the step-by-step instructions carefully to ensure successful configuration.
+- Refer to the accompanying diagrams for visual guidance on connections and settings.
+
+### Important Note:
+- Ensure compatibility with your Telekom service before proceeding with the setup.
+
+For further details, it would be necessary to access the complete text or specific sections of the manual.
+The image contains a table of contents for a document related to the setup of telecommunication products and devices. Here’s a summarized breakdown of the relevant sections:
+
+1. **Voraussetzungen für eine erfolgreiche Einrichtung** (Prerequisites for Successful Setup) - Page 5
+   - General requirements needed before starting the setup.
+
+2. **Öffnen der Benutzeroberfläche** (Opening the User Interface) - Page 6
+   - Instructions on how to access the user interface of the device or service.
+
+3. **Einrichtung Internetzugang** (Setting Up Internet Access) - Page 9
+   - Steps to configure internet connectivity.
+
+4. **Einrichtung Telefonie** (Setting Up Telephony) - Page 14
+   - This section is divided into different parts for specific services:
+
+   - **MagentaZuhause Regio - Einzelrufnummer** (Single Phone Number Setup) - Page 14
+     - Details about connections, users, internal phone numbers, devices, and call forwarding.
+
+   - **DeutschlandLAN SIP Trunk Pure** - Page 21
+     - Similar sub-sections addressing connections, users, internal numbers, devices, and call forwarding.
+
+   - **DeutschlandLAN Cloud PBX** - Page 27
+     - Further divides into sub-sections regarding connections, users, internal numbers, devices, call forwarding, and VoIP specifics.
+
+Each section provides specific instructions and details critical for the successful deployment of telecommunications services, involving initial setup prerequisites, user interface instructions, internet access configuration, and telephony setup across various service options.
+I'm unable to analyze or extract content from the image directly. However, if you provide text or summarize the content, I can help interpret or summarize that information for you.
+The text in the image provides legal information and a disclaimer related to the products and instructions from bintec elmeg GmbH. Here’s a summary of the key points:
+
+1. **Disclaimer of Warranty**: 
+   - bintec elmeg GmbH does not guarantee the accuracy of the information in the manual.
+   - The company is not liable for any direct, indirect, or consequential damages that may arise from the use of the information provided.
+
+2. **Copyright Notice**: 
+   - All rights to the information contained in the document, especially regarding reproduction and distribution, are reserved by bintec elmeg GmbH.
+
+In summary, this text serves as a legal warning regarding the use of the instruction manual, emphasizing the lack of warranty and limited liability, while also asserting copyright over the content.
+The image provides instructions for setting up a telecommunications device, specifically a "Digitalisierungsbox." Here’s a summary of the essential information:
+
+### Step 1: Prerequisites for Successful Setup
+
+1. **Initial Setup**:
+   - Ensure all necessary connections are made before starting.
+   - If the device has been used previously or initial settings have been configured, reset it to factory settings before proceeding.
+
+2. **Factory Reset**:
+   - To reset the device:
+     - Press the reset button located on the connection side using a paperclip or similar tool for about 30 to 40 seconds.
+     - This action will perform a factory reset, returning the device to its original configuration.
+     - All passwords will also be reset.
+     - The reset process is confirmed when the status LED blinks steadily after 30 to 40 seconds.
+
+### Important Notes
+- Follow these steps to prepare the device for proper functionality associated with the installation environment, specifically for the "MagentaZuhause" region.
+
+This concise summary captures the key instructions for setting up the telecommunications device.
+Here's a summary of the instructions from the image related to setting up a telecommunications device (referred to as "Digitalisierungsbox"):
+
+### Step 2: Open the User Interface
+
+1. **Connect Your PC**:
+   - Turn on your PC and connect it to the "Digitalisierungsbox" via a network cable or Wi-Fi.
+
+2. **Check the LEDs**:
+   - Wait until the Service LED turns off and the Status LED starts blinking.
+
+3. **Open a Web Browser**:
+   - Start an internet browser and enter one of the following URLs:
+     - `https://digitalisierungsbox.ip`
+     - Alternatively: `https://192.168.2.1`
+
+4. **Access the Start Page**:
+   - This step will open the start page of the "Digitalisierungsbox".
+
+### Additional Setup Instructions (Diagrams)
+
+- Connect the power cable to the device (already done).
+- Use the grey DSL cable to connect the device to your telephone socket.
+- The DSL LED will blink while the connection is being established, and then it will stay lit.
+
+This information is crucial for properly setting up the device and accessing its configuration interface through a web browser.
+The image provides instructions related to setting up a "Digitalisierungsbox," which is a telecommunication device. Here’s a summary of the key points:
+
+1. **Connection**: Ensure the Digitalisierungsbox is connected to the power supply and telephone socket. The LEDs on the device should be blinking green.
+
+2. **Progress Step**: Click "Weiter" (Continue) to proceed.
+
+3. **Connection to Deutsche Telekom**: The device will automatically connect to Deutsche Telekom’s server, which may take about 10 minutes. Users are advised to be patient during this time.
+
+4. **Configuration URL**: For additional assistance, users can visit [telekom.de/einrichten](https://www.telekom.de/einrichten).
+
+5. **Device Password**: After the connection attempt, users will need to enter the device password, which is found on the device's type label.
+
+6. **Cancellation Option**: There is an option to cancel the automatic setup and configure the device manually.
+
+This setup process ensures that the telecommunications device is correctly established for internet service through Deutsche Telekom.
+The image presents instructions related to setting a new password for a telecommunications product, along with guidance on navigating the configuration interface. Here’s a summary of the key information:
+
+### New Password Requirement
+- **Input Fields**: 
+  - New password
+  - Confirm password
+
+### Password Guidelines
+1. **Length**: At least eight characters long.
+2. **Character Variety**: Must include at least four different characters from three of the following groups:
+   - Lowercase letters (a-z)
+   - Uppercase letters (A-Z)
+   - Numbers (0-9)
+   - Symbols
+
+### Instructions for Changing Password
+1. Change the password and click on **"Weiter"** (Continue).
+2. You will be directed to the **Home** page of the configuration interface.
+
+### Home Page Overview
+- From this page, you can manage:
+  - Telephones
+  - Phone numbers
+- Key features displayed include:
+  - System settings
+  - Password management
+  - Internet connection details
+  - System information for the device
+
+These instructions help ensure secure password creation and provide a pathway for managing telecommunications settings.
+Here’s a summary of the relevant information extracted from the image:
+
+### Step 3: Setting Up Internet Access
+
+#### 3.1 Creating a New Entry
+- If you have an internet connection from a provider other than Deutsche Telekom, you can follow the custom setup.
+- Navigate to the menu: **Internet & Network** → **Set Up Internet**.
+- You will see a list of all configured internet connections.
+
+#### Configuration Steps:
+1. Click on **New** to add another internet connection.
+2. Under **Connection Type**, specify how the internet access should be established.
+
+#### Connection Options:
+- **INTERNAL VDSL Modem**:
+  - This is the built-in VDSL modem in your device, supporting both VDSL and ADSL connections. Select this if you do not have an additional device for the connection.
+  
+- **EXTERNAL xDSL Modem**:
+  - If your connection has specific requirements that necessitate an external device, choose this option. Consult your setup documentation to determine the type of device required.
+
+This section helps guide users in setting up their internet access properly, choosing between internal or external modem options based on their specific needs.
+The image provides instructions on setting up an internet connection using a telecommunication device. Here’s a summarized version of the relevant information:
+
+### Instructions for Internet Connection Setup:
+
+1. **Choosing the Correct Option:**
+   - Select the option relevant to your modem type (e.g., ADSL, VDSL, or standard DSL modem).
+   - For connecting the "Digitalisierungsbox" to a device that is not an xDSL modem, choose the "Externes Gateway/Kabelmodem" option.
+
+2. **Specific Selection for Example Setup:**
+   - In the provided example, select "Internes VDSL-Modem."
+
+3. **Next Steps:**
+   - Click on **Weiter** (Next) to proceed with the setup.
+
+### Important Details:
+- This setup is particularly for establishing an internet connection using an internal VDSL modem.
+- Ensure to follow the specific selection process to configure your device correctly.
+
+This summarized guide should help you navigate the setup process effectively.
+The image contains instructions for configuring internet access, specifically for setting up a connection with a telecommunications provider. Here’s a summary of the relevant information:
+
+1. **Choose Your Internet Provider**:
+   - Options include:
+     - **Telekom**: For standard connection details.
+     - **Telekom Business**: For business-related contracts.
+     - **Benutzerdefiniert** (User Defined): To enter custom settings.
+
+2. **Instructions**:
+   - **Step 3**: Select **Benutzerdefiniert** as your internet provider.
+   - **Step 4**: Click on **Weiter** (Continue).
+
+3. **Provider Settings**:
+   - Under "Benutzerdefiniert", fill in:
+     - **Description**: Enter a name for the connection (e.g., "MagentaZuhaUse Rigo").
+     - **VLAN Settings**: Specific configurations can be chosen for VLAN usage.
+     - **Authentication Data**: 
+       - Enter the username.
+       - Enter the personal password.
+
+4. **Connection Types Available for Selection**:
+   - Options include various ADSL and VDSL configurations such as:
+     - VDSL/ADSL auto - PPPoE (PPP over Ethernet).
+     - ADSL - PPP (PPP over Ethernet).
+     - ADSL - Eth (Ethernet over ATM).
+  
+This information guides users through setting up their internet connection with the required options and configurations for their specific provider.
+The image appears to contain instructions for setting up internet access on a telecommunication device. Here’s a summary of the key points:
+
+1. **Connection Type**: Select "Always active" only if you have a flat-rate internet plan.
+
+2. **ATM Settings**:
+   - Enter the Virtual Path Identifier (VPI) as **1**.
+   - Enter the Virtual Channel Identifier (VCI) as **32**.
+
+3. **IPv6 Configuration**:
+   - Activate IPv4 and optionally enable IPv6.
+
+4. **VLAN Configuration**:
+   - Enable the VLAN option.
+   - Set the VLAN-ID to **7** (or the appropriate ID if provided by your provider).
+
+5. **Authentication Data**:
+   - Enter the username provided by your internet service provider (e.g., **123456789@mzregio.de**).
+   - Enter your personal password from your provider.
+
+6. **Final Steps**:
+   - Ensure that the connection type is set to "Always active" if applicable.
+   - Click **OK** to finalize the settings.
+
+This setup helps configure the device for proper internet connectivity using specific technical parameters.
+The image provides instructions related to setting up an internet connection via a telecommunication device (likely a router or modem). Here’s a summary of the relevant information:
+
+### Setup Instructions:
+1. **Internet Connection Status**: 
+   - After completing the setup, your internet connection should show a green checkmark. This process may take up to a minute.
+
+2. **Important Note on DSL Connection**:
+   - If you are transitioning the DSL connection from an existing router to a Digitalization Box, the modem may synchronize (indicated by the green DSL LED), but you might not yet have a functioning internet connection.
+   - If no connection is established, unplug the DSL cable and wait for about 30 minutes before reconnecting it.
+
+3. **Final Steps**:
+   - After reconnecting, the Digitalization Box should obtain an IP address and establish a proper internet connection.
+
+### Conclusion:
+Follow these steps to troubleshoot and ensure a successful internet connection setup with the provided devices.
+The image provides instructions for setting up telecommunication services, specifically related to configuring a SIP account for Telekom's MagentaZuhause Regio service. Here’s a summarized breakdown of the key points:
+
+### Step 4: Telephony Setup
+#### 4.1 MagentaZuhause Regio - Single Phone Number
+
+1. **Country Selection**: 
+   - Choose the country in which the system will be used. The default setting is Germany.
+
+2. **International Prefix/Country Code**: 
+   - The default entry is `00 / 49` for Germany.
+
+3. **National Prefix/Area Code**: 
+   - Enter the area code specific to your installation site. This is set to `0` by default, and you must enter the local area code manually (e.g., `911` for Nuremberg).
+
+4. **Confirmation**: 
+   - Click **OK** to save the settings.
+
+### 4.1.1 Connections
+- In the next step, configure a VoIP connection.
+- Navigate to **Telephony > Connections** and click on **New**.
+
+This information is essential for users looking to set up their telecommunication services using the specified settings.
+The image contains instructions for setting up telephone connections using a digitalization box in a telecommunication context. Here’s a summary of the key points:
+
+1. **Selecting the Type of Connection**:
+   - Users can configure their digitalization box to operate with external ISDN connections.
+   - They must choose whether to set up the voice connection through an ISDN port or via a VoIP account.
+
+2. **Choosing the Telephone Provider**:
+   - The options include selecting "Telekom" or "Benutzerdefiniert" (User-defined).
+   - If "Benutzerdefiniert" is chosen, it leads to further options for selecting the connection type (Single call number or Direct dialing) and the provider.
+
+3. **Preconfigured Providers**:
+   - The system has several telecom providers pre-installed for ease of setup.
+
+4. **Additional Steps**:
+   - Further instructions will follow based on the chosen provider and connection type.
+
+This summary encapsulates the essential instructions for configuring telecommunication devices related to voice connections.
+Here’s a summary and analysis of the relevant information from the image related to setting up telecommunication devices:
+
+### Provider Selection
+
+1. **Connection Type**: Choose "Einzelrufnummer" (Single Number).
+2. **Provider**: Select "Default-SingleNumber", which corresponds to a multi-device connection.
+
+### VoIP Provider Settings
+
+1. **Name**: Enter a name for the VoIP provider (e.g., MagentaZuhause Regio).
+2. **Authentication ID**: Input your telephone number including the area code (e.g., 09119876543).
+3. **Password**: Enter your contract password.
+4. **Username**: This should be your telephone number with the area code (e.g., 09119876543).
+5. **Registrar**: Specify the registrar domain (e.g., tel.mrzego.de).
+6. **Domain**: Input the appropriate domain (e.g., mrzego.de).
+
+### Instructions
+
+- Make sure to fill out all fields correctly to ensure proper configuration.
+- Follow the steps as laid out to successfully set up your VoIP service.
+
+This information should help in configuring the telecommunication product effectively.
+The image contains instructions for configuring telecommunication products, specifically a SIP connection. Here’s a summary of the relevant steps:
+
+1. **Registrar Configuration**:
+   - Enter the DNS name or IP address of the SIP server (e.g., `tel.mzregio.de`) in the Registrar field.
+   
+2. **Domain Setup**:
+   - Use the entry `mzregio.de` under the Domain section.
+
+3. **MSN (Main Subscriber Number)**:
+   - Enter the individual phone number (e.g., `98765643`) and a custom description in the appropriate fields.
+
+4. **Advanced Settings**:
+   - Click "Mehr anzeigen" (Show more) for additional settings.
+
+5. **Provider-Specific Parameters**:
+   - Configure the Port Registrar to `0`.
+   
+6. **International Number Option**:
+   - Activate the "Internationale Rufnummer erzeugen" (Create International Number) option.
+
+7. **SIP Header Adjustments**:
+   - Change the following fields:
+     - `SIP-Header-Feld: FROM User` to `Benutzername` (Username).
+     - `SIP-Header-Feld: P-Preferred` to `Keiner` (None).
+     - `SIP-Header-Feld: P-Asserted` to `Benutzername` (Username).
+
+8. **Finalizing Setup**:
+   - Confirm the settings by clicking "OK".
+
+9. **Completion Note**:
+   - This completes the basic setup for the SIP connection on the Digitalisierungsbox (Digitalization Box). Further configurations may be necessary for the Digitalisierungsbox Premium.
+
+This summarizes the steps necessary for configuring telecommunication devices based on the content provided in the image.
+Here's a summary of the relevant information extracted from the provided image regarding the configuration of telecommunication devices, particularly for adding users and setting internal phone numbers:
+
+### Section 4.1.2: Adding Users
+
+**Steps to Add a New User:**
+1. **Enter Name:** Input the name of the user.
+2. **Enter Email Address:** Input the user's email address.
+3. **Assign Permission Class:**
+   - This determines what type of connections the user can make (e.g., national or international).
+   - Options include: 
+     - **Uneingeschränkt (Unlimited)**
+     - **Uneingeschränkt: AutoAmt (Unlimited: Auto)**
+     - **Nicht erlaubt (Not Allowed)**
+4. **Set Password:** Provide a password that the user will need for IP phone registration.
+5. **Click OK:** Confirm the addition of the user.
+
+### Section 4.1.3: Internal Phone Numbers
+
+**Steps to Configure Internal Phone Numbers:**
+- In the menu under **Telephony ➔ Internal Phone Numbers ➔ New**, specify the phone number that a participant should use for outgoing calls.
+
+This guidance outlines the basic administrative actions required to manage users and phone configurations within a telecommunication system.
+The image provides instructions for configuring a telecommunications device. Here’s a summary of the relevant information:
+
+### Configuration Steps
+
+1. **Internal Extension Number**: Enter the internal phone number for the user (e.g., 20).
+   
+2. **Description**: Provide a description that will appear on the system phone display (e.g., MagentaZuhause Regio).
+
+3. **User Selection**: Choose one of the configured users, such as ISDN 20.
+
+4. **Outgoing Extension**: Select the corresponding outgoing number. You can choose from the numbers configured under:
+   - Menu: **Telephony ➔ Connections ➔ New**
+   - Choose the **Standard** option if the first number in the list should be used as the outgoing number.
+
+5. **Confirm**: Click on **OK**.
+
+### Devices Section
+
+- When connecting a supported system phone to the digitalization box, it will be automatically recognized and displayed in the list of phones.
+
+### Additional Information
+
+The device table shown includes:
+- **Outgoing Number**
+- **Internal Extension Number**
+- **Type of Device**
+- **MAC Address**
+- Configuration button
+
+This summary encapsulates the essential steps for configuring the telecommunication products as outlined in the image.
+The image contains instructions related to configuring telecommunication devices and managing call routing. Here’s a summary of the key information:
+
+### Configuration Instructions:
+1. **Assigning Internal Numbers**:
+   - Click on **Konfigurieren** to assign an internal number to the phone.
+   - If using an unrecognized phone, select **Telefon hinzufügen** from the phone overview and provide a description along with the internal number.
+
+### Call Routing (Rufverteilung):
+1. Navigate to **Telefonie > Rufverteilung** to set up call routing for specific numbers.
+2. Use the edit feature (noted by a pencil icon) to manage individual entries.
+3. Steps to configure:
+   - **Activate** the options for:
+     - **Variante 1 (Day Assignment)**
+     - **Variante 2 (Night Assignment)**
+   - Click **OK** to save settings.
+
+### Important Notes:
+- Internal numbers and specific configurations are used to streamline call management and ensure proper routing of calls to the designated participants.
+- Ensure to save all changes to maintain the configuration settings.
+
+This summary encapsulates the core instructions, aiding in setting up telecommunication devices effectively.
+The image appears to provide instructions on setting up a "DeutschlandLAN SIP Trunk Pure" for telecommunication systems. Here's a summary of the relevant information:
+
+### Section 4.2: DeutschlandLAN SIP Trunk Pure
+
+1. **Country Selection**:
+   - Choose the country where the system will be used. The default setting is Germany.
+  
+2. **International Prefix**:
+   - The international prefix is predefined as **00/49** for Germany.
+  
+3. **National Prefix**:
+   - Enter the national prefix specific to the location where the system is installed. The default is **0**.
+   - You need to input the local area code, e.g., **911** for Nuremberg.
+
+4. **Confirmation**:
+   - Click **OK** after entering the necessary information.
+
+### Section 4.2.1: Connections
+
+- To configure a VoIP connection, go to the **Telephony** menu, select **Connections**, and click on **New**.
+- Choose the telephony provider **Telekom**.
+
+### Additional Notes
+
+- The image mentions setting times for day and night configuration within the **Telephony/Calendar** menu.
+- Instructions emphasize the use of an assistant during setup.
+
+This summary includes the critical steps and options for configuring the telecommunication products as shown in the image.
+The image contains instructions for setting up telecommunication services, specifically related to selecting a provider and configuration type. Here's a summary of the relevant information:
+
+1. **Select Your Telephony Provider:**
+   - Options include:
+     - **Telekom**: For setting up a voice connection with Telekom.
+     - **Benutzerdefiniert** (Custom): For setting up a voice connection with another provider.
+
+2. **Select Configuration Type:**
+   - Recommended to choose **DeutschlandLAN SIP-Trunk**.
+
+3. **Additional Information:**
+   - The setup corresponds to a system connection (Anlagenanschluss), and only a few settings need to be adjusted.
+
+4. **Step 4: Setting Up Telephony**:
+   - Indicates this is part of a multi-step process for configuring telephony services. 
+
+This summary presents key steps and choices for users during the telecommunication setup process.
+The image provides instructions for setting up a "DeutschlandLAN SIP-Trunk" for telecommunication. Here’s a summary of the key steps and details:
+
+### Setup Instructions:
+
+1. **Input Telephony Username:**
+   - Enter the "Telefonie-Benutzernamen" from your access data letter (e.g., 123456789012).
+
+2. **Input Telephony Password:**
+   - Enter the "Telefonie-Passwort" from your access data letter.
+
+3. **Enter Registration Number:**
+   - Provide the "Registrierungsnummer" as specified in the access data letter (e.g., +499113456780). This is your main phone number.
+
+4. **Specify Number Block:**
+   - Input the number block assigned to you (e.g., 00-20).
+
+5. **Expand Settings:**
+   - Click on "Mehr anzeigen" to see additional options.
+
+6. **Encryption Recommendation:**
+   - It is recommended to use encrypted connections. Activate the option for "Nur verschlüsselte Telefonie möglich."
+
+7. **Confirm Entries:**
+   - Confirm your entries by clicking "OK."
+
+### Additional Notes:
+- The assistant sets up call forwarding numbers based on the number block. For larger blocks, individual entries are not automatically created.
+- If more entries are needed, you can edit the connection by clicking on the pen icon and then selecting "Mehr anzeigen."
+
+This provides a structured approach to configure SIP-Trunk services effectively.
+The image contains instructions related to setting up telecommunication products, specifically a "Digitalisierungsbox" (Digitalization Box) for a SIP connection. Here’s a summary of the key information:
+
+### Section 8: Durchwahlansnahme (Direct Dial)
+- **Setting Up Direct Dial Numbers (P-P)**:
+  - You can see configured direct dial numbers.
+  - Use the "Hinzufügen" (Add) option to include new entries.
+  
+- **Completion**:
+  - The basic setup for the Digitalisierungsbox with the new SIP connection is completed.
+  - Additional steps are required for configuring the **Digitalisierungsbox Premium**.
+
+### Section 4.2.2: Benutzer (User) Setup
+- **Adding a User**:
+  - Navigate to **Telefonie (Telephony) > Benutzer (User)**.
+  - Click on **Neu (New)** to add a new user.
+
+### User Settings:
+1. **Name**: Enter the user’s name.
+2. **E-Mail Address**: Provide the user’s email address.
+3. **Authorization Class**: Specify the authorization class (default is Auto).
+4. **Password for IP Telephony Registration**: Set a password for registration.
+
+This setup process involves various configuration steps for both users and direct dial numbers, essential for effective telecommunication management.
+Here's a summary of the instructions and important details related to the configuration of telecommunication products as provided in the document:
+
+### User Configuration Instructions:
+
+1. **Email Address**: Input the user's email address.
+2. **Permission Class**: Set the permission class to determine which connections can be made (e.g., national or international). Possible options include:
+   - Unrestricted
+   - AutoAmt
+   - Not Allowed
+3. **Password**: Enter a password required for the user to log in to the IP phone system.
+4. **Confirmation**: Click "OK" to finalize the input.
+
+### Internal Numbers Setup:
+
+1. **Accessing Internal Numbers**: Navigate to `Telephony -> Internal Numbers -> New` to assign an outgoing number to a participant.
+2. **Input Internal Number**: Enter the internal number for the user (e.g., 20).
+3. **Description**: Provide a description that will be displayed on the system phone (e.g., ISDN 20).
+4. **Select User**: Choose the configured user that will use this internal number.
+5. **Outgoing Number**:
+   - Select the appropriate outgoing number from the configured entries.
+   - Choose "Standard" if this outgoing number should be used as the main outgoing option.
+6. **Confirmation**: Click "OK" to save the settings.
+
+This summary captures the essential setup steps for configuring user access and internal numbering for telecommunications systems.
+The image provides instructions for configuring telecommunication devices, specifically VoIP phones. Here’s a summarized overview of the relevant information:
+
+### Device Configuration (4.2.4 Endgeräte)
+
+- **Automatic Recognition**: When a supported VoIP phone is connected to the digitalization box, it is automatically recognized, and will appear in the list of devices.
+  
+- **Configuration Steps**:
+  1. Click on “Konfigurieren” (Configure) to assign an internal number to the phone.
+  2. A settings interface will display the device type and associated details (e.g., IP address).
+
+- **Manual Addition**: 
+  - If the phone is not recognized automatically, click on "Telefon hinzufügen" (Add Phone) in the phone overview to manually enter a description and assign an internal number.
+
+### Call Distribution (4.2.5 Rufverteilung)
+
+- **Setting Call Distribution**: Navigate to "Telefon ➔ Rufverteilung" (Telephone ➔ Call Distribution) to determine which participants receive calls for specific numbers.
+  - Individual entries can be edited using the provided edit icon.
+
+### Important Notes:
+- Ensure that the device is a supported VoIP type to facilitate automatic recognition.
+- Manual configuration is available if the phone cannot be detected.
+
+This information is crucial for setting up and managing VoIP telecommunication systems effectively.
+Here's a summary of the relevant information from the provided image related to telecommunication products and devices:
+
+### Overview and Setup Instructions
+
+1. **Call Distribution Setup**:
+   - Activate options for **Variant 1 (Day Assignment)** and **Variant 2 (Night Assignment)**.
+   - Click on **OK** to save changes.
+
+2. **DeutschlandLAN Cloud PBX**:
+   - The **Digitalisierungbox** allows the integration of existing devices (like analog phones or fax machines) with the DeutschlandLAN Cloud PBX.
+   - Register the Digitalisierungsbox as a participant in the Cloud PBX network, making it usable for individual phone numbers.
+   - Registration data can be accessed through the user portal at [myportal.deutschland-lan.de](https://myportal.deutschland-lan.de) using your access credentials.
+
+3. **Device Settings**:
+   - Activate the option for **Expert View**.
+   - Navigate to the menu **Manage Workplace ➔ Device Settings**.
+   - Here, you can view the **SIP account data** for the corresponding devices.
+
+This information provides guidance on configuring call distribution and managing device settings in the Germany Cloud PBX system.
+The image contains instructions and details regarding the configuration of telecommunications devices, specifically focusing on setting up a "Digitalisierungsbox" (Digitalization Box) and related phone settings.
+
+### Key Points:
+
+1. **Device Selection**:
+   - Choose an endpoint from the workstation to make settings or view data.
+   - Options include:
+     - Desktop Client: Full version
+     - Universal Basic Profile (ID: Universelles-Basisprofil_29)
+
+2. **Administrator Password**:
+   - An administrator password is required for all endpoints to access advanced telephone settings.
+   - The password for flexible devices should be requested from the administrator.
+
+3. **SIP Account Data**:
+   - Detailed account information for your endpoint is available.
+   - If devices are not automatically configured, manual input may be necessary.
+   - Registration of devices can also be done manually via the phone.
+
+4. **Important Notes on SIP Client**:
+   - The SIP client must support DNS queries on NAPTR and SRV entries (regarding proxy servers).
+   - For communication, SIP may use TCP and RTP; TLS and SRTP may be required for secure connections.
+
+5. **SIP Account Details**:
+   - Authentication Name, Authentication Password, SIP Domain, and Proxy Server information are provided (specific details redacted in examples).
+   - Proxy Server ports (5060 and 5061) and registration server details are also included.
+
+6. **Changing Settings**:
+   - Access the configuration interface of the Digitalization Box.
+   - In the "Telephony" menu, navigate to "Options" to set the country settings accordingly.
+
+### Summary:
+This guide provides essential steps for configuring telecommunication devices, focusing on access credentials, device setup, and SIP account details for successful operation and registration.
+The image contains instructions related to configuring telecommunication settings, specifically for VoIP connections. Here’s a summary of the relevant information:
+
+### Country Settings
+1. **Select Country:** Choose the country in which the system is used (default is Germany).
+2. **International Prefix:** The default entry is "00 / 49" for Germany.
+3. **National Prefix:** Enter the local prefix for the installation location. The national prefix is set to "0" by default. For example, in Nuremberg, it should be "911."
+4. **Confirm:** Click "OK" to save the settings.
+
+### VoIP Configuration
+- To configure a VoIP connection, navigate to the **Telephony > Connections** menu and click on **New**.
+- Select the **Custom Provider** for the telephony provider.
+
+These steps guide the user through setting up the initial country and telephony settings to ensure proper configuration for VoIP services.
+The image provides instructions for setting up telecommunication connections. Here's a summary of the relevant information:
+
+1. **Choosing a Telecommunication Provider**:
+   - Users must select their telephony provider.
+   - Options include:
+     - **Telekom**: For setting up a connection with Telekom.
+     - **Benutzerdefiniert** (Custom): For connecting to a different provider.
+
+2. **Custom Connection Setup**:
+   - If choosing a custom connection, users will need to specify:
+     - **Connection Type**: 
+       - Einzelrufnummer (Individual number)
+       - Durchwahl (Direct dial)
+     - **Provider**: Users should select their desired service provider.
+
+3. **Preconfigured Providers**:
+   - A range of providers is pre-set for convenience.
+
+This information is crucial for users looking to establish or configure their telecommunication services effectively.
+The image provides instructions for setting up a VoIP (Voice over Internet Protocol) connection with a telecommunication device. Here’s a summary of the relevant information:
+
+### Steps and Instructions:
+
+1. **Provider Selection:**
+   - Choose the connection type (`Verbindungstyp`): **Einzelrufnummer** (Single Number).
+   - Select the provider (`Provider`): Use **Default-SingleNumber**, which corresponds to a multi-device connection.
+
+2. **VoIP Provider Settings:**
+   - Fill in the following details:
+     - **Name**: DLAN Cloud PBX.
+     - **Authentication ID**: Your unique identifier (format shown is `9999999999@tel-1-online.de`).
+     - **Password**: Your password (specific format is not shown for security).
+     - **Registrar**: Server address (example: `hbpxse.deutschland-lan.de`).
+     - **Domain**: Your domain name (example: `tel-1-online.de`).
+
+3. **Rufnummern (Phone Numbers) Section:**
+   - Specify your relevant phone numbers, including:
+     - **Einzelrufnummer (Single Number)**: e.g., `+499118899977`.
+
+### Important Notes:
+- Ensure all entered information is correct to establish a proper connection.
+- This setup is part of step 4 in configuring telephony services.
+
+Make sure to follow all steps systematically to ensure successful configuration of your telecommunication device.
+The provided text contains instructions for setting up a SIP (Session Initiation Protocol) provider using a device referred to as "Digitalisierungsbox." Here’s a summary of the key points:
+
+### Setup Instructions for SIP Provider:
+
+1. **SIP Provider Name**: Enter a name for the SIP provider (e.g., "DLAN Cloud PBX").
+2. **Authentication ID**: Use the Authentication ID from the user portal, including the SIP domain (example: `999999999999@tel.t-online.de`).
+3. **Password**: Input the password from the user portal.
+4. **Username**: Use the number from the user portal, formatted as `+499118888888001`. Note that it will always include a three-digit ending (e.g., 001).
+5. **Registrar**: For establishing a secure connection, use `hpbxsec.deutschland-lan.de` as the registrar.
+6. **Domain**: Set the domain to `tel.t-online.de`.
+7. **Individual Phone Number (MSN)**: Enter the phone number in international format and provide a description, ensuring to include the correct ending (e.g., 001).
+8. **Confirmation**: Click OK to complete the setup.
+
+### Additional Notes:
+- The basic configuration of the Digitalisierungsbox for the new SIP connection is now complete.
+- For setting up the "Digitalisierungsbox Premium," further steps are required.
+- To add a new user, navigate to the "Telephony" menu and select "User" to add a new user with the "New" option.
+
+These steps are essential for successfully configuring telecommunication products with the Digitalisierungsbox related to SIP connections.
+The image contains instructions for configuring user settings for IP telephone registration within a telecommunication system. Here’s a summary of the key points:
+
+### User Configuration Instructions:
+1. **Input User Name:** Enter the name of the user.
+2. **Email Address:** Enter the user's email address.
+3. **Permission Class:** Specify the connection types (e.g., national or international). Options include:
+   - Restricted
+   - Auto Amt (Automatic Selection)
+   - Not Allowed
+4. **Password:** Enter a password needed for the IP telephone to log into the system.
+5. **Finalize:** Click "OK" to save the settings.
+
+### Internal Numbering:
+- Navigate to **Telephony > Internal Numbers > New** to set up an internal telephone to use the Cloud PBX connection for outgoing calls by selecting the corresponding entry as the "Gehende Rufnummer" (Outgoing Number).
+
+### Important Notes:
+- Ensure the user has the appropriate permission class for necessary connections.
+- The password is crucial for the telephone’s system access.
+
+This guide is essential for setting up and configuring telecommunication devices effectively.
+The image provides instructions for setting up telecommunication products and devices. Here’s a summary of the relevant information:
+
+### Instructions for Setting Up Internal Extensions:
+
+1. **Internal Extension Number**: Enter the user's internal extension, e.g., **20**.
+2. **Description**: Provide a description that will appear on the display of the system phone, e.g., **ISDN 20**.
+3. **Select User**: Choose one of the configured users from the list.
+4. **Outgoing Number**: Select the corresponding outgoing number. Options can be selected from the numbers configured under:
+   - **Telefonie ➔ Anschlüsse ➔ Neu**.
+   - Choose **Standard** if the first number in the list should be used as the outgoing number.
+5. **Confirmation**: Click **OK** to save the settings.
+
+### Information on Devices:
+
+- When a supported system phone is connected to the Digitalization Box, it will be automatically recognized and listed in the device section.
+
+#### Key Features:
+- **Automatic Recognition**: Supported devices are detected automatically.
+- **Configuration Options**: Offers flexibility in managing outgoing calls and users.
+
+This summary captures the essential steps and features outlined for setting up telecommunication devices effectively.
+The image contains instructions and diagrams for configuring telecommunication devices. Here is a summary of the relevant information:
+
+### Configuration Instructions:
+
+1. **Access Configuration:**
+   - Click on **"Konfigurieren"** to assign internal phone numbers to the device.
+
+2. **Add a Telephone:**
+   - If the phone is not automatically recognized, select **"Telefon hinzufügen"** in the telephone overview.
+   - Assign a description and an internal phone number to the device.
+
+### Call Routing Setup (Rufverteilung):
+
+1. **Navigate to Call Routing:**
+   - Go to **"Telefonie ➔ Rufverteilung"** to determine which participants will receive calls via the Cloud PBX connection.
+
+2. **Edit Entries:**
+   - Use the edit icon (represented by a pencil) to modify individual entries in the call distribution list.
+
+3. **Enable Options:**
+   - Activate **"Variante 1" (Day Assignment)** and **"Variante 2" (Night Assignment)**.
+
+4. **Confirm Changes:**
+   - Click **"OK"** to save the settings.
+
+This summary captures the essential steps and details for setting up telecommunication devices and managing call routing.
+### VoIP Configuration Instructions
+
+To enable voice encryption, ensure to activate the MediaSec feature after initial setup.
+
+#### Steps to Follow:
+
+1. **Access the Menu:**
+   - Navigate to **Telefonie** > **Mehr anzeigen** > **VoIP** > **Einstellungen**.
+   - Select **DeutschlandLAN Cloud PBX** connection.
+
+2. **Codec Settings:**
+   - Click on **Mehr anzeigen**.
+   - Under **Codec-Einstellungen**, enable the options for **SRTP** and **MediaSec**.
+
+3. **Confirm Changes:**
+   - Confirm the changes by clicking **OK**.
+
+### Important Notes:
+- Make sure that the feature MediaSec is activated for proper encryption functionality.
+The image contains instructions for completing the setup of a telecommunication device, specifically referred to as a "Digitalisierungsbox." Here’s a summary of the relevant information:
+
+### Step 5: Completing Setup
+
+1. **Final Step**: 
+   - Go back to the overview menu and select the option **"Konfiguration speichern"** (Save Configuration).
+
+2. **Additional Settings**: 
+   - If you want to make further settings on the Digitalisierungsbox, refer to the user manual or help videos for guidance.
+
+This section emphasizes the importance of saving the configuration upon completion of the setup process and suggests resources for additional adjustments.
+The image provides troubleshooting instructions for telecommunication devices, likely related to setting up a digitalization box or router. Here's a summary of the key points:
+
+### Troubleshooting Steps:
+1. **Check LAN Connection**: Ensure that the LAN cables are correctly plugged in.
+2. **WLAN Status**: Confirm that WLAN is activated on all relevant devices.
+3. **Correct WLAN Key**: Verify that the correct WLAN key is being used.
+4. **Power Connection**: Ensure the digitalization box is properly connected to a power source.
+
+### Additional Checks:
+- Make sure that all user data (username, password, phone numbers, etc.) is entered completely and accurately.
+
+### Resetting Device:
+- If everything appears to be connected correctly but issues persist, reset the digitalization box to factory settings and restart the setup process.
+
+This guidance appears to help users troubleshoot common connection issues effectively.

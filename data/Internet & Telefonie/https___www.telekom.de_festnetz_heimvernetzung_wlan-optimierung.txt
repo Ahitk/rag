@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung
+
+Question: Was beeinträchtigt die WLAN-Verbindung am meisten?
+Answer: Physische Objekte können das WLAN-Signal besonders beeinträchtigen: Dazu zählen Wände, Gegenstände, aber auch Spiegel oder Glastüren, da Flächen aus Glas Funkwellen reflektieren. Darüber hinaus spielt auch das Material der Wände eine Rolle: Ziegel- und Betonwände haben einen hohen Anteil an Feuchtigkeit. Im Gegensatz zu trockenen Materialien wie Gips stört dies das WLAN-Signal etwas mehr.
+
+Question: Kann das WLAN vom Nachbarn stören?
+Answer: Insbesondere in der Stadt ist dies ein oft unterschätztes Problem: Sie teilen sich auf engem Raum die Frequenzbereiche des WLANs mit Ihren Nachbarn. Auch dies kann die Verbindung beeinträchtigen oder stören. Mit kostenlosen Programmen im Internet können Sie überprüfen, wie die Funkkanäle aktuell ausgelastet sind.
+
+Question: Wie kann ich sehen, wer mein WLAN benutzt?
+Answer: Sie können online immer einsehen, welche Geräte aktuell mit Ihrem WLAN verbunden sind:
+
+Question: Was ist besser für die WLAN-Optimierung: Verstärker oder Repeater?
+Answer: Zwischen einem WLAN-Repeater und einem WLAN-Verstärker gibt es keinen Unterschied. Es handelt sich nur um zwei verschiedene Begriffe für dasselbe Gerät, das Funksignale von einem WLAN-Router empfängt, aufbereitet und weiterleitet.
+
+Question: Sie haben noch weitere Fragen zur WLAN-Optimierung?
+Answer: Schon ab dem WLAN Paket M unterstützt Sie unser kompetenter Service vor Ort bei der Einrichtung und WLAN-Optimierung, falls eine Lösung per Telefon nicht möglich ist. So haben Sie die Sicherheit, dass alles einwandfrei funktioniert.
+

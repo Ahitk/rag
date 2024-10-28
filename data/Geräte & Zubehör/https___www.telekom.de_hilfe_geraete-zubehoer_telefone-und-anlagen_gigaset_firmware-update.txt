@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/gigaset/firmware-update
+
+Question: Wie funktioniert das Firmwareupdate der Gigaset Telefone?
+Answer: Das Firmwareupdate erfolgt automatisch. Die Gigaset Mobilteile fragen alle 7 Tage nach einer Firmware an. Sollte zwischendurch eine Asynchronität auftreten, starten die 7 Tage von Neuem.
+

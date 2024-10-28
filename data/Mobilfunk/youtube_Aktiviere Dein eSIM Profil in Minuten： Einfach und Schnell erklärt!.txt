@@ -1,0 +1,6 @@
+Question:
+Was bedeutet es, wenn man sagt, die E-SIM ist ein Computership, das fest in meinem Mobilgerät verbaut ist?
+
+Answer:
+Die Embedadsim E-SIM ist ein in Mobilgeräte fest eingebauter Computership, der ein digitales E-SIM-Profil trägt, wodurch keine Kunststoff-SIM-Karte mehr benötigt wird. Die Aktivierung des E-SIM-Profils erfolgt einfach und schnell bei der Einrichtung des Geräts. Ein weiteres Aktivierungsverfahren ist die Verwendung eines QR-Codes, der per Post oder über das digitale Kundencenter bereitgestellt wird. Die Installation des E-SIM-Profils erfolgt automatisch und kann einige Momente dauern. Ein einmal verwendeter QR-Code kann nicht erneut verwendet werden. Bei einem Gerätewechsel oder Bedarf an einem neuen E-SIM-Profil kann dies bequem im Kundencenter oder für Geschäftskunden im Business Service Portal vorgenommen werden. Mit der E-SIM ist das Warten auf, Einlegen oder Tauschen von SIM-Karten nicht mehr erforderlich.
+

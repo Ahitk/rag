@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/sprach-box/fritzbox-tonwahl
+
+Question: Warum kann ich meine SprachBox nicht über die Fritz!Box erreichen?
+Answer: Haben Sie einen MagentaZuhause Tarif, dann kann es vorkommen, dass die Signale bei Betätigung der Telefontasten (DTMF-Töne) nicht sauber zu Ihrer Fritz!Box übertragen werden können. Im Konfigurationsmenü Ihrer Fritz!Box können Sie in den Einstellungen zur Rufnummer die DTMF-Übertragung einstellen. Wählen Sie hier "Inband".
+

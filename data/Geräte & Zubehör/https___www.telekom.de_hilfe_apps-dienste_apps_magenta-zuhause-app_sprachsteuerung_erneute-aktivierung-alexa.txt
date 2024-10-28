@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/erneute-aktivierung-alexa
+
+Question: Warum muss ich den MagentaZuhause Skill für Alexa gelegentlich erneut aktivieren?
+Answer: Erhalten Sie den Hinweis: "Bitte aktivieren Sie den Skill, um dieses Gerät zu steuern.", hat sich der MagentaZuhause Skill in der Alexa App abgemeldet.
+Aktivieren Sie den Skill erneut. Achten Sie bitte bei der Eingabe Ihrer Anmeldedaten darauf, das Häkchen bei „Angemeldet bleiben“ zu setzen. So können Sie verhindern, abgemeldet zu werden und den Skill wieder neu aktivieren zu müssen.
+

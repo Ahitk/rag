@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/adressbuch-uebertragen
+
+Question: Wie kann ich meine Kontakte aus dem Adressbuch im E-Mail Center übertragen?
+Answer: Nach dem Login ins E-Mail Center wechseln Sie zum "Adressbuch". Hier markieren Sie über das Setzen des Hakens in das Kästchen direkt unterhalb von "Adressbuch durchsuchen" das gesamte Adressbuch.
+

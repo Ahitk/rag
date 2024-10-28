@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/vertragspartner-nutzer
+
+Question: Wie kann ich im Kundencenter herausfinden, ob mein Benutzername "Vertragspartner" oder "Nutzer" ist?
+Answer: Starten Sie dasKundencenterund klicken auf "Jetzt einloggen".
+

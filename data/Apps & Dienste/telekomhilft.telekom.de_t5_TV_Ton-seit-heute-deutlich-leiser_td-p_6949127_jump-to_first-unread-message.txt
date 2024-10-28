@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Ton-seit-heute-deutlich-leiser/td-p/6949127/jump-to/first-unread-message
+Subject: Ton seit heute deutlich leiser...
+Content: Die Lautstärke am TV auf Stufe 7-10 hat bis gestern immer völlig ausgereicht. Seit heute ist das so leise, das ich kaum etwas verstehe. Jetzt muß ich plötzlich auf allen TV Sendern für die gleich Lautstärke auf Stufe 17 gehen. Woran kann das liegen?Reine Magenta TV smart App
+
+Accepted Solutions:
+- Hi in die Runde,ich kann schöne Neuigkeiten berichten. Durch einen Hotfix heute Nacht wurde, wurde der zu niedrige Audio-Ausgangspegel bei den Sendern der RTL Gruppe wieder auf ein Normalniveau angepasst, sprich:Der Fehler wurde behoben.Wir wünschen euch wieder einen Ohrenschmaus beim RTL gucken.Viele GrüßeSören M.
+- Hi in die Runde,ich kann schöne Neuigkeiten berichten. Durch einen Hotfix heute Nacht wurde, wurde der zu niedrige Audio-Ausgangspegel bei den Sendern der RTL Gruppe wieder auf ein Normalniveau angepasst, sprich:Der Fehler wurde behoben.Wir wünschen euch wieder einen Ohrenschmaus beim RTL gucken.Viele GrüßeSören M.

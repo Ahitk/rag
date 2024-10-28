@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/spotify/spotify-zusaetzliche-anmeldung
+
+Question: Warum muss ich mich zusätzlich bei Spotify anmelden, obwohl ich es schon über die Telekom gebucht habe?
+Answer: Die Buchung des TarifesSpotify Premium bei der Telekomund die Anmeldung Ihrespersönlichen Spotify Kontos(Sie werden weitergeleitet auf www.spotify.com) sind unabhängig voneinander. Ein Spotify Account benötigt einen weltweit einmaligen Benutzernamen, den Sie sich selbst aussuchen dürfen. Daher gehen Sie bei der Aktivierung diese zwei Schritte.
+

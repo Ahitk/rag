@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/multisim-definition
+
+Question: Was ist eine MultiSIM?
+Answer: Die MultiSIM ist eine Art "Klon" der SIM Ihres MagentaMobil Vertrags. Sie können somit Ihre Vertragsinhalte (bspw. Datenvolumen, SMS, Rufnummer für Anrufe) mit der MultiSIM auf weiteren Geräten wie Smartwatches, Surfsticks oder Tablets zusätzlich nutzen.
+Je nach Tarif können bis zu 7 MultiSIM zugebucht werden.
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/wandtaster-verbinden
+
+Question: Wie kann ich meinem Wandtaster in der MagentaZuhause App Routinen zuweisen?
+Answer: Öffnen Sie in der MagentaZuhause App das Menü "Routinen" und tippen Sie oben rechts auf das Plus-Zeichen.
+

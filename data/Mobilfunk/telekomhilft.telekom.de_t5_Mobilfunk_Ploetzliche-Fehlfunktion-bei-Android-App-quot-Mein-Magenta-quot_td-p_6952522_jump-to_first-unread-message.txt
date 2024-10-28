@@ -1,0 +1,11 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Ploetzliche-Fehlfunktion-bei-Android-App-quot-Mein-Magenta-quot/td-p/6952522/jump-to/first-unread-message
+Subject: Plötzliche Fehlfunktion bei Android App "Mein-Magenta"
+Content: Es erscheint seit gestern die Meldung "Die Seite konnte leider nicht geladen werden. Bitte versuchen Sie es erneut in einigen Minuten."Wie geht das jetzt weiter? Wer behebt den Fehler?
+
+Accepted Solutions:
+- @Husky TomHallo Tom,erzähle mir doch bitte ein wenig mehr darüber. Bekommst du eine Fehlermeldung beim Öffnen der App? Kannst du darin nichts mehr anklicken oder kommst du gar nicht mehr rein?Freu mich, noch mal von dir zu hören.Für tiefgründige Infos, die App betreffend, kannst du dich gerne an die Entwickler wenden.Wieso, weshalb und warum, kann ich hier leider im Detail nicht beantworten. Per Mail ist eine Anfrage an meinmagenta-app@telekom.de ganz einfach möglich.Viele GrüßeSabrina
+- Danke für den Hinweis hinsichtlich der aktuellen App-Version 25.5.25. Nach erfolgtem Update funktioniert die App wieder. Eine Nachricht zum Herunterladen hatte ich zuvor leider nicht erhalten.
+- Grüße@n.horstGerade bei mir geschaut, es funktioniert.Unter Android mit der App-Version: 25.5.25Bei welchen Vertrag kommt es denn vor? Festnetz, Mobil,....?
+- Grüße@n.horstGerade bei mir geschaut, es funktioniert.Unter Android mit der App-Version: 25.5.25Bei welchen Vertrag kommt es denn vor? Festnetz, Mobil,....?
+- Danke für den Hinweis hinsichtlich der aktuellen App-Version 25.5.25. Nach erfolgtem Update funktioniert die App wieder. Eine Nachricht zum Herunterladen hatte ich zuvor leider nicht erhalten.
+- @Husky TomHallo Tom,erzähle mir doch bitte ein wenig mehr darüber. Bekommst du eine Fehlermeldung beim Öffnen der App? Kannst du darin nichts mehr anklicken oder kommst du gar nicht mehr rein?Freu mich, noch mal von dir zu hören.Für tiefgründige Infos, die App betreffend, kannst du dich gerne an die Entwickler wenden.Wieso, weshalb und warum, kann ich hier leider im Detail nicht beantworten. Per Mail ist eine Anfrage an meinmagenta-app@telekom.de ganz einfach möglich.Viele GrüßeSabrina

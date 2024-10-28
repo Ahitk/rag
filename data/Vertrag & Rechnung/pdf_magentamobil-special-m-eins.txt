@@ -1,0 +1,24 @@
+The image contains important information about the "MagentaMobil Special M" mobile plan from Telekom Deutschland. Here's a summary of the key details:
+
+### Product Overview
+- **Includes:** Mobile connection for calls, SMS, and internet access.
+- **Marketing Start Date:** September 6, 2019.
+
+### Data Transfer Rates
+- **Estimated Maximum Download Speed:** 50 Mbit/s
+- **Estimated Maximum Upload Speed:** 10 Mbit/s
+- **Speed After 5 GB Consumption:**
+  - **Download:** 64 kbit/s
+  - **Upload:** 16 kbit/s
+
+### Additional Product Information
+- **Contract Duration:** Minimum contract period of 24 months, with a notice period of one month for cancellation. After that, it can be canceled with a one-month notice.
+  
+### Pricing
+- **Monthly Fee (without smartphone):** €24.95
+- **Monthly Fee (with smartphone):** €34.95
+
+### Contact Information
+- For more details, customers can refer to the terms and conditions on the Telekom website.
+
+This information should be useful for anyone considering the MagentaMobil Special M mobile plan.

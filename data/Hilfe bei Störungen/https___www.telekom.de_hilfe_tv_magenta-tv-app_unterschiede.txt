@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/tv/magenta-tv-app/unterschiede
+
+Question: Warum gibt es zwei unterschiedliche Apps zum Streamen von MagentaTV?
+Answer: Am 15. Februar 2024 haben wir das neue MagentaTV 2.0 eingeführt, das sich auf einer neuen, modernen TV-Plattform befindet und viele nützliche Funktionen bietet. Aus diesem Grund gibt es aktuell zwei parallel laufende Apps zum Streamen von MagentaTV:
+Hinweis: Sollten Sie versehentlich die falsche App installiert haben, werden Sie direkt nach der Anmeldung mit Ihrem Telekom Login automatisch zur passenden App (im Apple App Store, Google Play Store etc.) weitergeleitet und können diese installieren und die alte löschen.
+• MagentaTV App 1. GenerationFür MagentaTV Tarife, die vor dem 15. Februar 2024 gebucht wurden.
+• MagentaTV App – TV & StreamingFürMagentaTV 2.0 Tarife, die ab dem 15. Februar 2024 gebucht wurden.
+

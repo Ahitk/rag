@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/smarte-geraete-steuern
+
+Question: Kann ich alle smarten Geräte mit der MagentaZuhause App steuern?
+Answer: Neben den Magenta SmartHome Geräten können Sie fast alle smarten Geräte anderer Hersteller mit der MagentaZuhause App bedienen. Wenn Sie einen Telekom Router nutzen, können Sie diesen mit einem Funkstick um die benötigten Funkstandards ergänzen. In der SmartHome Home Base 2 sind die vierFunkstandardsbereits integriert.
+

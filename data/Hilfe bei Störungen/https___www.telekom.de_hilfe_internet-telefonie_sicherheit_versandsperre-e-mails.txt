@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/versandsperre-e-mails
+
+Question: Wieso wurde mein Postfach für den E-Mail-Versand gesperrt?
+Answer: Ihr E-Mail-Konto wird von unserem Telekom Sicherheitsteam gesperrt, wenn wir die Information erhalten, dass von Ihrer E-Mail-Adresse (Telekom Login) schadhafte E-Mails versendet werden (Spam- oder Phishing-E-Mails).
+Hinweis: Bevor die Sperre aktiviert wird, informieren wir Sie per E-Mail darüber.
+

@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/aktuelle-versionsnummer
+
+Question: Wo finde ich die aktuelle Versionsnummer der Apps auf meinem Smartphone?
+Answer: Sie finden die Versionsnummern aller Ihrer Apps auf Ihrem Handy wie folgt:
+Für iOS
+Öffnen Sie in Ihrem iPhone die "Einstellungen" und anschließend den Menüpunkt "Allgemein". Klicken Sie auf "iPhone-Speicher". Wählen Sie im Menüpunkt "App auswählen" die gewünschte App aus. Sie sehen die aktuelle Versionsnummer Ihrer App links oben auf dem Bildschirm.
+Für Android
+Öffnen Sie die "Einstellungen" Ihres Smartphones und anschließend den Punkt "Apps verwalten". Wählen Sie die gewünschte App aus. Sie sehen die aktuelle Versionsnummer Ihrer App links oben auf dem Bildschirm.
+Mehr Apps der Telekom für Ihr Smartphone
+

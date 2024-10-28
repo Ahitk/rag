@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/wozu-dient-der-usb-stick-bei-cloud-vpn
+
+Question: Wozu dient der USB-Stick bei Cloud VPN?
+Answer: Der USB-Stick garantiert den sicheren Zugang zum Cloud VPN. Zur Inbetriebnahme und während des VPN-Betriebs muss der USB-Stick im VPN-Router eingesteckt sein.
+

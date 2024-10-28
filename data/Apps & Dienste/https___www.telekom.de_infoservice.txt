@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/infoservice
+
+Question: Was ist der InfoService und wie melde ich mich an?
+Answer: Mit dem InfoService erhalten Sie immer die neuesten Infos, für Sie passende Angebote und Serviceinformationen. Über die Anmelde-Buttons weiter oben melden Sie sich an.
+
+Question: Was passiert beim InfoService mit meinen Daten?
+Answer: Datensicherheit und Datenschutz werden bei uns großgeschrieben. Wir sichern Ihre Daten immer optimal gegen Missbrauch und schützen sie vor Unbefugten. Alle Infos zum Datenschutz bei der Telekom finden Siehier.
+
+Question: Werde ich dann andauernd angerufen?
+Answer: Nein, denn wir kontaktieren Sie nur dann, wenn es Neuigkeiten gibt, die Sie nicht verpassen sollten und wenn es neue, auf Sie persönlich zugeschnittene Angebote gibt.
+
+Question: Wo kann ich meine Kontaktpräferenzen anpassen?
+Answer: Wenn Sie Ihre Präferenzen zur Kontaktaufnahme ändern möchten, können Sie dashier im Kundencenter.
+
+Question: Wo kann ich mich vom InfoService abmelden?
+Answer: Wenn Sie sich vom InfoService abmelden möchten, können Sie dashier im Kundencenteroder per E-Mail anwiderruf@telekom.de.
+

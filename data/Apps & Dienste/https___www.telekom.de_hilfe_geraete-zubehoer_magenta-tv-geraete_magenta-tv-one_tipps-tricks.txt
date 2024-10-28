@@ -1,0 +1,42 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-one/tipps-tricks
+
+Question: Wie kann ich die MagentaTV One steuern?
+Answer: Neben der im Lieferumfang enthaltenden Fernbedienung lässt sich die MagentaTV One auch via Sprachsteuerung des Google Assistant oder durch Einbindung eigener Bluetooth Gamepads steuern. Aber auch die Anbindung einer USB-Tastatur ist möglich.
+
+Question: Wie aktiviere ich die Funktion Zapping?
+Answer: Wenn Sie schnell zwischen den Sendern umschalten möchten, dann aktivieren Sie die Zapping-Funktion unter:
+Einstellungen > MagentaTV-Einstellungen > MEIN MAGENTA TV > Zapping aktivieren/deaktivieren
+Jetzt können Sie nur mit den Pfeil-Tasten (hoch/runter) direkt den Sender wechseln, ohne die Okay-Taste betätigen zu müssen.
+
+Question: Funktioniert die MagentaTV One nur bei mir zu Hause?
+Answer: Nein, Sie können Ihre MagentaTV One über jede beliebige Internet-Verbindung nutzen.
+
+Question: Wie kann ich weitere Apps installieren und deinstallieren?
+Answer: Im Google Play Store stehen Ihnen alle von Google für die jeweilige Android TV-Version und die MagentaTV One freigegebenen Apps zur Verfügung.
+Apps installierenDamit Sie sich neben den Vorinstallierten weitere – Ihre bevorzugten – Apps installieren können, benötigen Sie ein Google-Konto. Mit diesem haben Sie dann Zugriff auf den Google Play Store. DenGoogle Play Storefinden Sie unter dem Menüpunkt Apps.
+Wie Sie sich ein Google-Konto einrichten bzw. Ihr vorhandenes verknüpfen, erklären wir Ihnen in unsererEinrichtungshilfeim Schritt 8.
+Apps deinstallierenUnter Einstellungen > Geräteeinstellungen > Allgemeine Einstellungen > Apps > Alle Apps ansehen, finden Sie eine Liste Ihrer installierten Apps.
+Die zu deinstallierende App mit "OK" auswählen und klicken Sie anschließend auf "Deinstallieren".
+
+Question: Wie nehme ich mit der MagentaTV One auf und wie groß ist der Aufnahmespeicher?
+Answer: Je nach Vertrag stehen Ihnen 50 oder 100 Stunden Cloud-Aufnahmezeit zur Verfügung. Sendungen, die Sie in Ihrem Cloud-Recorder speichern, können Sie über Ihre MagentaTV One sowie Ihrem Smartphone, Tablet oder PC/Laptop überall und jederzeit ansehen.
+AufnehmenAuf der MagentaTV One können Sie Aufnahmen direkt über die "REC"-Taste der Fernbedienung programmieren. Alternativ können Sie Aufnahmen über Ihr Smartphone, Tablet oder PC/Laptop programmieren.
+Aufnahmen verwaltenZur Verwaltung Ihrer Aufnahmen gelangen Sie, indem Sie über den Menübereich "Meins > MEINE AUFNAHMEN" und dann die Kachel "Alle anzeigen" auswählen.Alternativ können Sie die Aufnahmen über Ihr Smartphone, Tablet oder PC/Laptop programmieren/verwalten.
+
+Question: Kann ich mit meiner MagentaTV One die Aufnahmen vom Media Receiver MR 400/401 oder der MagentaTV Box ansehen?
+Answer: Nein, es sei denn, die Aufnahmen wurden in der Cloud gespeichert.
+
+Question: Kann ich meine Senderliste sortieren?
+Answer: Die Sortierung der Sender ist direkt über das Menü Ihrer MagentaTV One möglich:Einstellungen > MagentaTV-Einstellungen > AUFNAHMEN UND SENDER > Senderverwaltung
+
+Question: Kann ich den Login vereinfachen?
+Answer: Ja, für bestehende Telekom Festnetz-Verträge gibt es die Möglichkeit, den Login zu vereinfachen.
+Mit einemMagentaZuhause Anschluss(ohne Zusatz "Regio", "Kabel" oder "Funk") kann das Feature automatischer Login genutzt werden.Dies muss evtl. in den Einstellungen des Festnetz-Anschlusses imKundencenterStartaktiviertwerden (im Bereich Zugang des entsprechenden Vertrags).
+
+Question: Können mehrere MagentaTV One gleichzeitig genutzt werden?
+Answer: Bei den aktuellen Optionen (MagentaTV Smart, Entertain, Netflix) können bis zu drei Streams parallel genutzt werden, im MagentaTV Flex Tarif bis zu zwei Streams. Bei älteren Optionen (z. B. App+) sind es bis zu fünf Streams.
+
+Question: Wo finde ich die aktuelle Versionsnummer der MagentaTV App (Launcher) und wie prüfe ich manuell auf Updates?
+Answer: Die aktuelle Versionsnummer der MagentaTV App (Launcher) finden Sie unter"Einstellungen > MagentaTV-Einstellungen > DIESES GERÄT > System" unter dem Punkt "Client Version".
+Den aktuellen Software-Stand prüfen oder ein (eventuell vorhandenes) neues Software-Update installieren Sie unter"Einstellungen > MagentaTV-Einstellungen > DIESES GERÄT > Software Update"
+

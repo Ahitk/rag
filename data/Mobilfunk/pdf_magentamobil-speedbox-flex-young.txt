@@ -1,0 +1,25 @@
+Here’s a summary of the relevant information extracted from the document regarding the **MagentaMobil Speedbox Flex Young** (Mobilfunk) by Telekom Deutschland:
+
+### Product Overview
+- **Type**: Mobile data plan with internet access in Germany.
+
+### Data Transfer Rates
+- **Download Speed**: Up to 300 Mbit/s
+- **Upload Speed**: Up to 50 Mbit/s
+- **Data Limitation**: After consuming 100 GB, speeds reduce to 0 kbit/s.
+
+### Contract Details
+- **Contract Duration**: 
+  - Minimum duration: 24 months
+  - Cancellation period: 1 month
+  - After the minimum period, cancelable with a 1-month notice.
+
+### Pricing
+- **Monthly Fee**: 0.00 EUR (for the complete product including the Speedbox router).
+- **Data Pass (100 GB for 31 days)**: 34.95 EUR.
+
+### Additional Information
+- **Product availability**: Effective since February 12, 2019.
+- **For more details**, refer to the terms and conditions available at Telekom's website.
+
+This summary encapsulates key aspects of the product, including usage limits and pricing structure.

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/offline-rufannahme-kosten
+
+Question: Welche Kosten entstehen mir durch die Offline-Rufannahme?
+Answer: Die Aktivierung der Funktion "Offline-Rufannahme" ist kostenfrei, ebenso die Weiterleitung auf die SprachBox. Bei einer Weiterleitung an eine andere Nummer entstehen Telefonkosten, als würde man selbst diese Nummer anrufen. Sind z. B. Anrufe in andere Mobilfunk-Netze in Ihrem Vertrag enthalten, zahlen Sie keine Gebühren für eine Rufumleitung an diese Nummer.
+

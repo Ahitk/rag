@@ -1,0 +1,16 @@
+Question:
+Was sind die grundlegenden Änderungen in der neuen Weboberfläche der Digitalisierungssbox?
+
+Answer:
+Herzlich willkommen zu unserem Einleitungsvideo für das neue Release 1101, das eine neu gestaltete Weboberfläche für die Digitalisierungsbox enthält. Ziel der Neugestaltung war es, die Benutzerfreundlichkeit weiter zu erhöhen. Merkmale der neuen Oberfläche sind eine überarbeitete und vereinfachte Konfiguration, sichtbarere Statusinformationen und eine vereinfachte Einrichtung für weniger technikaffine Nutzer.
+
+Das Design basiert nun auf dem Google-Design und nach dem Anmelden wird der Nutzer von einer übersichtlichen Willkommensseite empfangen. Dort erhalten Sie wesentliche Informationen wie den Status der Internetverbindung, DSL-Bandbreite und Betriebsmodus.
+
+Die alte Benutzeroberfläche, die verschiedene Ansichten für Benutzer und Experten beinhaltete, wurde durch eine vereinfachte Struktur ersetzt. Die Benutzerführung wurde neu strukturiert und enthält nun die Bereiche Home, Telefonie, WLAN und Internet-Netzwerk.
+
+Die neue Version beinhaltet auch eine farbliche Kennzeichnung der Statusinformationen mit grün, gelb und rot - grün bedeutet, dass alles in Ordnung ist, gelb zeigt an, dass eine Funktion aufgebaut wird oder es ein Problem gibt, und rot zeigt an, dass ein ernsthaftes Problem besteht.
+
+Weitere Neuerungen betreffen insbesondere die Telefonie-Assistenten: Die Eingabe von Rufnummern wurde vereinfacht, es gibt automatische Hilfestellungen für die Grundinstallation und eine neue Darstellung von Untermenüs.
+
+Zum Schluss gibt es Verbesserungen im Bereich Internet und Netzwerk, vordefinierte Parameter wurden eingeführt und die Einrichtung von VPN-Tunneln und Port-Weiterleitungen wurde erleichtert. Danke für Ihre Aufmerksamkeit!
+

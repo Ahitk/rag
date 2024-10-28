@@ -1,0 +1,6 @@
+Question:
+Hast du ein Postfach bei der Tede und nutzt du den Spamschutz, den sie anbieten?
+
+Answer:
+Das Transkript handelt von der effektiven Verwendung eines E-Mail-Spamfilters. Die Benutzer des Tede Postfachs benötigen sich keine Sorgen über Spam zu machen, da das Postfach einen integrierten Spamschutz hat, der alle eingehenden E-Mails überprüft und Spam-Nachrichten automatisch filtert. Anwender können die Einstellungen des Spamschutzes anpassen, um Spam-E-Mails entweder in den Spam-Ordner zu leiten oder direkt in das Postfach zu senden. Dennoch wird empfohlen, die ursprüngliche Einstellung beizubehalten, um das Postfach nicht zu verstopfen. Zusätzlich ist ein erweiterter Schutz, der Spamschutz-Plus, in der Premium-Version verfügbar. Falls Spam-E-Mails dennoch im Postfach landen, können diese gemeldet werden um den Spamfilter zu verbessern. Beschreibungen oder Anleitungen zum Erkennen von Spam-E-Mails und zum Melden davon finden Sie in den Links unter dem Video. Die Zusammenfassung endet mit einer Einladung zur Interaktion und Anerkennung durch Klicken oder Liken.
+

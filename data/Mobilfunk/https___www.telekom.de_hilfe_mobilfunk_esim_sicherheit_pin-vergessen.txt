@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/sicherheit/pin-vergessen
+
+Question: Was kann ich machen, wenn ich die PIN meiner SIM vergessen habe?
+Answer: Wenn Sie Ihre PIN der SIM-Karte oder des eSIM-Profils nicht mehr wissen, müssen Sie die PIN ändern. Dazu benötigen Sie den PUK. Wenn Sie Ihren PUK kennen, ändern Sie die PIN über folgende Tastenkombination:
+**05*PUK*neue PIN*neue PIN wiederholen#
+

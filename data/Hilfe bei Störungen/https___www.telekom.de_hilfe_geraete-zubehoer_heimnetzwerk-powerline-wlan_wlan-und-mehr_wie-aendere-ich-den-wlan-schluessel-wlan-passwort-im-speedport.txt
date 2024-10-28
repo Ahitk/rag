@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/wlan-und-mehr/wie-aendere-ich-den-wlan-schluessel-wlan-passwort-im-speedport
+
+Question: Wie ändere ich den WLAN-Schlüssel (WLAN-Passwort) in meinem Speedport Router?
+Answer: Führen Sie zum Ändern des WLAN-Schlüssels (WLAN-Passwort) die folgenden Schritte durch:
+Wichtig:Ändern Sie den WLAN-Schlüssel in gleicher Weise bei allen Geräten in Ihrem WLAN-Netzwerk, damit diese weiterhin auf den WLAN-Router zugreifen können.
+• Starten Sie auf Ihrem PC den Internet-Browser, z. B. Internet Explorer oder Firefox und öffnen Sie das Konfigurationsprogramm Ihres Speedport Routers. Geben Sie hierzu in die Adresszeile Ihres Browsers ein:http://speedport.ip(oderhttp://192.168.2.1).
+• Die Sicherheitseinstellungen finden Sie im Router-Konfigurationsprogramm unter:"Sicherheit / SSID & Verschlüsselung" oder unter"Heimnetzwerk / WLAN-Grundeinstellungen / Name und Verschlüsselung".
+• Ändern Sie den WLAN-Schlüssel, auch Pre-Shared Key (PSK) genannt. Ein sicherer WLAN-Schlüssel besteht idealerweise aus bis zu 63 Zeichen (mindestens jedoch 18 Zeichen) und enthält Ziffern, Groß-/Kleinbuchstaben sowie Sonderzeichen.
+• Behalten Sie die Voreinstellung zur Verschlüsselungsart bei (WPA2 oder WPA2-Personal). Die weniger sichere WPA-Verschlüsselung sollte nur in Ausnahmefällen genutzt werden. Falls Sie noch WLAN-Geräte besitzen, die nur die unsichere WEP-Verschlüsselung unterstützen, empfehlen wir Ihnen den Austausch dieser Geräte.
+• Bestätigen Sie Ihre Änderungen mit einem Klick auf "Speichern".
+

@@ -1,0 +1,6 @@
+Question:
+Was ist der Mindeststand der Firme, den die Deckd150 Basisstation benötigt, bevor sie mit der Digitalisierungspox 2 in Betrieb genommen wird?
+
+Answer:
+In diesem Digitalisierungspox 2 Video wird erläutert, wie man eine Deckd150 Basisstation samt zugehörigen Deckendgeräten einrichtet. Vor der Konfiguration muss die Basisstation auf den neuesten Firmware-Status (mindestens 2.59) gebracht werden. Dies kann entweder durch ein Update der Deckd150 in Kombination mit dem Digitalisierungspox 1 oder über einen Webserver erfolgen, auf dem die Firmware abgelegt wurde. Nach erfolgreicher Aktualisierung und Herstellung der Strom- und Netzwerkverbindung kann die Konfiguration starten. Es werden Schritte wie das Login ins Webinterface von Digitalisierungspox 2, das Hinzufügen von Telefonen und das Einrichten von Rufnummern und Passwörtern für die IP-Telefonregistrierung dargestellt. Bei mehreren Deckendgeräten werden die Schritte für jedes Gerät wiederholt. Wenn alle Einstellungen vorgenommen sind, werden abschließend die Mobilteile angemeldet. Weitere Einstellungen sind nicht erforderlich.
+

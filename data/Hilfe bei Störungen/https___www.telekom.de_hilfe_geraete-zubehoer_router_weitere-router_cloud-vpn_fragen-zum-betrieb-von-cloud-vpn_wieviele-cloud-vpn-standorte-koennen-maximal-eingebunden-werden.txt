@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/wieviele-cloud-vpn-standorte-koennen-maximal-eingebunden-werden
+
+Question: Wieviele Cloud VPN Standorte können maximal eingebunden werden?
+Answer: Die maximale Anzahl von Cloud-VPN-Standorten liegt derzeit bei 100.
+Sollten Sie eine größere Anzahl an Standorten benötigen, setzen Sie sich bitte mit Ihrem persönlichen Berater in Verbindung.
+

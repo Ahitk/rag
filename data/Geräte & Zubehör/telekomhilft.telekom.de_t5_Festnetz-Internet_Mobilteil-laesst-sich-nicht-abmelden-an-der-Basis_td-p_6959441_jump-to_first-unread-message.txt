@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Mobilteil-laesst-sich-nicht-abmelden-an-der-Basis/td-p/6959441/jump-to/first-unread-message
+Subject: Mobilteil lässt sich nicht abmelden an der Basis
+Content: Hallo!Ich habe ein Mobilteil Speedphon 11 angemeldet an der Basis (Speedport Smart 3) und kann es nicht mehr abmelden und dadurch kein neues Mobilteil anmelden.Alle bisher hier angezeigten Methoden zeigen keine Wirkung, das MT bleibt einfach angemeldet.Ich kann es nicht abmelden, selbst wenn es in den Lieferzustand zurückgesetzt wurde und keine Verbindung mehr zur Basis hat.DECTwurde im Router bereits zurückgesetzt - keine Wirkung - MT bleibt angemeldet.Wieso kann man eigentlich nur 5 MT anmelden?Gibt es einen neuen Router, wo mehr MT angemeldet werden können?Vielleicht hat Jemand noch eine Idee, wie ich das vorhandene MT abmelden kann?Danke im Voraus für die Unterstützung!Grüße MP
+
+Accepted Solutions:
+- @Mulli3schrieb:Wieso kann man eigentlich nur 5 MT anmelden?Ist an der Fritzbox auch so, Setz den Router mal zurück
+- @Mulli3schrieb:Wieso kann man eigentlich nur 5 MT anmelden?Ist an der Fritzbox auch so, Setz den Router mal zurück

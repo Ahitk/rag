@@ -1,0 +1,16 @@
+Question:
+Wie kann man sicherstellen, dass die Bintech Elmack IP System Telefone ordnungsgemäß in der Digitalisierungsbox eingerichtet sind?
+
+Answer:
+Willkommen zu einem neuen Video zur Digitalisierungsbox Premium. Dieses Video zeigt, wie Bintech Elmack IP-Systemtelefone in der Digitalisierungsbox eingerichtet werden. Um mit der Konfiguration beginnen zu können, sollten die Geräte mit Strom versorgt und mit dem Netzwerk der Digitalisierungsbox verbunden sein. Die Anmeldung erfolgt über das Webinterface der Digitalisierungsbox mit den entsprechenden Zugangsdaten. 
+
+Es wird erklärt, wie der DHCP-Server im Netzwerk eingerichtet wird, um den Geräten eine Provisionierungs-URL zur Verfügung zu stellen. Wenn die Digitalisierungsbox als DHCP-Server verwendet wird, kann dies einfach überprüft werden. 
+
+Im nächsten Schritt werden Benutzer, interne Rufnummer und die Gerätekonfiguration eingerichtet, um ein Bintech LMEG IP-Systemtelefon einzurichten. Für die Einrichtung des Endgeräts müssen bestimmte Berechtigungsklassen gewählt und ein Passwort für die Telefonregistrierung festgelegt werden. 
+
+Das Video enthält eine Empfehlung für die Schritte, die zur erfolgreichen Einrichtung des Endgeräts notwendig sind. Nachdem ein Benutzer erstellt und eine interne Rufnummer zugewiesen wurde, kann die Endgerätekonfiguration beginnen. Falls das IP-Telefon in der Digitalisierungsbox nicht angezeigt wird, sollten die Stromversorgung und die Netzwerkverbindung überprüft werden. 
+
+Zum Abschluss wird erklärt, wie die Rufverteilung eingerichtet wird. Dabei kann festgelegt werden, welche interne Nebenstelle auf eine bestimmte Rufnummer reagiert. Es können sowohl für den Tag als auch für die Nacht unterschiedliche Konfigurationen gesetzt werden. Nachdem die Konfiguration abgeschlossen ist, sollte die Konfiguration gespeichert werden, um sie dauerhaft in der Digitalisierungsbox abzulegen. 
+
+Das Ende des Videos bedankt sich für die Aufmerksamkeit der Zuschauer.
+

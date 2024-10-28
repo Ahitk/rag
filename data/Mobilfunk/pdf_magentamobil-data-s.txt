@@ -1,0 +1,31 @@
+Here’s a summary of the relevant information from the image regarding the MagentaMobil Data S mobile plan by Telekom Deutschland:
+
+### Product Overview
+- **Plan Type**: Mobile data plan (MagentaMobil Data S)
+- **Scope**: Includes access to internet services.
+
+### Data Transfer Rates
+- **Maximum Download Speed**: 300 Mbit/s
+- **Maximum Upload Speed**: 50 Mbit/s
+- **Reduced Speed After 5 GB Usage**:
+  - **Download**: 64 kbit/s
+  - **Upload**: 16 kbit/s
+
+### Additional Product Information
+- **Contract Terms**:
+  - Minimum contract duration: 24 months
+  - Cancellation notice period: 1 month
+  - After the minimum term, can be canceled with a month’s notice.
+
+### Pricing
+- **Monthly Fees**:
+  - Without device: €14.95
+  - With device: €24.95
+  - With top device: €34.95
+  - With premium device: €44.95
+- **Note**: Prices may be subject to additional device costs.
+
+### Contact & Resources
+- More details can be found on the Telekom website under their terms and conditions and pricing lists.
+
+This plan is effective for users looking for substantial data limits and flexibility in cancellation after the minimum contract period.

@@ -1,0 +1,32 @@
+Source URL: https://www.telekom.de/smarte-produkte/smart-home/alexa-skill
+
+Question: Was können Sie mit dem SmartHome Alexa Skill tun?
+Answer: An-/Ausschalten
+Dimmen
+Farbe einstellen
+„Deckenlampe“ steht hierbei beispielhaft für den von dir vergebenen Gerätenamen.
+Mithilfe der Steuerung von Zwischensteckern lassen sich zahlreiche Geräte, wie zum Beispiel eine Stehlampe, die Kaffeemaschine, das Radio oder der Ventilator, einfach mit einem Sprachbefehl ein- und ausschalten.
+Tischlampe anschalten
+Radio einschalten
+„Tischlampe” und „Radio” stehen hierbei beispielhaft für den von dir vergebenen Gerätenamen.
+Temperatur einstellen
+Einstellen einer bestimmten Gradzahl
+Temperatur verändern
+Erhöhen oder Senken der Temperatur
+Temperatur abfragen
+Abfragen der Raumtemperatur
+„Wohnzimmer” steht hierbei beispielhaft für den von dir vergebenen Namen des Thermostates.
+Rollläden steuern
+„Rollladen” steht hier beispielhaft für den von dir vergebenen Gerätenamen.
+Szene Energie sparen
+Szene Gemütlicher Abend
+
+Question: Wie kann ich die Benennung der Geräte anpassen?
+Answer: • Jeden Namen nur einmal verwenden
+• Einen gebräuchlichen und kurzen Namen benutzen
+• Auf Abkürzungen, Sonderzeichen, Zahlen, lange Namen und Emojis verzichten
+
+Question: Wie kann ich vom SmartHome Alexa Skill komplett auf den Magenta SmartHome Alexa Skill wechseln?
+Answer: • den SmartHome Skill zu deaktivieren
+• die vorhandenen Geräte aus deiner Alexa App zu entfernen.
+

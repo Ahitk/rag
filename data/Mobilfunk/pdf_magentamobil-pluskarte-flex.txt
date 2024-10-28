@@ -1,0 +1,32 @@
+### Summary of the MagentaMobil PlusKarte Flex (Telekom Deutschland GmbH)
+
+#### Product Overview
+- **Product Name**: MagentaMobil PlusKarte Flex
+- **Service Types**: Mobile connection for telephony, SMS, and internet access.
+- **Launch Date**: Effective from August 1, 2024.
+
+#### Data Transfer Rates
+- **Download Speed**: Up to 300 Mbit/s
+- **Upload Speed**: Up to 50 Mbit/s
+
+#### Data Volume Details
+- The data volume is associated with the main contract (MagentaMobil).
+- **Data Limits**:
+  - **MagentaMobil XS**: 5 GB (after, reduced to 64 kbit/s)
+  - **MagentaMobil S**: 20 GB (after, reduced to 64 kbit/s)
+  - **MagentaMobil M**: 40 GB (after, reduced to 64 kbit/s)
+  - **MagentaMobil L**: 80 GB (after, reduced to 64 kbit/s)
+- **Note**: XL contract offers unlimited data.
+
+#### Contract Terms
+- **Contract Duration**: 
+  - No minimum contract period.
+  - Notice period of one month for cancellation.
+  
+#### Pricing
+- **Monthly Fee for Complete Product**: €19.95 (excluding hardware one-time cost)
+
+#### Additional Information
+- More details and terms can be found in the full product documentation online.
+
+This summary encapsulates the primary features, rates, and conditions associated with the MagentaMobil PlusKarte Flex product for potential customers.

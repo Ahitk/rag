@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/mobilfunk-zusatzkosten
+
+Question: Wo kann ich angefallene Mobilfunk-Zusatzkosten sehen?
+Answer: Wenn seit Ihrer letzten Mobilfunk-Rechnung Zusatzkosten angefallen sind, können Sie diese online einsehen:
+Hinweis: Bitte beachten Sie, dass die Übersicht der Zusatzkosten nicht den Kosten auf Ihrer nächsten Rechnung entsprechen muss. Gegebenenfalls werden Ihnen Zusatzkosten angezeigt, die aufgrund einer Aktion oder Sonderkondition bei der Rechnungsstellung wieder abgezogen werden.
+• KundencenterWählen Sie im Bereich "Verträge" den gewünschten Mobilfunk-Vertrag aus. Klicken Sie dann auf den farbigen Button "Ansicht wechseln". Jetzt werden die aktuellen Zusatzkosten angezeigt.
+• MeinMagenta AppWählen Sie auf der Startseite den gewünschten Mobilfunk-Vertrag aus. Nun werden Ihnen angefallene Zusatzkosten unter "Aktueller Grundpreis" angezeigt. Sind keine Zusatzkosten angefallen, wird Ihnen dieser Bereich nicht angezeigt.
+

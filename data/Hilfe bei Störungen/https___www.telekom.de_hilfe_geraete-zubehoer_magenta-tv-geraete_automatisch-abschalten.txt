@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/automatisch-abschalten
+
+Question: Wie kann ich mein MagentaTV Gerät nach einer bestimmten Zeit automatisch abschalten lassen?
+Answer: Um Ihr MagentaTV Gerät nach einer gewissen Zeit ohne Nutzung von allein abschalten zu lassen, wählen Sie im Menü die Funktion "Automatisches Ausschalten" oder den "Ruhemodus" wie folgt aus:
+Hinweis:Die Zeitspanne können Sie je nach Funktion zwischen 30 Minuten und 12 Stunden einstellen.
+• MagentaTV Box (PLAY)Haus-Taste > Einstellungen > Media Receiver > Autom. Ausschalten > Zeit auswählen > OK
+• Media Receiver 401Haus-Taste > Einstellungen > Media Receiver > Autom. Ausschalten > Zeit auswählen > OK
+• MagentaTV One & MagentaTV StickHaus-Taste > Einstellungen > Geräteeinstellungen > Geräteeinstellungen > Bildschirmschoner > Ruhemodus aktivieren > Zeit auswählen > OK
+• MagentaTV One 2.0Haus-Taste > Zahnrad > Android-Einstellungen > Geräteeinstellungen > Bildschirmschoner > Ruhemodus aktivieren > Zeit auswählen > OK
+

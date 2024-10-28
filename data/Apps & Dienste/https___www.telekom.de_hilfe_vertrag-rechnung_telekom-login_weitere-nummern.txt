@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/weitere-nummern
+
+Question: Wie kann ich weitere Mobilfunk-Rufnummern mit meinem Telekom Login verknüpfen?
+Answer: Weitere Mobilfunk-Rufnummern können Sie im Kundencenter und in der MeinMagenta App wie folgt hinzufügen:
+Hinweis: Als "Vertragsinhaber" können Sie nur Mobilfunk-Verträge einer Kundennummer verknüpfen. Verträge, die unter einer anderen Kundennummer laufen, können nur als "Nutzer" (mit beschränkten Inhalten) hinzugefügt werden.
+• Im KundencenterGehen Sie auf "Vertrag hinzufügen" und klicken dann auf "Bestehenden Vertrag hinzufügen". Wechseln Sie in den Reiter "Nutzer" und wählen "Mobilfunk-Nummer hinzufügen". Folgen Sie bitte anschließend den weiteren Anweisungen.
+• In der MeinMagenta AppGehen Sie auf "Vertrag hinzufügen" und klicken Sie auf "Privater Mobilfunk-Vertrag oder Festnetz-Vertrag" und wählen dann "Mobilfunk-Vertrag" aus. Folgen Sie bitte anschließend den weiteren Schritten.
+

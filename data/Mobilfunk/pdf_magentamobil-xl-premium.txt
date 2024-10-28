@@ -1,0 +1,25 @@
+Here's a summary of the key information from the document regarding the MagentaMobil XL Premium (Mobile) telecommunications product:
+
+### Product Overview
+- **Service Included:** Mobile phone connection for voice, SMS, and internet access.
+- **Marketing Start Date:** September 2, 2016.
+
+### Data Transmission Rates
+- **Download Speed:** Up to 300 Mbit/s
+- **Upload Speed:** Up to 50 Mbit/s
+- **Note:** No reduction in data transmission rates after consuming a specific volume of data within domestic traffic.
+
+### Additional Product Information
+- **Contract Duration:**
+  - Initial term of 24 months.
+  - Extension for 12 months unless canceled with a notice period of three months before the end of the contract.
+  
+- **Pricing:**
+  - **Total cost for the complete product (list price), excluding hardware one-time fee:** 199.95 EUR/month
+  - Includes the option for a new top smartphone every 12 months with contract renewal.
+
+### Additional Notes
+- Prices displayed include 19% VAT.
+- Special pricing validity: From July 1, 2020, to December 31, 2020, prices were calculated with a higher VAT of 16%.
+
+This summary captures the essential aspects of the product, including its features, pricing, and contract terms.

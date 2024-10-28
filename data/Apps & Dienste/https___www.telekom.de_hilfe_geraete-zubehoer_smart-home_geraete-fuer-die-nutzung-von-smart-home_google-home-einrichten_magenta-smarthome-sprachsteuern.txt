@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/google-home-einrichten/magenta-smarthome-sprachsteuern
+
+Question: Wie kann ich Magenta SmartHome per Google Home sprachsteuern?
+Answer: Google Home ist ein Lautsprecher mit integriertem Sprachassistenten, mit dem Sie die unterschiedlichsten Dinge mittels Sprache steuern können, z. B. Musik abspielen, Nachrichten abfragen oder SmartHome Geräte steuern, sowie vieles mehr.Für Google Home gibt es verschiedene Arten von Lautsprechern. Sie können aber mit allen Google Home Geräten die gleichen SmartHome Befehle nutzen.
+Einrichten und AktualisierenNachdem Sie Ihren Lautsprecher in Betrieb genommen haben, können Sie in der Google Home App die SmartHome Steuerung aktivieren, indem Sie  im Menüpunkt „SmartHome Steuerung“ die Magenta SmartHome Assistant App auswählen.Danach sehen Sie eine Liste der mit Magenta SmartHome verbundenen Geräte.Sie können u. a. folgende Funktionen nutzen:
+Übrigens:Auch wenn ein Gerät als Bestandteil einer Szene nicht erreichbar ist (z. B. SmartPlug nicht in der Steckdose), können Sie die Szene über Google Home schalten; alle erreichbaren Geräte reagieren weiterhin.
+Werden zu einem späteren Zeitpunkt Geräte oder Szenen in der Magenta SmartHome App hinzugefügt, geändert oder gelöscht, können Sie die Liste unter "Smart-Home Steuerung" Ihres Google Home ganz einfach mit dem Sprachbefehl"Ok Google, synchronisiere meine Geräte" aktualisieren.
+Tipp:Falls Sie Amazon Echo nutzen, zeigen wir Ihnen hier, wie Sie den SmartHome Skill aktivieren und nutzen:
+Zu Amazon Echo Alexa Skill
+• Schalten von SmartHome Geräten und Szenen
+• An-/Ausschalten, Dimmen und Farbe einstellen von smarten Lampen
+• Einstellen der Temperatur je Raum
+• Statusabfrage Ihrer Geräte, z. B. die aktuelle Temperatur in einem Raum
+

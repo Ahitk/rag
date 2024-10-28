@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/keine-verbindung-wifi6-router
+
+Question: Was kann ich tun, wenn sich ein WLAN-Gerät nicht mit meinem neuen Wi-Fi 6 Router verbinden will?
+Answer: Die aktuellen Telekom-Router arbeiten mittlerweile mit der deutlich leistungsfähigeren WLAN-Variante Wi-Fi 6.
+Dies sind derzeit die Speedports der Smart 4 Reihe sowie der Speedport Pro (Plus/Gaming).
+Grundsätzlich gilt: Wi-Fi 6 Router sind auch abwärtskompatibel zu Geräten, die "nur" im Wi-Fi 5, 4 oder 3 Modus arbeiten (802.11 ac, n oder g).Daher sollten Sie zunächst immer auf der Herstellerseite des betroffenen WLAN-Geräts schauen, ob es neuere Treiber dafür gibt.
+Dennoch kann es gerade bei älteren WLAN-Geräten vorkommen, dass die Verbindung nicht zustande kommen will. Möchten Sie sich nicht von dem betroffenen Gerät trennen, bleibt als Lösung nur, den neuen Wi-Fi 6 Router in seinen Möglichkeiten nach unten zu regeln.
+Sie haben zwei Möglichkeiten dies zu tun.Klicken Sie dazu einfach auf Ihre gewünschte Lösung:
+

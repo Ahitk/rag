@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/fernunterstuetzung/fernkonfiguration-fuer-computer-und-software
+
+Question: Was ist die "Fernkonfiguration für Computer und Software"?
+Answer: Die Fernkonfiguration ist ein Service, bei der unser Servicemitarbeiter in der technischen Hotline über das Internet auf Ihren Computer zugreift und dort Konfigurationen durchführt.Dabei kann er entweder Ihren Computer bzw. darauf installierte Software (z. B. eine Textverarbeitungssoftware), die von Ihnen gebuchten Internetdienste von der Telekom (z. B. E-Mail) oder eine Funktion in Ihrem Gerät (z. B. Internettelefonie in einem Router) konfigurieren.
+Voraussetzungen zur Durchführung einer "Fernkonfiguration für Computer und Software":
+• Sie verfügen über einen eingerichteten und funktionsfähigen Internetzugang.
+• Sie haben die Software zur Durchführung eines Fernzugriffs heruntergeladen und gestartet und dabei Ihr Einverständnis für die Aktionen des Servicemitarbeiters über das Internet gegeben.
+• Ihre eventuell zu konfigurierenden Geräte sind korrekt mit Ihrem Computer verbunden.
+

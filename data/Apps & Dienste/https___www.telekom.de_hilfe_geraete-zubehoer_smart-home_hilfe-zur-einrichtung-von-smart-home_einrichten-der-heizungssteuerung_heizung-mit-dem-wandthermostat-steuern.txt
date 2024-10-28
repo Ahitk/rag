@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-der-heizungssteuerung/heizung-mit-dem-wandthermostat-steuern
+
+Question: Wie kann ich bei Magenta SmartHome meine Heizung mit dem Wandthermostat steuern?
+Answer: Bei einer manuellen Veränderung der Raumtemperatur über das Wandthermostat erhalten alle Thermostate an den Heizkörpern diesen neuen Sollwert. Somit hat das Wandthermostat gegenüber den Heizkörperthermostaten in diesem Moment die höhere Priorität. Die manuelle Veränderung bleibt solange bestehen, bis die nächste Einstellung in Ihrem Heizungsprofil wieder relevant wird.
+Haben Sie z. B. eine höhere Raumtemperatur für einen gemütlichen Abend eingestellt, so wird diese Soll-Temperatur zur festgelegten Uhrzeit an Ihr Wandthermostat gesendet und an alle Heizkörperthermostate übertragen.
+Somit ist ein Wandthermostat vor allem dann empfehlenswert, wenn Sie mehrere Heizkörper in einem Raum haben, die Sie bei einer manuellen Veränderung gleichzeitig anpassen möchten. Darüber hinaus erleichtert ein Wandthermostat auch die Steuerung, wenn ein Heizkörper aufgrund der räumlichen Gegebenheiten schwer zugänglich ist.
+

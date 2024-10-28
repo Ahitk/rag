@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/router-funktionen-anzeige
+
+Question: Warum werden mir einige Router-Funktionen in der MagentaZuhause App nicht angezeigt?
+Answer: Nicht alle Router unterstützen die gleichen Funktionen. In der MagentaZuhause App werden Ihnen nur die Funktionen angezeigt, die mit Ihrem Router genutzt werden können.
+

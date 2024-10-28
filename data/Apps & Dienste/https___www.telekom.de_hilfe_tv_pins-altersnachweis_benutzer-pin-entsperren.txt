@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/tv/pins-altersnachweis/benutzer-pin-entsperren
+
+Question: Wie kann ich meine Benutzer-PIN für MagentaTV bei Falscheingabe entsperren?
+Answer: Sie können Ihre Benutzer-PIN nicht selbst entsperren, wenn Sie diese zu oft falsch eingegeben haben. Die Freischaltung Ihrer Benutzer-PIN erfolgt automatisch nach 10 Minuten.
+

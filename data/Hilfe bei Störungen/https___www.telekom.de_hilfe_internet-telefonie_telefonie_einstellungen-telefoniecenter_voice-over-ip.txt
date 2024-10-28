@@ -1,0 +1,32 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/voice-over-ip
+
+Question: Wie kann ich meinen MagentaZuhause Anschluss mit Voice over IP bzw. einem SIP-Client nutzen?
+Answer: Um die Rufnummern Ihres MagentaZuhause Anschlusses mit Voice over IP oder einem SIP-Client nutzen zu können, sind nur dann Änderungen in den Router-Einstellungen erforderlich, wenn sie keinen Telekom Router (z.B. Speedport) haben.
+Hinweis:Sie können aktuell bis zu 5 SIP-Clients nutzen.
+Bitte verwenden Sie folgende Einstellungen:
+SIP-ID/Benutzer
+Ihre Telefonnummer mit Vorwahl im internationalen Format (+4930xxxxx) ohne Sonderzeichen und ohne Leerzeichen
+Bildschirmname(falls vorhanden)
+wie SIP-ID/Benutzer
+Authentifizierungsname/Benutzername
+anonymous@t-online.de oder E-Mail-Adresse, z. B. ihr-name@t-online.de (in Kleinschreibung)
+Passwort
+bei anonymous@t-online.de kein Passwort oder das Passwort für Ihren E-Mail-Alias
+SIP-Proxy
+tel.t-online.de
+Registrar
+tel.t-online.de
+Realm
+tel.t-online.de
+STUN-Server
+stun.t-online.de
+Outbound-Proxy
+leer lassen oder ebenfalls tel.t-online.de
+Portfreischaltungen bei Einsatz einer Firewall oder eines Routers für die IP-Telefonie
+UDP (out)
+Ports 5060, 30000-31000, 40000-41000, 3478, 3479
+UDP (in)
+Ports 5070, 5080, 30000-31000, 40000-41000
+TCP (out)
+Port 80, 443
+

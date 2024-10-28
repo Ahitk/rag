@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/konfiguration
+
+Question: Wie konfiguriere ich die Speedbox?
+Answer: Wie konfiguriere ich die Speedbox?
+
+Question: Was kann ich tun, wenn ich nicht auf die Konfigurationsseite meiner Speedbox komme?
+Answer: Bitte prüfen Sie, ob...
+Gut zu wissen:Um zu prüfen, ob Ihr Gerät überhaupt mit der Speedbox verbunden ist, öffnen Sie die WLAN-Einstellungen Ihres mobilen Geräts.
+• die Stromanzeige der Speedbox unterbrechungsfrei leuchtet. Falls nicht, schalten Sie die Speedbox ein.
+• das Gerät so eingestellt ist, dass es automatisch eine IP- und eine DNS-Server-Adresse abruft.
+• die LAN-Anzeige unterbrechungsfrei leuchtet oder blinkt, wenn das Gerät über ein Netzwerkkabel mit der Speedbox verbunden ist.
+

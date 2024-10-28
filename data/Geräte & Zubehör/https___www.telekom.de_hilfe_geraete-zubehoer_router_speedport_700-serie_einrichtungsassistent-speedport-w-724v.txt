@@ -1,0 +1,27 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/einrichtungsassistent-speedport-w-724v
+
+Question: Wie nutze ich den Einrichtungsassistenten des Speedport W 724V?
+Answer: Wenn die automatische Konfiguration Ihres Speedport Routers nicht wie gewohnt funktioniert, erfahren Sie auf dieser Seite, wie Sie mithilfe des Einrichtungsassistenten des Speedport W 724V Ihren Internetzugang und die IP-Telefonie einrichten. Dafür erläutern wir Ihnen, wie Sie das Einrichtungsprogramm des Speedport aufrufen, die Internetverbindung einrichten, und abschließend die Einrichtung der Telefonie vornehmen.
+Einrichtungsprogramm aufrufen
+1.Zunächst benötigen Sie Zugriff auf das Einrichtungsprogramm des Speedport W 724V. Hierfür geben Sie in Ihren Internet-Browser (z. B. Firefox oder Internet Explorer) in die Adresszeile Folgendes ein:http://speedport.ipoderhttp://192.168.2.1
+
+2.Es öffnet sich die Startseite des Einrichtungsprogramms. Tragen Sie in das Feld "Gerätepasswort" das Gerätepasswort Ihres Speedport W 724V ein. Sie finden das Gerätepasswort des Speedport W 724V auf der Rückseite des Gerätes.
+3.Klicken Sie rechts unten auf "Login"
+
+Einrichten der Internetverbindung
+4.Nach der Eingabe des Gerätepasswortes befinden Sie sich auf der Startseite des Einrichtungsprogrammes. Sie können mit der Einrichtung beginnen. Klicken Sie auf "Assistent starten".
+
+5.Es folgt die Abfrage der Zugangsdaten. Tragen Sie in die jeweiligen Felder die Anschlusskennung, Ihre Zugangsnummer und das persönliche Kennwort ein.
+6.Unter Router-Einstellungen wählen Sie "Immer online".Hinweis: Wählen Sie die Option "Immer online" aus, wenn Sie über Ihre Internet-Telefonnummer dauerhaft erreichbar sein wollen. Alte Tarife, die eine zeitbasierte Abrechnung vorsehen, verursachen bei Auswahl dieser Option Kosten. Bitte überprüfen Sie gegebenenfalls, ob Sie einen Flatrate-Tarif ohne zeitliche Begrenzung nutzen.
+7.Klicken Sie auf "Speichern"
+
+Nun wird die Internetverbindung anhand der von Ihnen gemachten Eingaben getestet.
+Einrichten der Telefonie
+8.Nachdem die Internetverbindung erfolgreich eingerichtet wurde, können Sie mit der Einrichtung der Telefonie beginnen. Klicken Sie rechts unten im Einrichtungsprogramm auf "Telefonie-Assistent" starten.
+
+9.Es folgt die Abfrage Ihrer Rufnummern. Tragen Sie in die dafür vorgesehen Felder Ihre Rufnummern ein. Sie können diese in dem Format "0123456789" eingeben.
+10.Klicken Sie auf "Prüfen". Die eingegebenen Rufnummern werden nun registriert.
+
+Alle notwendigen Einstellungen sind nun vorgenommen. Sie können den Internetzugang und die Telefonie an Ihrem Anschluss nutzen.
+Nutzen Sie ein Smartphone? Dann können Sie dieMeinMagenta Appfür die Einrichtung Ihres Anschlusses nutzen.
+

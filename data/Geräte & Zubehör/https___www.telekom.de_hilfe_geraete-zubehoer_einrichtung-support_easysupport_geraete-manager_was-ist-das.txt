@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/geraete-manager/was-ist-das
+
+Question: Was ist der EasySupport Geräte-Manager?
+Answer: Eine Online-Verwaltungsseite für EasySupport geeignete Geräte, auf der Sie grundlegende Geräte-Informationen abrufen und ausgewählte EasySupport Funktionen ausführen können.
+Den Geräte-Manager erreichen Sie direkt über diese Adresse im Kundencenter:www.telekom.de/geraete-manager. Das Kundencenter stellt dabei über das Internet eine sichere Verbindung zu Ihrem Gerät her und führt die gewünschte Funktion aus.
+Aktuell stehen Ihnen folgende Funktionen zur Verfügung:
+Abhängig vom Gerät:
+Diese Funktionen werden ständig erweitert und sind für Telekom Kunden kostenfrei nutzbar.
+• Überblick über die Geräte in Ihrem Heimnetzwerk
+• Link zu weiteren Informationen über EasySupport
+

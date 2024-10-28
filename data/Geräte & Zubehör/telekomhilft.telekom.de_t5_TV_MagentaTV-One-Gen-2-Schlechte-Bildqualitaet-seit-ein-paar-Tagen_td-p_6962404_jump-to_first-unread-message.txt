@@ -1,0 +1,5 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/MagentaTV-One-Gen-2-Schlechte-Bildqualitaet-seit-ein-paar-Tagen/td-p/6962404/jump-to/first-unread-message
+Subject: MagentaTV One Gen.2 - Schlechte Bildqualität seit ein paar Tagen
+Content: Hallo,seit ein paar Tagen beobachte ich beim TV schauen über die MagentaTV One 2. Gen. eine immer wieder auftretende schlechte Bildqualität (verschwommen, verpixelt oder wie man es nennen soll).Die "estimated bandwidth" geht dann immer bis auf unter 2 Mbps runter, normal liegt die bei 80 - 110 Mbps.Der "buffer" liegt bei ca. 10000 ms.Heute habe ich mir eine Aufnahme angeschaut. Da treten die Probleme nicht auf.Die "estimated bandwidth" liegt da wie erwartet immer bei 80 - 110 Mbps.Der "buffer" liegt bei ca. 50000 ms.Mit anderen Streaming Diensten gibt es null Probleme.An meiner DSL Verbindung dürfte es also auch nicht liegen, die ist stabil.Hat jemand ähnliche Beobachtungen gemacht oder weiß, woran es liegt?Nachtrag:Wenn ich im Live TV auf "Replay" gehe, ist das Problem sofort weg.Muss also am Live TV liegen.Grüßetwinsen2
+
+Accepted Solutions:

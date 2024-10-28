@@ -1,0 +1,13 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/FRITZ-Box-5590-Fax-einrichten/td-p/6965295/jump-to/first-unread-message
+Subject: FRITZ!Box 5590 Fax einrichten
+Content: Guten Morgen zusammen, ist dies soweit richtig?ist eine FRITZ!Box 55907.81 FRITZ!osBei Faxkennung steht meine Festnetznummer( eine Alternative )Bei Rufnummern steht die Nummer nochmalHabe das integrierte System von AVM genutzt für FAXJetzt die Frage was würde es kosten wenn man Fax verschicken würde?Habe ein GF 1000
+
+Accepted Solutions:
+- Fax hat geklappt danke👋Anlage von@LudwigII entfernt, wegen vollständiger Fax-Rufnummer.
+- @VonderWulfschrieb:Jetzt die Frage was würde es kosten wenn man Fax verschicken würde?AVM verschickt m. W. überT.38, also FoIP. Kostet dich gar nichts.Viele GrüßeThomas
+- @VonderWulfschrieb:Soweit ich weiß doch ist ja mitMagentaEINS Vorteil verbundenAuch ohne Magenta Eins. Wie beim Zuhause XL.
+- @VonderWulfschrieb:Kennst du die Preise ?Ein Fax versenden ist nichts anderes als ein Telefongespräch zu führen. Wenn du also da eine Flat hast, dann kostet das Fax auch nichts.Es sei denn, du nutzt da einen kostenpflichtigen Dienst von AVM.
+- @VonderWulfschrieb:Kennst du die Preise ?Ein Fax versenden ist nichts anderes als ein Telefongespräch zu führen. Wenn du also da eine Flat hast, dann kostet das Fax auch nichts.Es sei denn, du nutzt da einen kostenpflichtigen Dienst von AVM.
+- @VonderWulfschrieb:Soweit ich weiß doch ist ja mitMagentaEINS Vorteil verbundenAuch ohne Magenta Eins. Wie beim Zuhause XL.
+- @VonderWulfschrieb:Jetzt die Frage was würde es kosten wenn man Fax verschicken würde?AVM verschickt m. W. überT.38, also FoIP. Kostet dich gar nichts.Viele GrüßeThomas
+- Fax hat geklappt danke👋Anlage von@LudwigII entfernt, wegen vollständiger Fax-Rufnummer.

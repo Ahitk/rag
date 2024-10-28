@@ -1,0 +1,48 @@
+Source URL: https://www.telekom.de/netz/glasfaser/glasfaserausbau
+
+Question: Sie wünschen die Glasfaser-Dose an einem anderen Ort?
+Answer: Wenn Sie den Kabelweg zu Ihrem Wunschort vor dem Anschlusstermin der Glasfaser-Dose selbst vorbereiten, verlegen wir bis zu 20 Meter extra Kabelkostenlos.Voraussetzung:Der Kabelweg inkl. möglicher Wand- oder Deckendurchbrüche ist vorbereitet.Kabelweg richtig vorbereiten
+Wir verlegen eine zusätzliche Dose im 10-Meter-Radius zur ersten Dose und übernehmen alle Arbeiten und Materialkosten und kümmern uns um die Aktivierung.Voraussetzung:Es existiert bereits eine Glasfaser-Dose.Kosten:249,99 €Zum Service Installation Glasfaser
+Verlängern Sie den Leitungsweg um bis zu 30 Meter selbst mit unserer einfach zu montierenden Verlängerungsbox. Diese Lösung ist ideal für flexible Eigeninstallationen.Voraussetzung:Es existiert bereits eine Glasfaser-Dose.Kosten:49,99 €Zur Verlängerungsbox
+
+Question: Was ist FTTH, FTTB, FTTC?
+Answer: FTTH
+Fiber to the Home: be­schreibt den direkten An­schluss Ihrer Immo­bilie an das Glas­faser-Netz, wo­durch Sie die höchst­mög­liche Inter­net­ge­schwindig­keit ge­nießen.
+FTTB
+Fiber to the Building: Glas­faser bis ins Ge­bäude, an­schließend über be­stehende Haus­ver­kabelung zu den einzel­nen Ein­heiten.
+FTTC
+Fiber to the Curb: ver­bindet Glas­faser bis zum Ver­teiler­kasten nahe Ihrem Wohn­ort. Von dort aus werden Daten über her­kömm­liche Kupfer­lei­tungen über­tragen, was zu ge­ringeren, aber ver­besser­ten Ge­schwindig­keiten im Ver­gleich zu reinen Kupfer­netz­werken führt.
+
+Question: Meine Nachbarschaft wurde zu einem Ausbaugebiet für Glasfaser erklärt: Was bedeutet das?
+Answer: Wenn Ihr Wohngebiet als Glasfaser-Ausbau-Gebiet gekennzeichnet wird, hat dies bedeutende Vorteile für Sie:
+• Sie erhalten abhängig von der Lage Ihrer Wohnung zukunftsorientiertes, schnelleres und leistungsstärkeres Internet.
+• Durch Fördermittel und spezielle Angebote können Sie bei den Anschluss-Gebühren Geld sparen.
+• Der Wert Ihrer Immobilie steigt durch den Anschluss an das Glasfaser-Netz.
+
+Question: Kann ich als Mietpartei die Kosten für die Glasfaser-Verlegung mit der Vermieterpartei teilen?
+Answer: Ja, das ist grundsätzlich möglich. Allerdings hängt dies von der individuellen Vereinbarung zwischen Ihnen und der Vermietpartei ab. Es empfiehlt sich, dies im Vorfeld zu klären und gegebenenfalls schriftlich festzuhalten, um Missverständnisse zu vermeiden. Bei Bedarf können Sie auch gemeinsam prüfen, welche Fördermöglichkeiten oder Angebote für den Glasfaser-Anschluss verfügbar sind, um die Kosten zu reduzieren.
+
+Question: Welche Router kann ich für den Glasfaser-Anschluss nutzen?
+Answer: Für die optimale Nutzung Ihres neuenGlasfaser-Anschlussesempfehlen wir die folgenden Telekom Router: Speedport Smart 4 Plus oder Speedport Smart 4 in Verbindung mit dem Glasfaser-Modem 2. Sie können auch Router anderer Hersteller nutzen. Allerdings können wir Ihnen die uneingeschränkte Funktionsfähigkeit nicht garantieren. Außerdem benötigen Sie einen passendenGlasfaser-Tarif.
+
+Question: Wo befindet sich der Hausanschluss?
+Answer: Der Glasfaser-Hausanschluss befindet sich in der Regel im Keller oder einem Anschlussraum. Falls das Gebäude keinen Keller hat, legen Sie einen Raum für den Hausanschluss fest. Jedes Gebäude benötigt nur einen Hausanschluss.
+
+Question: Wo wird die Glasfaser-Dose montiert?
+Answer: Der Ort der Montage richtet sich danach, ob Sie in einem Ein- oder Mehrfamilienhaus wohnen:Einfamilienhaus:Bei der kostenfreien Standardmontage wird die Glasfaser-Dose in einem Umkreis von bis zu drei Metern vom Glasfaser-Hausanschluss installiert, dieser liegt meist im Keller.Mehrfamilienhaus:Bei der kostenfreien Standardmontage in einer Wohnung in einem Mehrfamilienhaus verlegen wir vom Hausanschluss aus Steigleitungen im Treppenhaus bis in die Wohnung. Dort erfolgt die Montage der Glasfaser-Dose im Umkreis von drei Metern um die Wohnungstür.Wenn Sie die Glasfaser-Dose an einem anderen Ort, z.B. im Büro oder Wohnzimmer, haben möchten, installieren wir Ihnen die Glasfaser-Dose kostenlos in einem Umkreis von 20 Metern vom Wohnungseintritt, wenn Sie den Leitungsweg entsprechend vorbereitet haben. Wie Sie die Leitungswege vorbereiten müssen, erfahren Sie in unsererAnleitung zur Vorbereitung des Leitungswegs.
+
+Question: Kann ich die Glasfaser-Dose auch an einem Wunschort montiert bekommen?
+Answer: Ja, falls Sie Ihre Glasfaser-Dose an einem anderen Standort haben möchten als bei der Standardmontage, verlegen wir im Rahmen des Anschlusstermins kostenlos bis zu 20 Meter Glasfaser-Kabel in Ihrer Wohnung.Hinweis:Hierfür müssen Sie den Leitungsweg in Ihrer Wohnung vorbereiten. In unsererAnleitung zur Vorbereitung des Leitungswegserklären wir Ihnen, was zu tun ist.Alternativ haben Sie die Möglichkeit, auch nachträglich noch den Standort zu verändern bzw. zu erweitern. Dafür stehen Ihnen zwei Optionen zur Verfügung:
+
+Question: Kommen beim Anschluss Kosten auf mich zu?
+Answer: Die Installation der Glasfaser-Dose innerhalb von drei Metern vom Hausanschluss bei Einfamilienhäusern bzw. vom Wohnungseintritt bei Mehrfamilienhäusern ist Teil der Standardmontage und mit keinen zusätzlichen Kosten verbunden.Die Verlegung der Glasfaser-Dose an einem Wunschort erfordert die Vorbereitung der Leitungswege Ihrerseits und kann demnach mit individuellen Kosten verbunden sein.Sollten Sie sich nach erfolgreicher Standardmontage für einen weiteren Installationspunkt entscheiden, um Ihre Konnektivität zu verbessern, können Sie außerdem unseren ServiceInstallation Glasfaserkostenpflichtig buchen oder dieGlasfaser Verlängerungsboxbestellen.
+
+Question: Was ist der Service „Installation Glasfaser“?
+Answer: Das Service-ProduktInstallation Glasfasersieht es vor, die bereits bei Ihnen angebrachte Glasfaser-Dose an Ihren Wunschort zu verlängern und beinhaltet folgende Leistungsinhalte:
+Leistungsinhalte darüber hinaus werden nach Aufwand verrechnet.
+• Verlegung von zusätzlichen 10 Metern im Klebekanal
+• Ein Wand- oder Deckendurchbruch
+• Ggf. anfallende Spleißarbeiten
+• Installation einer zweiten Glasfaser-Dose am Wunschort
+• Aktivierung Ihres Glasfaser-Anschlusses
+

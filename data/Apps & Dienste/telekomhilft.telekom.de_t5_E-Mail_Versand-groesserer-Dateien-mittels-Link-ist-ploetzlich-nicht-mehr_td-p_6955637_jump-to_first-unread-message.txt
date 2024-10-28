@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Versand-groesserer-Dateien-mittels-Link-ist-ploetzlich-nicht-mehr/td-p/6955637/jump-to/first-unread-message
+Subject: Versand größerer Dateien mittels Link ist plötzlich nicht mehr möglich
+Content: Ich kann auf meinem PC (Windows 10) Emails mit Anhang bis 32 MB wie bisher ohne Probleme versenden. Bei größeren Dateien im Anhang ging dasbisherebenfalls ohne Probleme als LinkMail (Magenta Cloud).Jetzt funktioniert zwar weiterhin das Anfügen größerer Dateien an eine Email. Sobald ich aber "als Linkmail senden" anklicke, erscheint die Störmeldung "Fehler, ihre Email konnte nicht gesendet werden. Erneut senden". Beim Anklicken von "Erneut senden" erscheint wieder die Fehlermeldung.Die Verbindung zwischen Email Center und Magenta Cloud ist allem Anschein nach unterbrochen.Ich habe schon die App Magenta Cloud auf meinem PC entfernt und Magenta Cloud über das Kundencenter wieder neu installiert. Der Fehler ist aber weiterhin vorhanden.Die Updates von Microsoft werden regelmäßig automatisch ausgeführt.Kann mir jemand helfen?
+
+Accepted Solutions:
+- Hallo@HerbertZ,wie ich sehe, hast du schon Alternativen genannt bekommen. Das von dir geschilderte Problem ist bekannt und wir arbeiten im Hintergrund bereits an einer Lösung.Viele GrüßeHeike
+- Hallo@HerbertZ,wie ich sehe, hast du schon Alternativen genannt bekommen. Das von dir geschilderte Problem ist bekannt und wir arbeiten im Hintergrund bereits an einer Lösung.Viele GrüßeHeike

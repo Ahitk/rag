@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/smartphone-tarife/erkennen
+
+Question: Wie erkenne ich, ob ich einen aktuellen Mobilfunk-Tarif habe?
+Answer: Sie haben einen aktuellen Mobilfunk-Tarif, wenn beim Tarifnamen keine Generation dahintersteht.
+Beispiel für einen alten Tarif: MagentaMobil M mit Top-Handy (5. Generation).
+

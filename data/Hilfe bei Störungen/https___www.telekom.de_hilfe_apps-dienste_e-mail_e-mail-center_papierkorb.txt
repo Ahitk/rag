@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/papierkorb
+
+Question: Wie kann ich eine gelöschte E-Mail wiederherstellen?
+Answer: Gelöschte E-Mails können Sie imE-Mail Centeraus dem Papierkorb wieder in einen Ordner Ihrer Wahl verschieben.
+Öffnen Sie den Papierkorb und markieren Sie dort die gelöschte E-Mail. Ziehen Sie diese "mit gedrückter linker Maustaste" in den entsprechenden Ordner und lassen die Maustaste dann los.
+Hinweis:Liegen keine E-Mails mehr im Papierkorb, können diese nicht wiederhergestellt werden. Überprüfen Sie dafür dieSpeicherdauer für E-Mails.
+

@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/glasfaser/erklaerung-ftth-fttb
+
+Question: Was sind FTTH und FTTB?
+Answer: FTTH und FTTB sind verschiedene Anschlusstechniken bei Glasfaser. Der Hauptunterschied liegt darin, ob das Glasfaser-Kabel direkt bis in Ihre Wohnung verläuft oder nur bis zum Gebäude. Daraus ergeben sich Unterschiede bei der maximal möglichen Internet-Geschwindigkeit, den installierten Anschlussdosen in Ihrer Wohnung sowie den notwendigen Geräten wie Router und Modem.
+FTTH: Fiber to the Home
+Die Glasfaser-Leitung reicht vom Verteiler am Straßenrand bis direkt in Ihre Wohnung. Es wird zusätzlich zum Glasfaser-Hausanschluss (Gf-AP) im Keller eine Glasfaser-Dose (Gf-TA) in Ihren Wohnräumen installiert. Diese Dose trägt ein Etikett mit der Aufschrift "Glasfaser" und besitzt einen Anschluss für das Glasfaser-Kabel zum Glasfaser-Modem bzw. zum Glasfaser-Router. Durch die direkte Glasfaser-Verbindung wird bei FTTH die höchstmögliche Bandbreite erreicht.
+FTTB: Fiber to the Building
+Das Glasfaser-Kabel reicht vom Verteiler am Straßenrand bis zum Gebäude und dem Glasfaser-Hausanschluss im Keller. Von dort geht es über die Kupferleitungen der Hausverkabelung weiter bis in die einzelnen Wohnungen oder Wohnräume. Auch bei FTTB wird eine Glasfaser-Dose samt Etikett in Ihrer Wohnung installiert. Allerdings handelt es sich dabei im Gegensatz zu FTTH um eine Dose mit Netzwerkanschluss zur Verbindung mit Ihrem Router. Ein Glasfaser-Modem wird bei FTTB nicht benötigt.
+

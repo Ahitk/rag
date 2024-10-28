@@ -1,0 +1,6 @@
+Question:
+Wie konfiguriert man die Telefonie mit der neuen Weboberfläche und dem Assistenten in der Digitalisierungssbox?
+
+Answer:
+Willkommen zu unserem neuen Digitalisierungssbox Video. Dieses Video zeigt, wie man die Telefonie über die neue Weboberfläche mit Hilfe eines Assistenten konfiguriert. Zunächst müssen Sie sich an der Digitalisierungssbox Weboberfläche anmelden, dann wechseln wir in die Übersicht des Systems, die Willkommenseite im Homebereich. Dann wechseln wir zum Bereich Telefonie, um die Telefoniekonfiguration vorzunehmen. Wir sehen grundlegende Informationen zur Telefonie und wie Rufnummern auf verschiedene Endgeräte verteilt sind. Dann gehen wir in die Einstellungen, wo wir grundlegende Einstellungen für die Telefonie festlegen können, sowie Länder- und zeitzonenbezogene Einstellungen. Dann zeigen wir Ihnen zusätzliche Einstellungen, wie die Funktion "Besetzt-bei-Besetzt". Dann erklären wir die Kalenderfunktionen, mit denen Sie Aktionen auslösen können, wie z.B. das Ändern der Telefonieeinstellungen basierend auf der Uhrzeit. Dann gehen wir in den Bereich Anschlüsse, verwalten und fügen Telefone hinzu und erklären, wie verschiedene Endgerätetypen konfiguriert werden können. Schließlich zeigen wir Ihnen, wie Sie Ihre Konfiguration speichern können. Copyright WDR 2020
+

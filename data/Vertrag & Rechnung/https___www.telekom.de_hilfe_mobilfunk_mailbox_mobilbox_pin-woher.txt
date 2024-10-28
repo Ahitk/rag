@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mailbox/mobilbox/pin-woher
+
+Question: Woher bekomme ich meine Mobilbox-PIN/Geheimzahl?
+Answer: Ihre Mobilbox-Geheimzahl ist voreingestellt. Es sind die letzten vier Ziffern der SIM-Kartennummer vor dem Bindestrich.
+Beispiel:XXXX3953-0
+

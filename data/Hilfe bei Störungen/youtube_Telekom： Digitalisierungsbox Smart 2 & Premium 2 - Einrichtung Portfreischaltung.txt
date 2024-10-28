@@ -1,0 +1,6 @@
+Question:
+Was ist unter dem IP-Mac-Binding zu verstehen und warum ist es wichtig für die Portfreischaltung?
+
+Answer:
+Wilkommen zu dieser kurzen Zusammenfassung des Videos zur Portfreischaltung auf lokale Systeme mit der Digitalisierungbox 2. Es wird vorausgesetzt, dass ein Internetanschluss mit öffentlicher, aus dem Internet erreichbarer IPv4-Adresse vorhanden ist. Das Tutorial führt durch den Prozess der Einrichtung einer Portweiterleitung, beginnend mit dem Login in die Digitalisierungsbox 2. Anschließend wird der Bereich Internet und Netzwerk betreten, wo mit Hilfe des Assistenten eine Portweiterleitung eingerichtet wird. Im nächsten Schritt wird der Protokolltyp und der Port für die Freischaltung festgelegt, etwa der Dienst SSH-Server. Weiterhin wird die IP-Adresse des Endgerätes ausgewählt, für das die Freischaltung vorgenommen wird. Zusätzliche Optionen wie die Auswahl der Quellzone, die Wahl der öffentlichen Adresse des Anschlusses oder die Konfiguration des öffentlichen Ports und der entfernten IP-Adresse werden auch erläutert. Schließlich werden die Schritte zur Aktivierung einer statischen IP Adressbindung für das Endgerät, das für die Freischaltung verwendet wird, dargestellt. Vielen Dank für Ihre Aufmerksamkeit.
+

@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/phishing
+
+Question: Was ist Phishing?
+Answer: Beim sogenannten Phishing – zu Deutsch "angeln" – nutzen Online-Kriminelle täuschend echte Köder, um Ihren Opfern persönliche Daten zu entlocken. Als Köder werden bevorzugt Online-Banken, Online-Bezahlsystemen wie z. B. PayPal oder Online-Shopping-Anbieter wie Amazon genutzt. Sind die persönlichen Daten einmal eingegeben, verschaffen sich die Cyber-Kriminellen Zugang zum Benutzerkonto des Phishing-Opfers und richten hohe finanzielle Schäden an.
+
+Question: Was ist nach einem Vorfall zu tun?
+Answer: Sobald Sie wissen, dass Sie Opfer einer Phishing-E-Mail oder -Website geworden sind, sollten Sie umgehend Maßnahmen ergreifen:
+• Ändern Sie die Kennwörter oder PINs für alle Online-Konten, die möglicherweise gefährdet sind und lassen Sie zudem Ihre TAN-Liste sperren.
+• Melden Sie sich alsIdentitätsbetrugsopfer bei der SCHUFAund wenden Sie sich direkt an Ihre Bank.
+• Informieren Sie unbedingt das betroffene Unternehmen und klicken Sie nicht auf den Link in der betrügerischen E-Mail.
+• Wenn eines Ihrer Konten verwendet oder ein Konto in Ihrem Namen eröffnet wurde, schließen Sie dieses.
+• Überprüfen Sie Ihre Konto- oder Kreditkartenauszüge regelmäßig auf Zahlungen oder Anfragen, die nicht von Ihnen stammen.
+• Für den Fall, dass Unbekannte bereits Geld von Ihrem Konto abgebucht haben, erstatten Sie Anzeige bei der Polizei. Versuchen Sie nicht vorhandene Schad-Software zu deinstallieren oder Dateien zu reparieren, da diese als Beweismittel für die Polizei benötigt werden könnten.
+

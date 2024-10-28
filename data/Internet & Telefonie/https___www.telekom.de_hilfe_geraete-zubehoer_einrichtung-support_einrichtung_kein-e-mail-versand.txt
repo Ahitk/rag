@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/kein-e-mail-versand
+
+Question: Ich kann von zu Hause keine E-Mails versenden. Was kann ich tun?
+Answer: Die Lösung ist oft eine Konfiguration Ihres Speedport Routers. Auf dieser Seite erklären wir Ihnen, was Sie schnell und einfach tun können.
+

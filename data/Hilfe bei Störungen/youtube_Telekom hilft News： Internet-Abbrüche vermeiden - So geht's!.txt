@@ -1,0 +1,6 @@
+Question:
+Was ist aus Ihrer Sicht der häufigste Grund für eine Schwankung der Internetgeschwindigkeit?
+
+Answer:
+Thomas von Telekom erklärt, dass Internetgeschwindigkeitsschwankungen oft durch defekte oder ungeeignete Kabel, die den Hausanschluss verbinden, verursacht werden können. Als hauptsächlicher Grund wird die sogenannte "Entleitung" genannt. Es gibt drei Arten von Leitungen: Ein von der Telekom verwendetes Kabel, das immer geeignet ist, ein Netzwerkkabel, das als Alternative funktioniert und ein Elektrikerkabel, das nicht mehr geeignet ist. Es wird empfohlen, das Kabel ohne Unterbrechungen und nicht zu nah an elektrischen Leitungen zu verlegen. Ein Entleitungsflyer kann auf Wunsch zur Verfügung gestellt werden, um weitere Informationen und einen Link zum Bestellen des Kabels zu erhalten.
+

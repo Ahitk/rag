@@ -1,0 +1,36 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/tarife-optionen/sicherheitspaket/systemvoraussetzungen
+
+Question: Welche Systemvoraussetzungen benötige ich für das Telekom Sicherheitspaket?
+Answer: Sie können das Telekom Sicherheitspaket mit der aktuellen Norton-Software nutzen, wenn folgende Systemanforderungen an das Betriebssystem bzw. den verwendeten Browser erfüllt sind
+Hinweis:Das Telekom Sicherheitspaket ist nicht kompatibel mit Chromebooks, Amazon Geräten (Kindle/Fire) und Huawei Geräten.
+
+Microsoft Windows
+Betriebssysteme:
+Windows 11Windows 10 (alle Versionen)Windows 8/8.1 (alle Versionen)Microsoft Windows 7 (alle Versionen) ab Service Pack 1 (SP mit SHA2-Unterstützung)
+Prozessor:
+Windows 11/10/8/7: 1 GHz
+RAM:
+Windows 11/10: 2 GBWindows 8/7: 1 GB (32 Bit) bzw. 2 GB (64 Bit)
+Festplattenspeicher:
+300 MB freier Speicher
+Apple macOS
+iMacs und MacBooks, auf denen die aktuelle oder eine der beiden unmittelbaren Vorgängerversionen von Apple macOS installiert ist.
+Hinweis:Es wird eine Internet-Verbindung für "LiveUpdate" benötigt.
+Prozessor:
+Intel Core 2 DuoCore i3Core i5Core i7 oder Xeon
+RAM:
+2 GB RAM
+Festplattenspeicher:
+300 MB freier Speicher
+Apple iOS und iPadOS
+iPhones und iPads, auf denen die aktuelle oder eine der beiden unmittelbaren Vorgängerversionen von Apple iOS installiert ist.
+
+Google Android
+Hinweis:Die Google Play App muss installiert sein.
+Betriebssystem:
+Android ab Version 8.0
+Festplattenspeicher:
+50 MB freier Speicher
+Unterstützte Browser
+Google Chrome, Microsoft Edge, Mozilla Firefox, Apple Safari, Android Standard, Samsung Standard.
+

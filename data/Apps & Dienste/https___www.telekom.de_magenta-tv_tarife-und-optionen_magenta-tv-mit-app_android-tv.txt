@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-app/android-tv
+
+Question: Brauche ich Zusatzhardware, um MagentaTV auf einem TV Gerät mit Android TV zu nutzen?
+Answer: Nein, MagentaTV läuft direkt auf dem TV-Gerät als App. Hierfür brauchst du keine zusätzliche Hardware. Dein TV Gerät sollte über Android TV ab Version 7.1 verfügen.
+
+Question: Welche Auflösungen werden auf meinem Android TV von MagentaTV unterstützt?
+Answer: Du kannst ausgewählte Video on Demand Inhalte bei MagentaTV+ sowie Heimkino in 4K-Qualität ansehen.
+
+Question: Wie werden die Aufnahmen bei MagentaTV gespeichert?
+Answer: Wenn du Aufnahmen bei MagentaTV machen möchtest, so werden diese in der Cloud gespeichert. Dort kannst du bis zu 50h (Flex Tarif) oder auch bis zu 100h (Smart, SmartStream und MegaStream) aufzeichnen. Die Aufzeichnungen werden auf deinem Android TV Gerät selbst nicht gespeichert.
+
+Question: Welcher Tarif wird zur Nutzung auf meinem Android TV Gerät benötigt?
+Answer: Du kannst MagentaTV auf deinem Gerät mit Android TV mit allen MagentaTV Tarifen nutzen (außer MagentaTV Basic). Solltest du bereits Telekom Kunde sein, kannst duMagentaTV Zubuchoptionenhinzufügen. So kannst du die App auf Android TV Geräten verwenden. Du kannst die Buchung direkt imKundencentervornehmen.
+

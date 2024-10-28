@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/alternative-anmeldung-dect
+
+Question: Ich habe keine Anmeldetaste an meinem Speedport. Wie funktioniert eine alternative Anmeldung?
+Answer: Öffnen Sie über Ihren Internetbrowser die Seitehttp://speedport.ip.
+

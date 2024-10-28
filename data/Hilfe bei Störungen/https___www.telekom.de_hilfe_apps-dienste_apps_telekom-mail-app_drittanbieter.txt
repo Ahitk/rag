@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/drittanbieter
+
+Question: Wie nutze ich Postfächer anderer E-Mail-Anbieter über die Telekom Mail App?
+Answer: Wenn Sie E-Mails eines anderen Anbieters über die Telekom Mail App einsehen möchten, richten Sie in dem jeweiligen Drittanbieter-Postfach eine automatische Weiterleitung an Ihr Telekom Mail Postfach ein.
+Alternativ nutzen Sie die Mail App des jeweiligen Anbieters oder die vorinstallierte Mail App auf Ihrem Gerät (z. B. AppleMail oder die Android-Mail-App) über IMAP. Informieren Sie sich dazu auf den Hilfeseiten des jeweiligen Anbieters. Kunden mit Homepage-Postfächern erhalten über dasHomepage Centerder Telekom weitere Informationen.
+

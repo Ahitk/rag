@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/esim-direct
+
+Question: Was ist "eSIM direct"?
+Answer: "eSIM direct" ist eine Möglichkeit, eine eSIM zu aktivieren. Dazu wird die eSIM im Gerät über die EID direkt mit dem eSIM-Profil verknüpft. Das erfolgt entweder schon direkt bei der Gerätebestellung oder nachträglich bei der Bestellung der eSIM im Kundencenter. So kann das eSIM-Profil auch ohne das Scannen eines QR-Codes automatisch über das WLAN auf die eSIM geladen werden.
+

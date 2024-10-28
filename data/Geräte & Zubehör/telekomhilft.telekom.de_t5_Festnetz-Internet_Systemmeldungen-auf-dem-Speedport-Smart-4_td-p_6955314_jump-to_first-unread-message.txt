@@ -1,0 +1,5 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Systemmeldungen-auf-dem-Speedport-Smart-4/td-p/6955314/jump-to/first-unread-message
+Subject: Systemmeldungen auf dem Speedport Smart 4
+Content: Hallo,ich erhalte auf dem Speedport Smart 4 unter > SYSTEM > SYSTEMINFORMATIONEN > SYSTEMMELDUNGEN regelmäßig (täglich etwa zur gleichen Uhrzeit) fast gleichlautenden Meldungen, wie28.09.2024 14:59:54 (ME104) Router sendet Präfix 2003:f6:7f0c:24ae::/64 ins LAN27.09.2024 15:01:42 (ME104) Router sendet Präfix 2003:f6:7f0c:247e::/64 ins LAN usw.Was hat das zu bedeuten? Zurzeit habe ich meinen Apple MacMini bzw. den Drucker nur über WLAN verbunden, da früher mit einem LAN-Kabel die Verbindung manchmal etwas "wackelig" war, die WLAN-Verbindung hingegen ist sehr stabil und ausreichend schnell.Danke für die Antwort.
+
+Accepted Solutions:

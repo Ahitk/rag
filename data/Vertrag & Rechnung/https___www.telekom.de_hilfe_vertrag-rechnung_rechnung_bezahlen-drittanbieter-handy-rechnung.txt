@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/bezahlen-drittanbieter-handy-rechnung
+
+Question: Wie kann ich Dienste von Drittanbietern über meine Handy-Rechnung bezahlen?
+Answer: Sie können die Kosten für Drittanbieterdienste wie Apps, Spiele, Musik, Filme oder E-Books einfach über Ihre Mobilfunk-Rechnung bezahlen, indem Sie die Handy-Rechnung als Zahlungsmethode auf Ihrem mobilen Gerät wie folgt einstellen.
+Einrichtung auf iOS-GerätenEinstellungen > Eigenen Namen antippen > Zahlung & Versand > Zahlungsmethode hinzufügen > Auswahl "Handyrechnung"
+Einrichtung auf Android-GerätenGoogle Play App > Profilsymbol antippen > Zahlungen & Abos > Zahlungsmethode hinzufügen > Auswahl "Abrechnungsinformationen für Telekom hinzufügen"
+Hinweis: Bei Prepaid-Verträgen wird der Rechnungsbetrag direkt von Ihrem Guthaben abgezogen.
+

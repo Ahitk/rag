@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Smart-4-Mesh-hinter-Hardware-Firewall/td-p/6957354/jump-to/first-unread-message
+Subject: Speedport Smart 4 Mesh hinter Hardware Firewall
+Content: Hallo zusammen,ich weiß das ich einen Speedport Smart hinter einen anderen Router/Firewall schalten kann (DHCP aus und Ip zuweisen).Kann mir jemand sagen ob in dem Modus das Mesh noch funktioniert? Habe 3 Speed Home WLAN am Speedport Smart angeschlossen.Danke
+
+Accepted Solutions:
+- @Gelöschter Nutzerschrieb:ann mir jemand sagen ob in dem Modus das Mesh noch funktioniert? Habe 3 Speed Home WLAN am Speedport Smart angeschlossenJa! Weil das Mesh eigenständig weiterhin über den Speedport läuft
+- @Gelöschter Nutzerschrieb:ich weiß das ich einen Speedport Smart hinter einen anderen Router/Firewall schalten kann (DHCP aus und Ip zuweisen).Kann mir jemand sagen ob in dem Modus das Mesh noch funktioniert?Sollte weiter funktionieren.😎
+- @Gelöschter Nutzerschrieb:ich weiß das ich einen Speedport Smart hinter einen anderen Router/Firewall schalten kann (DHCP aus und Ip zuweisen).Kann mir jemand sagen ob in dem Modus das Mesh noch funktioniert?Sollte weiter funktionieren.😎
+- @Gelöschter Nutzerschrieb:ann mir jemand sagen ob in dem Modus das Mesh noch funktioniert? Habe 3 Speed Home WLAN am Speedport Smart angeschlossenJa! Weil das Mesh eigenständig weiterhin über den Speedport läuft

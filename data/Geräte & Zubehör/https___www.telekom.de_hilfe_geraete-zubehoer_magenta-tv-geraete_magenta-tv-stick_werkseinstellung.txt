@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-stick/werkseinstellung
+
+Question: Wie kann ich die Werkseinstellungen für meinen MagentaTV Stick wiederherstellen?
+Answer: Sie haben zwei Möglichkeiten Ihren MagentaTV Stick auf Werkseinstellungen zurückzusetzen.
+Wir empfehlen den Werksreset über die Software.
+

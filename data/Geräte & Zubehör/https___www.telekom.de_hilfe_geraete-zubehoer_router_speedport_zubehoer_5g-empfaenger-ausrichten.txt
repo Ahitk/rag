@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/zubehoer/5g-empfaenger-ausrichten
+
+Question: Wie richte ich den 5G-Empänger aus?
+Answer: Auf unserer Internet-SeiteT-Mapkönnen Sie nach Eingabe Ihrer Adresse die Richtung zu Ihrem passenden Sendemast unter "Informationen zu Hybrid" anzeigen lassen, damit Sie den 5G-Empfänger richtig platzieren können. Die LEDs am 5G-Empfänger zeigen an, in welchem Status sich das Gerät befindet.
+LED leuchtet grün oder gelbVerbinden Sie den 5G-Empfänger mit dem Speedport Smart 4 und führen Sie einen "Speedtest" durch. Die Geschwindigkeit kann im Vergleich zu vorher bereits so hoch sein, dass weitere Maßnahmen nicht erforderlich sind.
+LED blinkt gelb oder leuchtet nichtBlinkt die LED gelb oder leuchtet nicht, probieren Sie einen anderen möglichen Montageort aus. Dabei ist die Drehung des 5G-Empfängers nicht so entscheidend, wie die Gebäudeseite und die Höhe der Anbringung.
+Hinweis: Um andere Störquellen auszuschließen, sollten Sie den Speed-Test mit einem PC oder Laptop per LAN durchführen.
+Signalstärke (dBm)Die Signalstärke (dBm) werden im Status-Menü des Speedport Smart 4 angezeigt. Werte zwischen -100 dBm und -50 dBm sollten eine Stabile und schnelle Verbindung ermöglichen. Je näher der Wert bei null liegt, desto besser ist der Empfang.
+

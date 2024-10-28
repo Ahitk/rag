@@ -1,0 +1,19 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/kontakt/abfrage-daten
+
+Question: Welche Daten werden abgefragt?
+Answer: Um Auskünfte zu geben oder Änderungen durchführen zu können, fragen wir in den meisten Fällen nach 2 Kriterien, mit denen wir Ihre Identität überprüfen:
+Ausnahmen bilden die folgenden Fälle:
+• Ihrer Kundennummer
+• den letzten 6 Stellen Ihrer IBAN
+• Falls Sie für Ihren Mobilfunk-Vertrag ein Kundenkennwort oder die Sprach-ID nutzen, fragen wir nach diesen Daten.
+• Falls uns für Ihren Vertrag kein SEPA-Mandat und damit keine IBAN vorliegt, fragen wir zusätzlich zur Kundennummer nach Buchungskonto, Kundenkonto oder Zugangsnummer.
+
+Question: Wo finde ich diese Daten?
+Answer: Kundennummer, Buchungskonto und Kundenkonto finden Sie auf Ihrer Telekom Rechnung bzw. imKundencenteroder derMeinMagenta Appim Bereich Ihrer Profil- bzw. Vertragsdaten. Ihre Zugangsnummer haben Sie bei Vertragsabschluss mit den Vertragsunterlagen erhalten. Die letzten 6 Stellen der IBAN finden Sie in Ihren Bankunterlagen und auf Ihrer Bankkarte.
+
+Question: Sind diese Daten sicher?
+Answer: Ja, auf Rechnungen und in E-Mails werden die letzten Ziffern der abgefragten Nummern wie z. B. Ihre IBAN nicht ausgeschrieben, sondern mit einem "X" unkenntlich gemacht. So können Sie sicher sein, dass niemand, der ggf. Ihre Rechnung findet, in Ihrem Namen mit uns Kontakt aufnimmt und Änderungen an Ihrem Vertrag oder Ihren Daten durchführen kann.
+
+Question: Welche rechtlichen Grundlagen gibt es für die Abfrage?
+Answer: Als Telekom sind wir gesetzlich dazu verpflichtet, eine Authentifikation durchzuführen, bevor z. B. Auskünfte zu Rechnungsdaten gegeben oder Änderungen an Vertragsdaten durchgeführt werden. Der Gesetzgeber fordert zur Datenabfrage die Verwendung von Informationen, die nicht in der Rechnung lesbar aufgeführt sind. Deswegen nutzen wir u. a. Ihre IBAN, die auf der Rechnung verkürzt angezeigt wird und nur Ihnen und uns in voller Länge bekannt ist.
+

@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/schnurlose-geraete-anmelden
+
+Question: Wie melde ich schnurlose (DECT) Geräte am Speedport an?
+Answer: Um ein DECT-Telefon an Ihrem Speedport anzumelden, schauen Sie bitte in der Bedienungsanleitung des Telefons nach.
+Nachdem Sie den Anmeldevorgang Ihres Telefons gestartet haben, drücken Sie die Taste „Anmelden“ auf Ihrem Speedport-Router.Ihr Speedport-Router hat keine Anmelden-Taste?Zur alternativen Anmeldung Ihres DECT-Geräts.
+Anmeldung eines SpeedphonesWählen Sie im Menü des Speedphones bitte "Einstellungen > Einstellungen Router > Anmeldung".
+Hinweis: Im Konfigurationsmenü Ihres Speedport können Sie im Bereich "Telefone" dem angemeldeten Gerät anschließend Rufnummern zuordnen.
+

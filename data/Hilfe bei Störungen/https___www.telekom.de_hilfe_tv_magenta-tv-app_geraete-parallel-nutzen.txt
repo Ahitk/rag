@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/tv/magenta-tv-app/geraete-parallel-nutzen
+
+Question: Wie viele Geräte kann ich parallel mit der MagentaTV App nutzen?
+Answer: Die MagentaTV App können Sie auf bis zu 5 Geräten (PC, Tablet, Smartphone, Smart TV, Google Chromecast,MagentaTV Geräte, Amazon Fire TV Stick, usw.) anmelden und es sind 3 gleichzeitige Streams möglich.
+Hinweis:Wenn Sie Google Chromecast verwenden, ist zusätzlich eine Anmeldung auf dem damit verbundenen Gerät (Fernseher oder PC/Laptop) notwendig, daher zählt diese Kombination als 2 Anmeldungen/Streams.
+

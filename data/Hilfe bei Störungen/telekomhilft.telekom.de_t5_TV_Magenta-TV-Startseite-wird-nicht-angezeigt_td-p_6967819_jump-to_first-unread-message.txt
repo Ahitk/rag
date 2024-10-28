@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Magenta-TV-Startseite-wird-nicht-angezeigt/td-p/6967819/jump-to/first-unread-message
+Subject: Magenta-TV Startseite wird nicht angezeigt.
+Content: Magenta-TV startet normal, aber statt der Startseite ist nur ein bläulich-gräulicher Bildschirm zu sehen und der Ton des eingestellten Fernsehprogramms. Neustart, nachdem Router und Mediareciever mehr als 20 Minuten vom Stromnetz genommen wurden,  wurde bereits durchgeführt; ebenso manuelles Software-Update. Leider ohne Erfolg.
+
+Accepted Solutions:
+- Wohl allgemeine Störung, mittlerweile wieder behoben.
+- Allgemeine Störung, scheint aber behoben.
+- Allgemeine Störung, scheint aber behoben.
+- Wohl allgemeine Störung, mittlerweile wieder behoben.

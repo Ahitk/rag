@@ -1,0 +1,12 @@
+Question:
+Wie konfiguriere ich den Telefonieassistenten der Digitalisierungssbox?
+
+Answer:
+In diesem Digitalisierungsbox Premium Video wird gezeigt, wie man den Telefonieassistenten konfiguriert. Zunächst ist die Anmeldung am Webinterface der Digitalisierungsbox erforderlich. Im Reiter Telefonie werden die wichtigsten Informationen sowie die Geräte und Telefonanschlüsse, die konfiguriert und verwaltet werden können, beschrieben. 
+
+Es werden Funktionen wie die Verwaltung von Anschlüssen, die Erstellung von Benutzern in der Telefonanlage und die Erstellung interner Nebenstellen vorgestellt. Es wird auch erläutert, wie Endgeräte erstellt und diesen internen Rufnummern zugeordnet werden können. Weitere Funktionen wie eine Kalenderfunktion, eine Tag-Nachtschaltung, eine Rufverteilung und grundlegende Einstellungsoptionen werden beschrieben.
+
+Anschließend werden die Optionen zur Konfiguration von Ländereinstellungen und Präfixen für verschiedene Länder besprochen. Es wird darauf hingewiesen, wie man Anschlüsse für verschiedene Anbieter einrichten kann und wie man Benutzer in der Telefonanlage hinzufügen kann. Es wird auch erklärt, wie man interne Rufnummern erstellt und diesen Benutzern zuweist.
+
+Abschließend wird gezeigt, wie man Endgeräte hinzufügt, eine Zeit-basierte Automatisierung konfiguriert und die Rufverteilung entsprechend den verschiedenen Zeitzonen so einstellt, dass Stundenlange Anrufe erfolgen können. Es ist zu beachten, dass alle vorgenommenen Konfigurationen speicherfest gesichert werden müssen.
+

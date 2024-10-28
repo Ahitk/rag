@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/geraetehersteller
+
+Question: Welche Gerätehersteller unterstützt die MagentaZuhause App?
+Answer: In der MagentaZuhause App werden nahezu alle Gerätehersteller unterstützt, die auch in SmartHome integriert sind. Mit der kontinuierlichen Weiterentwicklung der App werden weitere Anbieter und Geräte folgen.
+Welche Geräte mit der MagentaZuhause App genutzt werden können und welche Zentrale sich dafür eignet, sehen Sie in derListe der kompatiblen Geräte.
+

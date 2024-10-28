@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/e-mail
+
+Question: Wie kann ich meine Festnetz- oder Mobilfunk-Rechnung per E-Mail bekommen?
+Answer: Sie können Ihre E-Mail-Adresse für den Rechnungsversand bei Ihrem Festnetz- und Mobilfunk-Vertrag ganz einfach selbst imKundencenteroder perKontaktformulareintragen.
+So geht das im Kundencenter:Anmeldung mit Ihrem Telekom Login > Rechnung & Zahlung > Alle anzeigen > Einstellungen > Rechnungszustellung > Rechnungseinstellungen > Rechnungszustellung über den Stift bearbeiten > Rechnung per E-Mail > E-Mail-Adresse eintragen > Weiter > Absenden
+Hinweis: Um Ihre Daten zu schützen, muss die E-Mail-Adresse im Anschluss verifiziert werden. Sie bekommen einen Link zur neuen E-Mail-Adresse und einen Hinweis an die alte Adresse, dass die Daten geändert wurden. In unserer FAQ zeigen wir Ihnen, wie dieVerifikation Ihrer E-Mail-Adressefunktioniert.
+

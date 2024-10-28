@@ -1,0 +1,10 @@
+Question:
+Wie kann ich ein externes Modem an der Digitalisierungsbox Premium anschließen?
+
+Answer:
+Dieses Video führt durch die erstmalige Einrichtung einer Digitalisierungssbox Premium an einem Telekom MSN Anschluss. Zunächst muss die Verkabelung für Strom und Internetverbindung hergestellt werden, bevor eine etwa 10-minütige automatische Grundkonfiguration abläuft. Danach kann auf das Webinterface der Box zugegriffen werden. Je nach Alter der Box kann ein vordefiniertes Passwort oder ein manuell festgelegtes Passwort erforderlich sein. Geben Sie das Passwort ein und gehen Sie dann zur Auswahl des Gerätemodus. Zwei Modi sind verfügbar: Media Gateway für die Nutzung einer bestehenden Telefonanlage mit VoIP oder PBX für die Box als eigenständige Telefonanlage. 
+
+Nach der Grundinstallation gibt es mehrere Konfigurationsmöglichkeiten. Es ist möglich, direkte Telefon- und Rufnummernverwaltung einzurichten und neben den Grundfunktionen auch zusätzliche Telefonie-Einstellungen vorzunehmen. Darüber hinaus ist es möglich, Endgeräte einzurichten, Benutzer hinzuzufügen, interne Rufnummern zu vergeben und diese den Anschlüssen zuzuordnen, sowie ausgehende Einstellungen festzulegen und ankommende Telefonieeinstellungen vorzunehmen. Abschließend sollten alle Konfigurationen festgespeichert werden.
+
+Das Video betont, dass die Digitalisierungssbox Premium viele weitere Funktionen hat und empfiehlt die Betrachtung weiterer Videos für speziellere Informationen. Sobald Sie die Wiedergabetaste drücken, werden Sie zur Website digitalisierungssboxspock-minus-L-Mag.com weitergeleitet, auf der Sie das gewünschte Modell auswählen und entsprechende Videos sehen können.
+

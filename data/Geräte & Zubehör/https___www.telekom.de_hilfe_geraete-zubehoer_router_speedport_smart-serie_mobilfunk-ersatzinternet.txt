@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/smart-serie/mobilfunk-ersatzinternet
+
+Question: Wie kann ich einen Internetzugang über das Mobilfunk-Netz während einer Festnetzstörung am Speedport Smart 3, Smart 4 oder Speedport Smart 4 Plus herstellen?
+Answer: Voraussetzung dafür ist das Vorhandensein einesSpeedport Smart 3, Smart 4 oder Speedport Smart 4 PlusRouters als Festnetz-Router, der diese Funktion unterstützt.
+
+Ob Ihr Festnetz-Router eines dieser genannten Modelle ist, lässt sich einfach herausfinden. Der Router-Modellname wird unter dem mitgelieferten Standfuß angezeigt.
+Ist das richtige Modell vorhanden, können Sie entweder Ihr Handy/Tablet, oder das MagentaZuhause Schnellstart-Paket mit dem Speedport verbinden.
+

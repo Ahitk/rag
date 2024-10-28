@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Verbindung-nach-Glasfaser-Installation-weg/td-p/6941357/jump-to/first-unread-message
+Subject: Verbindung nach Glasfaser Installation weg
+Content: Guten Tag,ich habe soeben meinen Router mit dem Glasfaser Modem verbunden. Nun funktioniert keine Verbindung mehr, weder LAN Kabel noch WLAN.Kann es eventuell einige Stunden dauern bis die Verbindung hergestellt ist?LG Tommy
+
+Accepted Solutions:
+- @Tommy1995schrieb:könnte nicht an das DSL Kabel gedacht zu haben.das musst DU abziehen, Router neu starten.Die Einrichtung GF ist ordnungsgemäß gelaufen?
+- @Tommy1995schrieb:könnte nicht an das DSL Kabel gedacht zu haben.das musst DU abziehen, Router neu starten.Die Einrichtung GF ist ordnungsgemäß gelaufen?

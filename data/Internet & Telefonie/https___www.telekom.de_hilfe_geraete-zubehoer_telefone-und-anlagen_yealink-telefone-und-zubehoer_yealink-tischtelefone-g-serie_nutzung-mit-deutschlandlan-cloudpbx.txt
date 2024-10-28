@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/yealink-telefone-und-zubehoer/yealink-tischtelefone-g-serie/nutzung-mit-deutschlandlan-cloudpbx
+
+Question: Kann ich die Telefone nur mit DeutschlandLAN CloudPBX verwenden?
+Answer: Die Geräte sind grundsätzlich offen für alle Dienste, müssen aber manuell konfiguriert werden.Wir möchten als Telekom dem Nutzer eine möglichst einfache Inbetriebnahme ermöglichen, deshalb sind die Geräte vorkonfiguriert.Es wird in Zukunft aber weitere Dienste geben mit denen diese Telefone einfach einzurichten sind.
+

@@ -1,0 +1,16 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/informationen-und-datenschutz/automatische-firmware-updates
+
+Question: Was sind automatische Firmware-Updates?
+Answer: Mit automatischen Firmware-Updates wird die Firmware Ihres Speedport immer auf dem neuesten Stand gehalten, damit er stets zuverlässig, sicher und leistungsstark am Netz der Telekom arbeitet. Außerdem können Funktionen erweitert werden.
+Ihr EasySupport geeigneter Speedport aktualisiert automatisch seine Firmware, sobald bei der Anmeldung auf dem EasySupport System eine neue Firmware-Version vorliegt. Dazu verbindet er sich regelmäßig (z. B. beim Einschalten und Herstellen der Internetverbindung) mit dem EasySupport System der Telekom. Dabei werden folgende gerätespezifische Daten übermittelt und in den Systemen der Telekom gespeichert:
+Firmware-Updates können mehrmals jährlich stattfinden.
+Aus technischen Gründen kann es vorkommen, dass Ihr Gerät nicht sofort auf die neue Firmware-Version aktualisiert wird, obwohl auf der Telekom Webseite die neue Firmware zum Herunterladen bereitgestellt wurde.
+Manche Firmware-Updates mit wenigen Änderungen werden nicht automatisch übermittelt, sondern nur auf der Telekom Website bereitgestellt.
+Hinweise:Firmware-Updates können einige Minuten dauern. Dabei leuchtet der Schriftzug "Bitte warten!" auf Ihrem Gerät. Während des Update-Vorgangs können Sie nicht telefonieren oder im Internet surfen. Laufende Gespräche oder die Internetverbindung können unterbrochen werden. Außerdem ist der Zugriff auf das Einstellungsprogramm des Speedport nicht möglich. Bitte warten Sie unbedingt bis zum Abschluss des Update-Vorgangs.
+Falls Sie die Funktion "EasySupport" in Ihrem Speedport ausgeschaltet haben, empfehlen wir Ihnen, regelmäßig dieDownload-Webseiteauf neue Firmware-Updates für Ihr Gerät zu prüfen, diese ggf. herunterzuladen und manuell zu installieren.
+Wichtig:Trennen Sie den Speedport während eines Firmware-Updates nicht vom Stromnetz oder Internetanschluss. Dies könnte zur Folge haben, dass der Speedport nicht mehr funktioniert.
+• Hersteller des Gerätes
+• Hardwaretyp und -version
+• Seriennummer
+• Firmware-Version
+

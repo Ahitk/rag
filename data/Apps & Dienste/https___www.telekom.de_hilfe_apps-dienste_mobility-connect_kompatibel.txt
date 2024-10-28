@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/mobility-connect/kompatibel
+
+Question: Woran erkenne ich, dass mein Fahrzeug MobilityConnect unterstützt?
+Answer: Sie können in Ihrer My BMW App oder der Bedienungsanleitung Ihres Fahrzeugs prüfen, ob Ihr Auto MobilityConnect unterstützt. Sie erkennen die Unterstützung, wenn in Ihrem Fahrzeug "Personal eSIM“ verfügbar ist.
+

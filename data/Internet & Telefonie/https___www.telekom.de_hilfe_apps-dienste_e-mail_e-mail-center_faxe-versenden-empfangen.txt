@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/faxe-versenden-empfangen
+
+Question: Kann ich bei der Telekom ohne Faxgerät Faxe versenden und empfangen?
+Answer: Ja, Sie können Faxe mit der Option PC-Fax über das E-Mail Center versenden und empfangen. Voraussetzung für die Nutzung von PC-Fax ist ein Telekom Festnetz-Anschluss.
+

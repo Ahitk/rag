@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/MagentaCLOUD/Speicherbelegung/td-p/6980517/jump-to/first-unread-message
+Subject: Speicherbelegung
+Content: Ich habe 500 GB gebucht, tatsächliche Belegung 126 GB, angezeigte Belegung aber 366 GB.Papierkorb 0.Zweimaliger Versuch die gesamte Cloud als Zip-Datei herunterzuladen, ist gescheitert. Seitdem die hohe Belegung von 366 (vorher 126).Wie kann das korrigiert werden?
+
+Accepted Solutions:
+- Hallo@Moritz11,wie@fdibereits geschrieben hat, braucht die Anzeige einfach ein wenig länger, bis sich diese wieder aktualisiert. Daher bitte etwas Geduld haben.GrußAndré
+- Hallo@Moritz11,wie@fdibereits geschrieben hat, braucht die Anzeige einfach ein wenig länger, bis sich diese wieder aktualisiert. Daher bitte etwas Geduld haben.GrußAndré

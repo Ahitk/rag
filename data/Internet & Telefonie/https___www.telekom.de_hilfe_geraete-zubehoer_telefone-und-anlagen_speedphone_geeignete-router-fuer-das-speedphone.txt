@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/speedphone/geeignete-router-fuer-das-speedphone
+
+Question: An welchen Routern der Telekom kann ich das Speedphone betreiben?
+Answer: Das Speedphone ist für Verbindungen mit dem Speedport Smart, Speedport Smart 2, Speedport Smart 3, Speedport Smart 4, Speedport Smart 4 Plus, Speedport W 723V, Speedport W 724V, Speedport Neo, Speedport Hybrid, Speedport W 921V, Speedport W 921 Fiber, Speedport W 922V, Speedport W 925V, Speedport Pro und Speedport Pro Plus optimiert.
+Voraussetzung für den optimalen Betrieb ist die aktuelle Firmware des Speedport.
+Die Verwendung des Speedphone mit anderen Speedports mit einer DECT-Schnittstelle wird nicht empfohlen.
+Bitte haben Sie Verständnis dafür, dass wir keine verbindlichen Aussagen zu Routern anderer Hersteller treffen können.
+Wenden Sie sich bei diesen Fragen bitte an den jeweiligen Hersteller.
+

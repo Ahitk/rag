@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/magenta-smarthome-pro/soll-ich-home-base-verkaufen
+
+Question: Ich habe einen Speedport Smart Router mit Magenta SmartHome Pro gebucht. Soll ich meine Home Base jetzt verkaufen?
+Answer: In seiner Funktion als Router muss der Speedport Smart in der Nähe des DSL-Anschlusses aufgestellt werden und ist daher im Gegensatz zur Home Base der neuen Generation nicht beliebig frei platzierbar. SmartHome Komponenten mit dem Funkstandard Homematic sind nicht mit dem Speedport Smart kompatibel, für Homematic IP und Zigbee sind ergänzende Funksticks erforderlich. Homematic wird von den Speedports Smart nicht unterstützt.
+Aus den oben genannten Gründen empfehlen wir deshalb, die Home Base weiterhin zu verwenden und die SmartHome Nutzung nicht auf den Speedport Smart umzustellen.Sie benötigen eine detaillierte Übersicht der Leistungsmerkmale unserer Zentralen?
+

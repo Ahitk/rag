@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/mobilfunkstandards/apn
+
+Question: Welche APN-Einstellungen muss ich benutzen, damit das mobile Internet funktioniert?
+Answer: Der APN (Access Point Name = Zugangspunktname) muss in Ihrem Gerät eingetragen sein, um unterwegs Zugang zum mobilen Internet zu haben. Normalerweise werden die richtigen APN-Einstellungen automatisch beim Einsetzen der SIM-Karte bzw. beim Aufspielen des eSIM-Profils im Gerät hinterlegt.
+Unsere APN-Einstellungen lauten wie folgt:
+internet.v6.telekom– Standard-APN für alle aktuellen Smartphones & TabletsAPN Name: Frei wählbarAPN: internet.v6.telekomBenutzername: telekomPasswort: tm
+internet.telekom– APN für ältere Smartphones & TabletsAPN: internet.telekomBenutzername: telekomPasswort: tm
+Hinweis:Bei Apple-Geräten ist das APN-Protokoll bereits voreingestellt. Nutzen Sie ein Android-Gerät, tragen Sie bitte noch zusätzlich folgende Informationen ein:APN Protokoll: IPv4/IPv6APN Roaming Protokoll: IPv4q
+

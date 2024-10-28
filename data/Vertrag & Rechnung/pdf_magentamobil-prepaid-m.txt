@@ -1,0 +1,20 @@
+Here’s a summary of the relevant information from the provided image regarding the **MagentaMobil Prepaid M (Prepaid Mobilfunk)** product offered by Telekom Deutschland:
+
+### Product Overview
+- **Type**: Prepaid mobile tariff that includes telephony, SMS, and internet access.
+
+### Data Transfer Rates
+- **Download Speed**: Up to 300 Mbit/s
+- **Upload Speed**: Up to 50 Mbit/s
+- **Reduced Speed**: After consuming 8 GB of data, speeds will be reduced to 64 kbit/s.
+
+### Free SMS and Minutes
+- **Included Services**: Unlimited voice calls and SMS to all German networks, including landlines.
+
+### Additional Information
+- **Contract Duration**: No fixed contract duration; customers can cancel daily.
+- **Fees**:
+  - **Weekly Charge**: €9.95 every four weeks.
+  - **Activation Fee**: One-time charge of €9.95 (standard) or €10.00 for activation.
+
+This provides an outline of the core features and terms related to the MagentaMobil Prepaid M plan.

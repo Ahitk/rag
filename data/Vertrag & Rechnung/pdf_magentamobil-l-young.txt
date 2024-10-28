@@ -1,0 +1,26 @@
+Here's a summary of the relevant information from the image regarding the "MagentaMobil L Young" telecommunication product:
+
+### Product Overview
+- **Product Type**: Mobile service with voice, SMS, and internet access.
+- **Marketing Start Date**: September 6, 2019.
+
+### Data Transfer Rates
+- **Estimated Maximum Download Speed**: 300 MBit/s
+- **Estimated Maximum Upload Speed**: 50 MBit/s
+- **Speed Reduction After 80 GB Consumption**:
+  - Download: 64 KBit/s
+  - Upload: 16 KBit/s
+
+### Contract Details
+- **Minimum Contract Duration**: 24 months
+- **Cancellation Notice**: One month prior to the end of the contract term.
+
+### Pricing Options
+Monthly fees based on the plan options:
+- **Without Smartphone**: €49.95
+- **With Smartphone**: €59.95
+- **With Top Smartphone**: €69.95
+- **With Premium Smartphone**: €79.95
+- **With Premium Plus Smartphone**: €89.95
+
+For more details on terms and conditions, users should refer to the provided website link.

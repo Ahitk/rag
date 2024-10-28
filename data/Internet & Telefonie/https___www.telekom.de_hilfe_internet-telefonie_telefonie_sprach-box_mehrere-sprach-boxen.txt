@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/sprach-box/mehrere-sprach-boxen
+
+Question: Hat jede meiner Festnetz-Rufnummern eine eigene SprachBox?
+Answer: Nein, Sie erhalten mit einem Telekom Festnetz-Anschluss eine SprachBox, auf welche alle Anrufe weitergeleitet werden können.
+

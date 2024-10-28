@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/geraete-manager/telefonie-automatisch-einrichten
+
+Question: Was bedeutet der Punkt "Telefonie automatisch einrichten"?
+Answer: Mithilfe dieses EasySupport Services können Sie als Telekom Kunde die IP-basierte Telefonie automatisch auf Ihrem Speedport Router einrichten lassen.
+Erfahren Sie, wie Sie die automatische Einrichtung der Telefonie am IP-basierten Anschluss vornehmen.
+

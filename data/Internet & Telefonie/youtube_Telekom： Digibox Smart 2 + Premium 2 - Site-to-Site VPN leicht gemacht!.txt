@@ -1,0 +1,10 @@
+Question:
+Welche Voraussetzungen müssen erfüllt sein, um eine Seiten-zu-Seiten VPN-Verbindung erfolgreich einzurichten?
+
+Answer:
+Willkommen zu unserer Digitalisierungspox 2-Anleitungswebseite. Hier bieten wir Ihnen eine Videoanleitung zur Einrichtung einer Site-to-Site-VPN-Verbindung und Verbindung von zwei oder mehr Standorten. Die erforderlichen Voraussetzungen sind eine öffentliche IPV4-Adresse für beide Standorte und jeweils unterschiedliche Subnetze. Bei dynamischen öffentlichen IP-Adressen wird der zusätzliche Dienst dynamisches DNS verwendet. 
+
+Die erste Phase der Einrichtung konzentriert sich auf die IP-Konfiguration und Netzwerkdetails. Danach beginnt die VPN-Konfiguration, in der wir die lokale ID und die entfernte ID festlegen. Außerdem wird ein sicherer Prechertkey (das Passwort des VPN-Tunnels) eingegeben. Der entfernte Endpoint wird als nächstes konfiguriert, der der öffentlichen IP-V4-Adresse des anderen Standorts entspricht.
+
+Die gleiche Prozedur wird beim zweiten Standort wiederholt. Der VPN-Tunnel befindet sich im Bereitschaftsmodus und die Verbindung wird hergestellt, sobald Datenpakete darüber geroutet werden. Sobald die VPN-Verbindung erfolgreich hergestellt ist, ist der Zugriff auf lokale Ressourcen des jeweils anderen Standorts möglich.
+

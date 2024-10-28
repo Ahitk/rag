@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/internet-ueber-die-steckdose/devolo-dlan-vdsl
+
+Question: Wie kann ich meinen devolo dLAN Adapter für (Super-) Vectoring optimieren?
+Answer: In wenigen Fällen kann die Nutzung von Powerline-Adaptern in Verbindung mit einem VDSL-Anschluss dazu führen, dass die Internetverbindung durch Störsignale zwischen Telefon- und Stromleitung instabil wird. Mit der Softwaredevolo Cockpit(Sie werden weitergeleitet auf www.devolo.de) können Sie Ihre Adapter nun für den Einsatz an Ihrem (Super-) Vectoring-Anschluss optimieren.
+Dadurch werden auch Bild- und Tonstörungen bei MagentaTV behoben.
+Was genau die neue Firmware-Version beinhaltet und wie Sie diese installieren, wird Ihnen in derTelekom hilft Communityerklärt.
+Weitere Informationen finden Sie in dem Ratgeber "Optimale Nutzung von Powerline bei VDSL-Anschlüssen" von devolo.
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/ohne-telekom-e-mail-adresse
+
+Question: Kann ich die Telekom HotSpots auch ohne E-Mail-Adresse @t-online.de nutzen?
+Answer: Sie benötigen keine E-Mail-Adresse @t-online.de. Nutzen Sie bitte zur An- und Abmeldung an Telekom HotSpots die SMS-Funktion (anmelden mit SMS an 9526 mit dem Inhalt "OPEN" und abmelden mit SMS an 9526 mit dem Inhalt "CLOSE") und folgen den weiteren Anweisungen.
+

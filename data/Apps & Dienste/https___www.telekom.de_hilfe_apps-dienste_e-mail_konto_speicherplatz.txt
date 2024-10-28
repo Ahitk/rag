@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/speicherplatz
+
+Question: Wie groß ist mein Postfach und wie viel Speicherplatz ist noch frei?
+Answer: Eine Übersicht der Postfachgröße und des freien Speicherplatzes finden Sie imE-Mail Center. Nach dem Login gehen Sie bitte wie folgt vor:
+Einstellungen (Zahnrad) > Alle Einstellungen anzeigen > Speicher > Speicherplatz
+

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/freemail-alias/td-p/6943583/jump-to/first-unread-message
+Subject: freemail alias
+Content: Hallo,ich bin kein Telekom Kunde und habe mir eine freemail E-Mail Adresse eingerichtet. Zusätzlich habe ich einen Alias@magenta.deeingerichtet. Leider kann ich in der Telekom App nur mit der 1. Adresse senden und empfangen. Für die Magenta Mailadresse habe ich kein separates Passwort. Wie kann ich in der Telekom App auch mit dem Alias senden und empfangen?  Danke
+
+Accepted Solutions:
+- Hallo@Katrinka,herzlich willkommen in der Telekom hilft Community.Wenn Sie in der Telekom Mail App eine e-Mail erstellen, können Sie auf den Eintrag hinter „von:“ klicken und es geht ein Auswahlmenu auf, um die Absenderadresse auszuwählen. Empfangen können Sie sowieso auch mit der anderen Adresse, da es nur ein Alias ist gehen die Mails einfach in Ihrem Postfach ein.Bitte senden Sie sich mal eine Mail an die Alias-Adresse, diese sollte dann im Posteingang erscheinen.Viele Grüße,Coole Katze
+- Hallo@Katrinka,herzlich willkommen in der Telekom hilft Community.Wenn Sie in der Telekom Mail App eine e-Mail erstellen, können Sie auf den Eintrag hinter „von:“ klicken und es geht ein Auswahlmenu auf, um die Absenderadresse auszuwählen. Empfangen können Sie sowieso auch mit der anderen Adresse, da es nur ein Alias ist gehen die Mails einfach in Ihrem Postfach ein.Bitte senden Sie sich mal eine Mail an die Alias-Adresse, diese sollte dann im Posteingang erscheinen.Viele Grüße,Coole Katze

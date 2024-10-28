@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/android/einrichtung-mail-adressbuch-kalender
+
+Question: Wie richte ich Sync-Plus von E-Mails, Adressbuch und Kalender auf meinem Android-Gerät ein?
+Answer: Die Anleitung zur Einrichtung von Sync-Plus auf Ihrem Android-Gerät finden Sie auf unsererSync-Plus Hilfe-Seite. Bitte wählen Sie dort einfach Ihr Gerät aus und folgen Sie den weiteren Schritten.
+

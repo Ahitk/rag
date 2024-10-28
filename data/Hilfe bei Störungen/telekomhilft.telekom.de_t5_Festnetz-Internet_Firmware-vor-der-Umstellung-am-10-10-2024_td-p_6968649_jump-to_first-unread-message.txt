@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Firmware-vor-der-Umstellung-am-10-10-2024/td-p/6968649/jump-to/first-unread-message
+Subject: Firmware vor der Umstellung am 10.10.2024
+Content: Hallo, in meinem Speedport smart 3 ist die dauernde Aktualisierung der Firmware eingestellt. Ich gehe davon aus, dass ich nicht erneut ein Update fahren muss. Ich habe es zwar versucht, jedoch startet der Router immer neu und lässt eine Update nicht zu. Muss ich vor der Umstellung doch noch neue Treiber laden ? Vielen Dank.
+
+Accepted Solutions:
+- Auch dir ein freundliches Hallo@Lothar RVergleiche doch bitte maldie geladene Firmware mit der hier genannten!Grüßle
+- Auch dir ein freundliches Hallo@Lothar RVergleiche doch bitte maldie geladene Firmware mit der hier genannten!Grüßle

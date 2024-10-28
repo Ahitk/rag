@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Pro-Hybrid-WLAN-nicht-sichtbar-WLAN-Leuchte-blinkt/td-p/6946649/jump-to/first-unread-message
+Subject: Speedport Pro Hybrid WLAN nicht sichtbar, WLAN-Leuchte blinkt ständig..
+Content: Hallo,seit gestern ist das WLAN nicht mehr sichtbar.. die WLAN-Leuchte des Routers (Speedport PRO Hybrid) blinkt permanent!!Über LAN ist der Router erreichbar und funktioniert auch einwandfrei (Telefonie, Internet), laut Konfigurationsprogramm ist das WLAN auch aktiviert!. Firmware überprüft, die aktuelle Version ist bereits installiert!Folgendes unternommen:.- mehrere Restarts.- mehrere Resets auf Werkeinstellung + Neueinrichtung.- Stunde vom Strom genommen.Leider ohne Erfolg!Das Gerät ist gemietet und aus meiner Sicht defekt!Hat jemand eine Idee was sonst noch sein könnte?Danke und Gruß
+
+Accepted Solutions:
+- @hweiffenIch würde das Gerät tauschen lassen - dann ist Ruhe.
+- @hweiffenIch würde das Gerät tauschen lassen - dann ist Ruhe.

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/anhaenge-hochladen
+
+Question: Warum funktioniert das Hochladen von Anhängen im E-Mail Center nicht?
+Answer: In den meisten Fällen verursacht eine veraltete Version des Browsers (z. B. Google Chrome oder Mozilla Firefox) dieses Phänomen, wenn dieser HTML5 nicht unterstützt. Nach dem Update des Browsers funktioniert das Hochladen der Anhänge wieder.
+Hinweise und Downloads zu den aktuellsten Browsern finden Sie in dieserBrowserinfo(Sie werden weitergeleitet auf kommunikationsdienste.t-online.de).
+

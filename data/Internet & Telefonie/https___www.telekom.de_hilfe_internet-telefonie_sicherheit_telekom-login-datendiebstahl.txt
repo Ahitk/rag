@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/telekom-login-datendiebstahl
+
+Question: Was kann ich bei einem Diebstahl meiner Login-Daten tun?
+Answer: Sobald Ihre Daten missbräuchlich durch Dritte genutzt wurden, sollten Sie alle zu Ihrem Vertrag gehörenden Passwörter nach einem vollständigen Viren-Scan ändern. Verwenden Sie aus Sicherheitsgründen verschiedene Passwörter für den Telekom Login und E-Mail-Programme.
+Wenn Ihr Telekom Login zu Ihrem eigenen Schutz gesperrt wurde, fordern wir Sie beim nächsten Login auf, Ihre betroffenen Passwörter zu ändern. Sie werden automatisch durch denPasswort-Änderungsprozessgeleitet. Nach der Änderung Ihrer Passwörter erfolgt die Freischaltung Ihres Telekom Logins automatisch und unser Sicherheitsteam informiert Sie anschließend nochmals per E-Mail.
+

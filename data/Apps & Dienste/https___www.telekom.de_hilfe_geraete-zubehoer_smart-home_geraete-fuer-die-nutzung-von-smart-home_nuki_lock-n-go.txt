@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/lock-n-go
+
+Question: Wie funktioniert beim Nuki Türschloss die Lock ’n’ Go-Funktion in Magenta SmartHome?
+Answer: Mit der Lock ’n’ Go Funktion können Sie Ihr Zuhause verlassen, ohne Ihr Smartphone zu benutzen.Durch zweimaliges Drücken des Türknopfes am Nuki Smart Lock wird die Tür aufgeschlossen. Das Türschloss wartet anschließend 20 Sekunden, bevor die Tür hinter Ihnen wieder abgeschlossen wird.
+Ihr Magenta SmartHome beachtet dabei nur das "Abschließen"-Ereignis und ignoriert den kurzzeitigen Status "Aufgeschlossen". Damit wird eine ungewollte Auslösung von Regeln verhindert, die sonst mit dem Status "Aufgeschlossen" geschaltet würden.
+Übrigens:Wenn Sie die Lock ’n’ Go-Funktion gestartet haben, können Sie diese ganz einfach unterbrechen, indem Sie den Türknopf erneut zweimal drücken.
+

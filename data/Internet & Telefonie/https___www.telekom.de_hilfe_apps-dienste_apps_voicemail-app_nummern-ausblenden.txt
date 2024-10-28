@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/nummern-ausblenden
+
+Question: Kann ich Rufnummern ausblenden, die ich nicht verwende?
+Answer: Ja, falls Sie einzelne Rufnummern nicht verwenden (z.B. die Zweit- oder Drittnummer Ihres Festnetzanschlusses), können Sie die Nummer unter dem Menüpunkt "Meine Rufnummern" ausblenden.
+Für die ausgeblendeten Rufnummern werden dann keine eingehenden Sprachnachrichten in der App angezeigt.
+

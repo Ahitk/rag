@@ -1,0 +1,35 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/einrichtung-sip-client
+
+Question: Ich möchte einen SIP-Client einrichten. Wie funktioniert das?
+Answer: Die folgenden Einstellungen benötigen Sie, wenn Sie einen SIP-fähigen Software-Client oder Ihr Handy oder den Router eines anderen Anbieters für die Internet-Telefonie nutzen möchten.
+Mit denRoutern der Telekom,die für den IP-basierten Anschluss optimiert sind, benötigen Sie diese Einstellungen nicht.
+Wir bieten Ihnen dazu zwar keine detaillierten Konfigurationsanleitungen, da es eine sehr große Anzahl an Angeboten an Software- und Hardware-Clients gibt. Dafür erhalten Sie in der folgenden Übersicht aber alle erforderlichen Angaben, um jeden üblichen Client einzurichten.
+Allgemeine Einstellungen:
+SIP-ID/Benutzer:
+Ihre Telefonnummer
+Bildschirmname (falls vorhanden):
+Ihre Telefonnummer
+Authentifizierungsname/Benutzername:
+Ihre E-Mail-Adresse, z. B. ihr-name@t-online.de
+Passwort:
+Ihr Passwort
+SIP-Proxy:
+tel.t-online.de
+Registrar:
+tel.t-online.de
+Realm:
+tel.t-online.de
+STUN-Server:
+stun.t-online.de
+Outbound-Proxy:
+leer lassen oder ebenfalls tel.t-online.de
+Hinweise:
+• Änderung der Anmeldung Ihrer IP-Telefonie an unser System: Bitte nutzen Sie die Anmeldung per SRV-Record.Eine Anmeldung per DNS A-Abfrage ist nicht mehr möglich.
+• Geben Sie die SIP-ID ohne Leerzeichen und Sonderzeichen ein (entspricht Vorwahl und Rufnummer)
+• Die Eingabe der SIP-ID und des Bildschirmnamens müssen übereinstimmen.
+• Den Benutzernamen bitte vollständig kleinschreiben.
+• Haben Sie Ihr Passwort vergessen? In diesem Fall halten wir für eineAnleitungfür Sie bereit.
+• Falls Sie E-Mail-Adresse und Passwort noch nicht vergeben haben, können Sie diese imKundencentereinrichten.
+• Ggf. müssen Sie zusätzlich noch für die von Ihrem VoIP-Client verwendeten lokalen Ports (SIP und RTP) eine Portweiterleitung einrichten. Welche Ports das sind, lässt sich oftmals der Konfigurations-Oberfläche entnehmen oder beim jeweiligen Hersteller erfragen.
+• Die Rufnummer immer im internationalen Format (+49...) eingeben.
+

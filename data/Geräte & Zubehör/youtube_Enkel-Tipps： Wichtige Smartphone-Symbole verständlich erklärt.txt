@@ -1,0 +1,6 @@
+Question:
+Wissen Sie, was passiert, wenn der Akkustatus Ihres Smartphones unter 20% fällt?
+
+Answer:
+Auf dem oberen Bildschirmrand Ihres Smartphones werden verschiedene Symbole angezeigt. Links oben ist die aktuelle Uhrzeit, daneben sind die Empfangsbalken zu sehen, die die Qualität Ihrer Verbindung zeigen. Ist Ihr Gerät mit einem WLAN verbunden, sehen Sie das WLAN-Symbol, wenn nicht, sehen Sie normalerweise das LTE oder das 5G-Symbol. Zudem wird der Akkustand Ihres Smartphones angezeigt und bei einem Stand unter 20% eine kleine Benachrichtigung gesendet. Weitere Hilfe finden Sie in unseren anderen Hilfe-Videos.
+

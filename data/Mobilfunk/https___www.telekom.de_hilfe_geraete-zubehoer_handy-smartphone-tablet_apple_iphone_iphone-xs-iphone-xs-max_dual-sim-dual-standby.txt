@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/iphone/iphone-xs-iphone-xs-max/dual-sim-dual-standby
+
+Question: Was heißt Dual-SIM Dual Standby (DSDS) beim iPhone XS, XS Max und XR?
+Answer: Mit der Funktion Dual-SIM Dual Standby, kurz DSDS, können Sie zwei Verträge parallel mit Ihrem iPhone XS, XS Max oder XR nutzen.
+Sobald eine aktive Verbindung über eine der Karten besteht, ist die andere nicht erreichbar. Telefonieren Sie beispielsweise aktuell mit der eSIM und jemand ruft auf der Rufnummer des Vertrags der physischen SIM an, erhält der Anrufer die Ansage "nicht erreichbar" oder wird weitergeleitet, falls Sie eine Rufumleitung eingerichtet haben. Funktionen wie Anklopfen funktionieren dann auf der physischen SIM nicht. Das Verhalten ist also so, als wäre das Gerät ausgeschaltet oder die SIM-Karte nicht im Gerät eingelegt.
+Nutzung geschäftlicher und privater Vertrag mit einem GerätSie möchten einen geschäftlichen und privaten Vertrag mit nur einem Gerät nutzen? Hierbei sind die entsprechenden Unternehmensrichtlinien zu beachten. So erlauben es viele Firmen nicht, dass Sie Ihr privates Gerät mit Ihrem geschäftlichen Vertrag nutzen. Andersrum verbieten einige Firmen die private Nutzung des zur Verfügung gestellten Geräts.
+

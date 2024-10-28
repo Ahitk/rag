@@ -1,0 +1,12 @@
+Question:
+Hast du das DSL-Kabel korrekt in deine Telefondose und die graue DSL-Buchse deines Routers eingesteckt?
+
+Answer:
+In diesem Video wird erklärt, wie man einen Telekom-Anschluss und einen Router einrichtet. Zunächst sollte man seine Auftragsbestätigung zur Hand haben, auf der wichtige Informationen wie der Bereitstellungstag und die Notwendigkeit eines Technikers angegeben sind. Es wird außerdem darauf hingewiesen, dass der Router spätestens am Bereitstellungstag bis 8 Uhr eingerichtet sein muss. Für die Einrichtung benötigt man einen WLAN-Router, ein DSL-Kabel und ein Stromkabel. 
+
+Ist der Router eingerichtet, muss man darauf warten, dass die mittlere LED grün leuchtet. Diese verdeutlicht, dass der Anschluss freigeschaltet wurde. Mit einem Speedport bzw. Fritzboxmodell kann die Einrichtung automatisch erfolgen. Andernfalls müssen die Zugangsdaten manuell eingegeben werden. 
+
+Sobald die linke WLAN-Leuchte leuchtet, kann man sich mit dem WLAN verbinden. Auch das Telefon kann direkt am Router angeschlossen oder per Funk verbunden werden. Falls Magenta TV gebucht wurde, kann dieses ebenfalls eingerichtet werden. Abschließend wird empfohlen, den Heimnetz-Check in der Magenta-App durchzuführen. Sollte weitere Hilfe benötigt werden, gibt es im Video entsprechende Links. 
+
+Zusammengefasst bietet das Video eine umfassende Anleitung zur Einrichtung eines Telekom-Anschlusses mit Router und anderen Geräten.
+

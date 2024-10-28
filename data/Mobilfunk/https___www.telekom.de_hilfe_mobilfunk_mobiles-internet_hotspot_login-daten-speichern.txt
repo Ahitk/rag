@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/login-daten-speichern
+
+Question: Kann ich meine Login-Daten für HotSpot speichern?
+Answer: Ihre Login-Daten für die verschiedenen HotSpots der Telekom können Sie nicht zentral verwalten/speichern.
+EAP-SIM bietet Ihnen aber die Möglichkeit eines automatisierten Verfahrens zur Anmeldung am Hotspots.
+Verbinden Sie sich mit dem WLAN-Netzwerk "Telekom SIM". Wählen Sie bei der EAP-Methode "SIM" aus. Es startet der Verbindungsaufbau. Bei einigen Geräteherstellern steht statt "EAP-SIM" nur "EAP-AKA" zur Auswahl; wählen Sie in dem Fall diese Option.
+

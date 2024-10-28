@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/kein-4g/td-p/6971283/jump-to/first-unread-message
+Subject: kein 4g ???
+Content: einen wunderschönen....seit einer kurzen zeit habe ich den Mobilfunk Anbieter gewechselt, vorher wurde mir immer4Goder 4G+ auf mein Smartphone angezeigt nun wird mir nur nochLTEoder LTE+ angezeigt. in den Einstellungen wird mir auch kein4Gmehr angeboten.ich habe das Huawei Mate 20 pro dual Sim.Das kuriose ist das bei der Einstellung VoLTE-AnrufeLTEund4Gangezeigt wird.Gibt es eine Möglichkeit das zu ändern. es kann ja nur eineAPNEinstellung sein oder???ich würde mich über jede Hilfe freuen.
+
+Accepted Solutions:
+- 4GundLTEsind das gleiche.
+- 4GundLTEsind das gleiche.

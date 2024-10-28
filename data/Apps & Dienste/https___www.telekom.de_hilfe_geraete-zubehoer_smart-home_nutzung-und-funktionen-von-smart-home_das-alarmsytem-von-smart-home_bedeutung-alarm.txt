@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/das-alarmsytem-von-smart-home/bedeutung-alarm
+
+Question: Was bedeutet Alarm im Alarmsystem?
+Answer: Sie haben die Möglichkeit, in Ihrem Alarmsystem verschiedene Dringlichkeitsstufen der Benachrichtigung zu unterscheiden. So dienen Warnungen eher zu Ihrer Information, wenn sich zum Beispiel jemand draußen im Garten bewegt, während Sie zu Hause sind. Dagegen soll ein Alarm erzeugt werden, wenn in Ihrer Abwesenheit ein Fenster geöffnet wird. In diesem Fall soll auch eine Sirene aktiviert werden.In dem Zwei-Zonen Alarmsystem des Smart Home Systems können Sie so verschiedene Dringlichkeitsstufen festlegen.Sie ordnen Ihre Räume der Zone "Alarm" oder "Warnung" zu, im Anschluss wählen Sie die für Sie nicht sicherheitsrelevanten Sensoren mit einem Fingertipp auf den grünen Kreis ab.Ist Ihr Alarmsystem aktiv und erhält einer der ausgewählten Sensoren einen entsprechenden Impuls, so werden folgende Warnmeldungen erzeugt:
+Außerdem werden diese Alarmgeber aktiviert, sofern Sie sie ausgewählt haben:
+
+Betätigen Sie nicht die in der Warnmeldung angezeigte Schaltfläche "Ausschalten", zeichnen die Kameras 2-3 x 1 Minute auf.  Die Lampen leuchten bei einer Warnmeldung immer 60 Sekunden lang in roter Farbe, unabhängig von der Betätigung der 'Aussschalten' Schaltfläche.
+• eine Warnmeldung im Menü "Nachrichten"
+• eine Pushnachricht an alle angemeldeten Geräte
+• alle an dimmbaren Zwischenstecker angeschlossen Lampen, alle Philips HUE und Osram Lampen
+• alle Kameras
+

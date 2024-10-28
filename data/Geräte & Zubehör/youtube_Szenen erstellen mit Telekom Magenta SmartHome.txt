@@ -1,0 +1,6 @@
+Question:
+Wie kann man eine Szene erstellen und Gerätezustände für das Ein- und Ausschalten einer Szene definieren?
+
+Answer:
+Das Video lehrt, wie man Szenen zur gleichzeitigen Steuerung mehrerer Geräte erstellt und bedient. Sie können Ihr gewünschtes Szenario im ganzen Haus aktivieren, beispielsweise alle Lampen gleichzeitig ausschalten. Um eine Szene zu erstellen, öffnen Sie das Menü und wählen "Szenen". Sie erstellen eine Szene, indem Sie auf das Pluszeichen tippen und die Geräte auswählen, die Sie steuern möchten. Jedes Gerät bietet verschiedene Einstellungen. Die Szene kann abgespeichert und über ein Symbol oder eine Fernbedienung aktiviert werden, der eine bestimmte Taste zugeordnet wird. Man kann auch eine Szene ausschalten und definieren, welche Zustände die Geräte im Ausschaltmodus haben sollen. Szenarien können jederzeit geändert, gelöscht oder über einen Schalter abgeschaltet werden. Eine Szene ist somit eine Gruppe von Gerätezuständen, die manuell ein- und ausgeschaltet werden können.
+

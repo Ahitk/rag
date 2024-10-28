@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/app-funktionen/app-wechseln
+
+Question: Wie wechsle ich von der kostenlosen MagentaZuhause App auf die Pro-Version?
+Answer: Fügen Sie ein neues SmartHome Gerät über die App hinzu, welches aufgrund von Funkstandards nur dieMagentaZuhause App Prounterstützt, wird Ihnen im Schritt-für-Schritt-Assistent die Buchung der Pro-Version angeboten. Folgen Sie der Anleitung, um den vollen Funktionsumfang zu nutzen.
+Hinweis:Bei dem Wechsel auf die Pro-Version migriert die App alle Ihrer Geräte und Einstellungen. Schließen Sie nach der Buchung die App vollständig auf Ihrem Gerät (ein Zurücksetzen in den Hintergrund ist nicht ausreichend). Warten Sie fünfzehn Minuten, damit die Änderung in den Systemen vollzogen werden kann. Nach dem erneuten Öffnen stellt sich die App auf die Pro-Version um und neue unterstützte Geräte können im Verbindungsassistent der App eingebunden werden.
+

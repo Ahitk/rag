@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Homepage-Shop/Funktionieren-Wiederherstellungen-von-Backup-Versioen/td-p/6944592/jump-to/first-unread-message
+Subject: Funktionieren Wiederherstellungen von Backup-Versioen?
+Content: Hallo,im Homepagedesigner möchte ich für eine meiner Homepages andere Designs testen.Falls etwas schief geht - kann ich jederzeit eine zuvor gesicherte Version (zu finden unter "Einstellungen" -> "Versionen") wiederherstellen ("Anwenden")? Funktioniert das Ganze fehlerfrei, oder gehe ich ein Risiko ein? Gibt es etwas zu beachten?Danke .
+
+Accepted Solutions:
+- Hallo@smm,ja, genauso wie du es beschreibst, würde ich dir das auch empfehlen. Also die aktuelle Version speichern und erst dann die anderen Versionen ausprobieren.Eine andere Herangehensweise isthierbeschrieben.Viel Spaß beim Ausprobieren.Viele GrüßeChristine Kn.
+- Hallo@smm,ja, genauso wie du es beschreibst, würde ich dir das auch empfehlen. Also die aktuelle Version speichern und erst dann die anderen Versionen ausprobieren.Eine andere Herangehensweise isthierbeschrieben.Viel Spaß beim Ausprobieren.Viele GrüßeChristine Kn.

@@ -1,0 +1,6 @@
+Question:
+Was benötige ich, um Hybrid 5G-LTE zu nutzen?
+
+Answer:
+Wir geben Ihrem Telekom DSL Festnetz-Anschluss ein Upgrade mit Hybrid 5G-LTE. Mit dieser neuesten Internet-Technik, die das Beste aus Festnetz- und Mobilfunk verbindet, erhalten Sie LTE und 5G. Wenn die Festnetz-Kapazität nicht ausreicht, wird automatisch LTE oder 5G zugeschaltet. Diese Option ist für die meisten Magenta zu Hause DSL-Tarife erhältlich und bietet erhöhte Geschwindigkeit, Ausfallsicherheit und Stabilität. Was Sie für Hybrid 5G-LTE benötigen: einen passenden Tarif mit DSL-Anschluss, Verfügbarkeit von LTE oder 5G, den Speedport Smart 4 Router, einen 5G-Empfänger und eine entsprechende SIM-Karte. Verfügbarkeitsprüfung, Hardware und Aktivierungsdetails können auf unserer Webseite eingesehen werden. Auch, wenn Sie bereits einen älteren VR-Funk-Tarif nutzen, können Sie Ihre bestehende SIM-Karte verwenden. Der volle Funktionsumfang steht jedoch erst nach der Freischaltung zur Verfügung. Wenn Sie bereits unseren Speedport Smart 4 haben, dann ist Ihr Router bereits mit der neuesten Firmware 5G-fähig. Die Installation erfolgt automatisch, sofern Sie die automatischen Updates nicht deaktiviert haben. Montieren Sie einfach den 5G-Empfänger und verbinden Sie ihn mit Ihrem Router.
+

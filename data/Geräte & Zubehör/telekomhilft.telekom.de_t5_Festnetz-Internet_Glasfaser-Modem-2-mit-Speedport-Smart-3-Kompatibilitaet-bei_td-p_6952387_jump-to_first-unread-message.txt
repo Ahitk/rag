@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Glasfaser-Modem-2-mit-Speedport-Smart-3-Kompatibilitaet-bei/td-p/6952387/jump-to/first-unread-message
+Subject: Glasfaser Modem 2 mit Speedport Smart 3 – Kompatibilität bei Umstieg auf Glasfaser?
+Content: Hallo zusammen,ich nutze momentan DSL-Internet mit meinemSpeedport Smart 3. In meinem neuen Zuhause möchte ich jedoch auf Glasfaser-Internet umsteigen. Meine Frage ist: Kann ich einfach dasGlasfaser Modem 2kaufen und es mit meinemSpeedport Smart 3verbinden, um den Glasfaseranschluss zu nutzen? Oder benötige ich zusätzliches Equipment, um das Ganze zum Laufen zu bringen?Vielen Dank im Voraus für eure Hilfe!
+
+Accepted Solutions:
+- @YJ_JeonJa, das funktioniert.Das Glasfasermodem wird per Netzwerkkabel mit dem blauen Link-Port verbunden und der Router ggf. auf Externes Modem eingestellt.
+- @YJ_JeonJa, das funktioniert.Das Glasfasermodem wird per Netzwerkkabel mit dem blauen Link-Port verbunden und der Router ggf. auf Externes Modem eingestellt.

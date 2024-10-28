@@ -1,0 +1,6 @@
+Question:
+Wie können Sie den Thermostat-Cop mit der Magenta Smart Home App verbinden?
+
+Answer:
+Der Übergang von Sommer zu Winter bedeutet, dass wir wieder unsere Wohnungswärme einstellen müssen. Dank der Möglichkeit, die Temperatur über die Magenta Smart Home App zu steuern, ist dies jedoch einfacher denn je. Mit Hilfe von Heizkörper-Thermostaten, die einfach über die App bedient werden können, können Sie Ihre Heizung zu Hause oder unterwegs steuern. Die Installation ist simpel: Schrauben Sie einfach den alten Thermostat ab und ersetzen Sie ihn durch den neuen Magenta Smart Home Thermostat. Nach dem Einlegen der mitgelieferten Batterien beginnt eine LED weiß zu blinken, signalisierend, dass das Thermostat nun mit der App verbunden werden kann. Ein weiterer Tipp ist die Kopplung eines Heizkörperthermostats mit einem Fensterkontakt. So kann die Heizung automatisch runterfahren, wenn das Fenster geöffnet wird und wieder hochfahren, wenn es geschlossen wird, was sowohl Energie als auch Geld spart.
+

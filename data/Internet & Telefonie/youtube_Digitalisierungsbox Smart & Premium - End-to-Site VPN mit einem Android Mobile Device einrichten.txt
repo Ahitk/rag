@@ -1,0 +1,14 @@
+Question:
+Wie können Sie eine VPN-Verbindung in der Digitalisierung Spox für einen Android-Klein konfigurieren?
+
+Answer:
+Zusammenfassung:
+
+Dieses Video zeigt die Konfiguration einer Entroside VPN-Verbindung in der Digitalisierung Spox für ein Android-Gerät. Im ersten Teil des Videos gibt es einen Überblick über das Netzwerk, mit einem VPN-Klienten auf einem Android-Gerät, der Digitalisierungspox in der Mitte und einem Server im lokalen Netzwerk auf der rechten Seite. 
+
+Die VPN-Verbindung wird dann zur öffentlichen Warn-IP-Adresse der Digitalisierungspox aufgebaut - hierzu ist eine öffentliche IPv4-Adresse nötig. Ein dynamisches VPN wie Dündin S kann hierbei nützlich sein. Bei der Konfiguration müssen der IP-Pool, das X-Out Profil, die Phase II Profile und Phase I Profile erstellt und konfiguriert werden. 
+
+Die Konfiguration endet mit der Einstellung eines neuen VPN-Tunnels und den erweiterten IP-Sack-Optionen. Die Konfiguration der VPN-Verbindung auf dem Android-Gerät erfolgt dann unter "Drahtlos und Netzwerke". Hier wird ein neuer VPN-Tunnel benötigt, der ebenfalls konfiguriert wird. Sobald die VPN-Verbindung aufgebaut ist, ist keine weitere Konfiguration auf dem Android-Gerät erforderlich.
+
+Zum Schluss gibt es eine kurze Einführung in die umfangreichen Konfigurationsmöglichkeiten, die die Digitalisierungspox bietet und wie man auf weitere Online-Tutorials zugreifen kann.
+

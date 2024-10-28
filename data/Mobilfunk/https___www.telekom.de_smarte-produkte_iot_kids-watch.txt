@@ -1,0 +1,18 @@
+Source URL: https://www.telekom.de/smarte-produkte/iot/kids-watch
+
+Question: Warum wird für die Kids Watch ein Mobilfunktarif benötigt?
+Answer: Damit die Telefonie und das Verschicken von Nachrichten sowie das integrierte Ortungssystem funktionieren, brauchen Sie zwingend einen Mobilfunktarif, zum Beispiel einen unsererSmart ConnectTarife. Nachdem Sie die Xplora App für Ihr Smartphone heruntergeladen haben, müssen Sie sich das eSIM Profil mit Ihrem Mobilfunktarif auf die Kids Watch herunterladen. Die Kids Watch gleicht so gesehen einem Handy und greift auf das Mobilfunknetz zu. Sie können die XPLORA X6 Play eSIM Smartwatch selbstverständlich auch ohne eSIM Profil nutzen, aber die Hauptfunktionen, also Telefonieren und GPS-Ortung, lassen sich so nicht nutzen.
+
+Question: Welche Rechte haben Sie als Administrator?
+Answer: Um als Administrator für Ihre XPLORA X6 Play eSIM Watch Einstellungen vorzunehmen, benötigen Sie die entsprechende App, in der Sie zuerst den von Xplora geschickten Code eingeben und dann ein Konto mit einer ID einrichten. Nun können Sie:
+Jede Smartwatch kann für zwei Administratoren freigegeben werden. Dafür benötigt auch die zweite Person eine ID in der Xplora App. Nur die festgelegten Administratoren können die oben genannten Parameter ändern.
+• Weitere Familien- oder Gruppenmitglieder hinzufügen/entfernen
+• Festlegen, wer bei der Aktivierung der SOS-Taste benachrichtigt wird
+• Den Schulmodus einstellen (Vibrieren statt Klingeln)
+• Sichere Bereiche definieren (mit Benachrichtigung beim Verlassen)
+• Erinnerungen oder Wecker erstellen
+• Ein Tagesziel für Schritte definieren
+
+Question: Was ist der Vorteil der eSIM?
+Answer: Durch die eingebauteeSIMentfällt das zum Teil schwierige Einsetzen der SIM-Karte. Es gibt keine Probleme mehr mit falschenSIM-Karten-Formatenoder beschädigten SIM-Karten. Die Kids Smartwatch ist nach dem Abscannen des eSIM Aktivierungscodes direkt startklar.
+

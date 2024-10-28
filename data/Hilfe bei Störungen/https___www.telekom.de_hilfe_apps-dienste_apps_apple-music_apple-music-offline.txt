@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/apple-music/apple-music-offline
+
+Question: Was bedeutet es bei Apple Music, Musik offline zu hören?
+Answer: Musik offline zu hören bedeutet, dass die Titel auf Ihr Gerät heruntergeladen werden und damit ohne Datenverbindung (mobile Daten oder WiFi) abgespielt werden können.Dies ist vor allem auf Reisen sehr praktisch.
+Klicken Sie dafür einfach auf eine Playlist, einen Song oder ein Album und wählen Sie im Kontextmenü "Laden“.
+Gut zu wissen:Ein Mal im Monat muss eine Online-Verbindung mit Apple Music bestehen. Das Programm prüft dann, ob Ihr Abo weiterhin aktiv ist.
+

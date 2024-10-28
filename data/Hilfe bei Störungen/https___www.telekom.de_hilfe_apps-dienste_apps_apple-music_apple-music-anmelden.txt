@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/apple-music/apple-music-anmelden
+
+Question: Warum muss ich mich nach der Buchung noch in der Apple Music App anmelden und wie funktioniert das genau?
+Answer: Nach der Buchung von Apple Music bei der Telekom verknüpfen Sie die Option noch mit einer Apple-ID. Anschließend können Sie alle Funktionen, z. B. die Offline-Synchronisation und das Erstellen von Playlists, bei Apple Music nutzen.
+Für die Aktivierung sind nur wenige Schritte nötig:
+• Nach der Buchung erhalten Sie eine Bestätigung per SMS.
+• Klicken Sie auf den Link in der SMS. Jetzt wird Ihre Buchung verifiziert und die App Apple Music geöffnet.Information für Android-NutzerSollte die App nicht auf Ihrem Gerät installiert sein, führt der Verifizierungs-Link zum Download im Google Play Store.
+• Verbinden Sie nun eine bestehende Apple-ID bzw. erstellen Sie eine neue.
+

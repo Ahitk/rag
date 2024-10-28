@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/wlan-und-mehr/geraete-verbinden-per-wps-nfc
+
+Question: Wie verbinde ich ein Gerät mit meinem WLAN per NFC, zum Beispiel ein Smartphone?
+Answer: So verbinden Sie ein Smartphone mit Ihrem WLAN per NFC bzw. mit der WPS-NFC-Funktion:
+Hinweis:Falls die Anbindung nicht geklappt hat, halten Sie das Smartphone 5 Sekunden und ohne zu bewegen genau über das NFC-Symbol.
+Wichtig:Apple und Samsung Geräte der neuen Generationen unterstützen das Verbinden mit dem Router per NFC und WPS nicht mehr.
+

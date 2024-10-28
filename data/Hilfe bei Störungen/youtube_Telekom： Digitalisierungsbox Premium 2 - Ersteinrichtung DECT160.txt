@@ -1,0 +1,6 @@
+Question:
+Was müssen Sie eingeben, um die EPUE-Nummer auf Ihrem Mobilteil abzufragen?
+
+Answer:
+Willkommen zu einer Anleitung, wie man eine Bintech-L-Mac deckt 160 Basisstation in Betrieb nimmt. Zuerst wird die Energieversorgung und die Netzwerkverbindung hergestellt. Mit Hilfe des Admin-Logins können wir die Konfiguration auf der Weboberfläche der Digitalisierung Box starten. Für jedes Mobilteil muss ein Benutzer angelegt werden und eine interne Rufnummer erstellt und zugeordnet werden. Eine ausführliche Anleitung zur Endgerätekonfiguration findet sich im Bereich Endgeräte. Die Bindec Elmack Decked 160 Basisstation kann dort einfach eingerichtet werden. Im folgenden Abschnitt der Konfiguration der Decked 160 Basisstation wird eine Beschreibung und Anleitung zum Hinzufügen neuer interner Rufnummern gegeben. Abschließend muss man einmalig auf das Web-Interface der Decked 160 Basisstation zugreifen und ein paar Systemeinstellungen setzen. Um Mobilteile anzumelden, muss man noch bei den Aktionen die Option "Deckdregistrierungen Staaten" auswählen und bestätigen. Zur Anmeldung des Mobilteils wird die Menü-Taste des Mobilteils verwendet. Nach jeder erfolgreichen Anmeldung muss der Vorgang wiederholt werden, um alle Mobilteile anzumelden. Vielen Dank für Ihre Aufmerksamkeit.
+

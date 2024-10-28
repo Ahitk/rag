@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/airties/airties-mit-router-verbinden
+
+Question: Wie kann ich Airties Geräte mit meinem Speedport oder einem anderen Router verbinden?
+Answer: Verbinden Sie einfach ein Airties Gerät per LAN-Kabel mit einem freien LAN-Anschluss Ihres Routers.
+Mithilfe der kostenlosen App von Airties können Sie nun die Geräte ganz leicht konfigurieren. So können Sie z. B. die Funk-Reichweite und die Abdeckung Ihres Speedports erweitern.
+Sie können weitere Airties Geräte auch über WPS mit dem ersten Gerät (das Airties Gerät, welches an den Speedport angeschlossen ist) verbinden. Wir empfehlen jedoch die App.
+
+Ein Hinweis für Sie: Sie können die Airtie Geräte auch per WLAN mit Ihrem vorhandenen Router verbinden.Dann funktioniert das WLAN-Mesh allerdings nicht. Das Gerät arbeitet dann als Repeater oder als Bridge.
+

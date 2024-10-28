@@ -1,0 +1,59 @@
+Source URL: https://www.telekom.de/unterwegs/was-ist-5g
+
+Question: Was unterscheidet 5G zu den vorherigen Technologien?
+Answer: Die deutschlandweit eingesetzte Technologie LTE, auch Long Term Evolution genannt, liefert eine Bandbreite von bis zu 150 MBit/s. Das erfüllt aktuell den Großteil der Bedürfnisse von Kunden und Unternehmen, denn sie stellt für Anwendungen wie Streaming und Datenaustausch die nötige Datenmenge bereit. 5G schafft LTE nicht ab, sondern stellt eine Weiterentwicklung der Netztechnologie dar. Im Gegensatz zu 4G bzw. LTE bietet 5G viele Verbesserungen.
+So hat u. a. die Steigerung der Funkfrequenzbereiche den Vorteil, dass mehr Informationen in weniger Zeit übertragen werden können. 
+                  Das 5G-Netz ist zudem deutlich variabler als das LTE-Netz: Es kann seine Leistung entsprechend der Nutzung anpassen und anhand der ermittelten Anforderungen präzise verteilen. Das bedeutet, im 5G-Netz wird erkannt, ob wenige Nutzer eine hohe Datenrate benötigen oder sich viele Geräte mit einem geringen Bedarf an einem Ort aufhalten.
+
+Question: Welche Geräte sind 5G-fähig?
+Answer: Bei der Telekom erhalten Sie ausschließlich Prepaid-Tarife, mit denen Sie überall, wo verfügbar, mit dem Mobilfunkstandard 5G surfen:
+Voraussetzung ist, dass Sie ein5G-Handybesitzen.
+• MagentaMobil Prepaid S
+• MagentaMobil Prepaid M
+• MagentaMobil Prepaid L
+• MagentaMobil Prepaid XL
+• MagentaMobil Prepaid Max
+• MagentaMobil Prepaid Jahrestarif
+
+Question: Ab wann kann ich das 5G-Netz nutzen?
+Answer: Bei der Telekom erhalten Sie ausschließlich Prepaid-Tarife, mit denen Sie überall, wo verfügbar, mit dem Mobilfunkstandard 5G surfen:
+Voraussetzung ist, dass Sie ein5G-Handybesitzen.
+• MagentaMobil Prepaid S
+• MagentaMobil Prepaid M
+• MagentaMobil Prepaid L
+• MagentaMobil Prepaid XL
+• MagentaMobil Prepaid Max
+• MagentaMobil Prepaid Jahrestarif
+
+Question: Ist das 5G-Netz sicher?
+Answer: Bei der Telekom erhalten Sie ausschließlich Prepaid-Tarife, mit denen Sie überall, wo verfügbar, mit dem Mobilfunkstandard 5G surfen:
+Voraussetzung ist, dass Sie ein5G-Handybesitzen.
+• MagentaMobil Prepaid S
+• MagentaMobil Prepaid M
+• MagentaMobil Prepaid L
+• MagentaMobil Prepaid XL
+• MagentaMobil Prepaid Max
+• MagentaMobil Prepaid Jahrestarif
+
+Question: Gibt es auch Prepaid-Tarife mit 5G?
+Answer: Bei der Telekom erhalten Sie ausschließlich Prepaid-Tarife, mit denen Sie überall, wo verfügbar, mit dem Mobilfunkstandard 5G surfen:
+Voraussetzung ist, dass Sie ein5G-Handybesitzen.
+• MagentaMobil Prepaid S
+• MagentaMobil Prepaid M
+• MagentaMobil Prepaid L
+• MagentaMobil Prepaid XL
+• MagentaMobil Prepaid Max
+• MagentaMobil Prepaid Jahrestarif
+
+Question: Was kommt nach 5G?
+Answer: Die neue Generation des Mobilfunks wird 6G sein. Als Nachfolger der 5G-Technologie wird 6G auch als „Sixth Generation Wireless“ bezeichnet.
+
+Question: Wann gibt es 6G in Deutschland?
+Answer: Aktuell geht man davon aus, dass 6G ab den 2030er Jahren in Deutschland verfügbar sein wird.
+
+Question: Was ist der Unterschied zwischen 5G und 6G?
+Answer: Die 6G-Mobilfunknetze werden noch höhere Frequenzen als die jetzigen 5G-Netze nutzen können. Darüber hinaus haben sie eine deutlich höhere Kapazität und geringere Latenz als das 5G-Netz. Das bedeutet für die Nutzer vor allem, dass die Kommunikation zwischen Mensch und Maschine verbessert wird: Die Wartezeit zwischen gesendeten und empfangenen Daten wird voraussichtlich nur 100 Mikrosekunden dauern. Das wäre 10 Mal schneller als die aktuelle Datenübertragung im derzeitigen 5G-Netz.
+
+Question: Was ist LTE?
+Answer: LTE steht für “Long Term Evolution” und ist die Bezeichnung eines Mobilfunk-Standards, oftmals auch 4G genannt. Es handelt sich dabei nicht nur um die Vorgängertechnologie von 5G, wie der Name schon verrät, es bildet als bestehendes Netz außerdem die Grundlage für den weiteren Ausbau des 5G-Netzes. Dabei wird es allerdings nicht vollständig von der neuen Technologie ersetzt, sondern bleibt weiterhin als Mobilfunk-Standard erhalten.
+

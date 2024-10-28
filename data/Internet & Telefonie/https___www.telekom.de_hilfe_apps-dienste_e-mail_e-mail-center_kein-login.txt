@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/kein-login
+
+Question: Was kann ich tun, wenn ich mich nicht im E-Mail Center einloggen kann?
+Answer: Löschen Sie den Cache und die Cookies Ihres Browsers, über die Tastenkombination Strg+Umschalt (Shift)+Entf gelangen Sie in die entsprechenden Einstellungen. Laden Sie anschließend die Seite erneut und akzeptieren Sie die Cookies für diese Seite. Stellen Sie sicher, dass Ihr Browser auf dem aktuellsten Stand ist. Wenn Sie sich weiterhin nicht einloggen können, testen Sie bitte einen anderen Browser und beachten Sie Folgendes:
+Benutzername und/oder Passwort vergessenDer Benutzername für die Anmeldung entspricht der E-Mail-Adresse (Telekom Login). Wenn Ihnen das Passwort nicht mehr bekannt ist, können Sie es unter dem Anmeldefenster über "Andere Anmeldeoptionen" zurücksetzen bzw. ein neues Passwort vergeben.
+Festnetz-Anschluss wurde gekündigtDa Ihre E-Mail-Adresse und das zugehörige Passwort mit dem Anschluss verbunden sind, fallen diese bei einer Kündigung ebenfalls weg. Hier zeigen wir Ihnen, wie Sie IhreE-Mail-Adresse behaltenund sich wieder einloggen können.
+ZertifikatsfehlerErhalten Sie beim Login zum E-Mail Center einen Zertifikatsfehler oder die Meldung, dass das Zertifikat ungültig ist, folgen Sie dieserAnleitung.
+Hinweis:Das E-Mail Center lässt sich nicht über mobile Geräte aufrufen.
+

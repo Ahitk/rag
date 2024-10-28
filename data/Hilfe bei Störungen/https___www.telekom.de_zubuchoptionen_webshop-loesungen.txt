@@ -1,0 +1,53 @@
+Source URL: https://www.telekom.de/zubuchoptionen/webshop-loesungen
+
+Question: Für wen eignet sich eine Webshop-Lösung der Telekom?
+Answer: Die Webshop Pakete (Basic & Pro) bieten sowohl Einsteigern als auch Profis eine Lösung, die es Ihnen ermöglicht, ohne spezielles technisches Wissen und ohne hardwaretechnischen Aufwand im E-Business ein- und aufzusteigen. Bei Bedarf kann jederzeit ein Upgrade von Webshop Basic auf Webshop Pro durchgeführt werden; die Einstellungen des Shops bleiben dabei erhalten. Da die Software cloud- und browserbasiert ist, ist sie von jedem Internet-Arbeitsplatz erreichbar und immer auf dem neusten Stand.
+
+Question: Benötige ich technische Kenntnisse bei der Webshop Erstellung?
+Answer: Durch die intuitive Bedienung des Design Editors und der Administrations-Tour sind keine Kenntnisse erforderlich. Unsere Webshop-Anwendung ist einfach anwendbar und bietet trotzdem individuelle Darstellungsmöglichkeiten. Sie werden durch die ersten Schritte geführt und erfahren unter anderem, wie Sie Produkte hinzufügen, Zahlungsmethoden einrichten und vieles mehr. Sie entscheiden sich lediglich für eine der modernen Designvorlagen und passen alle Details per Drag-und-Drop nach Ihren Wünschen an.Unser umfangreiches Online Hilfecenter in der Shopsoftware bietet Ihnen außerdem schnelle Antworten auf alle Fragen rund um Ihren Webshop.Weiterhin steht Ihnen unser Hosting-Support-Team von Mo. bis. So. von 8:00 bis 22:00 Uhr zur Verfügung.E-Mail:hosting@telekom.de/ Telefon:0800 330 1573(kostenfrei)Mit unserem Webshop Einrichtungsservice können Sie die Erstellung Ihres Onlineshops auch gern in die Hände unserer Webexperten legen.
+
+Question: Kann ich alle Design-Vorlagen an meine Webshop-Anforderungen anpassen?
+Answer: Unsere Vorlagen lassen sich ganz einfach auf Ihre persönlichen Bedürfnisse und Ihre Corporate Identity in ihrem Webshop anpassen. Bei jeder Design-Vorlage können unter anderem Schriftarten und Farben geändert sowie Texte und Bilder ausgetauscht werden. Jede Vorlage bietet Ihnen zusätzlich mehrere Stile, aus denen Sie auswählen können. Die Unterscheidung spiegelt sich zum Beispiel in der Farbgebung wider. Natürlich können Sie auch jederzeit auf eine andere Vorlage wechseln.Alle Design-Vorlagen sind voll responsiv und passen sich den jeweiligen Endgeräten oder der Größe des Browserfensters Ihrer Shopkunden an.
+
+Question: Kann ich meine Produkte direkt aus meinem Webshop auf Produktportalen und Marktplätzen anbieten?
+Answer: Mit dem Webshop Pro haben Sie die Möglichkeit, die Produkte Ihres Shops mit nur wenigen Klicks direkt aus dem Administrationsbereich heraus bei Marktplätzen wie Amazon, eBay oder Produktportalen wie billiger.de und Google Shopping etc. einzustellen. Der Webshop Pro wurde so gestaltet, dass die bestehenden Produktinformationen automatisch aus Ihrem Webshop übernommen werden und Sie diese nicht doppelt pflegen müssen.Für die Anbindung aktivieren Sie das gewünschte Portal einfach in Ihrem Administrationsbereich. Die einzelnen Schritte werden dort ausführlich erklärt.
+
+Question: Welche Zahlungsmethode sind für die Kunden in meinem Webshop verfügbar?
+Answer: Sie können Ihren Kunden verschiedene Zahlungsmethoden zur Verfügung stellen. Dabei wird zwischen zwei Arten unterschieden:
+Unser Tipp:Sie sollten Ihren Kunden möglichst mehrere Zahlungsmethoden anbieten. So verringern Sie die Wahrscheinlichkeit, dass Kunden ihre Bestellung abbrechen, weil ihre bevorzugte Zahlungsmethode nicht verfügbar ist.
+• Standardzahlungsmethoden wie Vorkasse, oder Lastschriftverfahren, bei denen Sie selbst die Abrechnung übernehmen.
+• Zahlung über einen Drittanbieter (zum Beispiel PayPal), der in Ihrem Auftrag die komplette Zahlung abwickelt und anschließend das Geld an Sie weiterleitet. Bitte beachten Sie, dass Sie sich für die Anbindung an Ihren Webshop einmalig beim Zahlungsanbieter registrieren müssen.
+
+Question: Welche rechtlichen Rahmenbedingungen muss ich beim Eröffnen eines Webshops beachten?
+Answer: Das Onlinerecht kann mitunter recht unübersichtlich sein. Durch neue Gesetze und Verordnungen ändern sich stetig die Anforderungen, die von Shopbetreibern erfüllt werden müssen. Unsere Shop-Lösungen erfüllen rechtliche Standards und sind für die Trusted-Shops Zertifizierung vorbereitet (Zertfikat kann über Trusted-Shops erworben werden). Dies bedeutet hohe Standards für Datenschutz und Datensicherheit.Alle Webshops, die dieses Gütesiegel enthalten, sind verpflichtet, höchste Anforderungen bezüglich Daten- und Liefersicherheit zu erfüllen. Für Käufer ist das bekannte Trusted-Shops-Siegel mit dem blauen „e" ein Garant für einen vertrauenswürdigen Onlineshop. Dazu gehört zum Beispiel die SSL-Verschlüsselung beim Zahlungsverkehr.Sämtliche Qualitätskriterien können beiTrusted-Shopseingesehen werden.Mit unserem Webshop Einrichtungsservice unterstützen wir Sie auch bei den rechtlichen Rahmenbedingungen und erstellen für Sie einen individuellen Entwurf für Datenschutzhinweise und Impressum.
+
+Question: Wo werden die Daten meines Webshops gespeichert?
+Answer: Die Daten Ihres Webshops werden in einem zertifizierten Rechenzentrum der Deutschen Telekom AG in Deutschland gehostet und unterliegen dem deutschen Datenschutzrecht. Die Datenübertragung ist SSL-verschlüsselt.
+
+Question: Wie bekomme ich eine eigene Internetadresse (Domain) für meinen Webshop?
+Answer: Wenn Sie eine andere Internet-Adresse als „ihrwunschname.eshop.t-online.de“ für Ihren Webshop benötigen, haben Sie die Möglichkeit, Ihre eigene Domain über das Produkt „Domain & E-Mail“ einzurichten und Ihrem Webshop zuzuweisen.
+Das Produkt „Domain & E-Mail“ wird Ihnen in Verbindung mit Webshop Basic und Webshop Pro für die Dauer der Nutzung des Webshop-Vertrags kostenfrei zur Verfügung gestellt.
+Hinweis: Die Inklusiv-Leistung „Domain & E-Mail“ muss separat über unsere kostenfreie Hotline0800 33 01573gebucht werden.
+Über „Domain & E-Mail“, können Sie anschließend im dazugehörigenHomepage-Centerunter anderem eine eigene Domain beantragen und zusätzlich bis zu drei eigene Premium E-Mail-Postfächer (je 15 GB E-Mail-Speicherplatz) einrichten.
+
+Question: Was ist das Besondere am Webshop Einrichtungsservice der Telekom?
+Answer: Es gibt nur wenige Anbieter, die einen Webshop Einrichtungsservice anbieten.
+Wir bauen Ihren Shop nicht nur auf, sondern erklären Ihnen wie dieser funktioniert, sodass Sie ihn selbst pflegen können. Zudem können Sie bei uns einen auf Sie zugeschnittenen und individuell gestalteten Webshop zu Kosten erstellen lassen, die weit unter denen anderer Wettbewerber liegen. Dabei sind wir sehr transparent: Bei uns gibt es keine versteckten Servicegebühren. Nur der einmalige Preis für die Erstellung und der monatliche Grundpreis
+
+Question: Wie läuft der Webshop Einrichtungsservice ab?
+Answer: Mit dem Webshop Einrichtungsservice der Telekom können Sie unkompliziert und mit geringem Aufwand einen professionellen Webshop erstellen lassen:
+a.    Webshop-Designb.    Inhalte wie z.B. Bilder und Textec.    Zielgruppend.    Social MediaGerne zeigen wir Ihnen zur Inspiration unterschiedliche Beispiele.
+Um Ihren Webshop zu erstellen, benötigen wir von Ihnen Material, wie z.B. Produktinformationen und Bilder. Welches Material wir genau benötigen, klärt Ihr persönlicher Web-Experte im Design-Briefing mit Ihnen. Nach Erhalt Ihres Materials erfolgt die Einrichtung des Shops. Im Anschluss erhalten Sie innerhalb weniger Tage Ihren persönlichen Webshop-Entwurf.
+Wenn dieser von Ihnen freigegeben wurde, erstellen wir einen Entwurf für Ihre Datenschutzhinweise und Impressum.
+Anschließend benötigen wir noch einmal Ihr Feedback. Denn selbstverständlich geht nichts online, was Ihnen nicht gefällt.
+Bevor Sie Ihren Webshop „live“ schalten, erklären wir Ihnen die Shop-Verwaltung einmal im Detail, sodass Sie zukünftig selbst mit dem Shop arbeiten können.
+
+Question: Ich habe schon einen Webshop:  Kann ich trotzdem zur Telekom wechseln?
+Answer: Das ist kein Problem – selbst wenn Sie bisher einen anderen Anbieter dafür beauftragt haben. Wir helfen Ihnen gern bei Ihrem Umzug zur Telekom. Wir können auf Ihre bestehenden Texte sowie Bilder zurückgreifen und diese in Ihren neuen Webshop integrieren. Beim Umzug Ihrer Domains achten wir natürlich darauf, dass dies erst dann geschieht, wenn der neue Shop fertiggestellt ist. So sind Sie für Ihre Kunden ohne Unterbrechung online erreichbar und Ihre Webpräsenz ist stets gegeben.
+
+Question: Mit welchem Shopsystem wird mein Webshop bei der Telekom betrieben?
+Answer: Die Telekom Webshop-Lösungen basieren auf der Cloud-Software des e-Commerce Anbieters ePages. Diese eignet sich besonders für kleine und mittlere Unternehmen, die einen einfach zu handhabenden Onlineshop suchen. ePages ist weltweit bei über 140.000 Onlinehändler im Einsatz.
+
+Question: Ist der Telekom Webshop auch für B2B geeignet?
+Answer: Ja, wenn Sie den entsprechenden Tarif buchen. So gibt es bei der Telekom spezielle B2B-Funktionen mit dem Webshop Pro. Dazu gehören Staffelpreise, Kundengruppen sowie kundenspezifische Preise.
+

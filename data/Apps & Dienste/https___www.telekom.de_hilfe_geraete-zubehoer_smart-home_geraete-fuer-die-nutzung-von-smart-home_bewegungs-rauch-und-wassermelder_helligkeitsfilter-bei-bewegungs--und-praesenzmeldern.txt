@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/bewegungs-rauch-und-wassermelder/helligkeitsfilter-bei-bewegungs--und-praesenzmeldern
+
+Question: Was bedeutet der Helligkeitsfilter bei Bewegungs- und Präsenzmeldern von HomeMatic IP?
+Answer: Die Geräte übertragen ca. alle 6 Minuten den gemessenen Helligkeitswert an die Magenta SmartHome App. In den Geräteeinstellungen kann hierfür ein Helligkeitsfilter festgelegt werden. Steht der Wert auf 1 (Standardeinstellung in Magenta SmartHome), so wird nicht gefiltert und es wird ca. alle 6 Minuten der aktuell gemessene Wert übermittelt. Bei Werten größer 1 wird immer der niedrigste gemessene Wert aus der eingestellten Anzahl der Messungen übermittelt.
+Beispiel:Wird der Wert 5 eingestellt, so wird weiterhin alle 6 Minuten der Helligkeitswert gemessen. Gemeldet wird aber der dunkelste Wert der letzten 5 Messungen, also der letzten 30 Minuten - auch dann, wenn die aktuellste Messung wieder heller war.
+Dies ist z. B. dann sinnvoll, wenn mit dem Bewegungsmelder eine Beleuchtung in der Nähe des Gerätes geschaltet wird. Ohne Helligkeitsfilter würde der Bewegungsmelder die Helligkeit der eingeschalteten Beleuchtung zurückmelden.
+

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Automatische-Anzeige-von-eingegangenen-Mails-im-MS-Edge/td-p/6942036/jump-to/first-unread-message
+Subject: Automatische Anzeige von eingegangenen Mails im MS Edge
+Content: Neuerdings werde ich bei MS Edge ganz unten rechts auf bei AOL eingegangene Mails hingewiesen. Das Nachrichtensymbol ist dann schwarz.Beim Draufklicken erscheint z. B.Beim Klick auf die angezeigte Mail wird die AOL-Mailsoftware zur Anmeldung aufgerufen. Für mich ist das nützlich. Wenn ich ganz oben rechts auf "Benachrichtigungen verwalten" klicke, werde ich zuEinstellungen /Benachrichtigungen & Aktionengeführt. Dort gibt es als dritten Abschnitt  "Benachrichtigungen dieser Absender abrufen". An zweiter Stelle steht derzeit AOL.Wie bekomme ich T-Online-E-Mail auf diese Liste?Besten Dank im Voraus für Hinweise.
+
+Accepted Solutions:
+- gar nicht, wenn es nicht von selbst angeboten wird
+- gar nicht, wenn es nicht von selbst angeboten wird

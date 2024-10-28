@@ -1,0 +1,64 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Anrufe-wegen-Vertragsverlaengerung/td-p/6983854/jump-to/first-unread-message
+Subject: Anrufe wegen Vertragsverlängerung
+Content: Ich bekomme pausenlos Anrufe weil ich mein Telekomvertrag verlängern soll. Der verlängert sich doch automatisch oder?Wie kann ich diese Anrufe stoppen
+
+Accepted Solutions:
+- Hallo@Martina Vest.Läuft unbefristet weiter, wenn nix gemacht wirdDie wollen nur was verkaufen mit ProvisionDu kannst im Kundencenter den Informationsservice abbestellenhttps://www.telekom.de/kundencenter/informationsserviceDazu den Haken bei "Telefon" entfernen...Wenn das nicht klappt, wäre ein schriftlicher Widerruf auch möglich:Widerruf-InformationsserviceDann würde ich im Telefoniecenter, die Rufnummer blockieren:https://telefoniecenter.t-online.de/fcc/view/availabilitycallblockingBitte dies bei allen Rufnummern durchführen, auch wenn diese nicht zugeordnet sind.Bei einer Fritzbox geht es auch ohne den Weg zum Telefoniecenter:Siehe Spoiler (Beispiel Fritzbox 7590)Mehr Infos(Zum Lesen öffnen)-QUELLE-Ankommende Anrufe sperren und Ausnahmen einrichtenAnonyme AnrufeAnrufer, die keine Rufnummer übermitteln (anonyme Anrufer), können Sie sperren. Sie können entweder alle anonymen Anrufer sperren oder nur anonyme Anrufer, die eine bestimmte Rufnummer angerufen haben:Klicken Sie in derBenutzeroberfläche der FRITZ!Boxauf "Telefonie".Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".Klicken Sie auf die Registerkarte "Rufsperren".Klicken Sie im Abschnitt "Rufnummernbereiche sperren" auf die Schaltfläche "Bereich hinzufügen".Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Ohne Rufnummer (Anonym)" aus.Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".Anrufe von bestimmter Rufnummer oder aus einem RufnummernbereichKlicken Sie in derBenutzeroberfläche der FRITZ!Boxauf "Telefonie".Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".Klicken Sie auf die Registerkarte "Rufsperren".Falls Sie einebestimmte Rufnummersperren möchten:Klicken Sie auf die Schaltfläche "Rufnummer hinzufügen".Tragen Sie die Rufnummer und einen Namen ein. Der Name wird dann in der Anrufliste der FRITZ!Box angezeigt.Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".Falls Sieeinen Rufnummernbereichsperren möchten:Klicken Sie auf die Schaltfläche "Bereich hinzufügen".Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Rufnummernbereich" aus.Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.Tragen Sie in das Feld "Rufnummernbereich" einen beliebigen Bereich (z.B. 0900 oder 123) ein.Tragen Sie einen Namen für die Rufsperre ein. Der Name wird in der Anrufliste der FRITZ!Box angezeigt.Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".-QUELLE- Ankommende Anrufe sperren und Ausnahmen einrichten
+Anonyme Anrufe
+Anrufer, die keine Rufnummer übermitteln (anonyme Anrufer), können Sie sperren. Sie können entweder alle anonymen Anrufer sperren oder nur anonyme Anrufer, die eine bestimmte Rufnummer angerufen haben:
+Klicken Sie in der Benutzeroberfläche der FRITZ!Box auf "Telefonie".
+Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".
+Klicken Sie auf die Registerkarte "Rufsperren".
+Klicken Sie im Abschnitt "Rufnummernbereiche sperren" auf die Schaltfläche "Bereich hinzufügen".
+Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Ohne Rufnummer (Anonym)" aus.
+Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.
+Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".
+Anrufe von bestimmter Rufnummer oder aus einem RufnummernbereichKlicken Sie in der Benutzeroberfläche der FRITZ!Box auf "Telefonie".
+Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".
+Klicken Sie auf die Registerkarte "Rufsperren".
+Falls Sie eine bestimmte Rufnummer sperren möchten:
+Klicken Sie auf die Schaltfläche "Rufnummer hinzufügen".
+Tragen Sie die Rufnummer und einen Namen ein. Der Name wird dann in der Anrufliste der FRITZ!Box angezeigt.
+Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".
+ 
+Falls Sie einen Rufnummernbereich sperren möchten:
+Klicken Sie auf die Schaltfläche "Bereich hinzufügen".
+Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Rufnummernbereich" aus.
+Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.
+Tragen Sie in das Feld "Rufnummernbereich" einen beliebigen Bereich (z.B. 0900 oder 123) ein.
+Tragen Sie einen Namen für die Rufsperre ein. Der Name wird in der Anrufliste der FRITZ!Box angezeigt.
+Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".Gruß Marcel
+- Hallo@Martina Vest.Läuft unbefristet weiter, wenn nix gemacht wirdDie wollen nur was verkaufen mit ProvisionDu kannst im Kundencenter den Informationsservice abbestellenhttps://www.telekom.de/kundencenter/informationsserviceDazu den Haken bei "Telefon" entfernen...Wenn das nicht klappt, wäre ein schriftlicher Widerruf auch möglich:Widerruf-InformationsserviceDann würde ich im Telefoniecenter, die Rufnummer blockieren:https://telefoniecenter.t-online.de/fcc/view/availabilitycallblockingBitte dies bei allen Rufnummern durchführen, auch wenn diese nicht zugeordnet sind.Bei einer Fritzbox geht es auch ohne den Weg zum Telefoniecenter:Siehe Spoiler (Beispiel Fritzbox 7590)Mehr Infos(Zum Lesen öffnen)-QUELLE-Ankommende Anrufe sperren und Ausnahmen einrichtenAnonyme AnrufeAnrufer, die keine Rufnummer übermitteln (anonyme Anrufer), können Sie sperren. Sie können entweder alle anonymen Anrufer sperren oder nur anonyme Anrufer, die eine bestimmte Rufnummer angerufen haben:Klicken Sie in derBenutzeroberfläche der FRITZ!Boxauf "Telefonie".Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".Klicken Sie auf die Registerkarte "Rufsperren".Klicken Sie im Abschnitt "Rufnummernbereiche sperren" auf die Schaltfläche "Bereich hinzufügen".Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Ohne Rufnummer (Anonym)" aus.Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".Anrufe von bestimmter Rufnummer oder aus einem RufnummernbereichKlicken Sie in derBenutzeroberfläche der FRITZ!Boxauf "Telefonie".Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".Klicken Sie auf die Registerkarte "Rufsperren".Falls Sie einebestimmte Rufnummersperren möchten:Klicken Sie auf die Schaltfläche "Rufnummer hinzufügen".Tragen Sie die Rufnummer und einen Namen ein. Der Name wird dann in der Anrufliste der FRITZ!Box angezeigt.Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".Falls Sieeinen Rufnummernbereichsperren möchten:Klicken Sie auf die Schaltfläche "Bereich hinzufügen".Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Rufnummernbereich" aus.Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.Tragen Sie in das Feld "Rufnummernbereich" einen beliebigen Bereich (z.B. 0900 oder 123) ein.Tragen Sie einen Namen für die Rufsperre ein. Der Name wird in der Anrufliste der FRITZ!Box angezeigt.Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".-QUELLE- Ankommende Anrufe sperren und Ausnahmen einrichten
+Anonyme Anrufe
+Anrufer, die keine Rufnummer übermitteln (anonyme Anrufer), können Sie sperren. Sie können entweder alle anonymen Anrufer sperren oder nur anonyme Anrufer, die eine bestimmte Rufnummer angerufen haben:
+
+Klicken Sie in der Benutzeroberfläche der FRITZ!Box auf "Telefonie".
+Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".
+Klicken Sie auf die Registerkarte "Rufsperren".
+Klicken Sie im Abschnitt "Rufnummernbereiche sperren" auf die Schaltfläche "Bereich hinzufügen".
+Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Ohne Rufnummer (Anonym)" aus.
+Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.
+Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".
+
+Anrufe von bestimmter Rufnummer oder aus einem RufnummernbereichKlicken Sie in der Benutzeroberfläche der FRITZ!Box auf "Telefonie".
+
+Klicken Sie im Menü "Telefonie" auf "Rufbehandlung".
+Klicken Sie auf die Registerkarte "Rufsperren".
+Falls Sie eine bestimmte Rufnummer sperren möchten:
+
+Klicken Sie auf die Schaltfläche "Rufnummer hinzufügen".
+Tragen Sie die Rufnummer und einen Namen ein. Der Name wird dann in der Anrufliste der FRITZ!Box angezeigt.
+Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".
+
+
+
+ 
+
+Falls Sie einen Rufnummernbereich sperren möchten:
+
+Klicken Sie auf die Schaltfläche "Bereich hinzufügen".
+Wählen Sie in der Ausklappliste "Bereich" den Eintrag "Rufnummernbereich" aus.
+Wählen Sie aus, ob nur Anrufe an eine bestimmte Rufnummer oder alle Anrufe gesperrt werden sollen.
+Tragen Sie in das Feld "Rufnummernbereich" einen beliebigen Bereich (z.B. 0900 oder 123) ein.
+Tragen Sie einen Namen für die Rufsperre ein. Der Name wird in der Anrufliste der FRITZ!Box angezeigt.
+Klicken Sie zum Speichern der Einstellungen auf "Übernehmen".Gruß Marcel

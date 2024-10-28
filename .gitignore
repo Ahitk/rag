@@ -1,6 +1,5 @@
 .env
 venv/
-data/
 rag_data/pdfs/data/
 rag_data/web/data/
 rag_data/youtube/data/

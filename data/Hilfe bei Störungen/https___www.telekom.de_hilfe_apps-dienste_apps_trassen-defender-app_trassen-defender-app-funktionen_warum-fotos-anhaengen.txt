@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/warum-fotos-anhaengen
+
+Question: Warum muss ich Fotos an die Schadensmeldung anhängen?
+Answer: Fotos erleichtern der Telekom den Umfang des Schadens einschätzen zu können und den Technikern die Arbeit.
+Über den Menüpunkt "Einstellungen"  in der App können Sie im Hinblick auf Ihre Zuständigkeit zwischen "Innendienst" und "Außendienst" wählen. Bei der Auswahl "Innendienst" ist das Anhängen von Fotos optional.
+

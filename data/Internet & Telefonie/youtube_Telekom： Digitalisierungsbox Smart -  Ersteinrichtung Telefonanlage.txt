@@ -1,0 +1,6 @@
+Question:
+Was sind die Schritte zur Einrichtung und Konfiguration der Digitalisierung-Sbox im PbX Modus als eigenständige Telefonanlage?
+
+Answer:
+In diesem Digitalisierungs-Sbox-Video wird die Einrichtung der Sbox als eigenständige Telefonanlage mit der neuen Web-Oberfläche dargestellt. Nach erfolgreicher Verkabelung und Erstellung der DSL-Verbindung kann die Konfiguration der Sbox über die Web-Oberfläche beginnen. Die Zugangsdaten sind auf der Rückseite der Sbox und auf einem beiliegenden Aufkleber zu finden. Nach der Anmeldung werden je nach Anschlussgeschwindigkeit unterschiedliche Informationen angezeigt. In diesem Fall wird sofort angezeigt, dass die Sbox einsatzbereit ist. Es wird auch gezeigt, wie man die WLAN-Konfiguration durchführt und Geräte anschließt. Dieses Video konzentriert sich auf die Einrichtung der Sbox als PBX oder eigenständige Telefonanlage. Es werden verschiedene Gerätetypen (analoges Telefon, Fax und VoIP-Telefon) hinzugefügt und konfiguriert, einschließlich der Auswahl von Rufnummern und anderen Einstellungen. Schließlich wird gezeigt, wie man die Konfiguration speichert und überprüft, welche Geräte und Nummern zugeordnet sind.
+

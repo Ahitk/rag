@@ -1,0 +1,26 @@
+The image provides an overview of the **MagentaMobil XL Young** mobile service from Telekom Deutschland, detailing the internet and telephone services available. Below is a summary of the relevant information:
+
+### Product Overview
+- **Service Name**: MagentaMobil XL Young (Mobilfunk)
+- **Includes**: Mobile connection for telephony, SMS, and internet access.
+
+### Data Transfer Rates
+- **Estimated Maximum Speed**:
+  - **Download**: 300 MBit/s
+  - **Upload**: 50 MBit/s
+
+### Contract Information
+- **Contract Duration**: 
+  - Minimum contract term: 24 months
+  - Cancellation notice period: 1 month
+  - After the initial term, the contract can be canceled at any time with 1 month notice.
+
+### Pricing
+- **Monthly Fees** (EUR, excluding one-time hardware costs):
+  - **Without Smartphone**: 74.95
+  - **With Smartphone**: 84.95
+  - **With Top Smartphone**: 94.95
+  - **With Premium Smartphone**: 104.95
+  - **With Premium-Plus Smartphone**: 114.95
+
+This summary encapsulates the main features, contract terms, and pricing details of the MagentaMobil XL Young mobile service.

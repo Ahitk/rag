@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/netz
+
+Question: Wie kann ich bei der Speedbox den Zugriff auf ein Netz festlegen?
+Answer: Sollten Sie sich in einem Gebiet befinden, das sowohl mit 4G/LTE als auch mit 5G versorgt ist, kann der Zugriff der Speedbox zwischen den beiden Netzen wechseln.
+Die Festlegung auf eines der beiden Netze kann Abhilfe bei Verbindungsabbrüchen oder bei Geschwindigkeitsverlust der WLAN-Verbindung schaffen.
+Gehen Sie bitte wie folgt vor:
+

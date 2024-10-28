@@ -1,0 +1,16 @@
+Source URL: https://www.telekom.de/hilfe/netzmodernisierung
+
+Question: Funktionieren mobile Fax- und Datendienste bis zum 31. März 2023 noch netzübergreifend?
+Answer: Aufgrund der unterschiedlichen Umstellungszeiträume der Netzübergänge zwischen den Anbietern auf IP-Technologie kann eine netzübergreifende Verbindung (vom Telekom-Netz in das Netz eines anderen Anbieters) mit Fax- und Datendiensten 9,6 kBit/s nicht mehr garantiert werden.
+
+Question: Welche Auswirkungen hat die Abschaltung von analoger Datenübertragung?
+Answer: Bis zum 31. März 2023 wird die analoge Datenübertragung innerhalb des Mobilfunknetzes noch in einigen Datentarifen unterstützt. Ab dem 1. April 2023 können dann SIM-Karten mit den Tarifoptionen "Fax- und Datendienst 9,6 kBit/s" über den analogen Wählkanal keine Verbindung mehr aufbauen und keine Daten mehr empfangen.
+
+Question: Was bedeutet Datendienst – kann ich dann nicht mehr ins Internet?
+Answer: Von der Abschaltung betroffen ist lediglich der veraltete, analoge Datendienst. Moderne Geräte, wie Smartphones, Tablets aber auch viele neuere Sensoren und Alarmgeber unterstützen bereits die digitale Datenübertragung (IP-fähige Geräte).
+Wenn Sie sich nicht sicher sind, ob Ihr Gerät die sogenannte "paketvermittelte Datenübertragung" oder auch "IP-Datenübertragung" unterstützt, wenden Sie sich bitte an den Gerätehersteller. Er wird Ihnen Auskunft über die technischen Details seiner Geräte geben können.
+
+Question: Was sind die Vorteile von IP-Kommunikation gegenüber der analogen Datenübertragung?
+Answer: Das "Internet Protocol" (kurz: IP) ist die Übertragungstechnologie der Zukunft.
+Vorteil:Es ist über alle Netze hinweg einheitlich. Und ein einheitlicher Übertragungsstandard ebnet den Weg für neue, stabilere und leistungsfähigere Netze.
+

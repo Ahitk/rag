@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Nicht-behebbare-Fehler-lags-Online/td-p/6969827/jump-to/first-unread-message
+Subject: Nicht behebbare Fehler / lags Online
+Content: Hallo zusammen,seit gestern Abend, hat sich eine wiederkehrende Anzahl an nicht behebbaren Fehlern gezeigt.Dies merkte ich während des Online Gaming, worauf ich in die FritzBox schaute.Die Fehler sind leider jetzt immer noch da.Ich habe daraufhin die Leitung`s Diagnose gestartet, welche den Anschluss neu gestartet hat, daher der resync.@telekomhilftKönnte sich jemand vom Telekom hilft Team mal den Anschluss ansehen.Profil ist ausgefüllt und ich bin jederzeit erreichbar, da ich im Urlaub bin.FritzBox 7690 - FritzOS7.62Magenta Zuhause L 100/40KeinPowerLANDanke euch viel mal`s
+
+Accepted Solutions:
+- @Änne S.Vielen dank der nachfrage, der Kollege vom Support, hat einen Line Reset gemacht, seit dem ist ruhe.Er meldet sich am Freitag nochmals um nachzufragen ob alles passt.Sollten nochmals Fehler auftreten, werde ich mich erneut melden.
+- @Änne S.Vielen dank der nachfrage, der Kollege vom Support, hat einen Line Reset gemacht, seit dem ist ruhe.Er meldet sich am Freitag nochmals um nachzufragen ob alles passt.Sollten nochmals Fehler auftreten, werde ich mich erneut melden.

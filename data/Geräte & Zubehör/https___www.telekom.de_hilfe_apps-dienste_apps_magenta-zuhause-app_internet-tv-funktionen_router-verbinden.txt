@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/router-verbinden
+
+Question: Wie verbinde ich meinen Speedport Router mit der MagentaZuhause App?
+Answer: Unsere Router der Serien Speedport Smart bzw. Speedport Pro werden nach dem Anschließen automatisch in der MagentaZuhause App erkannt und können in wenigen Schritten als SmartHome Zentrale eingerichtet werden.
+

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/DSL-gt-Glasfaser-VPN-ueber-DynDNS-und-fritzbox-weiter-moeglich/td-p/6954368/jump-to/first-unread-message
+Subject: DSL -> Glasfaser: VPN über DynDNS und fritzbox weiter möglich?
+Content: Hallo,derzeit nutze ich Telekom DSL und dabeiVPNmit IPV4, DynDNS (noip) und Fritzbox-VPN. Glasfaser wird demnächst ausgerollt. Leider konnte mir der Telekom-MA nicht sagen, ob ich mit einem Glasfaser-Privattarif weiterhin von meinem Android Phone (1&1 Tarif, VpnCilla App) viaVPNauf mein Hausnetz zugreifen kann, bzw. ob und was ich dafür ändern müßte.Kann hier jemand weiterhelfen? Vielen Dank!
+
+Accepted Solutions:
+- @klassischschrieb:VPNmit IPV4, DynDNS (noip) und Fritzbox-VPN.Die Konstellation funktioniert weiterhin auch bei einem FTTH-Anschluss.Entweder vor dir FritzBox einfach das Glasfasermodem setzen oder eine neue FritzBox mit integriertem Glasfasermodem nutzen
+- @klassischschrieb:VPNmit IPV4, DynDNS (noip) und Fritzbox-VPN.Die Konstellation funktioniert weiterhin auch bei einem FTTH-Anschluss.Entweder vor dir FritzBox einfach das Glasfasermodem setzen oder eine neue FritzBox mit integriertem Glasfasermodem nutzen

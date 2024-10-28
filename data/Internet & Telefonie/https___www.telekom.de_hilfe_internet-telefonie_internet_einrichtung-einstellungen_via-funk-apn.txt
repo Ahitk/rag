@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/einrichtung-einstellungen/via-funk-apn
+
+Question: Welche APN-Einstellungen brauche ich für MagentaZuhause via Funk?
+Answer: Wenn Sie bei Ihrem Router einen APN (Access Point Name) einrichten möchten, nutzen Sie folgende Daten:
+Hinweis:Beim Speedport LTE II ist der Netz-Zugangspunkt bereits voreingestellt und der Router ist sofort einsatzfähig.
+• APN-Name:Frei wählbar (z. B. Telekom via Funk)
+• APN:internet.home
+• Benutzername:telekom (Dieses Feld kann meist frei bleiben)
+• Passwort:tm (Dieses Feld kann meist frei bleiben)
+

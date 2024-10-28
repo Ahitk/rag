@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/voraussetzungen
+
+Question: Was sind die Voraussetzungen für die Nutzung von WLAN Call?
+Answer: Um über WLAN Call telefonieren zu können, müssen folgende Voraussetzungen erfüllt sein:
+• ein WLAN Call-fähiges Smartphone
+• einen Telekom Vertrag (Laufzeit- bzw. Prepaid-Vertrag), bei dem die Option "VoLTE und WLAN Call" gebucht ist (alle ab 2009)
+• in den Einstellungen Ihres Smartphones ist WLAN Call eingeschaltetWie Sie diese Funktion einstellen finden Siein dieser FAQ.
+• eine Internetverbindung über WLAN mit Ihrem Smartphone
+

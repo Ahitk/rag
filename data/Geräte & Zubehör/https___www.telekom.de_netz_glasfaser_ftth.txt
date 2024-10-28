@@ -1,0 +1,59 @@
+Source URL: https://www.telekom.de/netz/glasfaser/ftth
+
+Question: Standortver­fügbar­keits­prüfung:Ist FTTH bei Ihnen möglich?
+Answer: •
+
+Question: Welche Vorteile bietet FTTH?
+Answer: Highspeed Downloads
+Freuen Sie sich auf Internet mit Highspeed und genießen Sie höhere Download- sowie Upload-Geschwindigkeiten als mit VDSL.
+Klimafreundlich und nachhaltig
+Das Internet über Glasfaser-Anschluss ist umweltschonender als die Übertragung von Daten per Kupferkabel.
+Glasfaser bis in Ihre Wohnung
+Im Vergleich zu anderen Technologien werden die Glasfaser-Kabel direkt bis in Ihre Wohnung geführt.
+Für die ganze Familie
+Gleichzeitig Filme herunterladen, online spielen, im Internet surfen und Videotelefonate führen.
+Arbeiten im Homeoffice
+Mit dem schnellen und stabilen Internet problemlos von zu Hause arbeiten.
+Investition für die Zukunft
+Steigern Sie mit der zukunftssicheren Glasfaser-Technologie den Wert Ihrer Immobilie.
+
+Question: Wie ist ein Glasfaser-Netzwerk aufgebaut?
+Answer: Glasfaser-Router
+Glasfaser-Modem
+Vermittlungsstelle
+Abschlusspunkt /Anschlussdose
+Netzverteiler
+Kernnetz
+
+Question: Was ist der Unterschied zwischen FTTH, FTTB und FTTC?
+Answer: Die Abkürzung FTTH bezeichnet eine besondere Form des Glasfaser-Anschlusses. Nur eine vollständige Leitung aus Glasfaser bis in Ihre Wohnung bezeichnet einen FTTH-Anschluss. Daneben können Sie auch einenGlasfaser-Anschlussbesitzen, der nur zum Teil aus Glasfaser-Leitungen besteht. Diesen nennt man zum Beispiel FTTB oder FTTC, da sich die Leitungen sowohl aus Glasfaser- als auch aus Kupferkabeln zusammensetzen.
+Nein. Sie brauchen lediglich einenWLAN-Router, den Sie für den FTTH-Anschluss mit Ihrer Glasfaser-Dose verbinden müssen. Bei den aktuellen Geräten verfügen die Router bereits über ein entsprechendes Modem, sodass sie für einen FTTH-Anschluss geeignet sind.
+Ja, der Wechsel von IhremTelefonanbieterist einfach. Bestellen Sie hier Ihren gewünschten Tarif und wir kümmern uns um Ihre Kündigung. Bitte kündigen Sie nicht selbst.
+Wenn eine Glasfaser-Dose in Ihrem Zuhause angebracht ist, besteht in Ihrem Gebäude ein FTTH-Anschluss, den Sie nutzen können.Um diesen ans Netz anzubinden, muss im Keller oder Hauswirtschaftsraum der sogenannte Hausanschlusskasten (HAK) installiert werden. Danach wird der FTTH-Anschluss über ein Verteilerkabel in den Wohnraum oder jede Wohnung im Haus gesetzt.Ist in Ihrem Gebäude noch keine Glasfaser-Dose vorhanden, können Sie mit Hilfe unsererVerfügbarkeitsprüfungtesten, ob an Ihrem Standort bereits Glasfaser verfügbar ist.
+Moderne Router verfügen über einen speziellen Port auf der Rückseite, der für den Anschluss an das Glasfaser-Netz gedacht ist. Ist der Router älter als 5 Jahre, verfügt er wahrscheinlich nicht über diesen Anschluss und kann dementsprechend nicht für das Surfen im Glasfaser-Netz verwendet werden.
+• Erreichbarkeit:Schon heute haben mehrere Millionen Haushalte Zugang zu reinen Glasfaser-Anschlüssen der Telekom.
+• Schnelligkeit:Mit uns surfen Sie mit Geschwindigkeiten von bis zu 2.000 MBit/s.
+• Strategische Partnerschaften:Unsere Zusammenarbeit mit verschiedenen Partnern sichert nicht nur die Auslastung unserer Netze, sondern beschleunigt auch den Glasfaser-Ausbau in ganz Deutschland.
+• Offene Netzphilosophie:Wir setzen auf fairen Wettbewerb und eine offene Netzstruktur. Dies fördert die Weiterentwicklung und Optimierung der Netzinfrastruktur in Deutschland.
+
+Question: Ist ein FTTH-Anschluss das gleiche wie ein Glasfaser-Anschluss?
+Answer: Die Abkürzung FTTH bezeichnet eine besondere Form des Glasfaser-Anschlusses. Nur eine vollständige Leitung aus Glasfaser bis in Ihre Wohnung bezeichnet einen FTTH-Anschluss. Daneben können Sie auch einenGlasfaser-Anschlussbesitzen, der nur zum Teil aus Glasfaser-Leitungen besteht. Diesen nennt man zum Beispiel FTTB oder FTTC, da sich die Leitungen sowohl aus Glasfaser- als auch aus Kupferkabeln zusammensetzen.
+
+Question: Wird für einen FTTH-Anschluss besondere Hardware benötigt?
+Answer: Nein. Sie brauchen lediglich einenWLAN-Router, den Sie für den FTTH-Anschluss mit Ihrer Glasfaser-Dose verbinden müssen. Bei den aktuellen Geräten verfügen die Router bereits über ein entsprechendes Modem, sodass sie für einen FTTH-Anschluss geeignet sind.
+
+Question: Kann ich mich für FTTH anmelden, wenn ich noch einen laufenden Vertrag bei einem anderen Anbieter habe?
+Answer: Ja, der Wechsel von IhremTelefonanbieterist einfach. Bestellen Sie hier Ihren gewünschten Tarif und wir kümmern uns um Ihre Kündigung. Bitte kündigen Sie nicht selbst.
+
+Question: Wie wird FTTH angeschlossen?
+Answer: Wenn eine Glasfaser-Dose in Ihrem Zuhause angebracht ist, besteht in Ihrem Gebäude ein FTTH-Anschluss, den Sie nutzen können.Um diesen ans Netz anzubinden, muss im Keller oder Hauswirtschaftsraum der sogenannte Hausanschlusskasten (HAK) installiert werden. Danach wird der FTTH-Anschluss über ein Verteilerkabel in den Wohnraum oder jede Wohnung im Haus gesetzt.Ist in Ihrem Gebäude noch keine Glasfaser-Dose vorhanden, können Sie mit Hilfe unsererVerfügbarkeitsprüfungtesten, ob an Ihrem Standort bereits Glasfaser verfügbar ist.
+
+Question: Kann ich meinen alten Router für Glasfaser nutzen?
+Answer: Moderne Router verfügen über einen speziellen Port auf der Rückseite, der für den Anschluss an das Glasfaser-Netz gedacht ist. Ist der Router älter als 5 Jahre, verfügt er wahrscheinlich nicht über diesen Anschluss und kann dementsprechend nicht für das Surfen im Glasfaser-Netz verwendet werden.
+
+Question: Warum sollten Sie FTTH über die Telekom buchen?
+Answer: • Erreichbarkeit:Schon heute haben mehrere Millionen Haushalte Zugang zu reinen Glasfaser-Anschlüssen der Telekom.
+• Schnelligkeit:Mit uns surfen Sie mit Geschwindigkeiten von bis zu 2.000 MBit/s.
+• Strategische Partnerschaften:Unsere Zusammenarbeit mit verschiedenen Partnern sichert nicht nur die Auslastung unserer Netze, sondern beschleunigt auch den Glasfaser-Ausbau in ganz Deutschland.
+• Offene Netzphilosophie:Wir setzen auf fairen Wettbewerb und eine offene Netzstruktur. Dies fördert die Weiterentwicklung und Optimierung der Netzinfrastruktur in Deutschland.
+

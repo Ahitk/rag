@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/unterwegs/telekom/telekom-speedbox
+
+Question: Was kann ich tun, wenn ich mit der Speedbox nicht ins Internet komme?
+Answer: • Stromanzeige: Bitte prüfen Sie, ob die Stromanzeige unterbrechungsfrei leuchtet.
+• SIM-Karte: Überprüfen Sie, ob die SIM-Karte ordnungsgemäß eingelegt wurde.
+• Standort: Falls kein Netzwerk verfügbar ist, stellen Sie den Router an einen geeigneten Ort, beispielsweise neben das Fenster, um ein besseres Signal zu empfangen.
+

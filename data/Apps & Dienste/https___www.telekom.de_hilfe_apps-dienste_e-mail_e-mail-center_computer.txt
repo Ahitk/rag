@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/computer
+
+Question: Wie rufe ich meine Telekom E-Mails über den Computer ab?
+Answer: Über den Browser Ihres Computers oder Laptops haben Sie zwei Möglichkeiten für den Login ins E-Mail Center:
+• Login über Telekom KundencenterPer Klick auf den Button gelangen Sie direkt zur Anmeldemaske. Geben Sie Ihren Benutzernamen und Passwort ein. Drücken Sie auf "Zum E-Mail Center", um Ihr E-Mail-Postfach einzusehen.
+• Login über T-OnlineKlicken Sie auf den Button und anschließend oben rechts auf "E-MAIL LOGIN". Melden Sie sich mit Ihrem Benutzernamen und Passwort an. Nach erfolgreicher Anmeldung sehen Sie oben rechts eine Begrüßung und per Klick darunter auf "Zum E-Mail Center" werden Ihnen Ihre E-Mails angezeigt.
+

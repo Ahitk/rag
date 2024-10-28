@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/netz/glasfaser-ausbauplanung-ki
+
+Question: Was machen wir genau?
+Answer: In einem weiteren Schritt werden die entstandenen Fotos und 3D-Informationenen von einer künstlichen Intelligenz analysiert. Dadurch können wir automatisiert unterschiedliche Oberflächen wie Asphalt oder Kopfsteinpflaster erkennen und prüfen, ob Bäume oder Straßenlaternen die neuen Glasfasertrassen kreuzen. Übrigens, rund 80 Prozent der Kosten für den Glasfaserausbau entfallen auf die Tiefbauarbeiten, weshalb in der Planungsphase möglichst exakte Angaben benötigt werden.
+
+Question: Wie hilft künstliche Intelligenz?
+Answer: Unser Planungstool ermittelt nun automatisiert den effizientesten Weg zur Verlegung der neuen Glasfasertrassen. Hierbei kommt nicht nur der klassische Bagger zum Einsatz sondern auch alternative Verlegemethoden wie Trenching, Kabelpflug oder Spülbohrverfahren werden in der Planung berücksichtigt. Am Ende schaut aber immer noch einmal ein erfahrener Planer über das Ergebnis und optimiert dieses.
+
+Question: Wie sieht die Planung aus?
+Answer: Mit Hilfe der Befahrungsdaten können unsere Planer ohne aufwändige Auskundungen den optimalen Standort für unsere Netzverteiler (die grauen Kästen am Straßenrand) finden und diese unkompliziert mit der Kommune abstimmen, da diese immer im Vorfeld zustimmen muss. Dadurch können wir auch Aufwände in der kommunalen Verwaltung reduzieren und den Glasfaserausbau beschleunigen. Und nebenbei reduzieren wir noch CO² und tun der Umwelt etwas Gutes.
+
+Question: Was sind weitere Vorteile?
+Answer: Datenschutz ist für uns sehr wichtig! Daher werden auf den aufgenommenen Bildern alle Personen und Fahrzeuge nach dem aktuellen Stand der Technik unkenntlich gemacht. Die von den T-Cars erfassten Daten werden für interne Planungszwecke genutzt und nicht im Internet veröffentlicht. Eine Weitergabe anonymisierter Daten an berechtigte Lizenznehmer behalten wir uns vor.
+
+Question: Was passiert mit den Daten?
+Answer: Zusammen mit anderen Anbietern haben wir den Datenschutz-Kodex für Geodatendienste (kurz Geodatenkodex) ausgearbeitet und unterzeichnet. Dieser beschreibt u.a. den transparenten Umgang mit Bildmaterial und die Ankündigung geplanter Aufnahmefahrten. Die Einhaltung der freiwilligen Selbstverpflichtung wird durch denVerein Selbstregulierung Informationswirtschaft e.V. (SRIW)sichergestellt. Auf der Website des SRIW,https://geodatenkodex.de, wird erläutert, wie Geodatendienste funktionieren und welche Rechte die Bürgerinnen und Bürger haben.
+

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/datenvolumen/pin-schutz
+
+Question: Wie bekomme ich eine PIN für pass.telekom.de?
+Answer: Die Aktivierung und Deaktivierung ist unten auf der Seite "pass.telekom.de" unter "Nützliche Übersichten" im Menüpunkt "PIN-Schutz" möglich.
+Hinweis: Bei der Aktivierung wird eine zufällig erstellte PIN vergeben, die Sie direkt angezeigt und zusätzlich noch per SMS ans Handy gesendet bekommen.
+

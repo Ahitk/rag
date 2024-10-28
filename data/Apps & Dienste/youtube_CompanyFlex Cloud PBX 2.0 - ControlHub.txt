@@ -1,0 +1,6 @@
+Question:
+Haben Sie schon einmal die vielseitigen Funktionen der CloudBbx genutzt und benötigen Sie weitere Anleitung dazu?
+
+Answer:
+Hallo, ich bin Markus und möchte Ihnen einige nützliche Funktionen der CloudBbx vorstellen. Erstens können Sie Dateien über den Controller teilen, auch mit OneDrive direkt in kleinen Gruppen. Zweite Funktion ist die Nutzung von Links direkt im Controller. Um auf diese Funktionen zuzugreifen, benötigen Sie einen Zugang zum WebEx-Controller, den Sie sich selbst einrichten können, falls noch nicht geschehen. Sobald Sie sich im Controller angemeldet haben, können Sie den Schnellzugriff nutzen und Verknüpfungen zu verschiedenen Webseiten erstellen. Weiterhin können Sie im Bereich "Messaging" Content Management verwenden und unterschiedlichen Ordner verwalten. Sie können auch die Links aus diesen Ordnern direkt teilen. Bei weiteren Fragen, wenden Sie sich bitte an unsere Business-Community. Viel Spaß, Markus.
+

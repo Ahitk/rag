@@ -1,0 +1,28 @@
+Here's a summary of the relevant information from the document regarding the MagentaMobil Prepaid XL plan:
+
+### **Product Overview:**
+- **Name**: MagentaMobil Prepaid XL
+- **Type**: Prepaid mobile plan
+- **Features**:
+  - Includes telephony, SMS, and internet services.
+
+### **Data Transfer Rates**:
+- **Download Speed**: Up to 300 Mbit/s
+- **Upload Speed**: Up to 50 Mbit/s
+- **Reduction**: After using 25 GB of data, speeds are reduced to 64 kbit/s.
+
+### **Free SMS / Minutes**:
+- **Plan Inclusions**: Flat rate for voice calls and SMS to all networks within Germany, including landlines.
+
+### **Contract Details**:
+- **Contract Duration**: No fixed contract period; may be canceled daily by the customer.
+
+### **Fees**:
+- **Cost**: €19.95 every four weeks.
+- **One-Time Card Price**: €19.95 (regular price).
+- **Activation Fee**: €20.00.
+
+### **Marketing Availability**:
+- **Launch Date**: Available from August 21, 2024.
+
+This summary highlights the key aspects of the MagentaMobil Prepaid XL plan, including data speeds, pricing, and contract terms.

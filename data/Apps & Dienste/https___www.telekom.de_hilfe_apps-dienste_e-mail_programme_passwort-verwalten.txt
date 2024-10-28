@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/programme/passwort-verwalten
+
+Question: Wie kann ich mein Passwort für E-Mail-Programme verwalten?
+Answer: Wenn Sie das Passwort für E-Mail-Programme (Outlook, Mozilla Thunderbird oder Apple Mail) vergessen haben oder das vorhandene Passwort bearbeiten bzw. ein neues Passwort vergeben möchten, können Sie dies über das Kundencenter erledigen.
+

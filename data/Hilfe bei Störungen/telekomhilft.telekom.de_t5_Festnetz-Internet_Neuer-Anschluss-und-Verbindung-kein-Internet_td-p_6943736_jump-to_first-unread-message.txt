@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Neuer-Anschluss-und-Verbindung-kein-Internet/td-p/6943736/jump-to/first-unread-message
+Subject: Neuer Anschluss und Verbindung, kein Internet
+Content: Hi, sorry for writing in english as my German is very poorI recently got to a new apartment and took DSL connection from Telekom via check24. And I received the Auftragbestätigung from Telekom. I had bought the Fritzbox 7590 ax and tried the steps to set it up with Easy setup from Frtizbox. I get the following error."Internetzugang über DSL, Anbieter Telekom, Kapselung PPPoE, Tarifmodell: Flatrate oder Volumentarif: die Fritzbox ist immer mit dem Internet verbunden. Diese Einstellung ist nicht für Zeittarife geeignet."And the DSL status shows unterbrochen. Should I have to wait for the Technician visit to get my internet running. Or there is something else I can fix myself.Dankeschöne!
+
+Accepted Solutions:
+- @dhruva08schrieb:It does not mention any delivery date only the appointment with the Technician for 7th October.@dhruva08Then October 7th is the official date. It doesn't work before that.The appointment cannot be brought forward. Let the technician come. There is a period of time there
+- @dhruva08schrieb:It does not mention any delivery date only the appointment with the Technician for 7th October.@dhruva08Then October 7th is the official date. It doesn't work before that.The appointment cannot be brought forward. Let the technician come. There is a period of time there

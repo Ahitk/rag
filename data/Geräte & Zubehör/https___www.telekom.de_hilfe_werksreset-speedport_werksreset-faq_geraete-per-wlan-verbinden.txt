@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/geraete-per-wlan-verbinden
+
+Question: Wie verbinde ich meine Geräte nach dem Werksreset über WLAN neu?
+Answer: Nach dem Zurücksetzen können Sie Ihre Smartphones, Tablets und Computer verbinden.
+Per WLAN: Den WLAN-Namen und das -Passwort bzw. -Schlüssel finden Sie im Routerpass auf der Unterseite des Speedport Routers.
+So überprüfen Sie, ob WLAN am Router eingeschaltet ist: Falls nur Status “grün" leuchtet, wecken Sie zunächst Ihren Speedport aus dem Schlafmodus, indem Sie die WLAN-Taste drücken. Sollte WLAN dann nicht "weiß" leuchten, aktivieren Sie es jetzt durch erneutes Drücken der Taste.
+Per Kabel: Alternativ können Sie Ihren Computer auch per Kabel (gelber Stecker) mit einer der LAN-Buchsen (gelb) verbinden.
+

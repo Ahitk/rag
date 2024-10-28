@@ -1,0 +1,15 @@
+Source URL: https://www.telekom.de/hilfe/erleben/sofort-ident
+
+Question: Wie funktioniert Sofort-Ident?
+Answer: Mit Sofort-Ident können Sie über die Anmeldung bei Ihrem Online-Banking Ihre Identität bestätigen. Unser Partnerunternehmen Sofort GmbH fragt dann eine TAN ab, die Sie auf dem selben Weg wie beim Online-Banking erhalten. Durch die Eingabe der richtigen TAN legitimieren Sie sich.
+Gut zu wissen:Sofort-Ident können Sie rund um die Uhr durchführen.
+
+Question: Was brauche ich für die Durchführung von Sofort-Ident?
+Answer: Für die Identifikation durch Sofort-Ident benötigen Sie folgende Daten:
+• Die Zugangsdaten für Ihr Online-Banking und
+• die Möglichkeit, TANs zu empfangen.
+
+Question: Was passiert bei Sofort-Ident mit meinen Daten?
+Answer: Unser Partnerunternehmen Sofort GmbH prüft automatisiert, ob der angegebene Name in der Online-Bestellung mit den beim Online Banking hinterlegten Daten übereinstimmt.
+Weitere Information zum Thema Datenschutz bei der Sofort GmbH
+

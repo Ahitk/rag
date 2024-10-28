@@ -1,0 +1,16 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/regio-router
+
+Question: Welche Router kann ich am MagentaZuhause Regio Anschluss nutzen?
+Answer: Die folgenden Router sind für die Nutzung an Ihrem MagentaZuhause Regio Anschluss geeignet. Diese Liste stellt eine Auswahl dar. Grundsätzlich können alle Router eingesetzt werden, die mit der bestellten Bandbreite und Technik Ihres Anschlusses kompatibel sind – also auch ältere Telekom Router oder Modelle anderer Anbieter. Hier können Sie Ihren Router aufKompatibilität prüfen.
+Darüber hinaus sind diese Router von AVM geeignet:
+Alle Informationen rund um die Konfiguration Ihres Routers für MagentaZuhause Regio finden Sie in unserenEinrichtungsunterlagen.
+• Speedport Smart
+• Speedport Smart 2
+• Speedport Smart 3
+• Speedport Smart 4
+• Speedport Smart 4 Plus
+• Speedport Pro
+• Speedport Pro Plus
+• FRITZ!Box 7490 (ab Firmware 6.62)
+• FRITZ!Box 7590 (ab Firmware 6.89)
+

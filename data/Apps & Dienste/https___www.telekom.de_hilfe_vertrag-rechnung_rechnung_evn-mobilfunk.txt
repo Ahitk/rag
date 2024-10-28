@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/evn-mobilfunk
+
+Question: Wie beauftrage ich den Einzelverbindungsnachweis für meinen Mobilfunk-Anschluss?
+Answer: Sie können Ihren Einzelverbindungsnachweis (EVN) für Ihren Mobilfunk-Anschluss im Kundencenter und in der MeinMagenta App beauftragen bzw. anpassen.
+Hinweis: Um nachträglich eine Verbindungsübersicht zu beantragen, nutzen Sie unserKontaktformular.
+• KundencenterMein Profil > Rechnungseinstellungen > Einzelverbindungsnachweis
+• MeinMagenta AppBenutzer-Symbol > Persönliche Daten > Rechnungseinstellungen > Einzelverbindungsnachweis
+

@@ -1,0 +1,29 @@
+The image contains information about the **MagentaMobil Basic** mobile plan from Telekom Deutschland GmbH, effective from August 1, 2024. Here’s a summary of the relevant details:
+
+### Plan Features
+- **Includes:** Mobile connection for phone calls, SMS, and internet access.
+
+### Data Transfer Rates
+- **Download Speed:** Up to 300 MBit/s
+- **Upload Speed:** Up to 50 MBit/s
+- **After 5 GB Usage:** 
+  - Download reduced to 64 KBit/s 
+  - Upload reduced to 16 KBit/s
+
+### Contract Information
+- **Contract Duration:** Minimum 24 months 
+- **Cancellation Notice Period:** 1 month 
+- **Post Contract:** Can be terminated with a notice period of one month after the minimum duration.
+
+### Pricing (Monthly)
+- **Without Smartphone:** €24.95
+- **With Smartphone:** €34.95
+- **With Top Smartphone:** €44.95
+- **With Premium Smartphone:** €54.95
+- **With Premium Plus Smartphone:** €64.95
+
+### Important Notes
+- Prices exclude one-time hardware costs.
+- Further details can be found in the terms and conditions available on the Telekom website.
+
+This summary provides a concise overview of the plan's offerings, pricing, and contractual obligations.

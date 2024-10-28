@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/loeschen-schadensmeldungen
+
+Question: Kann ich meine Schadensmeldungen löschen?
+Answer: In der Listendarstellung der App löschen Sie noch nicht verschickte Meldungen auf zwei verschiedene Arten:
+Abgesendete Störungsmeldungen hingegen lassen sich, ähnlich wie bei einer verschickten E-Mail, nicht mehr löschen oder stornieren.
+

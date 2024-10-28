@@ -1,0 +1,6 @@
+Question:
+Basierend auf dem Transkript, könnten Sie fragen: "Wie kann ich herausfinden, ob sich ungebetene Gäste in meinem Wehlern befinden?"
+
+Answer:
+"Erleben Sie häufig eine langsame Internetverbindung? Prüfen Sie, ob ungebetene Gäste Ihr WLAN nutzen. Sie können alle Geräte, die mit Ihrem WLAN verbunden sind, im Menü Ihres Routers einsehen; bei unseren Speedport Modellen finden Sie diese unter dem Punkt Netzwerk. Sollten Sie ein unbekanntes Gerät finden, können Sie es entfernen. Im Bedarf können Sie auch einen Netzwerkscanner auf Ihrem Smartphone nutzen, um zu überprüfen, wer online ist. Bei weiteren Fragen oder für Tipps zur WLAN-Sicherheit, besuchen Sie bitte unsere Hilfeseiten."
+

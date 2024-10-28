@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/meine-telekom/kundencenter/nutzerrechte-erweitern
+
+Question: Warum werden mir im Kundencenter nicht alle Informationen des Mobilfunk-Vertrages angezeigt?
+Answer: Nur als "Vertragsinhaber" haben Sie im Kundencenter Zugriff auf alle Informationen und Funktionen Ihres Mobilfunk-Vertrages.
+Um festzustellen, ob Sie derzeit als "Nutzer" eingeloggt sind, melden Sie sich mit Ihrem Telekom Login imKundencenteran. Klicken Sie in der Kachel "Verträge" auf den Pfeil neben dem entsprechenden Vertrag. Wird dort unter Ihrer Mobilfunk-Nummer "Nutzer" angezeigt, haben Sie ggf. den falschen Login benutzt oder der Vertrag muss IhremLogin noch zugeordnet werden.
+

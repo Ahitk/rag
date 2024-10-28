@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/ausland-roaming/erklaerung-travel-surf
+
+Question: Was ist Travel & Surf?
+Answer: Travel & Surf ist eine kostenlose Mobilfunk-Option, mit der Sie Datenpässe für die Datennutzung außerhalb der EU buchen können.
+Die Option ist in allen aktuellen MagentaMobil Tarifen (auch bei Prepaid und Datentarifen) voreingestellt und sorgt dafür, dass Sie beim Versuch, eine Datenverbindung außerhalb der EU aufzubauen, automatisch auf eine Internet-Seite geleitet werden, auf der Sie die Datenpässe für das entsprechende Land buchen können. Erst nach der Buchung eines Passes können Sie eine Datenverbindung aufbauen. Somit werden Sie vor unerwarteten Kosten durch ungewollte Datenübertragungen im außereuropäischen Ausland bewahrt.
+

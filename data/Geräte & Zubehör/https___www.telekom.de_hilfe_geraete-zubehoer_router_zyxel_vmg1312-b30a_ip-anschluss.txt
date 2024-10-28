@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/zyxel/vmg1312-b30a/ip-anschluss
+
+Question: Kann der Router Zyxel VMG1312-B30A am IP-basierten Anschluss genutzt werden und ist dieser Vectoring-fähig?
+Answer: Ja, der Router Zyxel VMG1312-B30A kann an allen IP-basierten Anschlüssen der Telekom verwendet werden (Ausnahme Glasfaseranschluss) und unterstützt ab der Firmware Version 100AAEB3D0 Vectoring. Die aktuelle Firmware finden Sie in unseremDownloadbereich.
+

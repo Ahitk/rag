@@ -1,0 +1,8 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Das-Postfach-ist-voll/td-p/6957346/jump-to/first-unread-message
+Subject: Das Postfach ist voll ...
+Content: Guten Tag, mein Problem:der Postfach-Speicherplatz lässt sich nicht löschen, Verweildauer ist seit 14 Tagen auf 3 Tage eingestellt. Ich aktiviere den Papierkorb, danach das Feld 'Speicher freigeben' und es passiert nichts, siehe Screenshot:Mehrere Kontakte mit der Telefonhotline konnten nicht weiterhelfen. Die Gespäche wurden abgebrochen, Weiterleitungen endeten mit einem Besetzzeichen, es gab Tipps die Speichererweiterung zu abonniern oder die Weitergabe einer Servicenummer, die sich als kostenpflichtige Hotline mit 1,79€ / Minute zeigte. Hat jemand eine Idee?
+
+Accepted Solutions:
+- Das sind die 10 nicht gelesenen Mails.Es gibt sicher noch jede Menge geleseneMach die Ordner auf und sieh nachOrder geh ins emailcenter und sieh unter Speicher die zwei Unterpunkte an..Speicher je Ordner und Anzahl mails je ordner
+- Hallo Heike,alles wieder gut ... dann war es anscheinend ein Softwareproblem der Telekom.Allen einen herzlichen Dank für die Lösungsideen!Viele GrüsseBarbara
+- Hi@outline,da bin ich wieder.😀Meine Kolleg*innen haben deine Unterordner im Papierkorb bereinigt. Nun sollte dir dort nichts mehr angezeigt werdenViele GrüßeHeike

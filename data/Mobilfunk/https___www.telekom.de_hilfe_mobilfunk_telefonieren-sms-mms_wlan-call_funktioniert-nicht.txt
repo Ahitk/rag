@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/funktioniert-nicht
+
+Question: Ich habe WLAN-Anrufe auf meinem Gerät aktiviert, aber WLAN Call funktioniert nicht. Was kann ich tun?
+Answer: Die Nutzung von WLAN Call ist mit der Verfügbarkeit des Mobilfunknetzes verbunden. Solange es noch Mobilfunk-Empfang gibt, nutzt das Smartphone dies auch automatisch für Telefonate.
+Prüfen Sie zunächst, ob alleVoraussetzungen für WLAN Callerfüllt sind.
+Wenn alle Voraussetzungen gegeben sind, gehen Sie bitte in den Flugmodus Ihres Smartphones und schalten die Funktion WLAN-Anrufe erneut ein.
+Hinweis:Auch wenn Sie Wi-Fi Calling bzw. WLAN-Anrufe nicht manuell auf Ihrem Smartphone deaktiviert haben, kann es passieren, dass die Funktion automatisch durch ein Update des Betriebssystems Ihres Smartphones ausgeschaltet wird. Prüfen Sie bitte daher Ihre Geräte-Einstellungen.
+

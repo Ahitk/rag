@@ -1,0 +1,13 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/sender-sortieren
+
+Question: Wie kann ich die Sender an meinem MagentaTV Gerät sortieren?
+Answer: Wenn Sie die MagentaTV Senderliste neu sortieren möchten, können Sie die Sender entweder über das Geräte Menü (Haus-Taste) oder über den elektronischen Programmführer (EPG-Taste) auf der Fernbedienung verwalten.
+Media Receiver 401/201 und MagentaTV Box (PLAY)Haus-Taste > Einstellungen > Aufnahmen & Sender > Senderlisten > Sender verwalten > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+EPG-Taste > Optionen > Sender verwalten > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+MagentaTV OneHaus-Taste > Einstellungen > MagentaTV Einstellungen > Senderverwaltung > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+EPG-Taste > Optionen > Senderverwaltung > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+MagentaTV One mit MagentaTVHaus-Taste > Zahnrad > MagentaTV Einstellungen > Aufnahmen & Sender > Senderlisten > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+EPG-Taste > Optionen > Sender verwalten > Senderlisten > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+MagentaTV StickHaus-Taste > Einstellungen > MagentaTV Einstellungen > Senderverwaltung > Sender mit OK auswählen und über die Pfeiltasten verschieben > Bestätigen
+Hinweis: Sie können die Sender, die Sie nicht in Ihrer Senderliste haben möchten, einfach durch einen Klick auf das Augen-Symbol ausblenden.
+

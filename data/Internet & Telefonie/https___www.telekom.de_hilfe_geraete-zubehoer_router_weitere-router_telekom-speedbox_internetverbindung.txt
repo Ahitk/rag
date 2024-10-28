@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/internetverbindung
+
+Question: Was kann ich tun, wenn ich über die Speedbox nicht ins Internet komme?
+Answer: Auf dieser Seite haben wir die häufigsten Ursachen bei Problemen mit der Internet-Verbindung über die Speedbox zusammengestellt. Versuchen Sie nach jedem Schritt erneut ins Internet zu kommen:
+• Stromanzeige:Bitte prüfen Sie, ob die Stromanzeige der Speedbox unterbrechungsfrei leuchtet. (Falls nicht, schalten Sie die Speedbox ein und rufen Sie dieKonfigurationsseite der Speedboxauf, um den Netzwerkstatus zu prüfen.)
+• SIM-Karte:Wenn keine SIM-Karte erkannt wird, schalten Sie die Speedbox aus und ziehen Sie das Netzteil ab. Setzen Sie dann die SIM-Karte erneut ein.
+• SIM-PIN:Falls der PIN-Code nicht verifiziert werden kann, geben Sie den PIN Ihrer SIM-Karte wie erforderlich ein.
+• Standort:Falls kein Netzwerk verfügbar ist, stellen Sie die Speedbox an einen geeigneten Ort, beispielsweise neben das Fenster, um ein besseres Signal zu empfangen.
+• Einwahl:Wenn die Einwahlverbindung fehlgeschlagen ist, stellen Sie sicher, dass dieAPN- und Kontoinformationenrichtig festgelegt sind.
+

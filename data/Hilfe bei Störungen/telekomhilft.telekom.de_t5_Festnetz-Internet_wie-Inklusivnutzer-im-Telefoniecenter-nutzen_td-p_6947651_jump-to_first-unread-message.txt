@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/wie-Inklusivnutzer-im-Telefoniecenter-nutzen/td-p/6947651/jump-to/first-unread-message
+Subject: wie Inklusivnutzer im Telefoniecenter nutzen?
+Content: Hallo liebes ThT,laut Beschreibung und Hilfetexte sollte man im Telefoniecenter Rufnummern einem Inklusivnutzer zuordnen können. Dies konnte ich  vor ein paar Jahren auch so durchführen.Leider finde ich im "neuen" Telefoniecenter diese Einstellungsmöglichkeit nicht mehr. Wo müsste ich genauer nachsehen?Freundliche GrüßeJGrob
+
+Accepted Solutions:
+- @JGrobDie Nutzerverwaltung wurde gestrichen.Wenn du, so wie ich, eine Rufnummer einem Inklusivnutzer zugeordnet hättest, würdest du unter Nutzerverwaltung folgendes sehen:Mehr Infos(Zum Lesen öffnen)
+- @JGrobDie Nutzerverwaltung wurde gestrichen.Wenn du, so wie ich, eine Rufnummer einem Inklusivnutzer zugeordnet hättest, würdest du unter Nutzerverwaltung folgendes sehen:Mehr Infos(Zum Lesen öffnen)

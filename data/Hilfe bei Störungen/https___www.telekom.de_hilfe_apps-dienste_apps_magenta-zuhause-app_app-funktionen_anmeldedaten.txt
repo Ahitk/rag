@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/app-funktionen/anmeldedaten
+
+Question: Können für die MagentaZuhause App die Anmeldedaten von SmartHome genutzt werden?
+Answer: Wenn für die SmartHome-Installation bereits ein Telekom Login verwendet wurde, wird empfohlen, diesen weiterhin für die MagentaZuhause App zu nutzen.
+Sind die Anmeldedaten für beide Apps unterschiedlich, ist der Import der vorhandenen SmartHome-Installation trotzdem möglich. In diesem Fall fordert Sie jedoch die App für den Import auf, den Telekom Login der SmartHome App einzugeben, damit die smarten Geräte und ihre Raumzuordnungen aus eine vorhandenen SmartHome Umgebung in die neue App importiert werden können.
+Weitere Infos dazu findest du in unsererFAQ zum Geräteimport.
+

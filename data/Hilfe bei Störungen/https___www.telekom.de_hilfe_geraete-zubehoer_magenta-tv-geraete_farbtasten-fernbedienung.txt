@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/farbtasten-fernbedienung
+
+Question: Kann ich die Farbtasten der MagentaTV Fernbedienung auch anders belegen?
+Answer: Wenn Sie beispielsweise mit der blauen Taste die Netflix App starten oder mit der grünen Taste auf die Aufnahmen zugreifen möchten, können Sie die Farbtasten der Fernbedienung in den Einstellungen des Media Receivers und der MagentaTV Box (PLAY) individuell anpassen:
+Haus-Taste > Einstellungen > Mein MagentaTV > Farbtasten > Farbtaste auswählen (grün, gelb oder blau) > OK > gewünschte Funktion aus der angezeigten Liste auswählen
+Hinweis:Die rote Farbtaste kann nicht ausgewählt werden, da sie für die zusätzlichen Inhalte des aktuellen Senders reserviert ist.
+

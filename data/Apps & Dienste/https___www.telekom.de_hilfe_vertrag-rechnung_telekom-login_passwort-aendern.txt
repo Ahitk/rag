@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/passwort-aendern
+
+Question: Wie kann ich das Passwort für meinen Telekom Login ändern?
+Answer: Das Passwort für Ihren Telekom Login ändern Sie imKundencenterwie folgt:
+Mein Profil > Profil verwalten > Login-Daten > Login-Daten bearbeiten > Benutzerdaten > Passwort > Ändern
+Hinweis: Ihr altes Passwort wird für die Passwortänderung nicht benötigt. In allen Anwendungen, die mit dem Telekom Login verknüpft sind (z. B. Kundencenter, MagentaCLOUD, MagentaTV, MeinMagenta App), ist Ihr neu gesetztes Kennwort sofort gültig.
+

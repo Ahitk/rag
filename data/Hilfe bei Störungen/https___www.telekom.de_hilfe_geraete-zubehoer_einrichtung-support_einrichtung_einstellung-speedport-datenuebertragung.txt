@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/einstellung-speedport-datenuebertragung
+
+Question: Ich habe Speed Home WiFi/WLAN am Speedport angemeldet. Es werden aber keine Daten übertragen. Was muss ich tun?
+Answer: Damit eine Datenübertragung zwischen Ihrem Speedport und Ihrer Speed Home WiFi oder Speed Home WLAN funktioniert, musswährend der Einrichtungder Mesh-Geräte die Zugangsbeschränkung (auch MAC-Filter genannt) deaktiviert sein.
+Wenn Sie die Einrichtung erfolgreich durchgeführt haben und die Daten zur Speed Home WiFi oder Speed Home WLAN übertragen werden, können Sie den WLAN-Zugang für bestimmte Geräte wieder aktivieren.
+So aktivieren und deaktivieren Sie die WLAN-Zugangsbeschränkung:
+• Aufruf der Konfigurationsseite:Öffnen Sie zunächst Ihren Internet-Browser und geben Sie in die Adresszeile des Browsers die Adresse des Speedport-Routers ein: http://speedport.ip oder http://192.168.2.1Geben Sie das Geräte-Passwort ein, welches sich auf der Rück- oder Unterseite Ihres Speedports befindet bzw. bei den Speedport Pro-Modellen in der Klappe auf der Oberseite.
+

@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/mesh-firmware-einfuehrung
+
+Question: Sind die Speedports Smart 3 und Smart 4 Mesh-fähig und was muss ich beachten?
+Answer: Seit Mitte September 2018 werden alle Speedport Smart 3 und neuere Speedport Smart Modelle automatisch mit der Mesh-fähigen Firmware versorgt.
+Gut zu wissen:Damit ein automatisches Update erfolgen kann, muss die Funktion "EasySupport" in Ihrem Speedport aktiviert sein.
+Der schnellste Weg zur neuen Firmware ist einmanuelles Firmware-Update.
+

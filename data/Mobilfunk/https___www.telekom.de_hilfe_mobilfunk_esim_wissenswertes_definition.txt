@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/definition
+
+Question: Was ist eine eSIM?
+Answer: Eine eSIM ist eine integrierte SIM-Karte, die als kleiner Chip bereits fest in Ihrem Gerät verbaut ist. Das "e" steht für embedded (eingebettet).
+Die Daten zur Identifikation im Mobilfunk-Netz, die sich bei der "klassischen" SIM-Karte auf dem Chip befinden, müssen bei der eSIM als eSIM-Profil runtergeladen werden.
+

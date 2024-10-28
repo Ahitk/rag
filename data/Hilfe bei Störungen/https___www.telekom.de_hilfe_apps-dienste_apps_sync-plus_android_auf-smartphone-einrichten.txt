@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/android/auf-smartphone-einrichten
+
+Question: Wie synchronisiere ich meine E-Mails, Kontakte und Termine zwischen dem Smartphone und dem E-Mail Center?
+Answer: Wenn Sie den Austausch Ihrer Daten zwischen dem E-Mail Center und Ihrem Android-Gerät wünschen, nutzen Sie Sync-Plus. Wie die Einrichtung funktioniert, erfahren Sie auf unsererSync-Plus-Seite.
+

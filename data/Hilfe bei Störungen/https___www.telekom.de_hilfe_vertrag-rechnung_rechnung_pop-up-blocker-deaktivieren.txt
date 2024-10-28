@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/pop-up-blocker-deaktivieren
+
+Question: Wie kann ich den Pop-up-Blocker meines Browsers deaktivieren?
+Answer: So können Sie den Pop-up-Blocker bei verschiedenen Browsern deaktivieren. Gehen Sie bitte wie folgt vor:
+Google ChromeChrome öffnen > 3-Striche-Menü > Einstellungen > Datenschutz & Sicherheit > Website-Einstellungen > Pop-ups und Weiterleitungen > Websites dürfen keine Pop-ups senden und Weiterleitungen verwenden.
+Mozilla FirefoxFirefox öffnen > 3-Striche-Menü > Einstellungen > Datenschutz & Sicherheit > Berechtigungen > Pop-up-Fenster blockieren > Haken entfernen oder Ausnahmen definieren und hinzufügen.
+SafariEinstellungen > Safari > Pop-ups blockieren.
+

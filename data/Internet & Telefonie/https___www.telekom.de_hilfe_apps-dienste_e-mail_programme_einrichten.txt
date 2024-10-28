@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/programme/einrichten
+
+Question: Wie richte ich meine E-Mail-Adresse in meinem E-Mail-Programm oder meiner Mail App ein?
+Answer: Es braucht nur wenige Schritte, um Ihr E-Mail-Konto über das Protokoll IMAP oder POP3 in einem E-Mail-Programm oder einer Mail App einzurichten.
+Beim Hinzufügen eines neuen Kontos in Ihrem E-Mail-Programm werden einige Daten abgefragt.
+Anschließend entscheiden Sie sich, welches Protokoll Sie nutzen möchten,IMAP oder POP3. Erkennt das Programm anhand Ihrer E-Mail-Adresse den Anbieter und kennt dessenPosteingangsserver und Postausgangsserver, werden diese Daten automatisch eingetragen. Damit ist die Einrichtung Ihres Kontos abgeschlossen.
+• Ihr Name: Dieser Name erscheint bei Ihren E-Mail-Empfängern als Absender
+• E-Mail-Adresse: Ihre E-Mail-Adresse @magenta.de/@t-online.de
+• Passwort: DasPasswort für E-Mail-Programme
+

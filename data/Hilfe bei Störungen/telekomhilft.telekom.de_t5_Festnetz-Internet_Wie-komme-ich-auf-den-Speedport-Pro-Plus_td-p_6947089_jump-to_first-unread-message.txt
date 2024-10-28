@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Wie-komme-ich-auf-den-Speedport-Pro-Plus/td-p/6947089/jump-to/first-unread-message
+Subject: Wie komme ich auf den Speedport Pro Plus?
+Content: Hallo,komme ich am PC über den Browser irgendwie auf die LTE-Mobile Option, den Speedport Pro Plus, um die Zugangsdaten zu ändern, den WLAN-Namen zu ändern ...?Falls ja, wie bitte?Danke.Grüße
+
+Accepted Solutions:
+- @kleinarnoldhttp://speedport.ipoderhttp://192.168.2.1aus dem LAN des Speedport.
+- @kleinarnoldhttp://speedport.ipoderhttp://192.168.2.1aus dem LAN des Speedport.

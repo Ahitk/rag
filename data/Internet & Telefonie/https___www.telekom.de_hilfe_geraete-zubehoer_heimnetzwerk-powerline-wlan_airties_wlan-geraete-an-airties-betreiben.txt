@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/airties/wlan-geraete-an-airties-betreiben
+
+Question: Kann ich nur WLAN-Geräte an den Airties-Produkten betreiben?
+Answer: Nein. Jede Airties-Box hat zwei LAN-Ports, die eine Geschwindigkeit bis 1 GBit/s unterstützen.
+Über diese Ports können Sie alle möglichen Geräte auch über ein LAN-Kabel einbinden.
+Richten Sie z. B. eine Funkbrücke zwischen Ihrem Speedport und Media Receiver ein – und versorgen Sie gleichzeitig Ihre Wohnung mit WLAN.
+

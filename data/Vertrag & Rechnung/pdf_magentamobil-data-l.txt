@@ -1,0 +1,29 @@
+Here is a summary of the information extracted from the image related to the "MagentaMobil Data L" mobile data plan from Telekom Deutschland GmbH:
+
+### Product Overview
+- **Service Type**: Mobile data plan.
+- **Inclusion**: Access to internet services.
+
+### Data Transfer Rates
+- **Maximum Download Speed**: 300 Mbit/s
+- **Maximum Upload Speed**: 50 Mbit/s
+- **Reduced Speed After Data Consumption**: 
+  - After using 25 GB, speed reduced to:
+    - **Download**: 64 kbit/s
+    - **Upload**: 16 kbit/s
+- **Note**: Rates apply for domestic data traffic.
+
+### Product Information
+- **Contract Duration**: 
+  - Minimum contract period: 24 months
+  - Cancellation notice: 1 month
+  - Can be canceled anytime after the minimum period with a one-month notice.
+
+### Pricing
+- **Monthly Cost (List Price)**:
+  - Without device: 29.95 EUR
+  - With device: 39.95 EUR
+  - With top device: 49.95 EUR
+  - With premium device: 59.95 EUR
+
+This summary encapsulates the key elements of the telecommunication product, which would be useful for potential customers evaluating their options.

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/prepaid-tarife/freiminuten-abfragen
+
+Question: Wie kann ich die Freiminuten meines Prepaid-Tarifs abfragen?
+Answer: Sie können den aktuellen Stand Ihrer Prepaid-Freiminuten für den laufenden Tarifzeitraum in der MeinMagenta App oder über die Tastenkombination *100*3#abrufen.
+

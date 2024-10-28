@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/kein-neustart-nach-reset
+
+Question: Was mache ich wenn mein Router nach dem Zurücksetzen auf Werkseinstellungen nicht neu startet?
+Answer: Folgen Sie diesen vier Schritten, um Ihren Router neu zu starten:
+

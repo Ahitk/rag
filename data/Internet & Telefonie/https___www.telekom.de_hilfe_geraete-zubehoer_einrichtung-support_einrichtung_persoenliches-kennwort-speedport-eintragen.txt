@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/persoenliches-kennwort-speedport-eintragen
+
+Question: Wie trage ich das persönliche Kennwort in meinen Router vom Typ Speedport ein?
+Answer: So tragen Sie Ihr persönliches Kennwort in Ihren Speedport Router ein:
+Ab sofort verwendet Ihr Speedport für die Verbindung ins Internet das neue persönliche Kennwort.
+Nutzen Sie ein Smartphone? Dann können Sie dieMeinMagenta Appfür die Einrichtung Ihres Anschlusses verwenden.
+
+Question: Sie haben Ihr persönliches Kennwort nicht mehr?
+Answer: Gerne zeigen wir Ihnen, was Sie tun können, falls Sie Ihrpersönliches Kennwort vergessen haben.
+Achtung:Falls Sie trotz der Passwort Eintragung nicht ins Internet kommen, führen Sie bitte eineKonfiguration Ihres Speedport Routersdurch.
+

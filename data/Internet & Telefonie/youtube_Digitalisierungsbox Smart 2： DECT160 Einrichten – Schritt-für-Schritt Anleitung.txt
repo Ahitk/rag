@@ -1,0 +1,12 @@
+Question:
+Was muss man tun, um ein Mobilteil an der Deckt 160-Basisstation anzumelden?
+
+Answer:
+Willkommen zu einem Informationsvideo zur Anmeldung einer Bintech-LMAC DECT 160 Basisstation und Mobilteilen an Ihrer Digitalisierungspox. Zuerst ist die Hardwareinstallation erforderlich, einschließlich Strom- und Netzwerkverbindung. Danach erfolgt die Anmeldung an das Web Interface der Digitalisierungspox 2 mit den bereitgestellten Zugangsdaten. Das neu erkannte Voice-Over-IP Telefon wird anschließend konfiguriert, indem eine Telefonbezeichnung festgelegt wird, interne Rufnummern für jedes Mobilteil erstellt werden und ein Passwort angegeben wird. Eine eindeutige EPUE-Nummer für jedes Mobilteil wird benötigt und kann auf dem Gerätetenkarton oder direkt über das Mobilteil abgerufen werden. 
+
+Danach werden herkömmliche Telefonieeinstellungen wie ausgehende und eingehende Rufnummern konfiguriert. Wenn mehrere Telefone an die Basisstation angeschlossen werden sollen, können sie während dieses Prozesses hinzugefügt werden. Eventuell überschüssige Rufnummern können leicht entfernt werden. Nachdem alle Einstellungen bestätigt worden sind, muss eine anfängliche Konfiguration an der DECT 160 Basisstation vorgenommen werden. 
+
+Dies beinhaltet die Auswahl der Sprache und das Einrichten eines sicheren Passworts. Dann wird das entscheidende DECT-Frequenzband ausgewählt, in Europa typischerweise 1880 bis 1900 MHz. Nachdem die Einstellungen bestätigt wurden, ist keine weitere Konfiguration mehr erforderlich. 
+
+Zum Abschluss der Konfiguration werden die Mobilteile angemeldet, indem man die Option "DECT-Registrierung starten" auswählt und bestätigt. An jedem Mobilteil wird die Option "Mobilteil anmelden" gewählt und der Systempin eingegeben. Der Vorgang wird für jedes Mobilteil wiederholt, das angemeldet werden soll. Damit ist die Einrichtung der Digitalisierungspox 2 und der DECT 160 Basisstation abgeschlossen. Vielen Dank für Ihre Aufmerksamkeit.
+

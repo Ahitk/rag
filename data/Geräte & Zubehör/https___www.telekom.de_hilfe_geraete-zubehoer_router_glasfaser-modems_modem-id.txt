@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/glasfaser-modems/modem-id
+
+Question: Wo finde ich die Modem-ID?
+Answer: Die Modem-ID finden Sie auf dem Typenschild an der Rück- oder Unterseite des Glasfaser-Modems oder Ihrem Router, wenn dieser ein integriertes Modem hat. Sie besteht je nach Hersteller aus 12 oder 16 Zeichen.
+Haben Sie eine Fritz!Box, lesen Sie die Modem-ID auf der Geräte-Unterseite ab. Um eine 16-stellige ID-Nummer für die Einrichtung zu erstellen, ersetzen Sie "AVMG" durch "41564D47", z. B. wird aus "AVMG12345678" die Modem-ID "41564D4712345678".
+

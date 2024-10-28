@@ -1,0 +1,6 @@
+Question:
+Wie kann ich ein IP-System Telefon an meiner Digitalisierung-Box einrichten?
+
+Answer:
+Willkommen zu einem neuen Digitalisierung-Box 2 Video. In diesem Video wird erklärt, wie ein IP-Systemtelefon an einer Digitalisierung-Box eingerichtet wird. Die Konfiguration beginnt mit dem Lock-In am Web-Interface der Box. Hier beginnen wir, indem sie den Bereich Telefonie auswählen und dann auf Telefone verwalten und hinzufügen klicken. Im Abschnitt Voice-Over IP Telefone finden Sie alle zugänglichen IP-Telefone. Neue Geräte können direkt konfiguriert werden. Das neu angeschlossene Telefon wird zunächst mit einem Namen versehen. Dann geht es weiter mit der Einstellung der Rufnummer. Das IP-Systemtelefon erhält standardmäßig eine interne Rufnummer, es können jedoch auch weitere interne Nummern vergeben werden. Dann vergeben wir ein Passwort für die IP-Telefonregistrierung. Als nächstes wählen wir die ausgehende Rufnummer für externe Anrufe und setzen die Einstellungen für eingehende Anrufe. Hier können auch mehrere Rufnummern ausgewählt werden und eine Tag- und Nachtschaltung definiert werden. Bei bestimmten Geräten, wie IP 630 und IP 640, kann auch eine individuelle Tastenkonfiguration vorgenommen werden. Diese Einstellungen sind optional. Am Ende bestätigen sie die Konfiguration mit ok. Vielen Dank für Ihre Aufmerksamkeit und auf Wiedersehen.
+

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Magenta-TV-LiveTV-funktioniert-nicht-Nutzung-im-EU-Ausland-soll/td-p/6942057/jump-to/first-unread-message
+Subject: Magenta TV - LiveTV - funktioniert nicht ... Nutzung im EU Ausland soll freigeschalten werden
+Content: Halloseit heute Abend funktioniert leider kein Magenta TV LiveTVdasEPGfunktioniert - nur wenn man einen Sender auswählen möchte - kommt die Fehlermeldung, man könne jetzt im EU-Ausland mit MagentaTV schauen - scheinbar bloß nicht mehr im eigenen Land, oder wie?Router / TV / MagentaBox wurde mehrfach neu gestartet. IP-Adresse der Fritz.Box neu zuweisen lassen--> alles ohne wirkliche Abhilfekann mir wer helfen bitte?
+
+Accepted Solutions:
+- @Rescueflo_1Störung ist seit 19.9.2024 21:10 Uhr behoben
+- @Rescueflo_1Störung ist seit 19.9.2024 21:10 Uhr behoben

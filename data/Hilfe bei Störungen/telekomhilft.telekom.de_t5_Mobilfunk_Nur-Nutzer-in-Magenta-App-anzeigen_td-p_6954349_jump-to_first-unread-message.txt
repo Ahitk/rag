@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Nur-Nutzer-in-Magenta-App-anzeigen/td-p/6954349/jump-to/first-unread-message
+Subject: Nur Nutzer in Magenta App anzeigen
+Content: Hallo, kann ich mich nur als Nutzer (PlusKarte) in die Magenta App eintragen, ohne das der Vertragsinhaber und alle anderen PlusKarten angezeigt werden?Ich möchte nicht, das jeder alle Karten „bearbeiten“ kann.
+
+Accepted Solutions:
+- Guten Morgen@Lupus370,vielen Dank, dass du deinen Lösungsweg mit uns teilst. Vielleicht hilft dieser auch@arch.lange.Alternativ könnt ihr auch nochmal folgendes probieren:Startseite > Avatar > Einstellungen > Sicherheit > Immer als Vertragspartner einloggen > Widerrufen > Logout durchführen.Beim nächsten Login per SMS/Teilzugriff wird der automatische Vollzugriff durch den E-Mail Bestätigungscode (der übersprungen werden kann) verhindert.Ich habe es gerade nochmal getestet und bei mir hat es funktioniert.Herzliche GrüßeJulia
+- Guten Morgen@Lupus370,vielen Dank, dass du deinen Lösungsweg mit uns teilst. Vielleicht hilft dieser auch@arch.lange.Alternativ könnt ihr auch nochmal folgendes probieren:Startseite > Avatar > Einstellungen > Sicherheit > Immer als Vertragspartner einloggen > Widerrufen > Logout durchführen.Beim nächsten Login per SMS/Teilzugriff wird der automatische Vollzugriff durch den E-Mail Bestätigungscode (der übersprungen werden kann) verhindert.Ich habe es gerade nochmal getestet und bei mir hat es funktioniert.Herzliche GrüßeJulia

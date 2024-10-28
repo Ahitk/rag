@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/apple-watch/watch-wie-iphone-nutzen
+
+Question: Kann ich die Apple Watch genau so nutzen wie mein iPhone?
+Answer: Die Funktionen der Apple Watch sind abhängig von den verfügbaren und installierten Apps und deren Funktionen. Es stehen zukünftig immer mehr Apps für die Apple Watch zur Verfügung. Die Verfügbarkeit der Apps im Apple App Store hängt vom Entwickler der App ab.
+Das mobile Internet ist auf der Apple Watch über Apps und Siri nutzbar. Surfen über einen Internet-Browser ist nicht möglich.
+

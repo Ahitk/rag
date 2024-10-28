@@ -1,0 +1,30 @@
+The document provides information regarding the "MagentaMobil S" mobile telecommunications product offered by Telekom Deutschland. Here’s a summary of the key details:
+
+### Product Overview
+- **MagentaMobil S** includes:
+  - Mobile connection for telephony and SMS.
+  - Access to internet services.
+
+### Data Transfer Rates
+- **Download**: Maximum throttled speed of **300 MBit/s**.
+- **Upload**: Maximum throttled speed of **50 MBit/s**.
+- After consuming **20 GB**, speeds are reduced to:
+  - **64 KBit/s** for downloads.
+  - **16 KBit/s** for uploads.
+
+### Contract Information
+- **Contract Duration**: Minimum of **24 months**.
+- **Cancellation Notice**: One month’s notice.
+- Contracts can be terminated anytime after the minimum duration.
+
+### Pricing (Monthly Costs)
+- Without smartphone: **€39.95**
+- With smartphone: **€49.95**
+- With top smartphone: **€59.95**
+- With premium smartphone: **€69.95**
+- With premium-plus smartphone: **€79.95**
+
+### Important Links
+- Additional details and terms can be found at [Telekom’s website](www.telekom.de/agb).
+
+This summary outlines the essential features and pricing of the MagentaMobil S product, beneficial for potential customers considering telecommunications options from Telekom Deutschland.

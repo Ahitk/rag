@@ -1,0 +1,21 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/informationen-und-datenschutz/easysupport-am-speedport-ausschalten
+
+Question: Wie kann ich in meinem Speedort die Funktion EasySupport ausschalten?
+Answer: Sie können die Funktion "EasySupport" im Einstellungsprogramm Ihres Speedport ausschalten.
+Hier zeigen wir am Beispiel von drei Speedport Modellen, wie Sie die Funktion "EasySupport" deaktivieren können.
+Das Aufrufen des Einstellungsprogramms ist bei allen Modellen identisch:
+Rufen Sie durch Eingabe von "speedport.ip" oder "192.168.2.1" im Internet-Browser das Einstellungsprogramm Ihres Speedport Routers auf. Geben Sie dann das Gerätepasswort ein.
+Vorgehen beim Speedport W 724V
+Bei diesem Modell finden Sie die Funktion im Menübereich "Einstellungen" unter dem Menüpunkt "EasySupport".
+
+Schalten Sie dort die EasySupport Funktionen aus. Ihre Einstellung wird automatisch abgespeichert. Wir empfehlen die Funktion automatische Firmware-Updates eingeschaltet zu lassen.
+Vorgehen bei Speedport W 723V
+Bei diesem Modell finden Sie die Funktion im Menübereich "Verwaltung" unter dem Menüpunkt "Hilfsmittel". Öffnen Sie dann den Eintrag "EasySupport".
+
+Schalten Sie dort die Funktion "EasySupport" aus und speichern Sie die Einstellung ab.
+Vorgehen bei Speedport W 503V
+Bei diesem Modell finden Sie die Funktion im Menübereich "Verwaltung" unter dem Menüpunkt "Hilfsmittel". Öffnen Sie dann den Eintrag "automatische Konfiguration".
+
+Schalten Sie dort die Funktion "automatische Konfiguration" aus und speichern Sie die Einstellung ab.
+Wichtig:Wenn Sie die Funktion "EasySupport" in Ihrem Gerät ausschalten, können Sie die kostenfreien Services von EasySupport, z. B. zur automatischen Aktualisierung der Firmware oder zur Fehlerbehebung auf Ihrem Gerät über das Internet, nicht nutzen.
+

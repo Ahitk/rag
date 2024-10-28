@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/voraussetzung-mesh
+
+Question: Was sind die Voraussetzungen, um die Mesh-Technik meiner MagentaTV Box (PLAY) nutzen zu können?
+Answer: Wenn Sie einen Speedport Smart 3, Smart 4 (Plus) oder Speedport Pro nutzen, können Sie Ihre MagentaTV Box (PLAY) bereits per Mesh-Technik mit Ihrem Speedport verbinden.
+Bei älteren Routern oder Routern anderer Hersteller benötigen Sie mindestens zwei Telekom Mesh-fähige Geräte, also z. B. zwei MagentaTV Boxen oder eine MagentaTV Box und ein Speed Home WiFi. Ein Gerät davon muss dauerhaft per LAN mit Ihrem Router verbunden sein.
+Alternativ ist natürlich die herkömmliche WLAN-Technik nutzbar. Allerdings ist Mesh-WLAN deutlich leistungsstärker.Das ist Mesh-WLAN
+

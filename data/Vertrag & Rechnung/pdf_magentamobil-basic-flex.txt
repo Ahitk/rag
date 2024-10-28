@@ -1,0 +1,26 @@
+The document provides information about the "MagentaMobil Basic Flex" mobile plan from Telekom Deutschland GmbH. Here’s a summary of the relevant details:
+
+### Product Overview:
+- **Included Services**: Mobile connection for telephony, SMS, and internet access.
+- **Marketing Start Date**: 01.08.2024.
+
+### Data Transfer Rates:
+- **Download Speed**: 
+  - Max: 300 MBit/s
+  - Reduced after 5 GB usage: 64 kBit/s
+- **Upload Speed**:
+  - Max: 50 MBit/s
+  - Reduced after 5 GB usage: 16 kBit/s
+
+### Contract Information:
+- **Contract Duration**: 
+  - No minimum contract term.
+  - Cancellation period: One month.
+  
+### Pricing:
+- **Monthly Fee**: €24.95 (excluding one-time hardware costs).
+
+### Additional Information:
+- Detailed terms and conditions are available on the Telekom website.
+
+This plan is designed for users looking for a flexible mobile contract without a long-term commitment and offers competitive data speeds.

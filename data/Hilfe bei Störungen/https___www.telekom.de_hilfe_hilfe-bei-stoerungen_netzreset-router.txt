@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/hilfe-bei-stoerungen/netzreset-router
+
+Question: Wie kann ich meinen Router neu starten?
+Answer: Bei Fehlfunktionen des Anschlusses hilft in vielen Fällen ein Neustart des Routers. Dadurch wird die Verbindung zwischen Router und unserem Netz neu aufgebaut.
+Folgen Sie diesen vier Schritten, um Ihren Router neu zu starten:
+Hat dieser Tipp nicht geholfen, dann nutzen Sie gerne unsereLeitungsprüfung, um den Fehler zu beheben oder eine Störung zu melden.
+

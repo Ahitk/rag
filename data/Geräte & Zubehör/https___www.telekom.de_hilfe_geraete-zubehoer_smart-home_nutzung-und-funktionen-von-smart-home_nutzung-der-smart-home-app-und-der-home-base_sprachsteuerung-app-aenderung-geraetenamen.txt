@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/sprachsteuerung-app-aenderung-geraetenamen
+
+Question: Wie kann ich Geräte, Szenen oder die Temperatur von Räumen per Sprache steuern, nachdem ich die Namen in der Magenta SmartHome App geändert habe?
+Answer: Wenn Sie den Namen von einem Gerät, einer Szene oder einem Raum geändert haben, können Sie natürlich auch weiterhin die Sprachsteuerung verwenden, bspw. über Google Home oder Amazon Alexa.
+Sie müssen nach der Namensänderung zunächst lediglich in der App des jeweiligen Smart Speakers die Geräte- oder Raumübersicht aktualisieren. Ohne eine Aktualisierung ist die Steuerung per Sprache mit den neu vergebenen Namen nicht möglich. Nach der Aktualisierung kann die Steuerung wieder wie gewohnt erfolgen.
+

@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-wifi/anzahl-speed-home-wifi-geraete
+
+Question: Wie viele Speed Home WiFi Geräte benötige ich?
+Answer: Wie viele Geräte Sie für Ihre Räumlichkeiten benötigen, ist abhängig von der Wohnungsgröße und Ihrem Nutzungsverhalten. Ermitteln Sie ganz einfach mit unserem Konfigurator, wie viele Geräte Sie in Ihrem Zuhause für die optimale WLAN-Abdeckung brauchen. Klicken Sie auf unsererSeite zum Thema Heimvernetzungauf "Was braucht Ihr Zuhause?", um den Konfigurator zu starten.
+Sie benötigen mindestens zwei Speed Home WiFi, um ein Mesh-Netzwerk aufzubauen. Ausnahme: Wenn Sie einen Speedport Smart 3 haben, dient der Router bereits als Mesh-Basis – Sie benötigen dann also mindestens ein Speed Home WiFi.
+Maximale Anzahl
+In Verbindung mit dem Speedport Smart 3 können Sie maximal fünf Speed Home WiFi nutzen, mit älteren Routern oder Routern anderer Hersteller maximal sechs.
+In Kombination mit MagentaTV
+Wenn Sie Speed Home WiFi in Verbindung mit MagentaTV nutzen möchten, empfehlen wir, pro Media Receiver ein Speed Home WiFi zu verwenden. Haben Sie eine MagentaTV Box, benötigen Sie dafür keinen eigenen Speed Home WiFi, da in der MagentaTV Box Mesh-WLAN integriert ist.
+Gut zu wissen
+Speed Home WiFi ist nicht mit Mesh-Lösungen anderer Hersteller kompatibel.
+

@@ -1,0 +1,6 @@
+Question:
+Welche Betriebsart muss für die Grundkonfiguration der Telefonanlagenfunktionen der Digitalisierungsspock Smart 2 gewählt werden?
+
+Answer:
+Dieses Video bietet einen Überblick über die Grundkonfiguration der Telefonanlagenfunktionen der "Digitalisierungsspock Smart 2". Es setzt voraus, dass das Gerät im PbX-Modus betrieben wird. Nach der automatisierten Inbetriebnahme sind die Anschlüsse vorkonfiguriert und zusätzliche Telefonanschlüsse können hinzugefügt werden. Des weiteren erklärt das Video, wie man lokale Telefonendgeräte verwaltet und neue hinzufügt, einschließlich der Auswahl des Telefonie-Anbieters und des Endgeräte-Typs. Es zeigt auch, wie Sie die Rufnummern für ausgehende und eingehende Anrufe einstellen und individualisieren können. Andere Funktionen wie Kalendereinstellungen für Tag- und Nachtbetrieb und Ländereinstellungen werden auch behandelt, ebenso wie spezielle Funktionen wie die "Besetzt-bei-Besetzt"-Funktion. Am Ende bietet das Video einen Überblick über die Statusinformation der Endgeräte und die Rufverteilung.
+

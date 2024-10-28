@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/kameranutzung/welches-kameramodell
+
+Question: Welche Kamera ist in meinem Magenta SmartHome am besten für mich geeignet?
+Answer: Das richtige Kameramodell ist von vielen Faktoren abhängig. Dazu gehören unter anderem:
+• Der EinsatzortAußenkameras vertragen extremere Temperaturen, haben eine robustere Bauweise und damit eine höhere IP-Schutzklasse (Staub- und Spritzwasserschutz) als Innenkameras.
+• SabotageschutzEin eingebauter Sabotageschutz löst sofort Alarm aus, wenn sich eine fremde Person an der Kamera zu schaffen macht.
+• EntfernungDie Entfernung zwischen dem Aufstellort der Kamera und der Magenta SmartHome Zentrale: Die Funkreichweiten unterscheiden sich je nach verwendetem Funkstandard der Kamera.
+• Montage- und AnschlussmöglichkeitenMagenta SmartHome unterstützt kabelgebundene und batteriebetriebene Kameras mit unterschiedlichem Montagezubehör.
+• Ausstattung und EinsatzzweckViele Kameramodelle bieten erweiterte Funktionen wie z. B. eine Personenerkennung oder eine besonders gute Nachtsicht. Welche Kamera sich am besten für Sie eignet, hängt von der gewünschten Verwendung ab.
+

@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speedport-isdn-adapter/geeignete-telefonanlagen-fuer-den-speedport-isdn-adapter
+
+Question: Welche ISDN-Telefonanlagen sind für den Speedport ISDN-Adapter geeignet?
+Answer: Folgende Telefonanlagen sind mit dem Speedport ISDN-Adapter kompatibel:
+Sie haben Ihre Telekom-Telefonanlage bereits vor 2004 gekauft?Dann kann es sein, dass nicht alle Funktionen mit dem Speedport ISDN-Adapter unterstützt werden.
+Sie möchten aber an Ihrer Telefonanlage individuelle Einstellungen vornehmen?Dann empfehlen wir Ihnen anstelle des Speedport ISDN-Adapters den Router Zyxel Speedlink 5501 oder die Digitalisierungsbox.
+• Eumex 402
+• Eumex 800
+• Eumex 800V
+• Eumex 820 LAN
+

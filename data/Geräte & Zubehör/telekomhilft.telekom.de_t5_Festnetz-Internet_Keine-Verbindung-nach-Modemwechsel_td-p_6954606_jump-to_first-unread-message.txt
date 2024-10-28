@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Keine-Verbindung-nach-Modemwechsel/td-p/6954606/jump-to/first-unread-message
+Subject: Keine Verbindung nach Modemwechsel
+Content: (Nachricht aus dem Englischen übersetzt von DeepL, ich entschuldige mich für eventuelle Fehler)Guten Tag! Ich habe eine Woche lang ein Fritzbox 5530glasfaserModem benutzt und alles hat funktioniert, aber dann ist es abgestürzt (defekt). Ich habe das Modem durch ein neues vom Hersteller ersetzt und es funktioniert einwandfrei.Allerdings kann ich die Internetverbindung nicht mit dem Verfahren wiederherstellen, das bei der alten funktionierte (Verbindungsassistent vom Modem). Die "Verbindung"-LED blinkt und die WLAN-LED leuchtet.Ich nehme an, dass das Problem darin besteht, dass ein anderes Modem (das, das kaputt gegangen ist) bereits auf dieser Glasfaserleitung registriert ist und die Verbindung dadurch blockiert wird. Was soll ich tun?Vielen Dank für Ihre Ratschläge und besten Wünsche.
+
+Accepted Solutions:
+- Zur Information: Nachdem ich die Leitung zurückgesetzt hatte, konnte ich das Modem registrieren. Danke!
+- Zur Information: Nachdem ich die Leitung zurückgesetzt hatte, konnte ich das Modem registrieren. Danke!

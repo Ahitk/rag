@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/aktivierungscode-definition
+
+Question: Was ist der Aktivierungscode?
+Answer: Der Aktivierungscode wird als QR-Code dargestellt und wird zur Aktivierung einer eSIM benötigt. Sie können den QR-Code selbst im Kundencenter abrufen oder per Post zugesendet bekommen. Durch das Scannen über die Kamera-App legitimieren Sie sich einmalig zum Download Ihres eSIM-Profils und können so den gewünschten Vertrag auf die eSIM in Ihrem Gerät übertragen.
+

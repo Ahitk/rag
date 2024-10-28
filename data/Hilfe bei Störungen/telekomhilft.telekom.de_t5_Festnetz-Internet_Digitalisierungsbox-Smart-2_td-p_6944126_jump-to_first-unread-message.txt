@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Digitalisierungsbox-Smart-2/td-p/6944126/jump-to/first-unread-message
+Subject: Digitalisierungsbox Smart 2
+Content: Hallo zusammen,wir haben grade eine Digitalisierungsbox Smart 2 in Betrieb genommen.Bei der Konfiguration desVPNstoßen wir jetzt auf das Problem, dass die Dokumentation (bedienungsanleitung-digitalisierungsbox-smart-2.pdf (telekom.de))nicht mehr aktuell zu sein scheint. Das interface sieht anders aus und der bintec VPN-Client ist auch nicht mehr zu bekommen, weil das Unternehmen insolvent ist. Wie bekomme ich nun eine Client-to-Site Verbindung hin? Gibt es vielleicht eine Doku zu dem Gerät, die aktueller als 2021 ist und sich auf die aktuelle Firmware bezieht?Beste Grüße
+
+Accepted Solutions:
+- Um das hier mal abzuschließen: Bei der Fritzbox funktionierte alles mit demVPNauf Anhieb und die Telefonanlage ist auch übersichtlicher.Gruß und danke für die HilfeTim
+- Um das hier mal abzuschließen: Bei der Fritzbox funktionierte alles mit demVPNauf Anhieb und die Telefonanlage ist auch übersichtlicher.Gruß und danke für die HilfeTim

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/DSL-Anschluss-auf-50Mbit-wieder-hochsetzen/td-p/6980159/jump-to/first-unread-message
+Subject: DSL Anschluss auf 50Mbit wieder hochsetzen?
+Content: Hallo, ist es evtl. wieder möglich meinen DSL Anschluss wieder auf 50 Mbit heraufzusetzen?Zur zeit ist er schon länger auf 45 Mbit begrenzt und so wie ich das seit längerem gesehen habe könnte ich wohl dochwieder auf die 50 Mbit kommen. Mir ist klar, dass dann wider der "normale" Grundpreis fällig ist.Vorab schon mal vielen DankCordVon der FRITZBOX :Ausgehandelte VerbindungseigenschaftenEmpfangsrichtungSenderichtungDSLAM-Datenrate Max.kbit/s4500016000DSLAM-Datenrate Min.kbit/s1152Leitungskapazitätkbit/s5134714836Aktuelle Datenratekbit/s4499114737StörabstandsmargedB97
+
+Accepted Solutions:
+- Hallo@cokra,vielen Dank für deinen Beitrag.Wir sollten es dabei belassen.🙈Ich kann aber gerne mal schauen, ob wir eventuell bei dir auf Hybrid umstellen können, falls du daran Interesse hast?Viele GrüßeSvenja
+- Hallo@cokra,vielen Dank für deinen Beitrag.Wir sollten es dabei belassen.🙈Ich kann aber gerne mal schauen, ob wir eventuell bei dir auf Hybrid umstellen können, falls du daran Interesse hast?Viele GrüßeSvenja

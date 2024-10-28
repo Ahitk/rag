@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/anschluss-der-geraete-bei-cloud-vpn
+
+Question: Wie schließe ich die Geräte (Cisco-Router und z. B. Speedport Router und USB-Stick) bei Cloud VPN an?
+Answer: Sie haben Ihren Cloud VPN Router und den USB-Stick erhalten und möchten diese mit Ihrem ans Internet angeschlossenen Router verbinden – so gehen Sie vor:
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/meine-telekom/kundencenter/funktionen-nicht-nutzbar
+
+Question: Warum kann ich einige Funktionen im Kundencenter nicht nutzen?
+Answer: Überprüfen Sie in den Einstellungen Ihres Browsers und ggf. Ihres Sicherheitsprogramms, ob Cookies von*.telekom.de, *.telekom.com und *.t-online.de akzeptiert werden. Außerdem sollten Pop-Ups nicht blockiert und Cookies von Drittanbietern zugelassen werden. Ändern Sie diese Einstellungen im Browser oder im entsprechenden Sicherheitsprogramm.
+

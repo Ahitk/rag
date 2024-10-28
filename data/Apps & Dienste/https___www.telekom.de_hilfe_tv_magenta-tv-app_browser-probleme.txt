@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/tv/magenta-tv-app/browser-probleme
+
+Question: Was kann ich tun, wenn MagentaTV über den Browser nicht startet?
+Answer: Wenn MagentaTV nicht über die Internetseitehttps://web.magentatv.deauf Ihrem PC startet, kann es an diesen Browser-Einstellungen liegen:
+Ändern Sie Ihre Browser-Einstellungen, um MagentaTV über Ihren PC zu sehen.
+• Sie haben ein privates Browser-Fenster geöffnet (Inkognito-Modus) oder
+• Sie nutzen die Browser-Erweiterung "Requestly" (Zusatz-Funktion zur Analyse von Internetseiten)
+

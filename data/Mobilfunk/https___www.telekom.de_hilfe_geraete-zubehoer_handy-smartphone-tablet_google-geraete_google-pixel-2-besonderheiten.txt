@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/google-geraete/google-pixel-2-besonderheiten
+
+Question: Welche Besonderheiten hat das Google Pixel 2/2 XL?
+Answer: Das Google Pixel 2 /2 XL
+• besitzt ein USB Type-C Anschluss.
+• unterstützt Cat 15 (Download: 800 Mbit/s, Upload 75 Mbis/s).
+• hat eine Akku-Schnellladefunktion.
+• benutzt einen Google Assistent.
+• ist nach IP 67-Zertifizierung staubgeschützt, sodass ein kurzes Eintauchen in Wasser möglich ist.
+

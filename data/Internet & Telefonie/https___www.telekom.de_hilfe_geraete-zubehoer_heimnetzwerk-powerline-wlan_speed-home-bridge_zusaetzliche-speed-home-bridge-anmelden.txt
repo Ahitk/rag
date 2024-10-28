@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-bridge/zusaetzliche-speed-home-bridge-anmelden
+
+Question: Wie kann ich eine zusätzliche Speed Home Bridge anmelden?
+Answer: Wenn Sie bereits die Speed Home Bridges nutzen und jetzt z. B. einen weiteren Media Receiver über WLAN verbinden möchten, benötigen Sie eine weitere, einzelne Speed Home Bridge. Das Gleiche gilt natürlich auch für den Fall, dass Sie die Reichweite Ihrer bisherigen Speed Home Bridges erhöhen möchten.
+

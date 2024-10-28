@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/verschluesselung
+
+Question: Warum haben manche E-Mails keinen Text, sondern nur eine "smime.p7m" Datei im Anhang oder zusätzlich zum Text eine "smime.p7s" Datei?
+Answer: Mit dem Standard "S/MIME" werden E-Mails digital signiert und verschlüsselt. Sie können die verschlüsselte Nachricht bzw. die Signatur speichern und mit einem geeigneten Programm auf Ihrem Computer öffnen. Im E-Mail Center ist eine Entschlüsselung nicht möglich.
+Endet die angehängte Datei auf ".p7s", so wurde die E-Mail mit diesem Standard digital signiert.
+Wurde die E-Mail mit diesem Standard verschlüsselt, wird der Text der E-Mail, eventuelle Anlagen sowie die Signatur als eine Datei mit der Endung ".p7m" versendet.
+

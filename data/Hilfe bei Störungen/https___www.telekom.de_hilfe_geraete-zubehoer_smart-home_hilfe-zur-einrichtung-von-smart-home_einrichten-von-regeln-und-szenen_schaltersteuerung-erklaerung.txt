@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-von-regeln-und-szenen/schaltersteuerung-erklaerung
+
+Question: Was bedeutet Weitere Steuerung bei Magenta SmartHome?
+Answer: Über "Weitere Steuerung" in "Automatisierung hinzufügen" können der Szene Schalter zugeordnet werden. Die Szene kann dann über diesen Schalter aktiviert/ deaktiviert werden.Folgende Schalter werden unterstützt: Wandtaster Aufputz, 4-Tasten Fernbedienung Bitron Home und 4-Tasten Handsender HomeMatic. Wird einer dieser Schalter der Szene oder mehrere hinzugefügt, dann kann man mit ihnen die Szene manuell ein- oder ausschalten.
+

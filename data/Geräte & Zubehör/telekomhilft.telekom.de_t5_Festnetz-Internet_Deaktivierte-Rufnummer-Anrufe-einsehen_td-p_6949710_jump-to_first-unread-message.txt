@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Deaktivierte-Rufnummer-Anrufe-einsehen/td-p/6949710/jump-to/first-unread-message
+Subject: Deaktivierte Rufnummer Anrufe einsehen
+Content: Hallo!Ich habe eine Fritzbox 7530 und drei eigene Telekom Rufnummern. Eine habe ich nun deaktiviert. Wenn man diese Rufnummer wählt, geht die Sprachbox an. In der Fritzbox wird aber weder der Anruf noch Nachrichten auf der Sprachbox angezeigt.  Ist das normal?
+
+Accepted Solutions:
+- @Cori.K.Man kann die Sprachbox für die deaktivierte Rufnummer auch im Telefoniecenter ausschalten, dann hört der Anrufer halt die Ansage, dass der Teilnehmer nicht erreichbar ist.
+- @Cori.K.schrieb:In der Fritzbox wird aber weder der Anruf noch Nachrichten auf der Sprachbox angezeigt.  Ist das normal?Ja, da sie die Nummer ja deaktiviert haben.@Cori.K.schrieb:Wenn man diese Rufnummer wählt, geht die Sprachbox anNatürlich, da diese Nummer ja nur bei ihnen deaktiviert ist, und kein Anruf durchkommt, Im Netz bleibt sie natürlich aktiv.
+- @Cori.K.schrieb:In der Fritzbox wird aber weder der Anruf noch Nachrichten auf der Sprachbox angezeigt.  Ist das normal?Ja, da sie die Nummer ja deaktiviert haben.@Cori.K.schrieb:Wenn man diese Rufnummer wählt, geht die Sprachbox anNatürlich, da diese Nummer ja nur bei ihnen deaktiviert ist, und kein Anruf durchkommt, Im Netz bleibt sie natürlich aktiv.
+- @Cori.K.Man kann die Sprachbox für die deaktivierte Rufnummer auch im Telefoniecenter ausschalten, dann hört der Anrufer halt die Ansage, dass der Teilnehmer nicht erreichbar ist.

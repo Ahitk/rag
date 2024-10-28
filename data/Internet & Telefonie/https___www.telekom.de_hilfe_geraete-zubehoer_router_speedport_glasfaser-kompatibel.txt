@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/glasfaser-kompatibel
+
+Question: Welche Router sind mit Telekom Glasfaser-Anschlüssen kompatibel?
+Answer: Folgende Geräte können Sie an IhremFTTHoderFTTBAnschluss betreiben. Wir empfehlen Ihnen den Betrieb eines aktuellen WLAN-Routers an Ihrem Glasfaser-Anschluss.
+Für FTTH geeignete Router mit integriertem Glasfaser-Modem:
+Für FTTH geeignete Router, die ein zusätzliches Glasfaser-Modem benötigen:
+Für FTTB geeignete Router, die den Übertragungsstandard G.fast unterstützen:
+• Speedport Smart 4 Plus
+• FRITZ!Box 5530 Fiber und 5590 FiberHinweis:Für einen Glasfaser 2000 Anschluss (aktuell nur in Pilotgebieten verfügbar) kann aufgrund der neuen XGS-PON Technologie ausschl. die AVM FRITZ!Box 5530 Fiber (Edition XGS-PON) genutzt werden.
+• Speedport Smart 3 und 4
+• Speedport Pro und Pro Plus
+• Digitalisierungsbox Premium 2 und Smart 2
+• FRITZ!Box 7490, 7530 (AX) und 7590 (AX)
+• Speedport Smart 4 Plus
+• Digitalisierungsbox Smart 2 und Premium 2
+• FRITZ!Box 7583
+

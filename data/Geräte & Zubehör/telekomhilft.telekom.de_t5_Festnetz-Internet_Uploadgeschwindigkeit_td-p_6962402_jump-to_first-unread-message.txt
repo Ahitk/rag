@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Uploadgeschwindigkeit/td-p/6962402/jump-to/first-unread-message
+Subject: Uploadgeschwindigkeit
+Content: Ich habe vor ein paar Tagen meinen Glasfaser Tarif von Magenta XL Zuhause auf Glasfaser 300 umgestellt. Die Downloadgeschwindigkeit liegt bei 300. Die Uploadgeschwindigkeit allerdings -wie bisher - bei 50. Die Müsste aber bei 150 liegen. Ich benutze den Speedport Smart 3 mit Glasfasermodem. Muss ich da noch was einstellen? Wird das nicht automatisch umgestellt? Oder liegt das an dem Router?
+
+Accepted Solutions:
+- Bitte mal den speedport einmal Neustarten
+- Bitte mal den speedport einmal Neustarten

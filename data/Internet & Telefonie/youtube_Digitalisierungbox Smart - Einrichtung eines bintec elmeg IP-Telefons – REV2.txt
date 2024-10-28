@@ -1,0 +1,12 @@
+Question:
+Wie kann ich ein Bintech-L-Meg IP-Gerät über die Digitalisierung-Sbox in meinem System integrieren?
+
+Answer:
+Willkommen zu einem neuen Digitalisierung-Sbox-Video. Dieses Video führt Sie durch den Prozess der Integration von Bintech-L-Meg IP-Geräten in das System über die Digitalisierung-Sbox. Es beginnt mit der Erklärung der Konfiguration und den Voraussetzungen für das System, einschließlich der Notwendigkeit eines DHCP-Servers, der den Endgeräten eine Provisionierungs-URL zur Verfügung stellt. Die Digitalisierung-Sbox kann als DHCP-Server eingesetzt werden und seine Konfiguration kann einfach überprüft werden. Sollte ein anderer DHCP-Server verwendet werden, beispielsweise ein Windows DHCP-Server, finden Sie entsprechende Anweisungen auf der FAQ-Seite des Bintech LMAG Helpcenters.
+
+Nach der Konfiguration des Systems, erklärt das Video, wie Sie in der Konfigurations-Oberfläche auf den Tab "Telefonie" wechseln und neue Telefone hinzufügen können. Sie müssen sicherstellen, dass das Telefon an eine Stromquelle angeschlossen ist und mit dem lokalen Netzwerk der Digitalisierung-Sbox verbunden ist. Nachdem das Telefon eine IP-Adresse bezogen hat und eine IP-Verbindung zur Digitalisierung-Sbox besteht, können Sie mit der Konfiguration des Geräts beginnen.
+
+Das Video zeigt, wie Sie die Konfiguration für ein neues LMAG IP 630 IP-Telefon durchführen, einschließlich der Konfiguration der Rufnummern und der eingehenden Einstellungen. Nachdem Sie die Konfiguration bestätigt haben und das Telefon einsatzbereit ist, zeigt das Video, wie Sie die individuellen Telefontasten des Endgeräts konfigurieren können.
+
+Zum Abschluss des Videos lernen Sie, wie Sie die Konfiguration dauerhaft in dem System speichern. Die Einrichtung eines Bintech LMAG IP-Telefons an der Digitalisierung-Sbox ist nun abgeschlossen. Das Video endet mit einem Dank für Ihre Aufmerksamkeit.
+

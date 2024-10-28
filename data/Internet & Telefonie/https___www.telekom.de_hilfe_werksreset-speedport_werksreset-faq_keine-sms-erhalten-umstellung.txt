@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/keine-sms-erhalten-umstellung
+
+Question: Woran erkenne ich, dass ich meinen Speedport-Router neu einrichten muss, wenn ich keine SMS bekommen habe?
+Answer: Prüfen Sie, ob Sie noch telefonieren können. Sobald am Umstellungstag die Telefoniefunktion beeinträchtigt ist, beginnen Sie mit der Neueinrichtung Ihres Routers.An einigen Speedports erkennen Sie auch am Leuchtverhalten der LEDs, dass die Telefoniefunktion ausgefallen ist.
+

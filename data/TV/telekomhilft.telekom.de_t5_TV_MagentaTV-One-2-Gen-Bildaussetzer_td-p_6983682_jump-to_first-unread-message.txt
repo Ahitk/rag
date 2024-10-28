@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/MagentaTV-One-2-Gen-Bildaussetzer/td-p/6983682/jump-to/first-unread-message
+Subject: MagentaTV One (2. Gen.) Bildaussetzer
+Content: Ich nutze seit gestern die MagentaTV one (2. Gen.) an einem Glasfaseranachluss.Die Box ist direkt mit dem Router per Lankabel verbunden.Etwa alle 2-3 Minuten hat der Stream beim live-tv und videostreams einen kurzen Bildaussetzer von etwa einer halben Sekunde bis sekunde.Dies betrifft auch die Nutzung anderer Apps.Manchmal sogar mehrere Aussetzer kurz hintereinander.Also auch wenn ich auf der One paramount+, disney+ oder rtl+ nutze.
+
+Accepted Solutions:
+- @Liontology-1860Könnte einHDMIProblem sein. Nutzt du das originalHDMIKabel der MTV One? Ist die MTV One direkt am TV angeschlossen oder ist noch etwas dazwischen? Mal einen anderenHDMIam TV probieren bzw. das Kabel noch mal neu stecken
+- @Liontology-1860Könnte einHDMIProblem sein. Nutzt du das originalHDMIKabel der MTV One? Ist die MTV One direkt am TV angeschlossen oder ist noch etwas dazwischen? Mal einen anderenHDMIam TV probieren bzw. das Kabel noch mal neu stecken

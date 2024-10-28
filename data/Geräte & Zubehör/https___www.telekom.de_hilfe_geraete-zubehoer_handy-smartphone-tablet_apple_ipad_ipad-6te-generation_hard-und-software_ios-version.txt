@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/ipad/ipad-6te-generation/hard-und-software/ios-version
+
+Question: Welche iOS-Version ist auf dem iPad (6. Generation) installiert?
+Answer: Bei der Auslieferung ist das Betriebssystem iOS 11 installiert.
+

@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/smarte-produkte/iot
+
+Question: Sind IoT-Geräte nur einsetzbar, wenn sie mit dem Internet verbunden sind?
+Answer: Wie der Name Internet of Things schon sagt: Für diese Technologie ist eine stabile Internetverbindung unerlässlich. Die Geräte selbst können Sie zwar in der Regel auch offline verwenden, um von den Vorteilen der Vernetzung zu profitieren, müssen diese aber über das Internet miteinander verbunden werden. Auch für unsere smarten IoT Produkte wie Kids Watch und GPS-Tracker benötigen Sie eine zuverlässige Verbindung zum mobilen Internet. Im öffentlichen Bereich soll der Mobilfunkstandard 5G für eine flächendeckend schnelle Internetverbindung sorgen.
+
+Question: Wie steht es mit der Sicherheit bei Internet of Things?
+Answer: Zwei Faktoren sind besonders entscheidend für die Sicherheit im IoT: aktualisierte Software und ein sicheres Passwort. Führen Sie also Softwareupdates auf allen Geräten immer zeitnah durch. So profitieren Sie von den neuesten Sicherheitsstandards, welche die Entwickler damit implementieren.Ändern Sie Standard-Passwörter, zum Beispiel das IhresWLAN-Router und -Repeater, direkt mit der Inbetriebnahme. Die vorgefertigten Passwörter bieten nämlich meistens nur unzureichenden Schutz. Vermeiden Sie einfach zu erratene Kombinationen wie Geburtsdaten. Wählen Sie generell bei der Vergabe von Passwörtern eine zufällige Kombination von Klein- und Großbuchstaben, Zahlen sowie Sonderzeichen, um ein möglichst sicheres Passwort zu generieren.
+
+Question: Benötige ich für die Nutzung eines IoT-Produktes eine SIM-Karte?
+Answer: Das kommt auf die Bauweise bzw. Funktion Ihres IoT-Produktes an. Unser Neebo Baby Sensor-Armband bspw. funktioniert ganz ohne SIM-Karte. In der XPLORA X5 Play eSIM ist eineeSIMbereits integriert.
+

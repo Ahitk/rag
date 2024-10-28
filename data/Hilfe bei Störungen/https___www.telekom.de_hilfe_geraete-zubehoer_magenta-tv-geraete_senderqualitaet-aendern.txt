@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/senderqualitaet-aendern
+
+Question: Wie kann ich die Senderqualität bei meinem MagentaTV Gerät ändern?
+Answer: Sie können die Bildqualität (UHD, HD, SD) über Ihr MagentaTV Gerät dauerhaft oder für eine laufende Sendung vorübergehend wie folgt einstellen oder ändern:
+Hinweis:Die Bildqualität ist, neben Ihrer Einstellung, auch vom Sender abhängig. Denn die Sender geben das Format des Inhalts vor. Bedeutet: Wenn Sie dauerhaft UHD eingestellt haben und der Sender den Film in HD sendet, können Sie auch nur in HD schauen.
+• MagentaTV Box (PLAY)/Media Receiver 401:Haus-Taste > Einstellungen > Aufnahmen und Sender > Senderqualität > Aktuelle Einstellung
+• MagentaTV One/MagentaTV Stick:Haus-Taste > Einstellungen > MagentaTV-Einstellungen > Aufnahmen und Sender > Senderqualität > Senderqualität/TV-Qualität
+• Vorübergehend:OK-Taste > Optionen > Video-Qualität
+

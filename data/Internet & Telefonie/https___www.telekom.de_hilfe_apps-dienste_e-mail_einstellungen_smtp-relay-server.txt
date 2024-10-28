@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/einstellungen/smtp-relay-server
+
+Question: Was brauche ich für die Einrichtung eines SMTP-Relay-Servers?
+Answer: Den SMTP-Relay-Server "securesmtprelay.t-online.de" richten Sie als ausgehenden E-Mail-Server mit den folgenden Einstellungen ein:
+Port 465 SSL oder Port 25 Start TLS
+Für die Nutzung in einem E-Mail-Programm benötigen Sie für die Anmeldung zusätzlich die E-Mail-Adresse und das Passwort von Ihrem Telekom Mail-Konto, das Sie ganz einfach selbstverwaltenkönnen.
+Hinweis:Der SMTP-Relay-Server ist nur im E-Mail PaketMail Minklusive.
+

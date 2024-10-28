@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/identifikation/grundlage
+
+Question: Warum ist eine Identifikation notwendig?
+Answer: Die Telekom ist gesetzlich verpflichtet, die Kundendaten, die beim Kauf eines Mobilfunk-Tarifs angegeben werden, im Vorfeld der Kartenaktivierung anhand eines Ausweisdokuments zu überprüfen (§ 172 des Telekommunikationsgesetzes). Nur wenn die Daten der auftraggebenden Person mit den Daten des Ausweisdokuments übereinstimmen und die Person auch Ausweisinhaber*in ist, darf die Mobilfunk-Karte auf den Namen aktiviert werden.
+

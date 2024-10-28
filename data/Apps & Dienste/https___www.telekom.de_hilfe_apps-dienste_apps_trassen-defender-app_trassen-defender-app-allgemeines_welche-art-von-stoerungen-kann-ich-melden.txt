@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-allgemeines/welche-art-von-stoerungen-kann-ich-melden
+
+Question: Welche Art von Störungen bzw. Beschädigungen kann ich über die Trassen Defender App melden?
+Answer: Die App ist ausschließlich für die Meldung von unter- und oberirdischen Kabelbeschädigungen geeignet.
+Die Meldung von Beschädigungen an Endverteilern oder Multifunktionsgehäusen ist nicht möglich.
+

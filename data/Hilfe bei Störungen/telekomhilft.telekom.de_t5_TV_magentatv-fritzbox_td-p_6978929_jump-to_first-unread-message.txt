@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/magentatv-fritzbox/td-p/6978929/jump-to/first-unread-message
+Subject: magentatv fritzbox
+Content: Hallo, ich habe eine Fritzbox 7530AX und möchte wissen, ob sich an diesem Router die MagentaTV Box (2.Gen.) betreiben lässt. Hat jemand Erfahrung?
+
+Accepted Solutions:
+- @Fritz.VorholzJa das geht. Am besten per LAN-Kabel verbunden, erst in zweiter Linie per WLAN.
+- @Fritz.VorholzJa das geht. Am besten per LAN-Kabel verbunden, erst in zweiter Linie per WLAN.

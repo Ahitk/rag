@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Kabelfehler-e1-Router-angeblich-defekt-Altgeraet-verwenden/td-p/6948856/jump-to/first-unread-message
+Subject: Kabelfehler e1 / Router angeblich defekt, Altgerät verwenden
+Content: Hallo,nach 3-monatiger Abwesenheit (Gerät war ausgesteckt) funktioniert am SP Smart 4 Typ B Telefon&Internet nicht mehr, oranges LED blinkt, Gerät meldet Kabelfehler e1.  Zig Mal neugestartet, Kabel ok. Nach 2-maligen Telefonat mit Störungsstelle wird nun ein neues Gerät geschickt. Der jetzige Router ist ald. recht neu (02/24) .Habe noch einen alten Speedport w724 & versucht, diesen anzuschließen - Fehler bleibt, keine Verbindung. Ich habe jetzt seit 5 Tagen kein Telefon/Internet und bekomme nichts erledigt und soll weitere 2 Tage warten.😵Laut Störungsstelle ist die Leitung ok (s.u.)Istder alte SP w724 nicht mehr kompatibel oder muß ich irgendwo die Zugangsdaten eingeben o. irgendeine Konfig vornehmen? Wer garantiert, dass es mit einem anderen Gerät klappt? Im Nachbarhaus wird derzeit umgebaut, dortsoll im Keller auch die Anschlussstelle liegen - kann dort etwas passiert sein? Das wäre bei der Prüfung doch aufgefallen oder?
+
+Accepted Solutions:
+- Techniker war da, Problem war tatsächlich, dass der Hauptanschluss im Nachbarhaus durch Umbauarbeiten in Mitleidenschaft gezogen wurde. Finally...👍
+- Techniker war da, Problem war tatsächlich, dass der Hauptanschluss im Nachbarhaus durch Umbauarbeiten in Mitleidenschaft gezogen wurde. Finally...👍

@@ -1,0 +1,6 @@
+Question:
+Wie erfolgt die Konfiguration eines IP-Systemtelefons an der Digitalisierungspox Premium 2?
+
+Answer:
+In diesem Digitalisierungspox 2 Video wird gezeigt, wie ein IP-Systemtelefon an das Digitalisierungspox Premium 2 System angeschlossen wird. Nachdem die Energieversorgung und die Netzwerkverbindung hergestellt sind, beginnt die Konfiguration auf der Webinterface der Digitalisierungspox. Ein Benutzer muss erstellt werden, dem dann eine interne Rufnummer zugewiesen wird. Die anschließende Endgerätekonfiguration wird detailliert erklärt. Bei Telefonmodellen mit konfigurierbaren Tasten, wie dem IP 630 oder IP 640, wird auch die Tastenkonfiguration behandelt. Änderungen sind jederzeit möglich und erfordern nur minimale Einstellungen. Das Video endet mit einem Dankeschön.
+

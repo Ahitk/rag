@@ -1,0 +1,22 @@
+Here's a summary of the relevant information from the document regarding the "MagentaMobil XL Flex (Mobilfunk)" product:
+
+### Product Overview
+- **Service Type**: Includes mobile phone connections for telephony, SMS, and access to internet services with unlimited data volume.
+- **Market Launch Date**: Effective from August 1, 2024.
+
+### Data Transfer Rates
+- **Download Speed**: Up to 300 MBit/s (capped).
+- **Upload Speed**: Up to 50 MBit/s (capped).
+
+### Additional Product Information
+- **Contract Terms**: 
+  - No minimum contract duration.
+  - One month notice period for cancellation.
+  
+- **Monthly Fee**: 
+  - 84.95 EUR for the complete product (list price), excluding hardware costs.
+
+### Note
+- For further details regarding the product features, pricing, and terms, refer to the official website of Telekom Deutschland or their general terms and conditions.
+
+This information may be useful for potential customers considering this mobile service plan.

@@ -1,0 +1,6 @@
+Question:
+Wie ändert man die LAN IP-Adresse der Digitalisierungbox?
+
+Answer:
+In diesem Video wird gezeigt, wie die LAN IP-Adresse der Digitalisierungbox geändert wird. Ursprünglich hat die Digitalisierungbox die IP-Adresse 1.92.168.2.1 und Subnetzmaske 255.255.255.0, was insgesamt 254 IP-Adressen ermöglicht. Der DHCP-Server ist aktiviert und erstellt IP-Adressen im Bereich von 1.92.168.2.100 bis 199.90. Dieses Tutorial zeigt, wie diese Werte auf die neue lokale IP-Adresse 1.92.168.10.1 und die entsprechend angepassten DHCP-Server-Bereich geändert werden können. Die Änderungen betreffen sowohl den PBX- als auch den MGW-Betriebsmodus. Die Einrichtung erfordert den Zugang zum Webinterface der Digitalisierungbox und die Auswahl des Menüpunktes "lokales Netzwerk einrichten". Nach der Warnung über die Änderung der IP-Adresse kann die Konfiguration des lokalen Netzwerks fortgesetzt werden. Die neue Konfiguration umfasst sowohl IPv4 als auch IPv6 und setzt eine erneute Anmeldung mit der neuen IP-Adresse voraus. Nachdem die Änderungen vorgenommen und gespeichert wurden, kann auf die Digitalisierungbox mit der neuen IP-Adresse zugegriffen werden.
+

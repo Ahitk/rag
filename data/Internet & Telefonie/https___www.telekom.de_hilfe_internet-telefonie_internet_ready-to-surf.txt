@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/ready-to-surf
+
+Question: Wie kann ich die Leitungs-ID von meinem Festnetz-Anschluss ermitteln?
+Answer: Verbinden Sie in der neuen Wohnung den Router und die Telefondose mit einem DSL-Kabel. Schließen Sie den Router anschließend an den Strom an.
+

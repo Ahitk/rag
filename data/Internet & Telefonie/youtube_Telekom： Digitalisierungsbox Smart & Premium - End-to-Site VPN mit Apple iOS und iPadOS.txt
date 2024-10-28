@@ -1,0 +1,6 @@
+Question:
+Wie kann man eine End-to-Side VPN Verbindung mit einem Apple iOS oder Apple iPad OS-Gerät und der Digitalisierungssbox als VPN Gateway einrichten?
+
+Answer:
+In diesem Video wird die Einrichtung einer End-to-Side VPN Verbindung mit einem Apple iOS oder iPad OS-Gerät und der Digitalisierungssbox als VPN Gateway dargestellt. Dabei sind drei wichtige Komponenten zu sehen: das iOS- oder iPad OS-Gerät mit einem integrierten VPN-Client, die Digitalisierungssbox, und ein Server im lokalen Netzwerk. Die wichtigsten Schritte sind die Konfiguration des VPN-Tunnels in der Digitalisierungssbox, die Einrichtung des VPN-Clients auf dem iPhone oder iPad und schließlich die Firewall-Konfiguration zur Einschränkung des Zugriffs des VPN-Clients. Es ist auch wichtig, eine öffentliche IPv4-Adresse zu haben, und festzulegen, dass diese statisch oder dynamisch ist. Am Ende des Videos wird der Hinweis gegeben, dass die Digitalisierungssbox viele Konfigurationsmöglichkeiten bietet und weitere Hilfsvideos zur Verfügung stehen.
+

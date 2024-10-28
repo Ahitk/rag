@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/media-receiver/wiederholter-neustart
+
+Question: Warum startet mein Media Receiver immer wieder neu und zeigt die Meldung "Verbindung wird hergestellt"?
+Answer: Die Fehlermeldung "Verbindung wird hergestellt – Bitte haben Sie einen Moment Geduld. Die Verbindung zu MagentaTV wird in ... Sek. automatisch hergestellt" bedeutet, der Receiver kann keinen Kontakt zum Server aufbauen und dadurch nicht korrekt starten.
+In vielen Fällen wird dies durch ein Problem in der Verkabelung mit dem Router hervorgerufen. Kontrollieren Sie die LAN-Verbindung zwischen Receiver und Router. Benutzen Sie bitte nur das mitgelieferte LAN-Kabel und möglichst keine zusätzlichen Geräte, wie z. B. dLAN-Adapter, Powerlines oder WLAN-Bridges.
+Eine weitere mögliche Ursache ist ein Fehler in der Firmware bzw. dem Betriebssystem des Media Receivers. Hier kann es helfen, einmanuelles Update der Firmwaredurchzuführen.
+

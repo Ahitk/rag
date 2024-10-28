@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/passwort
+
+Question: Welches Passwort benötige ich für die Einrichtung der Synchronisation meiner Emails in der Sync-Plus App?
+Answer: Sie benötigen das E-Mail-Passwort, um Ihre E-Mails über die vorinstallierte E-Mail-App auf dem Smartphone bzw. Tablet abzurufen.
+Um einE-Mail-Passwort im Kundencentereinzurichten, benötigen Sie Ihr Passwort, das Sie auch für den Login in der Sync-Plus App verwendet haben (Telekom Login).
+

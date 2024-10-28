@@ -1,0 +1,6 @@
+Question:
+Haben Sie bereits gewusst, wie Sie Ihr Android-Smartphone mit Ihrem Router verbinden können?
+
+Answer:
+Auf dieser Webseite erfahren Sie, wie Sie Ihr Android-Smartphone einfach mit Ihrem Router verbinden können. Sie benötigen lediglich den WLAN-Namen und das WLAN-Passwort, die Sie normalerweise auf der Rückseite oder Unterseite Ihres Routers finden. In den Einstellungen Ihres Smartphones wählen Sie unter "WLAN" den entsprechenden WLAN-Namen aus und geben das Passwort ein. Nachdem Sie den Verbindungsaufbau bestätigt haben, ist Ihr Gerät mit Ihrem Router verbunden. Weitere hilfreiche Tipps finden Sie in unseren nachfolgenden Videos.
+

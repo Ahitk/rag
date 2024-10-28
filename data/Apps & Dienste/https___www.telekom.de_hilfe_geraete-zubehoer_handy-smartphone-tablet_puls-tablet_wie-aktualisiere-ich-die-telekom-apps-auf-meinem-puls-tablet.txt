@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/puls-tablet/wie-aktualisiere-ich-die-telekom-apps-auf-meinem-puls-tablet
+
+Question: Wie aktualisiere ich die Telekom Apps auf meinem Puls-Tablet?
+Answer: Aktivieren Sie einfach in den Einstellungen („T“-Zeichen) der Puls-Startseite, die Funktion "Telekom Apps automatisch aktualisieren".
+Damit Ihre Telekom Apps jederzeit auf dem neuesten Stand sind, empfehlen wir Ihnen die automatische Aktualisierung einzuschalten.
+

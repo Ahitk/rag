@@ -1,0 +1,26 @@
+Here’s a summary of the key information from the document regarding the telecommunications product "MagentaMobil S Flex":
+
+### Product Overview
+- **Type**: Mobile telecommunications service (including voice, SMS, and internet access).
+- **Availability**: Marketed since August 1, 2024.
+
+### Data Transmission Rates
+- **Maximum Download Speed**: 300 MBit/s
+- **Maximum Upload Speed**: 50 MBit/s
+- **Traffic Reduction**: After consuming 20 GB, speeds reduce to:
+  - **Download**: 64 kbit/s
+  - **Upload**: 16 kbit/s
+
+### Additional Product Information
+- **Contract Duration**:
+  - No minimum contract duration.
+  - One-month notice period for cancellation.
+  
+- **Monthly Fee**: 
+  - €39.95 (excluding one-time hardware costs).
+
+### Notes
+- Data transmission rates are applicable for domestic traffic only.
+- Further details and conditions can be found in the product's terms and conditions on the Telekom website.
+
+This information is essential for understanding the service package, its costs, and usage limitations.

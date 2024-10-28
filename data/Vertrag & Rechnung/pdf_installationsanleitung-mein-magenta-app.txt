@@ -1,0 +1,36 @@
+The image provides instructions for installing and logging into the "MeinMagenta" app, a service related to Telekom products. Here’s a summary of the relevant information:
+
+### Installation
+- Download the "MeinMagenta App" from the Apple App Store or Google Play Store.
+- Select your preferred language within the app after installation.
+
+### Login Options
+1. **Automatic Login for Mobile Customers:**
+   - Turn on WLAN and mobile data.
+   - The app identifies your SIM card automatically.
+   - If multiple contracts exist, you will receive a 6-digit code via email for full access.
+
+2. **Automatic Login for Fixed Network Customers:**
+   - Connect your smartphone to WLAN.
+   - The app will attempt to identify automatically; you will receive a code in your email to enter.
+
+3. **Telekom Login:**
+   - Use your user name and password for Telekom services.
+
+4. **SMS Verification (for Telekom mobile customers only):**
+   - Enter your mobile number to receive a 6-digit code via SMS, or an email with a code depending on the method used.
+
+### Important Note
+- It is crucial to enter the verification codes received via email or SMS to access personal data and billing statements.
+
+### Benefits of the MeinMagenta App
+- Access invoices, usage details, and account summaries.
+- Manage personal data and recharge accounts.
+- Adjust rates and options.
+- Setup and optimize WLAN devices.
+- Access guides, FAQs, and a digital assistant for inquiries.
+
+### Additional Feature
+- The app includes a section for "Magenta Moments," which offers gifts and exclusive benefits for customers.
+
+This summary encapsulates the key functions and instructions for using the MeinMagenta app effectively.

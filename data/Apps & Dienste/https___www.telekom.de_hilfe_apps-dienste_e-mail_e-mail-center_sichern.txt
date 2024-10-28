@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/sichern
+
+Question: Wie kann ich meine E-Mails sichern?
+Answer: Wenn Ihr E-Mail-Postfach demnächst abgeschaltet wird, weil Sie bspw. Ihren zugehörigen Festnetz-Anschluss gekündigt haben und Sie Ihre E-Mails behalten möchten, haben Sie folgende Möglichkeiten:
+• E-Mails aus demE-Mail Centerweiterleiten:Haken in das Kästchen vor die gewünschte E-Mail setzen > Weiterleiten > Empfänger eingeben > SendenHinweis:Sie können maximal 30 E-Mails auf einmal weiterleiten
+• E-Mails auf dem Computer speichernHaken in das Kästchen vor die gewünschte E-Mail setzen > Mehr > Nachricht speichern > auf Computer > als eml oder als PDF (ohne Anhang)
+

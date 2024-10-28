@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/weiterleitung
+
+Question: Ich werde von der Speedbox nicht automatisch auf pass.telekom.de weitergeleitet. Warum?
+Answer: Vermutlich versuchen Sie über die Speedbox eine https-Webseite (z. B. Online-Banking) aufzurufen und werden nicht automatisch auf pass.telekom.de weitergeleitet.Sobald eine herkömmliche http-basierte Internet-Adresse (bspw. spiegel.de) eingegeben wird, erfolgt die Umleitung.
+

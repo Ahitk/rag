@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/anrufweiterleitung
+
+Question: Kann ich in der App eine Anrufweiterleitung für einzelne Anrufer einstellen?
+Answer: Sie können für Ihre Festnetz-Rufnummern eine Anrufweiterleitung für einzelne Anrufer in den Einstellungen unter "Weitere Festnetz-Einstellungen" festlegen. Für Nachrichten an Ihrem Mobilfunk-Anschluss rufen Sie bitte die 3311 über Ihr Smartphone an und folgen Sie dem Sprachmenü.
+

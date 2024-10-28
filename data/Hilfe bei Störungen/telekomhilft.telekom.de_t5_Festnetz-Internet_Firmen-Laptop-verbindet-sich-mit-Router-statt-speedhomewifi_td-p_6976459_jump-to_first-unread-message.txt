@@ -1,0 +1,6 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Firmen-Laptop-verbindet-sich-mit-Router-statt-speedhomewifi/td-p/6976459/jump-to/first-unread-message
+Subject: Firmen-Laptop verbindet sich mit Router statt speedhomewifi
+Content: Hi zusammen,mein Firmen-Laptop verbindet sich immer mit dem Router im Untergeschoss, obwohl im selben Geschoss ein speedhomewifi steht. Die Signalstärke ist demnach unterirdisch und ich kann keine Video-Telefonate mehr führen oder sonst wie vernünftig arbeiten. Leider kenne ich mich auch absolut nicht aus mit dem Thema. Wie kann ich dem Laptop denn "beibringen" sich mit dem speedhomewifi zu verbinden?Habe zwei Screenshots angefügt, die zeigen, wie die Signalstärke des speedhomewifis ist und wie schlecht die Down-/Uploadrate des Firmenlaptops.Danke für eure Tipps und Hilfe!
+
+Accepted Solutions:
+- Das hat funktioniert! Jetzt verbindet er sich mit dem Speedhomewifi (Bild anbei). Mega, vielen vielen Dank! Muss ich morgen ausprobieren, ob jetzt alles wieder in gewohnter Schnelligkeit funktioniert.Kann die Einstellung jetzt Konsequenzen auf andere Geräte haben?

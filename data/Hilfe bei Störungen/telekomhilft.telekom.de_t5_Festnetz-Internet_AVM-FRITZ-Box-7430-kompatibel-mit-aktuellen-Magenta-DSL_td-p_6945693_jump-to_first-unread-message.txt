@@ -1,0 +1,11 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/AVM-FRITZ-Box-7430-kompatibel-mit-aktuellen-Magenta-DSL/td-p/6945693/jump-to/first-unread-message
+Subject: AVM FRITZ!Box 7430 kompatibel mit aktuellen Magenta DSL-Anschlüssen?
+Content: Ich habe einen Magenta DSL-Neuanschluss gebucht, welcher morgen bereitgestellt wird. Kann hierfür noch die FRITZ!Box 7430 verwendet werden bzw. ist dieser Router noch kompatibel? Vielen Dank vorab.
+
+Accepted Solutions:
+- @Co.schrieb:Ich habe einen Magenta DSL-Neuanschluss gebucht, welcher morgen bereitgestellt wird.Kann hierfür noch die FRITZ!Box 7430 verwendet werden bzw. ist dieser Router noch kompatibel?Vielen Dank vorab.Verwendbar:Ja- die maximale Geschwindigkeit im Download (100 Mbit/s) wurde bereits genannt.Persönlicher Support von AVM:Nein, wurde bereits eingestellt.Update aufOS08.00:   ist nicht zu erwarten.
+- Ja. Kannst du bis 100 MBit
+- @Co.schrieb:Ich habe einen Magenta DSL-Neuanschluss gebucht, welcher morgen bereitgestellt wird. Kann hierfür noch die FRITZ!Box 7430 verwendet werden bzw. ist dieser Router noch kompatibel? Vielen Dank vorab.Ja, für ADSL/VDSL mit bis zu 100 MBit/s
+- @Co.schrieb:Ich habe einen Magenta DSL-Neuanschluss gebucht, welcher morgen bereitgestellt wird. Kann hierfür noch die FRITZ!Box 7430 verwendet werden bzw. ist dieser Router noch kompatibel? Vielen Dank vorab.Ja, für ADSL/VDSL mit bis zu 100 MBit/s
+- Ja. Kannst du bis 100 MBit
+- @Co.schrieb:Ich habe einen Magenta DSL-Neuanschluss gebucht, welcher morgen bereitgestellt wird.Kann hierfür noch die FRITZ!Box 7430 verwendet werden bzw. ist dieser Router noch kompatibel?Vielen Dank vorab.Verwendbar:Ja- die maximale Geschwindigkeit im Download (100 Mbit/s) wurde bereits genannt.Persönlicher Support von AVM:Nein, wurde bereits eingestellt.Update aufOS08.00:   ist nicht zu erwarten.

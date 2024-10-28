@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/informationen-zu-unseren-aktuellen-telefonen/display-anzeige-suche-reichweite
+
+Question: Im Display meines Mobilteils steht immer Suche/Reichweite. Was bedeutet das?
+Answer: Es kann sein, dass sich Ihr Mobilteil zu weit von der Basisstation entfernt befindet.
+Sollte die Meldung auch bei Annäherung an die Basisstation nicht verschwinden, empfehlen wir Ihnen die Software neu zu starten.
+So führen Sie den Softwareneustart durch:
+• Entfernen Sie bitte aus der Basisstation den Netzstecker und das Telefonkabel für zwei Minuten.
+• Zur gleichen Zeit entfernen Sie aus allen angemeldeten Mobilteilen für zwei Minuten den Akku.
+

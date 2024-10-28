@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/anmeldedaten-funktionieren-nicht
+
+Question: Warum funktionieren die per SMS verschickten Anmeldedaten für HotSpot nicht?
+Answer: Senden Sie mit Ihrem Mobiltelefon eine SMS mit dem Text-Inhalt "CLOSE" an die Kurzwahl 9526 und anschließend eine SMS mit dem Text-Inhalt "OPEN" an die Kurzwahl 9526.
+Sie erhalten umgehend eine Antwort-SMS mit Ihrem neuen Benutzernamen und Ihrem individuellen Passwort.
+Mit diesen persönlichen Zugangsdaten loggen Sie sich weltweit wieder an jedem HotSpot der Telekom ein.
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/octopus/octopus-f-x/octopus-f-x-am-ip-basierten-anschluss
+
+Question: Sind die Cloud-basierten Telefonanlagen Octopus F X (Unify) für die Nutzung am IP-basierten Anschluss freigegeben?
+Answer: Alle Octopus F X Telefonanlagen (Unify) sind mit IP-basierten Anschlüssen kompatibel.Die OpenScape 4000 und Enterprise für den SIP-Trunk, F100-650 können auf F X hochgerüstet werden und sind somit auch IP-fähig. Die F100 und F200 können über die S0-Schnittstelle der Router Speedlink 5501, Lancom 1781 mit All-IP-Option, Digitalisierungsbox weiterbetrieben werden.
+

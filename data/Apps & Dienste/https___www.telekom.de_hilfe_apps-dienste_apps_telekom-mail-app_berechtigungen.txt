@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/berechtigungen
+
+Question: Wie kann ich Zugriffs-Berechtigungen in der Telekom Mail App einstellen?
+Answer: Die Telekom Mail App benötigt Zugriff auf Ihre Kontakte und den Speicher Ihres Mobil-Geräts. Diesen Zugriff stellen Sie in den Einstellungen Ihres mobilen Geräts (Smartphone/Tablet) ein.
+Für Android-Geräte:
+Für iPhone/iPad:
+

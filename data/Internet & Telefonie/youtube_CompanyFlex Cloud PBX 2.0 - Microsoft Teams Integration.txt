@@ -1,0 +1,6 @@
+Question:
+"Wie integriert man die Telefoniefunktionen der CloudPBX in Microsoft Teams?"
+
+Answer:
+Hallo, ich bin Markus und teile heute erneut einige nützliche Tipps in Bezug auf CloudPBX. Früher haben wir uns die Integration von CloudPBX mit Microsoft 365 angesehen, aber es gibt weitere Apps von Microsoft, die perfekt mit CloudPBX funktionieren, wie z.B. Teams. Die Telefoniefunktionen von CloudPBX können einfach in Microsoft Teams integriert werden, mit Hilfe eines Plugins. Sie können dies in Ihrer Teams Anwendung einfach im App Store suchen, wo Sie eine App namens WebX Call finden. Nach der Installation haben Sie die Telefoniefunktionen von CloudPBX in Ihrem Microsoft Teams zur Verfügung. Wir schauen uns nun die Anwendung genauer an, entdecken wie Anrufe getätigt und Einstellungen angepasst werden können und wie Sie wichtige Kontakte speichern können. Weitere Telefonieeinstellungen können über Ihre CloudPBX vorgenommen werden. Ich hoffe, diese neue Funktion gefällt Ihnen und ich freue mich, in unserer Business-Community mit Ihnen zu diskutierten. Viel Spaß mit Microsoft Teams und CloudPBX, euer Markus.
+

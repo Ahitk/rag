@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Mail-vom-Inklusivnutzer/td-p/6982672/jump-to/first-unread-message
+Subject: Mail vom Inklusivnutzer
+Content: Ich hatte für meine Tochter einen Inklusivnutzer mit eigener Rufnummer und Mailadresse eingerichtet.Ich bekam eine Mail über den Wegfall der  Rufnummer für den Inklusivnutzer und die Aufforderung sie wieder dem Hauptnutzer zuzuweisen.Das habe ich gestern durchgeführt.Heute wollte ich den Inklusivnutzer prüfen ob die Mailadresse noch vorhanden ist. Ich finde den Inklusivnutzer nicht mehr und auch die zusätzliche Mailadresse wird mir nicht mehr in meinem Kunden-/Mailcenter angezeigt.Mit der Mailadresse meiner Tochter kann ich mich ein einem eigenen Kunden/Mailcenter einloggen.Kann ich sicher sein, dass diese Mailadresse nicht "verloren" geht (sprich intern gekündigt wird)?Wie ist der Status dieser Mailadresse? Freemail oder immer noch mit meinem Festnetzvertrag verbunden?
+
+Accepted Solutions:
+- Hallo@cweh,Gehe mal ins Kundencenterhttps://www.telekom.de/mein-magenta-kundencenterDort dann auf Ansicht wechseln (blauer Kasten)Dort dann beim Tarif auf zum Vertrag.Dann auf Tarifoptionen dort macht sich ein Fenster auf, ist dort ein eingerichteter Inklusivnutzer zu finden.
+- Hallo@cweh,Gehe mal ins Kundencenterhttps://www.telekom.de/mein-magenta-kundencenterDort dann auf Ansicht wechseln (blauer Kasten)Dort dann beim Tarif auf zum Vertrag.Dann auf Tarifoptionen dort macht sich ein Fenster auf, ist dort ein eingerichteter Inklusivnutzer zu finden.

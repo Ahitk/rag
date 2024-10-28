@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/link-mail
+
+Question: Wie kann ich große Dateien per E-Mail über das E-Mail Center versenden?
+Answer: Sobald die Dateien größer als 32 MB sind, werden Sie automatisch aufgefordert, diese per "Link Mail" zu versenden. Anstelle des kompletten Anhangs wird nur ein Link übermittelt, über den die Dateien abgerufen werden können.
+Hinweis:Um "Link Mail" nutzen zu können, mussMagentaCLOUDgebucht sein.
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/mein-magenta-app/magenta-moments/anmelden
+
+Question: Muss ich mich bei Magenta Moments gesondert anmelden?
+Answer: Wenn Sie sich in derMeinMagenta Appmit Ihrem Telekom Login angemeldet haben, ist eine weitere Anmeldung für Magenta Moments nicht erforderlich.
+

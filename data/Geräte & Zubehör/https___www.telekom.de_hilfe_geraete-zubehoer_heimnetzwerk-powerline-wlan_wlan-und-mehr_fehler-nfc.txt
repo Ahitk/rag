@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/wlan-und-mehr/fehler-nfc
+
+Question: Warum verbindet sich mein Gerät nicht mit dem WLAN, wenn ich es an das NFC-Symbol am Speedport halte?
+Answer: Wenn sich Ihr Gerät, wie bspw. Ihr Smartphone nicht über die NFC-Schnittstelle mit dem WLAN verbinden lässt, kann das folgende Ursachen haben:
+Hinweis:Apple und Samsung Geräte der neuen Generationen unterstützen das Verbinden mit dem Router per NFC und WPS nicht mehr.
+

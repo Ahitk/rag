@@ -1,0 +1,12 @@
+Question:
+Was sind die notwendigen Voraussetzungen für die Einrichtung einer Side-to-Side VPN-Verbindung mit zwei Digitalisierungssboxen?
+
+Answer:
+Herzlich willkommen zu einer Zusammenfassung unseres Digitalisierungssbox-Videos. In diesem Video zeigen wir, wie man eine Side-to-Side VPN-Verbindung mit Hilfe von zwei Digitalisierungssboxen einrichtet. Zunächst musst du sicherstellen, dass beide Digitalisierungssboxen unterschiedliche lokale Netzwerke besitzen und öffentlich erreichbare IP-Adressen haben. 
+
+Die Konfiguration wird zunächst auf der ersten Digitalisierungssbox, einer Digitalisierungssbox Premium, gezeigt und anschließend auf der zweiten Digitalisierungssbox, einer Digitalisierungssbox Smart, angewandt. Nach dem Login in das Webinterface der Digitalisierungssbox am Standort 1 muss man zuerst das lokale Netzwerk einrichten und dann ein VPN einrichten. 
+
+Achtung, wenn du eine dynamische IP-Adresse verwendest, benötigst du einen zusätzlichen Dienst wie DynDNS, um die Erreichbarkeit des Internetanschlusses zu gewährleisten. Nachdem du die Konfiguration für die erste Digitalisierungssbox abgeschlossen und gespeichert hast, musst du die gleichen Schritte auf der zweiten Digitalisierungssbox durchführen.
+
+Am Ende des Prozesses hast du einen funktionierenden Side-to-Side VPN-Tunnel zwischen den beiden Standorten eingerichtet. Die Konfiguration ist für alle Arten von Digitalisierungssboxen - Standard, Smart und Premium - identisch. Vielen Dank für deine Aufmerksamkeit und bis zum nächsten Video!
+

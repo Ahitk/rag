@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Glasfaser-im-Keller-anschliessen-anstatt-in-den-Wohnungen/td-p/6959774/jump-to/first-unread-message
+Subject: Glasfaser im Keller anschließen anstatt in den Wohnungen
+Content: Hi!Wir haben uns ein Haus gekauft, in dem Glasfaser möglich ist.Vom Keller gehen Kabel in beide Wohnungen.Wir würden aber das Modem gerne im Keller anschließen und von dort in die Wohnungen verteilen. Ist das grundsätzlich möglich? Kann der Techniker dann einfach das Kabel "abknipsen"?
+
+Accepted Solutions:
+- Hallo@jens68723,Wie ich eingangs bereits geschrieben habe sind die Kabel bereits in beiden Etagen. Also es sind Glasfaser-Dosen vorhanden.Dann ist die ganze Diskussion ohnehin überflüssig.Die Frage war, ob der Techniker evtl. im Keller entweder quasi eine "3. Leitung" aus demAPLzaubern kann oder eine der beiden Leitungen "abknipsen" kann und stattdessen eine Dose im Keller montieren kann.Nein.
+- Hallo@jens68723,Wie ich eingangs bereits geschrieben habe sind die Kabel bereits in beiden Etagen. Also es sind Glasfaser-Dosen vorhanden.Dann ist die ganze Diskussion ohnehin überflüssig.Die Frage war, ob der Techniker evtl. im Keller entweder quasi eine "3. Leitung" aus demAPLzaubern kann oder eine der beiden Leitungen "abknipsen" kann und stattdessen eine Dose im Keller montieren kann.Nein.

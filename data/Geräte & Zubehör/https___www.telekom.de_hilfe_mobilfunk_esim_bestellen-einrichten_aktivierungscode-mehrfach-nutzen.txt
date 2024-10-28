@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/bestellen-einrichten/aktivierungscode-mehrfach-nutzen
+
+Question: Kann ich meinen eSIM-Aktivierungscode mehrfach nutzen?
+Answer: Eine Mehrfachnutzung des QR-Codes, auch Aktivierungscode genannt, ist nicht möglich. Nach der Übertragung eines eSIM-Profils auf ein eSIM-Gerät wird der Aktivierungscode ungültig.
+

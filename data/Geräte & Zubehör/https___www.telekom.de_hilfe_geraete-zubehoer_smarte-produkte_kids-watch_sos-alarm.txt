@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smarte-produkte/kids-watch/sos-alarm
+
+Question: Was passiert, wenn der SOS-Knopf der Kids Watch gedrückt wird?
+Answer: Der SOS-Alarm wird automatisch ausgelöst, wenn der SOS-Knopf (gleichzeitig auch der Home- und Ein-Knopf) an der rechten Seite der XPLORA X5/X6 Play eSIM Kids Watch für mindestens fünf Sekunden gedrückt wird.
+Dann bekommen je nach Einstellung bis zu zwei Personen den SOS-Alarm der Kids Watch als Push-Benachrichtigung auf Ihr Smartphone und können Sprachnachrichten mit dem Kind austauschen oder direkt anrufen. Voraussetzung ist, dass das Smartphone mit der XPLORA App eingeschaltet ist und die Kids Watch eine Datenverbindung hat.
+Hinweis:In der App wird automatisch der Standort des Kindes angezeigt und der erste Administrator angerufen. Wenn der SOS-Anruf auf eine Mobilbox weitergeleitet wird, erfolgt kein weiterer Anruf auf der anderen Nummer.
+

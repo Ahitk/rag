@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/gigaset/dect-repeater-hx
+
+Question: Kann ich die Reichweite meines schnurlosen Gigaset Telefons erhöhen?
+Answer: Ja. Wenn Wände und Geschossdecken den Empfang stören, hilft der Gigaset Repeater HX bei geschickter Platzierung mit einer Verdoppelung der DECT-Reichweite von bis zu 50 Metern in Gebäuden. Der Repeater gewährleistet:
+• eine sichere Verbindung mit DECT-Verschlüsselung
+• brillante Sprachübertragung – HD-Voice (CAT-iq)
+• automatisches Handover
+• Unterstützung der neuen ETSI Repeater Standard (ETS300700 V2.1.1)
+

@@ -1,0 +1,6 @@
+Question:
+Hast du alle Geräte, die vorher mit dem WLAN verbunden waren, erneut verbunden, nachdem du den WLAN-Namen geändert hast?
+
+Answer:
+In diesem Tutorial erfahren Sie, wie Sie den Namen Ihres WLANs auf der Fritzbox ändern. Zunächst benötigen Sie die Zugangsdaten Ihres Routers, um auf dessen Oberfläche zuzugreifen. Dann öffnen Sie einen Browser und geben Fritz.box in die Adresszeile ein. Das zugehörige Passwort finden Sie auf dem Aufkleber an der Fritzbox. Im Menü klicken Sie auf "WLAN" und dann auf "Funknetz". Geben Sie im Feld "SSID" den neuen WLAN-Namen ein. Bei Verbindungsabbrüchen mit Ihren WLAN-Geräten sollten Sie Sonder- und Leerzeichen aus dem WLAN-Namen entfernen. Nachdem Sie die Änderungen bestätigt haben, müssen Sie alle Geräte, die zuvor mit dem WLAN verbunden waren, erneut verbinden. Wählen Sie einen einzigartigen Namen, um Ihr WLAN vor Hackern zu schützen. Mehr Anleitungen, etwa für Speedport-Router, finden Sie in den zusätzlichen Videos unterhalb dieses Beitrags. Feedback ist immer willkommen.
+

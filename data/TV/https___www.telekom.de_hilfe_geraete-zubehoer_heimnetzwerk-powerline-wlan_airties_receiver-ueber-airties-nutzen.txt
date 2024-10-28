@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/airties/receiver-ueber-airties-nutzen
+
+Question: Kann ich meinen Media Receiver oder meine MagentaTV Box über die Airties Geräte nutzen?
+Answer: Ja, die Airties Geräte sind zu MagentaTV (Media Receiver 400 und neuer) kompatibel.
+Die MagentaTV Box lässt sich als WLAN-Client mit den Airties verbinden. Die Airties Mesh-Funktion wird allerdings nicht unterstützt.
+

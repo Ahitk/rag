@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/kartennummer
+
+Question: Wo finde ich meine SIM-Kartennummer?
+Answer: Die ICCID (SIM-Kartennummer oder eSIM-Profilnummer) finden Sie für Ihren Mobilfunk-Vertrag
+• in Ihrem Gerät unter "Einstellungen",
+• auf Ihrer Rechnung,
+• imKundencenterin den "Vertragsdetails" bzw. "Zum Vertrag" bei "Meine SIMs" und
+• in den beiliegenden Unterlagen Ihrer SIM.
+

@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/erklaerung
+
+Question: Was ist die Sync-Plus App und wofür kann ich sie nutzen?
+Answer: Mit Sync-Plus für Ihre E-Mail-Adresse @t-online.de /@magenta.de haben Sie Ihre E-Mails, Kontakte und Termine auf allen Geräten immer auf dem aktuellen Stand.
+Die App hilft Ihnen dabei, Ihre bestehenden Kontakte von Ihrem Smartphone und Tablet in das Adressbuch Ihres E-Mail-Kontos zu importieren. Das ist notwendig, damit Sie Ihre Kontakte mit weiteren Geräten synchronisieren können.
+Außerdem hilft Ihnen die App dabei, die Synchronisation auf Ihrem Smartphone oder Tablet einzurichten. Hierfür wird ein IMAP Konto für Ihre E-Mails, ein CardDav Konto für Ihre Kontakte und ein CalDav Konto für Ihre Termine eingerichtet
+

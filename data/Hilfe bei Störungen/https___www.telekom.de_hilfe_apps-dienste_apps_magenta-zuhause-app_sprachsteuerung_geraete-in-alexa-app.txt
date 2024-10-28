@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/geraete-in-alexa-app
+
+Question: Warum werden nicht alle Funktionen der MagentaZuhause App in der Alexa App angezeigt?
+Answer: Diese Geräte, Routinen und Räume werden in der Alexa App angezeigt:
+Beispiele für Sprachbefehle finden Sie in unsererÜbersicht der Möglichkeiten mit dem Alexa Skill.
+• GeräteIn der Alexa App werden nur die Geräte angezeigt, die per Sprache zu steuern sind, wie z. B. Lampen, Zwischenstecker und Thermostate. Sensoren, bspw. Bewegungsmelder, verrichten ihre Arbeit ununterbrochen und sind deshalb nicht mit Alexa steuerbar.
+• RoutinenEs werden auch nur die Routinen in der Alexa App aufgeführt, die per Sprache gestartet werden können. Routinen mit sicherheitskritischen Geräten, z. B. smarte Türschlösser, werden mangels Sprachsteuerung nicht angezeigt.
+• RäumeVon der MagentaZuhause App werden keine Räume in die Alexa App übertragen. Um Räume per Alexa zu steuern, müssen entsprechende Gruppen in der Alexa App angelegt werden.
+

@@ -1,0 +1,30 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/900-serie/einrichtungsassistent-speedport-w-921v
+
+Question: Wie richte ich mithilfe des Einrichtungsassistenten des Speedport W 921V den Internetzugang und die Telefonie ein?
+Answer: Hier erfahren Sie, wie Sie mithilfe des Einrichtungsassistenten des Speedport W 921V, Ihren Internetzugang und die IP-Telefonie einrichten.
+Einrichtungsprogramm aufrufen
+1.Zunächst benötigen Sie Zugriff auf das Einrichtungsprogramm des Speedport W 921V. Hierfür geben Sie in Ihren Internet-Browser (z. B. Firefox oder Internet Explorer) in die Adresszeile Folgendes ein:http://speedport.ipoderhttp://192.168.2.1
+
+2.Es öffnet sich die Startseite des Einrichtungsprogramms. Tragen Sie in das Feld "Gerätepasswort" das Gerätepasswort Ihres Speedport W 921V ein. Sie finden das Gerätepasswort des Speedport W 921V auf der Rückseite des Gerätes.
+3.Klicken Sie rechts unten auf "Login".
+
+
+
+Einrichten der Internetverbindung
+4.Sie befinden sich nun auf der Startseite des Einrichtungsprogrammes. Um zu beginnen, klicken Sie auf "Assistent starten".
+
+5.Tragen Sie in die jeweiligen Felder die Anschlusskennung, Ihre Zugangsnummer und das persönliche Kennwort ein.
+6.Unter Router-Einstellungen wählen Sie "Immer online".Hinweis:Wählen Sie die Option "Immer online" aus, wenn Sie über Ihre Internet-Telefonnummer dauerhaft erreichbar sein wollen. Sollten Sie einen zeitbasierten Internettarif nutzen, kann diese Einstellung hohe Kosten verursachen.
+7.Klicken Sie auf "Speichern".
+
+Nun wird die Internetverbindung anhand der von Ihnen gemachten Eingaben getestet.
+
+Einrichten der Telefonie
+8.Nachdem die Internetverbindung erfolgreich eingerichtet wurde, können Sie mit der Einrichtung der Telefonie beginnen. Klicken Sie rechts unten im Einrichtungsprogramm auf "Telefonie-Assistent" starten.
+
+9.Tragen Sie in die dafür vorgesehen Felder Ihre Rufnummern ein. Sie können diese in dem Format "0123456789" eintragen.
+10.Klicken Sie auf "Prüfen". Die eingegebenen Rufnummern werden nun registriert. Die Einrichtung ist abgeschlossen. Sollte der Vorgang nicht erfolgreich abgeschlossen worden sein, finden Sie am Ende dieser Anleitung Lösungen zur Fehlerbeseitigung.
+
+Die Einrichtung des Internetzugangs und der Telefonie ist nun abgeschlossen.
+Nutzen Sie ein Smartphone? Dann können Sie dieMeinMagenta Appfür die Einrichtung Ihres Anschlusses verwenden.
+

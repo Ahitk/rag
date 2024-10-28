@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/weiterleitung-einstellen
+
+Question: Wie kann ich einstellen, wann meine Anrufe an meine Mobilbox oder SprachBox weitergeleitet werden sollen?
+Answer: Das ist im Menü der App unter dem Punkt "Einstellungen" möglich. Hier stellen Sie ein, in welchen Fällen und nach wieviel Sekunden Ihre Mobilbox im Mobilfunk oder Ihre SprachBox am IP-basierten Festnetz Anrufe für Sie entgegennehmen soll. Bei der Voicemail App für iOS können Sie für Mailbox Pro derzeit Weiterleitungsregeln einstellen, indem Sie die 3311 über Ihr Smartphone anrufen und dem Sprachmenü folgen.
+

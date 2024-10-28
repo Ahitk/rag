@@ -1,0 +1,10 @@
+Question:
+Wie kann ich die Team Voice Mailbox in der Digitalisierungsbox Premium einrichten?
+
+Answer:
+In diesem Video wird erläutert, wie die neue Funktion "Team Voice Mailbox" für die Digitalisierungsbox Premium eingerichtet wird, die seit der Firmware 110102 verfügbar ist. Zuerst wird die Funktion mit einem Vertriebsteam als Beispiel vorgestellt, bei dem der Team Voice Mailbox interne Durchwahlen zugeordnet sind. In der nächsten Phase weist das Video darauf hin, dass man verschiedene Einstellungen für bestimmte Zeiten konfigurieren kann und erklärt, wie man die Team-Sprach-Mailbox einrichtet. 
+
+Die Schritte umfassen das Anmelden im Web-Interface der Digitalisierungsbox Premium, das Einrichten einer neuen Gruppe oder eines Teams und das Zuteilen von internen Rufnummern zu diesem Team. Darüber hinaus erklärt das Video, wie man bestimmte Funktionen der Gruppe und der Team Voice Mailbox anpasst, z.B. eingehende Sprachnachrichten per E-Mail an eine bestimmte E-Mail-Adresse weiterzuleiten. 
+
+Der Prozess der Einrichtung einer neuen Voice Mailbox innerhalb des Voice Mail Systems, das Auswahl der internen Rufnummer, das Festlegen des Status und das Konfigurieren von verschiedenen Optionen wie E-Mail-Benachrichtigungen und Aufnahmezeiten werden ebenfalls erläutert. Zuletzt zeigt das Video, wie man die Sprachnachrichten aufnimmt und speichert, und wie man die Team Voice Mailbox mit Hilfe eines Kalenders automatisch aktivieren und deaktivieren kann.
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/programme/passwort-definition
+
+Question: Wozu ist das Passwort für E-Mail-Programme?
+Answer: Wenn Sie Ihre E-Mails nicht über das E-Mail Center oder die Telekom Mail App abrufen möchten, sondern über ein E-Mail-Programm (z. B. Outlook, Thunderbird) oder eine andere App (bspw. Apple Mail, Gmail App), benötigen Sie ein Passwort für E-Mail-Programme.
+

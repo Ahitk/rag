@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mailbox/mobilbox/volte
+
+Question: Warum kann ich mit VoLTE meine Mobilbox nicht mehr nutzen?
+Answer: Das Leistungsmerkmal VoLTE schließt die Nutzung der Mobilbox aus.
+

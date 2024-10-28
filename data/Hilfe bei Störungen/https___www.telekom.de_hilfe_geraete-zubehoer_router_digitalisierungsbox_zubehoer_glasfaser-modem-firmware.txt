@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/digitalisierungsbox/zubehoer/glasfaser-modem-firmware
+
+Question: Wo finde ich die Firmware für mein Digitalisierungsbox Glasfaser Modem?
+Answer: Die Firmware für Ihr Digitalisierungsbox Glasfaser Modem wird automatisch über OMCI aktualisiert. Somit ist ein manuelles Firmware-Update nicht nötig.
+

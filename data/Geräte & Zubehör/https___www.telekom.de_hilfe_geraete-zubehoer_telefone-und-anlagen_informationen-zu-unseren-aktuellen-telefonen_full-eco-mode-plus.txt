@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/informationen-zu-unseren-aktuellen-telefonen/full-eco-mode-plus
+
+Question: Was bedeutet Full ECO Mode plus?
+Answer: Full ECO Mode plus ist eine Funktion neuer Telefone der Telekom, die die ausgehende Strahlungsleistung auf ein Minimum reduziert.
+Im Full ECO Mode plus sendet die Basisstation nur dann Funksignale, wenn es erforderlich ist. Etwa wenn ein Anruf ankommt, während eines Gesprächs oder beim Verbindungsaufbau.
+Der derzeit beste Strahlungsschutz sorgt dafür, dass die Sendeleistung entsprechend der Entfernung zwischen Basisstation und Mobilteil automatisch angepasst wird.
+Im Ruhezustand bleibt der Sender der Basisstation ganz abgeschaltet. Die gewohnt sichere Erreichbarkeit ist auch im Full ECO Mode plus stets gewährleistet.
+

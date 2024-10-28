@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/ipad-und-ipad-air/ipad-sim-format
+
+Question: Kann ich für das iPad meine bisherige SIM ausstanzen, um eine 4FF zu erhalten?
+Answer: Nein, die 4FF hat eine geringere Dicke als die bisherige SIM.
+

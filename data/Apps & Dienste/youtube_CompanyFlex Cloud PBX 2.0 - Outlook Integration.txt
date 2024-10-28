@@ -1,0 +1,6 @@
+Question:
+Wie kann man den CloudBewix-Client mit einem Autogalender verbinden?
+
+Answer:
+Hallo, in diesem Artikel geht es um die Integration von CloudBewix und dem E-Mail-Programm Autog. Zunächst wird erklärt, wie die E-Mail-Adressen beider Dienste synchronisiert werden können. Dann wird die Verknüpfung von Autog und CloudBewix in der CloudBewix-App dargestellt und der korrekte Login-Prozess erläutert. Anschließend zeigt der Artikel die Integration von Autog und CloudBewix im Meeting-Einstellungsbereich und die Möglichkeit, ein WebEx Tool für das Ansetzen von Meetings in Autog zu installieren. Weiterhin wird auf die optionale, komfortablere Methode eingegangen, Meetings durch die Eingabe des Kürzels "ed-WebEx" in den Raumnamen des Kalendereintrags zu erstellen. Abschließend wird die Möglichkeit, Meeting-Einstellungen direkt im CloudBewix-Programm zu ändern, erörtert. Es wird empfohlen, nicht beide Meeting-Einstellungen (CloudBewix und Microsoft Teams) gleichzeitig zu verwenden, um Verwirrung zu vermeiden. Der Artikel schließt mit der Bestätigung, dass die Integration erfolgreich durchgeführt wurde und beide Systeme reibungslos zusammenarbeiten. Bei weiteren Fragen kann die Business-Community kontaktiert werden.
+

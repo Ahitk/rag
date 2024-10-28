@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/router-app-unterstuetzung
+
+Question: Welche Router werden von der MagentaZuhause App unterstützt?
+Answer: Die MagentaZuhause App unterstützt alle Telekom Router der Serien Speedport Smart und Speedport Pro. Nur diese Routermodelle werden in der App angezeigt, da sich hiermit die meisten Funktionen nutzen lassen.
+Allerdings gibt es auch Funktionen, die mit nahezu allen Routern genutzt werden können, wie z. B. den Heimnetz-Check.
+Sollten Sie keines der genannten Routermodelle verwenden, können die SmartHome-Funktion alternativ auch mit der Home Base 2.0 ergänzt werden. Die weiteren Router- und Internetfunktionen in der MagentaZuhause App kann die Home Base jedoch nicht bereitstellen.
+

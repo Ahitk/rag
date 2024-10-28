@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-technik-und-nutzung/keine-registrierung-moeglich
+
+Question: Warum kann ich mich nicht registrieren?
+Answer: Für eine vollständige Registrierung der Trassen Defender App gehen Sie bitte wie folgt vor:
+Falls Sie keine SMS erhalten haben, lassen Sie sich über den Button "SMS erneut senden" einen neuen Code zuschicken.
+Im Falle eines Zahlendrehers können Sie an dieser Stelle auch Ihre Handynummer für den Versand des neues Codes korrigieren.
+Sofern Ihnen bei der Eingabge der E-Mail-Adresse ein Tippfehler unterlaufen ist, müssen Sie die Registrierung erneut starten.
+Da die Kombination aus E-Mail Adresse und Handynummer der eindeutigen Identifikation dient, ist es nicht möglich, diese Angaben nachträglich zu ändern.
+Bei weiteren Problem, wenden Sie sich bitte über dasKontaktformularan uns.
+

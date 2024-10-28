@@ -1,0 +1,20 @@
+Here's a summary of the relevant information extracted from the image regarding the MagentaMobil Speedbox Young (Mobilfunk) product from Telekom Deutschland:
+
+### Product Overview
+- **Type**: Mobilfunk-Datentarif (mobile data tariff) for internet access within Germany.
+
+### Data Transfer Rates
+- **Max Download Speed**: 300 Mbit/s
+- **Max Upload Speed**: 50 Mbit/s
+- **Post-Consumption Speed** (after 100 GB): Reduced to 0 kbit/s for both download and upload.
+
+### Contract Information
+- **Minimum Contract Duration**: 24 months
+- **Cancellation Notice**: 1 month
+- **Post-Minimum Duration**: Can be cancelled anytime with a notice period of one month.
+
+### Pricing
+- **Monthly Cost**: 29.95 EUR
+- **Wi-Fi Router Included**: Speedbox Router (hardware price not included in the monthly fee).
+
+This summary captures the primary details about the product’s data functionality, contract terms, and pricing.

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Smart-4-registriert-IP-Telefonie-nicht/td-p/6973133/jump-to/first-unread-message
+Subject: Speedport Smart 4 registriert IP-Telefonie nicht
+Content: Hallo,Ich möchte meine FRITZ!Box Telefone über die FRITZ!Box betreiben, die FRITZ!Box sitzt hinter dem Speedport Smart 4.Ich habe die Anmeldedaten in beiden Routern mit Hilfe des Telekomhilft-Forum gepflegt.Die Statusanzeige ist einmal kurz auf registriert gesprungen und dann ist der Status auf getrennt stehengeblieben.Ich weiß nicht mehr weiter.Was muss ich eingeben, dass die IP-Telefonie funktioniert?Vielen Dank schon mal für eure Unterstützung
+
+Accepted Solutions:
+- Ich habe jetzt die FRITZ!Box auf Werkseinstellung zurückgesetzt und alles von Null an neu eingerichtet und siehe da, es funzt! Vielen Dank für eure Unterstützung und einen schönen Abend
+- Ich habe jetzt die FRITZ!Box auf Werkseinstellung zurückgesetzt und alles von Null an neu eingerichtet und siehe da, es funzt! Vielen Dank für eure Unterstützung und einen schönen Abend

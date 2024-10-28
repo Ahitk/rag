@@ -1,0 +1,6 @@
+Question:
+Soll Claudia die Telekom Hotline anrufen, wenn sie eine Internetstörung hat?
+
+Answer:
+Claudia hat Probleme mit ihrem Internetanschluss, während sie einen Blumenstrauß für ihre Oma online bestellt und auch andere Familienmitglieder Internetprobleme haben. Sie sucht online nach einer Lösung für "Internet-Störung Telekom". Sie nutzt eine Diagnoseseite, gibt ihre Vorwahl ein und startet die automatische Diagnose. Es gibt keine größeren Störungen in ihrer Umgebung. Sie wählt "Internet keine Verbindung" als Problem. Die Leitung und Technik der Telekom werden überprüft und alles ist in Ordnung. Sie loggt sich ein, um die Diagnose an ihrem Anschluss fortzusetzen. Ihr Router und Netzwerke werden untersucht und das Problem liegt bei ihrem Router. Sie folgt den Anweisungen, um ihren Router zu prüfen, neu zu starten und alle Stecker zu überprüfen. Sie findet das Problem - ein lockeres Kabel. Claudia ist stolz, das Problem selbst behoben zu haben, und der Blumenstrauß für ihre Oma wird versandt.
+

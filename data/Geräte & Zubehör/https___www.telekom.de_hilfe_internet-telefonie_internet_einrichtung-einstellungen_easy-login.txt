@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/einrichtung-einstellungen/easy-login
+
+Question: Was ist Easy Login beim Festnetz-Anschluss?
+Answer: Mit Easy Login werden Ihre Internet-Zugangsdaten und Ihre Festnetz-Rufnummern automatisch über die Leitung vom Router erkannt und eingespeichert.
+Hinweis:Die individuelle Einrichtung Ihres Heimnetzwerkes, der Telefonie, Smart SmartHome, WLAN usw. müssen Sie noch selbst vornehmen.
+

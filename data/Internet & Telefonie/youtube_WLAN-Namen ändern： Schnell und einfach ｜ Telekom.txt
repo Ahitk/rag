@@ -1,0 +1,6 @@
+Question:
+Wie kann man den WLAN-Namen bei der Netzwerkeinrichtung ändern um seine Sicherheit zu erhöhen?
+
+Answer:
+Martin Rutter King betont die Wichtigkeit, den Standardnamen eines WLAN-Routers zu ändern, um vor Hackerangriffen geschützt zu sein. Jeder Router hat einen Standardnamen oder SSID, den am besten direkt bei der Netzwerkeinrichtung ändern sollte. Dies kann aber auch später erfolgen. Es ist wichtig, einen Namen zu wählen, der keinen Hinweis auf den Router, den Anbieter, das Zuhause oder den Namen gibt. Neben der Sicherheit kann das Ändern des Standardnamens zu einer besseren Unterscheidung zwischen mehreren WLAN-Netzwerken führen und Verwirrung vermeiden. Um den Namen zu ändern, verbindet man sich mit network, öffnet einen Browser und gibt die IP-Adresse des Routers ein. Nach der erfolgreichen Änderung müssen alle Geräte, die vorher mit dem WLAN verbunden waren, erneut verbunden werden. Anleitungen für diesen Vorgang gibt es in extra Videos und weiteren Informationen auf der Webseite.
+

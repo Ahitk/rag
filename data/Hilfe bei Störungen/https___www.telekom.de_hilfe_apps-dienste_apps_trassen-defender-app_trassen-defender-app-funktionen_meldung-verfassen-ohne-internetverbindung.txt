@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/meldung-verfassen-ohne-internetverbindung
+
+Question: Kann ich auch eine Meldung mit der Trassen Defender App verfassen, wenn ich keine Internetverbindung habe?
+Answer: Ja, Sie können jederzeit eine Meldung erfassen. Allerdings funktioniert das Versenden von Schadensmeldungen nur bei bestehender Internetverbindung.
+Die App versucht eine Stunde lang, Ihre Meldung abzusetzen. Ist dies innerhalb dieses Zeitfensters nicht möglich, erscheint "Fehlgeschlagen" hinter der Meldung. Wenden Sie sich in diesem Fall bitte unbedingt an die Hotline.
+Tipp: Damit Sie auch ohne Internetverbindung Zugang zur Trassen Defender App haben, bitte bei der Anmeldung einen Haken bei "Angemeldet bleiben" setzen.
+

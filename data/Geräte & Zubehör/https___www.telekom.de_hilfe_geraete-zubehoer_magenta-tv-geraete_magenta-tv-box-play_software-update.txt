@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/software-update
+
+Question: Wo finde ich Informationen über die Software-Version (Firmware) für meine MagentaTV Box (PLAY)?
+Answer: Sie finden im Menü Ihres Geräts, welche Software-Version aktuell auf Ihrem Gerät installiert ist und zusätzlich auch eine Übersicht der letzten Versionen.
+• Zum Prüfen der aktuellen Software auf Ihrem Gerät klicken Sie den folgenden Weg im Menü:Einstellungen > Media Receiver > Systeminformationen > System
+• Zur Übersicht der letzten Update-Versionen klicken Sie den folgenden Weg im Menü:Einstellungen > Hilfe & Tipps > Update-Info
+

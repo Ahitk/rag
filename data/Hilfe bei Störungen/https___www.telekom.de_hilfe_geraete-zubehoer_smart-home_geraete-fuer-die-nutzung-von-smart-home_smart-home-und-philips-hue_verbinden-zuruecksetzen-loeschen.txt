@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/smart-home-und-philips-hue/verbinden-zuruecksetzen-loeschen
+
+Question: Wie kann ich bei Magenta SmartHome mein Philips Hue verbinden, zurücksetzen oder löschen?
+Answer: Philips Hue verbindenAktivieren Sie zunächst Ihre Philips Hue Bridge (2nd. Generation) in der Philips Hue App, danach Ihre Hue Lampen. Sind alle Geräte in der Philips Hue App vorhanden, können Sie anschließend in gleicher Reihenfolge, beginnend mit der Bridge, Ihre Hue Geräte über "Einstellungen"und dann "Gerät hinzufügen" in der Magenta SmartHome App einbinden.Hinweis:Es kann nur eine Hue Bridge mit dem Magenta SmartHome System verbunden werden. Eine Bridge kann bis zu 50 Lampen verwalten.
+Zurücksetzen der Philips Hue Bridge auf WerkseinstellungenSchalten Sie die Bridge ein. Verwenden Sie eine Büroklammer oder ein ähnliches Werkzeug und drücken auf der Rückseite für 10 Sekunden die Reset-Taste. Die Bridge wird nun auf Werkseinstellungen zurückgesetzt.
+Philips Hue löschenLöschen Sie Ihre Lampen in der Magenta SmartHome App im Menü unter "Einstellungen" > "Geräte". Wählen Sie den Raum aus, dem Sie die Lampe zugeordnet haben. Tippen Sie auf das Gerät und wählen dann "Gerät löschen“.
+Löschen Sie die Philips Hue Bridge in der SmartHome App im Menü unter "Einstellungen" und dann "Home Base". Scrollen Sie nach unten und wählen Sie unter "Netzwerkmodule und Internetdienste" die Hue Bridge aus und tippen Sie auf "Gerät löschen".
+

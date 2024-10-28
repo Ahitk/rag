@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/Speedport-Smart-4-WLAN-Passwort-geaendert/td-p/6975075/jump-to/first-unread-message
+Subject: Speedport Smart 4 WLAN Passwort geändert
+Content: Hallo zusammen,ich habe an meinem Speedport aus Sicherheitsgründen mein Passwort geändert. Alexa und Smarthome Geräte anderer Hersteller ließen sich recht leicht wieder aktivieren. Nur die Telekom Geräte, wie Heizthermostate, der einfache Wandschalter und die Tür/Fenster Sensoren wollen nicht so wie ich. Ich bin blond!Muss ich die alle aus der ZuhauseApp entfernen und neu einfügen? Oder geht es auch einfacher?Vielen Dank schonmal und einen schönen SonntagEll
+
+Accepted Solutions:
+- Also Folgendes:ich habe den Router einfach mal in der Zuhause App umbenannt. Und was soll ich sagen, es funktioniert wieder alles!😳Auch in der MeinMagenta App!Ob es jetzt Zufall ist, oder wirklich daran lag… Ich weiß es nicht! Aber vielleicht für alle, die das gleiche Problem haben, einfach mal versuchen.Vielen Dank für eure Antworten und Zeit!LG Ell
+- Also Folgendes:ich habe den Router einfach mal in der Zuhause App umbenannt. Und was soll ich sagen, es funktioniert wieder alles!😳Auch in der MeinMagenta App!Ob es jetzt Zufall ist, oder wirklich daran lag… Ich weiß es nicht! Aber vielleicht für alle, die das gleiche Problem haben, einfach mal versuchen.Vielen Dank für eure Antworten und Zeit!LG Ell

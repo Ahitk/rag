@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Statusreport-Speedport-Smart-4/td-p/6961565/jump-to/first-unread-message
+Subject: Statusreport Speedport Smart 4
+Content: Hallo, ich lasse mir täglich den Statusbericht meine Speedport Smart 4 Routers senden über eine Outlook Emailadresse, jetzt hat Microsoft ja die Authentifizierung umgestellt auf diese OAuth2 und seit dem funktioniert der Email Versand nicht mehr. In der Logdatei steht Authentifizierungsfehler Benutzname oder Passwort falsch.Gibt es eine Möglichkeit das der Versand wieder geht?Gruß Torsten
+
+Accepted Solutions:
+- @Torti1973schrieb:Gibt es eine Möglichkeit das der Versand wieder geht?Da bleibt dir nur ein anderer Anbieter.Freemail gibts ja viele.
+- @Torti1973schrieb:Gibt es eine Möglichkeit das der Versand wieder geht?Da bleibt dir nur ein anderer Anbieter.Freemail gibts ja viele.

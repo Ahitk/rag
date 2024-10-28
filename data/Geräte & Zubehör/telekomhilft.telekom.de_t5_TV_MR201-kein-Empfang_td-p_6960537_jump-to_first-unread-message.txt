@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/MR201-kein-Empfang/td-p/6960537/jump-to/first-unread-message
+Subject: MR201 - kein Empfang
+Content: Guten Tag,bestehende Konfiguration: Speedport smart3;MR401 mit LAN am smart 3 in Zimmer 1 ;Ziel: TV im Nebenzimmer 2 mitMR201;MR201 funktioniert in Zimmer 1 mit LAN an TV 1 ;Zweitfernseh ( TV 2 )  funktioniert mitMR401 in Zimmer 1; #TV 2 funktioniert nicht mitMR201 in Zimmer 2 ( verbunden mit LAN-Kabel 20 m ) ;das neue LAN-Kabel ins Zimmer 2 wurde gegen ein anderes neues LAN-Kabel getauscht- TV 2 meldet kein Empfang;bei TV 2 wurden dieHDMIEingänge 1 und 3 probiert;Reset amMR201 ( 3 maliges ein-ausschalten ) ohne Erfolg.TV undMR201 funktionieren in Zimmer 1; in Zimmer 2 nicht-was kann ich machen ?vielen Dank für jeden Hinweis
+
+Accepted Solutions:
+- @lasvegas1997Die Fernbedienung des TV hat doch auch eine Taste, mit der die Signalquelle ausgewählt werden kann.Dort solltest du tätig werden.Also HDMI-Kabel z. B. in den HDMI-Eingang 1 stecken und dann mit derFBals SignalquelleHDMI1 auswählen.
+- @lasvegas1997Die Fernbedienung des TV hat doch auch eine Taste, mit der die Signalquelle ausgewählt werden kann.Dort solltest du tätig werden.Also HDMI-Kabel z. B. in den HDMI-Eingang 1 stecken und dann mit derFBals SignalquelleHDMI1 auswählen.

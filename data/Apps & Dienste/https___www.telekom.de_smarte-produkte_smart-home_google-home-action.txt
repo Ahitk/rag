@@ -1,0 +1,27 @@
+Source URL: https://www.telekom.de/smarte-produkte/smart-home/google-home-action
+
+Question: Wie kann ich in der Google Home App die Benennung der Geräte und Räume anpassen?
+Answer: • Jeden Namen nur einmal verwenden
+• Einen gebräuchlichen und kurzen Namen benutzen
+• Auf Abkürzungen, Sonderzeichen, Zahlen, lange Namen und Emojis verzichten
+
+Question: Was kann ich mit der Google MagentaZuhause Action tun?
+Answer: An-/Ausschalten
+Dimmen
+Status abfragen
+Lichtfarbe
+Farbe einstellen
+„Küche“ steht hier beispielhaft für den vergebenen Raumnamen.
+Tischlampe anschalten
+Tischlampe dimmen
+Radio einschalten
+Status abfragen
+„Tischlampe“ steht hier beispielhaft für den vergebenen Gerätenamen.
+Temperatur einstellen
+Temperatur verändern
+Temperatur abfragen
+„Wohnzimmer“ steht hier beispielhaft für den vergebenen Gerätenamen.
+Starten der Routine „Abendessen“
+Starten der Routine „Fernsehabend“
+„Abendessen“ steht hier beispielhaft für den vergebenen Namen der Routine.
+

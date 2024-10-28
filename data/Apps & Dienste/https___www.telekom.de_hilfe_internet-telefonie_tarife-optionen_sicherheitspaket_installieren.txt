@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/tarife-optionen/sicherheitspaket/installieren
+
+Question: Wie kann ich die Software von dem Telekom Sicherheitspaket installieren?
+Answer: Bevor Sie mit dem Herunterladen beginnen, schließen Sie alle geöffneten Programme (z. B. Word) und deinstallieren Sie bereits vorhandene Schutz-Software. Wenn noch nicht geschehen, informieren Sie sich in unserem Ratgeber über dieSystemvoraussetzungen zu dem Sicherheitspaket.
+

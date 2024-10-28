@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/yealink-telefone-und-zubehoer/yealink-tischtelefone-g-serie/unterschied-g-serie-zu-s-serie
+
+Question: Die Modelle der G-Serie und der S-Serie sehen gleich aus. Gibt es trotzdem Unterschiede?
+Answer: Die S-Serie ist die neuste Generation der T4-Modelle.Auch wenn die Geräte äußerlich gleich sind, ist die Hardware (z. B. Prozessor und Speicher) im Inneren optimiert worden.Zum Beispiel hat das T41S, im Vergleich zum T41P, einen USB-Port bekommen.
+

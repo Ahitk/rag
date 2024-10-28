@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/geraete-in-alexa-app-anpassen
+
+Question: Wie kann ich die Benennung der Geräte in der Alexa App anpassen?
+Answer: Die Namen der Geräte werden von der MagentaZuhause App in die Amazon Alexa App übernommen. Diese können in der Amazon Alexa App verändert werden.
+Empfehlungen zur Benennung der Geräte:
+Verwenden Sie jeden Namen nur einmal
+Benutzen Sie einen gebräuchlichen und kurzen Namen
+Verzichten Sie auf Abkürzungen, Sonderzeichen, Zahlen, lange Namen und Emojis.
+• Verwenden Sie jeden Namen nur einmal
+• Benutzen Sie einen gebräuchlichen und kurzen Namen
+• Verzichten Sie auf Abkürzungen, Sonderzeichen, Zahlen, lange Namen und Emojis.
+

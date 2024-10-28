@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/alexa-skill-wechseln
+
+Question: Wie kann ich vom SmartHome Alexa Skill komplett auf den MagentaZuhause Alexa Skill wechseln?
+Answer: Wenn Sie zuvor den SmartHome Skill für Amazon Alexa genutzt haben und nun auf den MagentaZuhause Skill wechseln möchten, empfehlen wir vor der Nutzung des MagentaZuhause Skills:
+den SmartHome Skill zu deaktivieren
+die vorhandenen Geräte aus Ihrer Alexa App zu entfernen.
+Danach können Sie den MagentaZuhause Skill aktivieren und Ihre Geräte hinzufügen.
+• den SmartHome Skill zu deaktivieren
+• die vorhandenen Geräte aus Ihrer Alexa App zu entfernen.
+

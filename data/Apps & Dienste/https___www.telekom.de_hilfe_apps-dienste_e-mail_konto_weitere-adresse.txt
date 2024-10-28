@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/weitere-adresse
+
+Question: Wie richte ich eine zusätzliche E-Mail-Adresse ein?
+Answer: Eine zusätzliche E-Mail-Adresse können Sie sich imE-Mail Centerzu Ihrem bestehenden Postfach wie folgt dazubuchen:
+Zahnrad > Alle Einstellungen anzeigen > E-Mail-Adressen > Zusätzliche Adressen > Neue E-Mail-Adresse anlegen
+

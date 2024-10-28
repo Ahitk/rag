@@ -1,0 +1,49 @@
+Source URL: https://www.telekom.de/hilfe/cell-broadcast
+
+Question: Was ist Cell Broadcast?
+Answer: Cell Broadcast ist ein Warnsystem, mit dem das BBK (Bundesamt für Bevölkerungsschutz und Katastrophenhilfe) Warnsignale auf Mobilfunk-Geräte in ganz Deutschland zustellen kann.
+Der Cell Broadcast-Dienst funktioniert ohne Installation einer Warn-App und ist eine Ergänzung zu den bereits verfügbaren Warn-Apps wie NINA oder Katwarn.
+
+Question: Wer ist für den Inhalt der Warnmeldungen verantwortlich?
+Answer: Netzbetreiber wie die Deutsche Telekom versenden diese Warnmeldung über ihr Mobilfunk-Netz, für den Inhalt ist jedoch die jeweilige Behörde bzw. der jeweilige Krisenstab zuständig. Bei weiteren Fragen wenden Sie sich daher an das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) oder informieren Sie sich unterwww.warnung-der-bevoelkerung.de(Sie werden weitergeleitet).
+
+Question: Welche Voraussetzungen muss mein Mobilfunk-Gerät für Cell Broadcast erfüllen?
+Answer: Bei aktuellen Mobilfunk-Geräten ist die Aktivierung von Cell Broadcast voreingestellt. Voraussetzung ist, dass die jeweils aktuelle Version des Betriebssystems auf Ihrem Gerät installiert ist. Das ist bei iOS ab den Versionen 15.6.1 (ausgenommen iOS 16.0.x) sowie ab 16.1. und Android ab Version 11 der Fall.
+Bei anderen Betriebssystemen und älteren Android-Versionen muss der Dienst Cell Broadcast unter Umständen durch Nutzer*innen aktiviert werden. Schauen Sie dafür bitte in die gerätespezifischen Einstellungen oder wenden Sie sich an den Hersteller.
+Hinweis:In vielen Geräten haben Sie die Möglichkeit, die Cell Broadcast-Einstellungen über die Suchfunktion in den Geräte-Einstellungen zu finden, indem Sie hier nach "Cell Broadcast“, “Warnmeldung” oder “Notfallbenachrichtigungen” suchen.
+
+Question: Wie aktiviere oder deaktiviere ich Cell Broadcast auf meinem Mobilfunk-Gerät?
+Answer: Vorweg: Zu Ihrem Schutz lässt sich die höchste Warnstufe auf neueren Geräten nicht deaktivieren. Niedrigere Warnstufen können Sie in den Cell Broadcast-Einstellungen Ihres Geräts verwalten.
+Cell Broadcast-Einstellungen für neuere Mobilfunk-Geräte:
+Bei anderen Betriebssystemen und älteren Android-Versionen muss der Dienst Cell Broadcast unter Umständen durch Nutzer*innen aktiviert werden. In vielen Geräten haben Sie die Möglichkeit, die Cell Broadcast-Einstellungen über die Suchfunktion in den Geräte-Einstellungen zu finden, indem Sie hier nach "Cell Broadcast“, “Warnmeldung” oder “Notfallbenachrichtigungen” suchen.
+Bitte haben Sie dafür Verständnis, dass wir detaillierte Anleitungen nur für die gängigen Gerätehersteller und Betriebssysteme anbieten können. Sollten Sie für Ihr Gerät nicht die passende Anleitung finden, schauen Sie bitte auf der jeweiligen Web-Seite nach einer Hilfe.
+• Android ab Version 11. Einstellungsmöglichkeiten finden Sie in den erweiterten Einstellungen der Nachrichten/ Messaging-App oder auch über die Geräteeinstellungen unter Benachrichtigungen. Dort können Sie jederzeit festlegen, ob Sie die Warn- und auch Testmeldungen auf Ihr Gerät erhalten möchten oder nicht.
+• iOS (Apple) ab Version 15.6.1. (ausgenommen iOS 16.0.x) sowie ab Version 16.1.: Einstellungsmöglichkeiten finden Sie in den Geräteeinstellungen unter Mitteilungen. Anschließend scrollen Sie bis zum unteren Ende des Bildschirms, dort können Sie die Warn- und Testmeldungen nach Ihren Bedürfnissen festlegen.
+
+Question: Was passiert bei einer Warnmeldung auf bzw. mit dem Handy?
+Answer: Cell Broadcast warnt die Bevölkerung vor Katastrophen und Notfällen. Das geschieht mittels einer Textnachricht mit Warnsignal auf dem Mobilfunk-Gerät (Smartphone oder Handy). Diese Nachricht wird direkt auf dem Bildschirm des Geräts angezeigt und kann nicht stummgeschaltet werden.
+
+Question: Kann man einen laufenden Alarm aus- bzw. stummschalten?
+Answer: Ja. Ein laufender Alarm kann durch Bestätigen der Warnmeldung ausgeschaltet werden.
+
+Question: Wie unterscheiden sich Probewarnungen von echten Warnmeldungen?
+Answer: Probewarnungen enthalten im Text den Hinweis, dass es sich um eine Probewarnung handelt. Diese finden in der Regel an Landes- oder Bundeswarntagen statt und werden auch in der Presse einige Tage/Wochen vorher angekündigt.
+
+Question: Kann ich Probewarnungen bzw. Testwarnungen deaktivieren? Und was ist der Unterschied?
+Answer: Warnungen, die im Rahmen eines Probewarntags von Bund und Ländern durchgeführt werden, können Sie nicht deaktivieren. Grund ist, dass diese in der Regel die höchste Warnstufe nutzen.
+Testwarnungen hingegen können Sie deaktivieren, weil das Funktionstests der Netzbetreiber sind. In den Cell-Broadcast-Einstellungen Ihres Geräts können Sie diese wie folgt deaktivieren:
+iOS: Einstellungen > Mitteilungen > Cell Broadcast-Warnungen > Testwarnungen
+Android: Einstellungen > Sicherheit und Notfälle > Notfallbenachrichtigung für Mobilgeräte
+
+Question: Warum gibt es einen bundesweiten Warntag?
+Answer: Der bundesweite Warntag dient weiterhin dem Ziel, die Menschen in Deutschland über Warnungen zu informieren und sie damit zu sensibilisieren. Nähere Informationen erhalten Sie auf folgender Seitewww.warnung-der-bevoelkerung.de(Sie werden weitergeleitet).
+
+Question: Was hat die Telekom mit Cell Broadcast zu tun?
+Answer: Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) setzt auf unterschiedliche Warnmittel/-kanäle. Eines dieser Warnmittel ist Cell Broadcast, bei dem die Warnmeldung als Textnachricht über die Mobilfunk-Netze versendet wird.
+
+Question: In welchen Sprachen werden Warnmeldungen unterstützt?
+Answer: Die Aussendung der Cell Broadcast-Warnmeldungen erfolgt in Deutsch und Englisch. In der Regel werden auf Mobilfunk-Geräten mit deutschen Spracheinstellungen nur Warnmeldungen auf Deutsch angezeigt.
+
+Question: Werden meine Daten (insbesondere Standortdaten) übermittelt?
+Answer: Nein, für die Aussendung von Cell Broadcast-Nachrichten werden keine personenbezogenen Daten wie Standortdaten erhoben oder verarbeitet. Das Warnsignal wird an alle empfangsbereiten Mobilfunk-Geräte ausgesendet, ohne dass der Absendende der Warnmeldung die Mobilfunk-Rufnummer oder andere Daten der Empfänger*innen kennt oder erfassen kann.
+

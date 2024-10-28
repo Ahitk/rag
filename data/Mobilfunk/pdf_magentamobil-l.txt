@@ -1,0 +1,25 @@
+Here’s a summary of the relevant information from the document regarding the "MagentaMobil L (Mobilfunk)" product:
+
+### Product Overview
+- **Type**: Mobile telecommunications service including phone, SMS, and internet access.
+- **Marketing Start**: August 1, 2024.
+
+### Data Transmission Rates
+- **Maximum Download Speed**: 300 MBit/s
+- **Maximum Upload Speed**: 50 MBit/s
+- **Reduced Speeds After 80 GB Usage**:
+  - Download: 64 KBit/s
+  - Upload: 16 KBit/s
+
+### Contract Details
+- **Minimum Contract Duration**: 24 months
+- **Cancellation Notice Period**: 1 month after the minimum period.
+
+### Pricing for Complete Product (monthly)
+- **Without Smartphone**: €59.95
+- **With Smartphone**: €69.95
+- **With Top Smartphone**: €79.95
+- **With Premium Smartphone**: €89.95
+- **With Premium Plus Smartphone**: €99.95
+
+This pricing is exclusive of any one-time hardware costs. For further details, customers can refer to the provided link to the comprehensive terms and conditions on the Telekom website.

@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-der-heizungssteuerung/heizung-ueber-die-app-nutzen
+
+Question: Wie kann ich die Magenta SmartHome Heizungssteuerung über die App nutzen?
+Answer: Sie finden die Heizungssteuerung in der Magenta SmartHome App über die Fernbedienung oder direkt im Menü unter dem Punkt "Heizung".Die Temperatur können Sie in den Gerätedetails auf der zweiten Ebene des Thermostats einstellen.
+
+Tipp:Um Ihre eQ-3 Heizkörperthermostate HomeMatic oder Homematic IP mit Magenta SmartHome zu steuern, wählen Sie bitte direkt am Gerät die manuelle Steuerung aus. Diese wird abhängig vom Gerätemodell im Display mit der Abkürzung "Manu" oder einem Handsymbol dargestellt.
+Die Temperaturanzeige auf der Kachel in der FernbedienungWenn Sie sich im Menü "Fernbedienung" befinden, sehen Sie für jeden Temperatursensor eine Kachel mit einem roten Thermometer. Dort sehen Sie die aktuell gemessene Temperatur. Ist der Temperatursensor nicht erreichbar, wird der Wert -° angezeigt.
+Anzeige der Soll-Temperatur für ThermostateDie Soll-Temperatur – also die von Ihnen eingestellte gewünschte Temperatur – wird in einer Kachel mit dem Symbol einer runden Skala angezeigt. Wenn Sie mithilfe des Stellrädchens an einem Heizkörperthermostat die Temperatur verändern, sehen Sie in der Kachel den niedrigsten und höchsten Temperaturwert des Heizkörperthermostats.
+Befinden sich mehrere Thermometer in einem Raum, so zeigt die Titelzeile den ermittelten Durchschnittswert an.Sie haben festgelegt, dass an nur einem Sensor im Raum die Temperatur gemessen wird? Dann zeigt die Titelzeile diesen gemessenen Wert an.
+

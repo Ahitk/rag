@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/MagentaCLOUD/Neue-sitzung-erstellen-in-magenta-cloud-WEB-Browser-nicht/td-p/6961573/jump-to/first-unread-message
+Subject: Neue sitzung erstellen in magenta cloud WEB Browser nicht möglich
+Content: Hallo Team,ich kann im WEB Browser keine neue Sitzung erstellen, das Feld ausgegraut ist. Ist das nur vorübergehend oder dauerhaft?DankeMatias
+
+Accepted Solutions:
+- Funktioniert. Man muss erst den Namen für die neue Sitzung eingeben, danach kann man eine neue Sitzung erstellen.
+- Funktioniert. Man muss erst den Namen für die neue Sitzung eingeben, danach kann man eine neue Sitzung erstellen.

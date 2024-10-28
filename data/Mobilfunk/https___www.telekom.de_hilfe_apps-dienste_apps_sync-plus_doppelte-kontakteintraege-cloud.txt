@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/doppelte-kontakteintraege-cloud
+
+Question: Kann es doppelte Kontakteinträge in der Cloud geben?
+Answer: Werden Kontakte als doppelte Einträge erkannt, werden sie nach Ihrer Zustimmung beim Kopieren vom Gerät in die Cloud zusammengeführt.
+Bei stark abweichenden Informationen von Kontakten (z. B. bei unterschiedlichen Geburtsdaten) werden die Kontakte nicht zusammengeführt, da es sich hier auch um zwei verschiedene Personen handeln könnte.
+Doppelte Einträge, die nicht mithilfe der App gefunden wurden, können Sie später jederzeit bequem in Ihrem Adressbuch im E-Mail Center bearbeiten.Ihre Änderungen sind dann durch die bereits eingerichtete Synchronisation auf Ihren Geräten immer auf dem aktuellen Stand.
+

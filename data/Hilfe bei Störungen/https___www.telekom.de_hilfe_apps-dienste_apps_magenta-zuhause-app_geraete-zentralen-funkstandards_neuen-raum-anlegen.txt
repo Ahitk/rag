@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/neuen-raum-anlegen
+
+Question: Wie kann ich in der MagentaZuhause App einen neuen Raum anlegen?
+Answer: Um einen neuen Raum in der MagentaZuhause App anzulegen, wählen Sie zunächst das Gerät aus, das zu diesem Raum gehören soll.
+Folgende Schritte sind nun durchzuführen:
+• Öffnen Sie die Geräteübersicht (Menü "Geräte") und tippen auf den Raum, dem das Gerät aktuell zugeordnet ist.
+• Wählen Sie nun das Gerät, das in den neuen Raum verschoben werden soll.
+• Jetzt auf der folgenden Seite auf die Einstellungen ("Zahnrad") in der rechten oberen Ecke tippen.
+• Im folgenden Menüpunkt "Raum" kann das Gerät in den gewünschten Raum verschoben oder ein neuer Raum über die Schaltfläche "Neuen Raum hinzufügen" angelegt werden.
+

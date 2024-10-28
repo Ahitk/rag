@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Magenta-One-Abschalten-bei-Inaktivitaet/td-p/6964897/jump-to/first-unread-message
+Subject: Magenta One Abschalten bei Inaktivität
+Content: Gibt es eine Option die Magenta One (und den angeschlossenen Fernseher) nach einer definierten Zeit abzuschalten?Ich habe gelesen dass funktioniert wohl fest erst nach 240 Minuten, was mir sehr lange ist?Gibt es dazu vielleicht notfalls eine Android App?Bin für Ideen dankbar!
+
+Accepted Solutions:
+- @addi97Sie wechselt nach 4 Std. Inaktivität zur Startseite und dann setzen die Einstellungen unter Bildschirmschoner ein.Eine andere Einstellung gibt es nicht. Auch keine App
+- @addi97Sie wechselt nach 4 Std. Inaktivität zur Startseite und dann setzen die Einstellungen unter Bildschirmschoner ein.Eine andere Einstellung gibt es nicht. Auch keine App

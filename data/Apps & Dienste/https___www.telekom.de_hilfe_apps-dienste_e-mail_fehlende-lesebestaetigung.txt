@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/fehlende-lesebestaetigung
+
+Question: Warum bekomme ich trotz Aktivierung der Lesebestätigung keine Benachrichtigung, wenn meine E-Mail gelesen wurde?
+Answer: Lesebestätigung an @t-online.de/magenta.de Adresse
+Wenn Sie E-Mails an eine @t-online.de/magenta.de Adresse senden, bekommen Sie immer eine Lesebestätigung, vorausgesetzt der/die Empfänger*in hat die Lesebestätigung bestätigt. Bei einer Ablehnung der Lesebestätigung bekommen Sie keine zurück.
+Lesebestätigung an andere E-Mail-Anbieter
+Wenn Sie eine E-Mail an die E-Mail-Adresse eines anderen E-Mail-Anbieters (z. B. Gmail, Yahoo) schicken, erhalten Sie nur dann eine Lesebestätigung, wenn der Anbieter diese Funktion unterstützt.
+

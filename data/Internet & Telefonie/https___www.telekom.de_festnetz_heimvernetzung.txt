@@ -1,0 +1,33 @@
+Source URL: https://www.telekom.de/festnetz/heimvernetzung
+
+Question: Wie viel Potenzial steckt in Ihrem Zuhause?
+Answer: Die Premium TV-Box für ein überragendes MagentaTV Erlebnis. Schnell und zukunftssicher. Komfortabel in der Nutzung durch eine hochwertige Fernbedienung. Mit einfacher Installation, flexibel über WLAN oder LAN. Auf Basis von Android TV.​
+
+Question: Wie baut man ein Heimnetzwerk auf?
+Answer: • Entfernung zum Router
+• Weitere elektronische Geräte
+• Wände und Decken
+• Fremde WLAN-Netzwerke
+• Funkbasierte Systeme
+
+Question: Was ist ein vernetztes Zuhause oder Heimvernetzung?
+Answer: Vernetztes Zuhause bzw. Heimvernetzung meint die digitale Vernetzung eines Wohnraums. Das kann eine Wohnung, aber auch ein ganzes Haus sein und über Netzwerkkabel, WLAN,Mesh-WLAN, Repeater oder Powerline-Adapter erfolgen. Dabei überzeugt besonders dieMesh-Technologie, die durch die Zusammenarbeit mehrerer Geräte ein WLAN-Netz erzeugt, welches konstante Datenübertragungsraten ermöglicht und mit nur wenigen Handgriffen eingerichtet ist.
+
+Question: Was sind die Vorteile einer optimalen Heimvernetzung?
+Answer: Mit einer Heimvernetzung können Sie Ihr WLAN-Signal in Ihrem Zuhause ausweiten und so Internet auf die komplette Wohnfläche verteilen. Denn auch der beste Router kommt an seine Grenzen und so kann es vorkommen, dass der Empfang innerhalb eines Wohnraums stark schwankt oder ganz aussetzt. Die Mesh-Technologie ist hierfür die geeignete Lösung. Sie ermöglicht im Haus oder der Wohnung immer eine gute WLAN-Abdeckung. Denn im Gegensatz zu einem gewöhnlichen WLAN-Netzwerk wird das Signal nicht nur von einem Router gesendet, sondern von mehreren, auf der Wohnfläche verteilt aufgestellten Mesh-Sendestationen. Diese arbeiten selbstoptimierend, das bedeutet, egal wo Sie sich aufhalten oder hinbewegen – Sie verfügen über eine stabile Verbindung und eine hervorragende Signalstärke in Ihrem vernetzten Zuhause.
+
+Question: Was ist der Unterschied zwischen vernetztem Zuhause und Heimnetzwerk?
+Answer: „Vernetztes Zuhause“ steht für die Vernetzung eines Wohnraums als großes Ganzes. Das „Heimnetzwerk“ bildet dabei die Grundlage, es beschreibt das Netz, über das sämtliche Geräte verbunden sind. Die beiden Begriffe bedingen sich also und sind nicht voneinander zu trennen, denn immer, wenn von „Heimvernetzung“ bzw. auch von einem „vernetzten Zuhause“ die Rede ist, ist auch gleichzeitig das „Heimnetzwerk“ gemeint. Zusammen bilden sie eine Art digitale Infrastruktur für Ihre Daten.
+
+Question: Was kann die Konnektivität meines WLANs beeinträchtigen?
+Answer: Es gibt viele Faktoren, die die Konnektivität beeinflussen können. Beispielsweise ist es für das WLAN-Signal nur schwer möglich, Stahlbetonwände zu durchdringen. Auch andere digitale Geräte, Möbel und sogar Wasser, zum Beispiel in Form von Aquarien, Fußbodenheizung oder Wasserbetten, können Störquellen sein. Daher ist die Platzierung IhresRoutersessenziell wichtig, um WLAN im Haus zu verteilen. Er sollte freistehen und dem Raum zugewandt sein. Je mehr Wände und Hindernisse das WLAN-Signal überwinden muss, desto schwächer wird es.
+
+Question: Welche Vorteile hat der neue Wi-Fi 6-Standard?
+Answer: Durch Verbesserungen der Signalübertragung und des Datenmanagements sorgt der neue Standard Wi-Fi 6 für eine deutlich zuverlässigere Netzwerkverbindung im Vergleich zu vorherigen Wi-Fi-Generationen. Denn die neue Technologie ermöglicht es, dass größere Datenströme gleichzeitig im Heimnetzwerk verarbeitet werden. Mit Wi-Fi 6 können Sie Internet im Haus verteilen und von stabiler Qualität profitieren. Zudem ergeben sich dank besserer Zeitplanung und Optimierung des Sendeverhaltens längere Akkulaufzeiten bei den Wi-Fi 6-Clients wie Laptop, Tablet oder Smartphone. Um die Vorteile des Wi-Fi 6 nutzen zu können, brauchen Sie Router und WLAN-Repeater, die mit Wi-Fi 6 kompatibel sind.
+
+Question: Welche Router unterstützen den Wi-Fi 6-Standard?
+Answer: Bei der Telekom erhalten Sie folgende Router, die Wi-Fi 6 unterstützen:
+Des Weiteren ist Wi-Fi 6 kompatibel zu den bisherigen WLAN Standards, sodass alle vorhandenen WLAN-fähigen Geräte in Ihrem Zuhause wie gewohnt weitergenutzt werden können.
+• Speedport Smart 4
+• Speed Home WLAN
+

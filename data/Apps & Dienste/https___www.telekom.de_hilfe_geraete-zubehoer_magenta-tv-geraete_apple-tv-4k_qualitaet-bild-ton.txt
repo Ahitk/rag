@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/apple-tv-4k/qualitaet-bild-ton
+
+Question: Unterstützen Apple TV 4K und MagentaTV HDR und Dolby Vision?
+Answer: Apple TV 4K unterstützt 4K HDR und Dolby Vision. Es wurde so entwickelt, dass es die Vorzüge von 4K HDR voll ausschöpft, damit Sie TV-Inhalte in der besten Qualität genießen können.
+Über die MagentaTV App haben Sie noch keine zusätzlichen Audiooptionen außer Stereo (bspw. 5.1 Atmos Audio) und das Abspielen von UHD-VoD-Inhalten ist nur über SD und HD möglich.
+

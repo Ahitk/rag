@@ -1,0 +1,20 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/900-serie/ip-telefonie-w-921v-einrichten
+
+Question: Wie richte ich die IP-Telefonie in meinem Speedport W 921V ein?
+Answer: Die folgende Schritt für Schritt Anleitung zeigt Ihnen, wie Sie Ihre IP-Telefonie (früher auch DSL- oder Internet-Telefonie genannt) einrichten.
+Bitte beachten Sie, dass Ihr Telefon nur funktioniert, wenn eine Internetverbindung besteht!Das erkennen Sie daran, dass die Online-Leuchte am Router dauerhaft leuchtet.
+
+Wählen Sie sich in Ihrem Browser über speedport.ip in die Einrichtung Ihres Routers ein. Zur Konfiguration der erforderlichen Internetzugangsdaten wechseln Sie im Konfigurationsmenü in den Bereich "Netzwerk" -> "Internetzugang" und tragen dort Ihre Zugangsdaten ein, die wir Ihnen mit der Post geschickt haben.
+
+Einrichtung der IP-Telefonie:
+
+
+
+• Zur Konfiguration der Rufnummern wechseln Sie in der Kopfzeile in den Bereich "Telefonie".
+• In den "Einstellungen zur Internet Telefonie" klicken Sie unter dem Eingabefeld auf den Button "ändern".
+• Es öffnet sich ein kleines zusätzliches Fenster für die Eingabe einer E-Mail Adresse.
+• Tragen Sie die Rufnummer, die wir Ihnen in der Auftragsbestätigung mitgeteilt haben,  immer mit der jeweiligen Vorwahl in das entsprechende Feld ein. Schreibt man die Rufnummer ohne Vorwahl, scheitert die Registrierung.
+• In das Feld "E-Mail-Adresse" tragen Sie Ihre E-Mail-Adresse @magenta.de/@t-online.de ein.
+• Ihr Passwort oder auch Webkennwort tragen Sie in das folgende Feld ein.
+• Die Einstellungen schließen Sie mit dem Button "OK & Weiter" ab, die Registrierung der Rufnummer beginnt jetzt.
+

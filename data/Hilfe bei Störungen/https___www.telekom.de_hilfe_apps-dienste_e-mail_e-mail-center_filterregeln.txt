@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/filterregeln
+
+Question: Wie kann ich Filterregeln im E-Mail Center einrichten?
+Answer: Filterregeln für E-Mails können Sie imE-Mail Centereinrichten, bearbeiten oder entfernen. Sie können z. B. festlegen, dass E-Mails von bestimmten Absendern oder mit speziellem Text im Betreff automatisch in einen Ordner verschoben werden. Zum "Einrichten" gehen Sie wie folgt vor:
+Zahnrad > Alle Einstellungen anzeigen > E-Mail Optionen > Filterregeln > Filterregel hinzufügen
+Um einen Filter zu bearbeiten, klicken Sie auf die gewünschte Filterregel und verändern die Eingaben. Anschließend speichern Sie die Änderungen. Wenn Sie ihn entfernen möchten, drücken Sie den Button "Filter löschen".
+

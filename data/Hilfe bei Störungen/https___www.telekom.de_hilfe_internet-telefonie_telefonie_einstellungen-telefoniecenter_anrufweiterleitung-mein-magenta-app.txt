@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/anrufweiterleitung-mein-magenta-app
+
+Question: Wie richte ich für meinen Festnetz-Anschluss eine Anrufweiterleitung in der MeinMagenta App ein?
+Answer: Melden Sie sich in derMeinMagenta Appan, klicken Sie auf die Kachel "Festnetz-Anschluss" und dann "Anrufweiterleitung einrichten". Es erfolgt eine Weiterleitung an das Telefoniecenter. Folgen Sie den Anleitungsschritten, wie in derFAQ zum Telefoniecentererläutert.
+

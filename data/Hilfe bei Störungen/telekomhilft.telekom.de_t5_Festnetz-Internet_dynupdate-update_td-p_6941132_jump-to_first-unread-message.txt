@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/dynupdate-update/td-p/6941132/jump-to/first-unread-message
+Subject: dynupdate update
+Content: Moin Moin, Ich bekomme es einfach nicht hin. Ich möchte gerne den DDNS Update Dienst des Speedport nutzen. Habe auch die Daten so eingetragen, wie unter noip.com beschrieben ist. jedoch wird nichts geupdatet. Screenshot als Anhang. Gibt es da noch einen Trick ?
+
+Accepted Solutions:
+- habe jetzt nochmal google befragt. Die Hostadresse ist die eine andere, und zwar die von dem Updateserver. die heißt all.ddnskey.com.  geändert und jetzt funktioniert es.trotzdem vielen DankKann geschlossen werden oder kann ich das selber machen ?
+- habe jetzt nochmal google befragt. Die Hostadresse ist die eine andere, und zwar die von dem Updateserver. die heißt all.ddnskey.com.  geändert und jetzt funktioniert es.trotzdem vielen DankKann geschlossen werden oder kann ich das selber machen ?

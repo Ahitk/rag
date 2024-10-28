@@ -1,0 +1,35 @@
+Source URL: https://www.telekom.de/festnetz/heimvernetzung/mesh-technologie
+
+Question: Was ist die optimale Heimvernetzung für meine Wohnsituation?
+Answer: Eine LAN-Verbindung ist für maximale Bandbreite optimal. Falls diese bei Ihnen nicht vorhanden ist, ist eine WLAN-Verbindung die klassische Alternative. Die Mesh-WLAN-Technologie geht hier noch einen Schritt weiter: sie ist selbstoptimierend und sorgt so für eine stabile, unterbrechungsfreie Verbindung und optimale Signalstärke. Falls technisch oder baulich keine andere Verbindungsform möglich ist, können Sie durch aktuelle Powerline-Technik das hauseigenen Stromnetzes als Datenverbindung nutzen. Weitere Informationen zur optimalen Verbindung zwischen Ihrem Router und den vernetzten Geräten finden Sie auch in einemTelekomHilfe-Video.
+
+Question: Was ist ein Mesh-Netzwerk?
+Answer: Ein WiFi Mesh-Netzwerk sorgt für ein schnelles, unterbrechungsfreies WLAN-Signal bis in den letzten Winkel Ihres Zuhauses. Mit Hilfe von Mesh-fähigen Geräten wie Speed Home WLAN und Speedport Smart 4 richten Sie einfach ein neues WLAN-Netzwerk ein und passen das Signal mit bis zu 5 Speed Home WLAN Ihrer Wohn- und Lebenssituation an. Alle Mesh-Geräte kommunizieren ständig miteinander und schicken die gewünschten Daten nahtlos und auf dem schnellsten Weg zu Ihren internetfähigen Endgeräten.
+
+Question: Was ist Speed Home WLAN?
+Answer: Speed Home WLAN ist unser Produkt für die problemlose Nutzung des Telekom Mesh-Systems. Es verlängert die WLAN-Reichweite des Routers und sorgt für eine optimale Netzabdeckung in Ihrem Zuhause. Als ideale Ergänzung für die Speed Home WLAN Geräte empfehlen wir unseren Speedport Smart 4 oder den Speedport Pro Plus.
+
+Question: Was ist der Speedport Smart 4?
+Answer: Der Speedport Smart 4 ist unser neuer mesh-fähiger Router und bildet in Verbindung mit Speed Home WLAN ein Mesh-WLAN-Netzwerk (mit bis zu 5 Speed Home WLAN erweiterbar).
+
+Question: Kann ich mein Speed Home WLAN auch mit den Mesh-Geräten anderer Anbieter kombinieren?
+Answer: Gegenwärtig ist es nicht möglich, Telekom- und Mesh-Systeme anderer Anbieter zu kombinieren, da es noch keinen weltweit einheitlichen Mesh-Standard gibt.
+
+Question: Welche Router sind mit dem Speed Home WLAN kompatibel?
+Answer: Speed Home WLAN-Geräte können Sie ab Werk mit unseren Mesh-kompatiblen Routern Speedport Smart 3 und Speedport Smart 4 oder den Speedport Pro Plus verwenden. Alternativ können Sie andere Router via LAN-Kabel und Speed Home WLAN Mesh-kompatibel machen, so dass Sie unser Telekom-Mesh benutzen können.
+
+Question: Wie viele Speed Home WLAN Geräte brauche ich?
+Answer: Das ist abhängig von Ihrer Wohngröße und Ihrem Nutzungsverhalten. Ermitteln Sie ganz einfach mit unserem Konfigurator wie viele Geräte Sie in Ihrem Zuhause für die optimale WLAN Abdeckung brauchen.
+
+Question: Wie richte ich mein Telekom-Mesh ein?
+Answer: Mit der Schritt-für-Schritt Anleitung unserer DSL Hilfe App fürs Smartphone ist die Installation spielend leicht.
+
+Question: Was ist, wenn ich meine Heimvernetzung nicht selber installieren möchte?
+Answer: Wir bieten Ihnen ein Rundum-Sorglos Paket an und ermitteln bei Ihnen vor Ort die optimale Lösung für Ihr Zuhause und beraten Sie zum Thema Mesh. Dabei integrieren wir Ihre vorhandenen Geräte und kümmern uns um die Installation. Die unterschiedlichen Angebote zu Beratung und Installation finden Sie hier.
+
+Question: Brauche ich für meinen MagentaTV TV-Receiver noch zusätzliche Hardware?
+Answer: Nein. Sie können Ihren TV-Receiver via LAN-Kabel mit dem Speed Home WLAN verbinden und diesen so als WLAN Empfänger nutzen. So empfangen Sie nicht nur MagentaTV per WLAN, sondern verschaffen gleichzeitig anderen internetfähigen Geräten Zugang zum Internet.
+
+Question: Kann ich nachträglich weitere Speed Home WLAN Geräte zu meinem Heimnetzwerk hinzufügen?
+Answer: Sie können jederzeit Speed Home WLAN Geräte hinzufügen. Bei einem mesh-fähigen Router, wie unserem Speedport Smart 4 oder den Speedport Pro Plus, bis zu maximal 5 Geräte. Bei einem nicht-mesh-fähigen Router bis zu 6 Geräte (da 1 als Mesh-Basis arbeitet).
+

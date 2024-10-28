@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/umwelt/nachhaltigkeit/full-eco-mode
+
+Question: Was heißt Full ECO Mode?
+Answer: Bei aktivem Full ECO Mode wird der Sender in der Basis komplett abgeschaltet, wenn einige Zeit keine Gesprächsverbindung besteht. Die Sendeleistung verringert sich deutlich, dadurch arbeitet das Schnurlostelefon umweltfreundlich (CO2-Reduzierung).
+

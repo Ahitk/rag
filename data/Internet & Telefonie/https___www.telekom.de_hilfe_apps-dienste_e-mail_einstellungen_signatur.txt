@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/einstellungen/signatur
+
+Question: Wie kann ich eine Signatur für meine E-Mails einrichten?
+Answer: Um imE-Mail Centereine Signatur anzulegen, die automatisch ans Ende Ihrer E-Mail gesetzt wird, gehen Sie wie folgt vor:
+Zahnrad > Alle Einstellungen Anzeigen > E-Mail Optionen > Signatur
+Über "Signatur anlegen" können Sie die Grußformel frei formulieren und Formatierungen wie Schriftart, -größe, Ausrichtung, etc. anpassen.
+

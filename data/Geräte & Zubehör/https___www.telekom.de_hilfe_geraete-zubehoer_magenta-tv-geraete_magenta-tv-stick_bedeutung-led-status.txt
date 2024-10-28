@@ -1,0 +1,15 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-stick/bedeutung-led-status
+
+Question: Was bedeuten die Leuchtanzeigen an meinem MagentaTV Stick?
+Answer: Die Leuchtanzeige (LED) zeigt Ihnen, in welchem aktuellen Betriebszustand sich Ihr MagentaTV Stick befindet.
+In unserer Übersicht zeigen wir Ihnen den Status und dessen Bedeutung:
+LED-Status
+Bedeutung
+
+Alles okay. Ihr MagentaTV Stick befindet sichim normalen Betriebszustand. Dies beinhaltetauch den Startvorgang.
+
+Ihr MagentaTV Stick befindet sich im Stand-by-Modus.Drücken Sie dieStand-by-/Neu Starten-Tasteauf IhrerFernbedienung, um Ihren MagentaTV Stick in Betrieb zu nehmen.
+
+Bitte warten. Ihr MagentaTV Stick aktualisiert dieFirmware.
+Bitte trennen Sie weder Internetverbindung oder Stromversorgung.
+

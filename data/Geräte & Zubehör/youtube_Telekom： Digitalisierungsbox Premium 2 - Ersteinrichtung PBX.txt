@@ -1,0 +1,6 @@
+Question:
+Welche Schritte sind erforderlich, um die Telefonanlage der Digitalisierung Spox Premium 2 zu konfigurieren?
+
+Answer:
+In dem Video wird erklärt, wie man die Telefonanlage der Digitalisierungsspox Premium 2 im PBX-Modus konfiguriert. Nach der Ersteinrichtung sind einige Anschlüsse bereits vorgegeben. Die Benutzereinstellungen sind jedoch individuell und ermöglichen interne und externe Anrufe, wobei auch darauffolgende Einstellungen wie die Vergabe von Namen, E-Mail-Adresse und Berechtigungsklasse besprochen werden. Später wird auf die Einrichtung interner Rufnummern eingegangen, wobei diesen Namen zugewiesen und Nutzer zugeordnet werden. Das Video zeigt zudem, wie Endgeräte konfiguriert und mit dem System verbunden werden, inklusive der unterschiedlichen Optionen für analoge, ISCN und IP-Telefone. Abschließend erläutert das Video die Einstellungen des Tag-Nacht-Betriebs sowie der Rufverteilung und gibt einen kurzen Überblick über die Optionen des Systems.
+

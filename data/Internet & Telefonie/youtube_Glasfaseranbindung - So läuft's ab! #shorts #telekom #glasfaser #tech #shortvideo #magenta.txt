@@ -1,0 +1,6 @@
+Question:
+Wer kümmert sich um die N.E.3 und N.E.4 im Prozess der Glasfaseranbindung meines Hauses?
+
+Answer:
+"Das war die Kommunikation bezüglich des Neubaus mit der Telekom, in der Begriffe wie N.E.3 und N.E.4 verwendet wurden. Es wurde auf die bevorstehende Installation einer Glasfaseranlage in einem Haus mit drei Wohneinheiten eingegangen. N.E.3 ist das Netz, das bis zum Haus reicht, während N.E.4 alles im Haus abdeckt, einschließlich des Endgeräts. Die Installation kann unterschiedliche Partner umfassen, die sich um N.E.3 oder N.E.4 kümmern. Bei mehr als drei Wohnungen wird eine Inspektion durchgeführt, um die optimale Verkabelung festzustellen. Die Glasfaserverbindung reicht vom Anschlusspunkt im Haus bis zur Glasfaserdose in der Wohnung, an welche das Modem anschließt wird. Nutzer können auch ein integriertes Router-Modem verwenden, wie beispielsweise das B-Pot, Smart4 Glasfasermodem. SWR 2020."
+

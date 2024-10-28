@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/pass-nutzung
+
+Question: Kann ich meinen HotSpot Pass auf mehreren Geräten gleichzeitig nutzen?
+Answer: Ihren gebuchtenHotSpot Passkönnen Sie auf mehreren Geräten nutzen. Jedoch nicht gleichzeitig.
+Wenn Sie sich mit den Login-Daten des Passes z. B. auf Ihrem Smartphone angemeldet haben und möchten den Pass dann auf Ihrem Tablet nutzen, müssen Sie sich am Smartphone ausloggen. Loggen Sie sich nicht aus und melden sich am Tablet an, erfolgt ein automatischer Logout auf Ihrem Smartphone.
+

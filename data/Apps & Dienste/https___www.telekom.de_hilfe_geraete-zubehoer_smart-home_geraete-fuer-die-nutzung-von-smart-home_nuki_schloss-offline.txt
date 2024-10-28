@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/schloss-offline
+
+Question: Warum wird mein Nuki Schloss in Magenta SmartHome als "offline" angezeigt?
+Answer: Das kann verschiedene Gründe haben. Bitte überprüfen Sie zunächst in der Nuki App, ob das Schloss dort online ist und funktioniert. Ist auch die Nuki Bridge online?
+Ist das Schloss in der Nuki App erreichbar, prüfen Sie bitte in den Einstellungen, ob das Nuki Sperrprotokoll eingeschaltet und Nuki Web aktiviert sind.
+Sie finden die Einstellungen in der Nuki App unter "Protokoll" unter den Schloss-Einstellungen bzw. – "Nuki Web aktivieren" unter "Administration".Beide Einstellungen sind  für die Nutzung zwingend erforderlich.
+

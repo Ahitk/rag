@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/nutzung
+
+Question: Wie kann ich WLAN Call nutzen?
+Answer: Ihr Smartphone verwendet automatisch WLAN Call, wenn es eine funktionierende Internetverbindung über WLAN hat und kein ausreichendes Mobilfunksignal vorhanden ist. Sie telefonieren wie gewohnt mit Ihrer bekannten Mobilfunknummer in jedes Netz und können auch SMS und MMS Nachrichten versenden bzw. empfangen.
+

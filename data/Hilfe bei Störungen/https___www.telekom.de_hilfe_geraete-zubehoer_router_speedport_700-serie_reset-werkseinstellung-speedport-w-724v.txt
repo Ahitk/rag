@@ -1,0 +1,21 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/reset-werkseinstellung-speedport-w-724v
+
+Question: Wie stelle ich den Speedport W 724 V zurück auf die Werkseinstellung?
+Answer: Wenn Ihr Speedport W 724V ausgetauscht oder wegen einer Kündigung zurückgeschickt werden muss, sollten Sie unbedingt ein generelles Reset durchführen. Dabei werden alle Einstellungen auf die Werkseinstellung zurückgesetzt. Sie verhindern so, dass Ihre Daten in falsche Hände gelangen.
+Sie haben 2 Möglichkeiten, den Speedport W 724V wieder auf die Werkseinstellung zurückzusetzen.
+Direkt am Speeport W 724V:
+
+
+Über die Benutzeroberfläche des Speedports W 724V:
+
+• Ihr Speedport W 724V muss am Stromnetz angeschlossen sein.
+• Führen Sie einen spitzen Gegenstand in die mit "Reset" bezeichnete Öffnung und drücken Sie damit ca. 5 Sekunden lang auf die verborgene kleine Taste.
+• Warten Sie danach ca. 90 Sekunden, bevor Sie den Speedport W 724 V vom Stromnetz nehmen.
+• Öffnen Sie bitte die Benutzeroberfläche Ihres Speedports W 724V über einen Internet-Browser, indem Sie "speedport.ip" oder "192.168.2.1" eintragen.
+• Klicken Sie danch auf "Konfiguration starten". Nun öffnet sich das Gerätepasswort-Fenster.
+• Geben Sie das Gerätepasswort ein, welches Sie auf der Rückseite IhresSpeedports W 724V finden. Danach weiter mit "Login".
+• Klicken Sie oben auf den Reiter "Einstellungen", dann links auf das Untermenü "Problembehandlung".
+• Jetzt bekommen Sie eine Auswahl. Klicken Sie bitte auf "Zurücksetzen aller Einstellungen" und darunter auf "Werkseinstellungen".
+• Sie erhalten nun einen Warnhinweis. Dort klicken Sie bitte auf "Zurücksetzen" und dann auf "OK".
+• Wird nach einigen Sekunden das Login-Fenster angezeigt, sind das Zurücksetzen auf die Werkseinstellungen und der anschließende Neustart abgeschlossen.
+

@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/glasfaser/dose-montageposition
+
+Question: Wo wird die Glasfaser-Dose montiert?
+Answer: Als Hauseigentümer können Sie während des Bereitstellungsprozesses zwischen der "Standardmontage" und der "Montage am Wunschort" wählen. Als Mieter erkundigen Sie sich bei Ihrem Vermieter über die geplante Montageposition der Glasfaser-Dose. In den meisten Fällen wird sie in der Nähe Ihrer Wohnungstür installiert.
+StandardmontageDie Glasfaser-Dose wird bis zu drei Meter vom Glasfaser-Hausanschluss montiert. Bei einem Einfamilienhaus ist das in der Regel im Keller, bei einer Wohnung hinter der Eingangstür.
+Montage am WunschortDie Glasfaser-Dose kann auf Ihren Wunsch bis zu 20 Meter entfernt vom Hausanschluss installiert werden.
+Hinweis: Für ein gutes WLAN-Signal sollten die Glasfaser-Dose und der Router an einer möglichst zentralen Stelle im Haus oder in der Wohnung positioniert werden. Falls Ihr Router kein integriertes Glasfaser-Modem besitzt, sind zudem zwei Steckdosen notwendig, um den Router und das Modem mit Strom zu versorgen.
+

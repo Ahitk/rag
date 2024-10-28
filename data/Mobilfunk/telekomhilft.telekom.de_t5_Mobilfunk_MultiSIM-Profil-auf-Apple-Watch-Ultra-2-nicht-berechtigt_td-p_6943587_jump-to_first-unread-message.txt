@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/MultiSIM-Profil-auf-Apple-Watch-Ultra-2-nicht-berechtigt/td-p/6943587/jump-to/first-unread-message
+Subject: MultiSIM Profil auf Apple Watch Ultra 2 nicht berechtigt.
+Content: Habe meine alte MultiSIM gelöscht, heute eine neue sofort mit der EID von der Apple Watch Ultra 2 verbinden lassen und sie ist laut Profil auch aktiv. Auf dem Handy und der Watch App bekomme ich jedoch bei Mobilfunk angezeigt: „Dein Telekom.de Account ist nicht zur Aktivierung des Mobilfunks auf der Apple Watch berechtigt. Weitere Informationen auf Telekom.de erhältlich“.Handy sowie Uhr sind auf der aktuellsten IOS Version und wurden schon neu gestartet. Beide sind im selben W-LAN.Ich kann bei ausgeschaltetem Handy mit der Uhr anrufen, kann aber nicht angerufen werden. Auf der Uhr selbst steht, dass diese mit dem Mobilfunktarif der Telekom verbunden sei und dieser aktiv ist.
+
+Accepted Solutions:
+- Hallo@shiro,haben Sie auch schon ohne WLAN versucht zuntelefonieren bzw. angerufen zu werden? Also am besten iPhone und WLAN aus, was macht die AppleWatch dann?Viele Grüße,Coole Katze
+- Hallo@shiro,haben Sie auch schon ohne WLAN versucht zuntelefonieren bzw. angerufen zu werden? Also am besten iPhone und WLAN aus, was macht die AppleWatch dann?Viele Grüße,Coole Katze

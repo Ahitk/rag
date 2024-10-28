@@ -1,0 +1,6 @@
+Question:
+Basierend auf dem oben genannten Transkript, kann Ihre Frage sein: "Was sind die Anforderungen für eine erfolgreiche Identifikation mit dem Selfie-Eident oder Video-Eident Verfahren und wie lange dauert
+
+Answer:
+Um diese Funktion nutzen zu können, müssen Kunden ihre Identität bei ihrem Anbieter verifizieren. Dies kann online erfolgen, entweder selbstständig über die Selfie-Eident App oder durch einen persönlichen Videocall mit der Deutschen Telekom. Beide Verfahren benötigen durchschnittlich 3 bis 5 Minuten. Es ist sehr wichtig, dass Ihre Auftragsdaten und Ausweisdaten übereinstimmen, da die Identifizierung sonst nicht funktioniert. Wenn Ihr Name etwa ein Sonderzeichen enthält, muss es exakt wie im Ausweisdokument eingetragen werden.
+

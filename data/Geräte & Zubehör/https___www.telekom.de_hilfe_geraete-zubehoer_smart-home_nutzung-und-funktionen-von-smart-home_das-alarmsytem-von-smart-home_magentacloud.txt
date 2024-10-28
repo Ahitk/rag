@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/das-alarmsytem-von-smart-home/magentacloud
+
+Question: Muss ich mich für die MagentaCLOUD registrieren, wenn ich das Mediencenter der Telekom genutzt habe?
+Answer: Nein, Sie nutzen weiterhin Ihre Benutzerdaten/Ihren Telekom Login (E-Mail Adresse und Ihr Passwort). Nach der Installation der aktuellen Magenta SmartHome App wählen Sie über das Menü Kameras aus, über einen Klick rechts oben auf das Einstellrädchen geben Sie diese Daten einmalig ein. Dann werden sie in der App gespeichert und für Ihre manuellen Kameraaufnahmen, sowie die im Alarmfall erzeugten in der MagentaCLOUD genutzt.
+Dann werden alle manuellen und im Alarmfall erzeugten Videoaufnahmen in der MagentaCLOUD gespeichert.
+

@@ -1,0 +1,47 @@
+Source URL: https://www.telekom.de/ueber-das-unternehmen/datenschutz/datentransparenz
+
+Question: Welche Personendaten speichern wir?
+Answer: Standortdaten entstehen, wenn sich Ihr Mobiltelefon mit einer Funkzelle verbindet oder Ihr Router mit dem Internet.
+
+Question: Was machen wir mit Personendaten?
+Answer: Standortdaten entstehen, wenn sich Ihr Mobiltelefon mit einer Funkzelle verbindet oder Ihr Router mit dem Internet.
+
+Question: Werden die Daten an Dritte weitergegeben?
+Answer: Standortdaten entstehen, wenn sich Ihr Mobiltelefon mit einer Funkzelle verbindet oder Ihr Router mit dem Internet.
+
+Question: Welche Standortdaten speichern wir?
+Answer: Beim Telefonieren entstehende Daten sind persönliche Daten und unterliegen einem besonderen Schutz.
+
+Question: Was machen wir mit Standortdaten?
+Answer: Beim Telefonieren entstehende Daten sind persönliche Daten und unterliegen einem besonderen Schutz.
+
+Question: Werden die Daten an Dritte weitergegeben?
+Answer: Beim Telefonieren entstehende Daten sind persönliche Daten und unterliegen einem besonderen Schutz.
+
+Question: Welche Verkehrsdaten speichern wir?
+Answer: Beim Surfen im Internet entstehen besonders viele Daten.
+
+Question: Was machen wir mit Verkehrsdaten?
+Answer: Beim Surfen im Internet entstehen besonders viele Daten.
+
+Question: Werden die Daten an Dritte weitergegeben?
+Answer: Beim Surfen im Internet entstehen besonders viele Daten.
+
+Question: Welche Internetdaten speichern wir?
+Answer: Im MagentaTV Angebot der Telekom werden zur Verbesserung der Servicequalität bestimmte Informationen gespeichert. Die Nutzungsdaten verwenden wir, um Ihnen das MagentaTV-Angebot bereit stellen zu können. Zudem verwenden wir ausgewählte pseudonymisierte Daten zur Verbesserung der Servicequalität und der Nutzung des Angebotes.
+
+Question: Was machen wir mit Internetdaten?
+Answer: Im MagentaTV Angebot der Telekom werden zur Verbesserung der Servicequalität bestimmte Informationen gespeichert. Die Nutzungsdaten verwenden wir, um Ihnen das MagentaTV-Angebot bereit stellen zu können. Zudem verwenden wir ausgewählte pseudonymisierte Daten zur Verbesserung der Servicequalität und der Nutzung des Angebotes.
+
+Question: Werden die Daten an Dritte weitergegeben?
+Answer: Im MagentaTV Angebot der Telekom werden zur Verbesserung der Servicequalität bestimmte Informationen gespeichert. Die Nutzungsdaten verwenden wir, um Ihnen das MagentaTV-Angebot bereit stellen zu können. Zudem verwenden wir ausgewählte pseudonymisierte Daten zur Verbesserung der Servicequalität und der Nutzung des Angebotes.
+
+Question: Welche MagentaTV-Daten verarbeiten wir?
+Answer: Das intelligente Zuhause vereinfacht zunehmend unser Leben.
+
+Question: Was machen wir mit MagentaTV-Daten?
+Answer: Das intelligente Zuhause vereinfacht zunehmend unser Leben.
+
+Question: Werden die Daten an Dritte weitergegeben?
+Answer: Das intelligente Zuhause vereinfacht zunehmend unser Leben.
+

@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/firmware-aktualisierung/fritzbox
+
+Question: Kennwort der FRITZ!Box vergessen?
+Answer: Sie haben die Möglichkeit, das Kennwort für Ihre FRITZ!Box zurückzusetzen.
+Zur Anleitung: Kennwort zurücksetzen(Sie werden weitergeleitet auf www.avm.de)
+Tipp:Wählen Sie in der Anleitung "rechts oben" erst das Modell Ihrer FRITZ!Box aus.
+

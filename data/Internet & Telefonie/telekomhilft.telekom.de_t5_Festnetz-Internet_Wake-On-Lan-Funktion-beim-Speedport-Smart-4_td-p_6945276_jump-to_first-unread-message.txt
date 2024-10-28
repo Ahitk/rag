@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Wake-On-Lan-Funktion-beim-Speedport-Smart-4/td-p/6945276/jump-to/first-unread-message
+Subject: Wake-On-Lan Funktion beim Speedport Smart 4?
+Content: Hallo,Ich lese in diesem Forum über einige Posts, die die Wake-On-Lan Funktion für den Speedport Smart 4 ansprechen in einer Weise, dass dieser tatsächlich existieren mag. Ich bin durch meine ganzen Einstellungen über das Webinterfaces gegangen und konnte leider keine solche Funktion finden. Bei den vielen Posts gehe ich davon aus, dass dies tatsächlich möglich ist und ich nur etwas übersehen habe. Die Posts waren aber auch die einzigen Anlagen dazu. Könntet Ihr mir bitte genauere Informationen zu der Funktion zukommen lassen, ob dies über den Speedport Smart 4 einrichtbar ist und wenn ja, wie man das macht?Mein Modem ist auf dem neusten Stand (05/2024): "010146.3.5.002.0".Vielen Dank im Voraus.
+
+Accepted Solutions:
+- @Stinkepeter KlausNormal ist es bei diesen Routern so, dass diese Portweiterleitung auf Port 9/udp vom Router in das Senden des Magic Packet an das Gerät "umgewandelt" wird.WoL läuft auf Layer 2 (MAC) durch einen Broadcast, das funktioniert aber nicht durch einen Router. Darum hier diese beschriebene Simulation.
+- @Stinkepeter KlausNormal ist es bei diesen Routern so, dass diese Portweiterleitung auf Port 9/udp vom Router in das Senden des Magic Packet an das Gerät "umgewandelt" wird.WoL läuft auf Layer 2 (MAC) durch einen Broadcast, das funktioniert aber nicht durch einen Router. Darum hier diese beschriebene Simulation.

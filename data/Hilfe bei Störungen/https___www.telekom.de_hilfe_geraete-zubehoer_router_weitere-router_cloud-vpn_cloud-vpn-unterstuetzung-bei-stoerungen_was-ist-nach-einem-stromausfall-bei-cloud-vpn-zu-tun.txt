@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/cloud-vpn-unterstuetzung-bei-stoerungen/was-ist-nach-einem-stromausfall-bei-cloud-vpn-zu-tun
+
+Question: Ich nutze Cloud VPN – wie verhalte ich mich nach einem Stromausfall?
+Answer: Wenn es in Ihren Räumlichkeiten einen Stromausfall gab und Sie Cloud VPN nutzen, gehen Sie bitte wie folgt vor:
+Danach startet der Inbetriebnahmeprozess automatisch.
+• Starten Sie den Router neu, indem Sie in für einige Momente vom Strom nehmen.
+• Stellen Sie sicher, dass der USB-Stick in der USB-Buchse steckt.
+• Nachdem Sie ein paar Sekunden gewartet haben, schalten Sie den Router wieder ein.
+

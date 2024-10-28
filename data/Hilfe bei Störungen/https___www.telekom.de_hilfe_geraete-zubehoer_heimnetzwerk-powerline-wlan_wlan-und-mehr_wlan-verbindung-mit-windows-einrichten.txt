@@ -1,0 +1,15 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/wlan-und-mehr/wlan-verbindung-mit-windows-einrichten
+
+Question: Was benötige ich für die WLAN-Einrichtung?
+Answer: Das WLAN an Ihrem Gerät muss eingeschaltet sein. Das erkennen Sie z. B. an der Anzeige in Form von Funksignalen oder einer Antenne unten rechts auf dem Bildschirm neben Datum und Uhrzeit. Auf Smartphones lässt sich WLAN in den Einstellungen des Gerätes an- und ausschalten.
+Auch am Router muss WLAN eingeschaltet sein. Das erkennen Sie daran, dass das entsprechende Kontrolllämpchen dauerhauft leuchtet.
+• einen WLAN-Router
+• einen PC oder Laptop, der WLAN-fähig ist
+
+Question: Wie finde ich den WLAN-Namen und WLAN-Schlüssel heraus?
+Answer: WLAN-Name (SSID) und WLAN-Schlüssel (WPA2) sind nötig, damit Ihr PC sich am richtigen Zugangspunkt anmeldet und die WLAN-Verbindung sicher verschlüsselt ist.
+Notieren Sie den WLAN-Namen (SSID) und den WLAN-Schlüssel (WPA2) Ihres Routers. Für Speedport-Router gilt: Wenn diese Daten noch nie geändert wurden, dann stehen Sie auf dem Aufkleber auf der Rückseite des Routers oder auf dem Standfuß.
+
+Sind Sie sich nicht sicher, ob Sie die Daten geändert haben oder wissen Sie die geänderten Daten nicht mehr? Dann hilft Ihnen sicher diese Anleitung:
+"Ich habe meine WLAN-Einstellungen vergessen, was kann ich tun?"
+

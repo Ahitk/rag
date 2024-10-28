@@ -1,0 +1,27 @@
+Here’s a summary of the relevant information from the document regarding the **MagentaMobil S Flex Young (Mobilfunk)**:
+
+### Product Overview
+- **Included Services:** Mobile phone connection for calls and SMS, as well as internet access.
+- **Marketing Date:** Since October 5, 2021.
+
+### Data Transmission Rates
+- **Estimated Maximum Speeds:**
+  - **Download:** 300 MBit/s
+  - **Upload:** 50 MBit/s
+- **Data Throttling:**
+  - After consuming 20 GB, speeds reduce to:
+    - **Download:** 64 KBit/s
+    - **Upload:** 16 KBit/s
+
+### Contract Information
+- **Contract Duration:** 
+  - No minimum contract period.
+  - One-month notice period for cancellation.
+  
+### Pricing
+- **Monthly Fee:** €29.95 (plus one-time hardware cost).
+
+### Additional Resources
+For further details, users can refer to the official website: [www.telekom.de](http://www.telekom.de) for product descriptions, prices, and terms and conditions.
+
+This summary captures the key aspects of the telecommunication product, including the services offered, data rates, contractual terms, and pricing.

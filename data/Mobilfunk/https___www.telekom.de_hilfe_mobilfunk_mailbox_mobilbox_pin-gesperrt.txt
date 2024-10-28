@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mailbox/mobilbox/pin-gesperrt
+
+Question: Ich habe meine Mobilbox PIN/Geheimzahl gesperrt, was kann ich tun?
+Answer: Sie haben versucht, Ihre Mobilbox über einen Fremdanschluss abzufragen und die PIN/Geheimzahl dreimal falsch eingegeben? Damit ist die Mobilbox-Abfrage über diesen Anschluss für 24 Stunden gesperrt.
+Sie haben zwei Möglichkeiten, Ihre Mobilbox abzufragen:
+

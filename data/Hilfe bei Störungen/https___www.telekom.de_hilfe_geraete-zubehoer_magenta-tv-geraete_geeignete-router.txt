@@ -1,0 +1,29 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/geeignete-router
+
+Question: Welche Router sind für die Nutzung von MagentaTV oder MagentaTV Sat geeignet?
+Answer: Folgende Speedport Router der Telekom plus zwei AVM FRITZ!Box Modelle sind für die Nutzung von MagentaTV und MagentaTV Sat geeignet. Achten Sie bitte darauf, dass die jeweils aktuelle Firmware-Version installiert ist.
+Klicken Sie einfach auf Ihr Router-Modell, um direkt zur aktuellen Firmware und zu weiteren Downloads für das jeweilige Gerät zu gelangen.
+Router
+Speedport Pro Plus
+Speedport Pro
+Speedport Smart 4 Plus
+Speedport Smart 4
+Speedport Smart 3
+Speedport Smart 2
+Speedport Smart
+Speedport W 724V
+Speedport W 925V
+Speedport W 922V
+Speedport Hybrid
+Speedport Neo
+AVM FRITZ!Box 7490
+AVM FRITZ!Box 7590
+Weitere Router, die ebenfalls für MagentaTV geeignet sind – aber mit Einschränkungen:
+Speedport W 921V
+Keine Verbindung über WLAN mit der MagentaTV Box möglich
+Speedport W 921 Fiber
+Keine Verbindung über WLAN mit der MagentaTV Box möglich
+Speedport Entry 2
+Keine Verbindung über WLAN mit der MagentaTV Box möglich
+Wenn Sie einen Router eines anderen Herstellers haben, erkundigen Sie sich bitte dort, ob dieser Ihr MagentaTV Gerät unterstützt.
+

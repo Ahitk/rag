@@ -1,0 +1,6 @@
+Question:
+Welche Voraussetzungen sind zwingend erforderlich, um eine VPN-Verbindung mit der Digitalisierung-Box 2 erfolgreich aufbauen zu können?
+
+Answer:
+In diesem Video geht es um die Einrichtung einer VPN-Verbindung mit einer Digitalisierung-Box 2 und einem Apple iOS oder iPadOS-Gerät. Zunächst sind bestimmte Voraussetzungen zu erfüllen, wie eine öffentliche IPv4-Adresse. Dann kann über das Webinterface der Digitalisierung-Box 2 und den Administratorzugriff gestartet werden. Für das Einrichten der VPN-Verbindung werden spezifische Informationen benötigt, wie z. B. eine lokale IP-Sec-ID und ein Pre-Shared Key. Ein spezifischer IP-Adress-Pool muss ausgewählt werden, der nicht anderweitig genutzt wird. Nachdem der VPN-Tunnel konfiguriert wurde, wird er dann auf dem iOS/iPadOS-Gerät eingerichtet. Hier müssen die öffentliche IPv4-Adresse und spezifische IDs eingegeben werden. Nach der Konfiguration wird die VPN-Verbindung aktiviert und ist bereit zur Nutzung. Am Ende zeigt die Digitalisierung-Box den Status des VPN-Tunnels an. Keine weiteren Einstellungen sind nötig. Vielen Dank für die Aufmerksamkeit und auf Wiedersehen.
+

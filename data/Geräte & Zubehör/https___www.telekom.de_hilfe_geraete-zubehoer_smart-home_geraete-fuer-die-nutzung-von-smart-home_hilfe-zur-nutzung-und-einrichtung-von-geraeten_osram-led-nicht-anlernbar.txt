@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/hilfe-zur-nutzung-und-einrichtung-von-geraeten/osram-led-nicht-anlernbar
+
+Question: Meine Osram/Ledvance LED-Lampe lässt sich nicht in Magenta SmartHome anlernen. Was kann ich tun?
+Answer: Wenn eine OSRAM / Ledvance LED-Lampe beim Anlernvorgang nicht gefunden wird, hilft meistens ein Zurücksetzen der Lampe auf Werksreset.Schalten Sie, wie für Ihr Modell vorgegeben, die Lampe mehrfach EIN und wieder AUS.Nach erneutem Einschalten blinkt die Lampe einmal kurz zur Bestätigung und kann jetzt wieder in Ihrem Magenta SmartHome angelernt werden.
+LEDVANCE Serie "Smart+"– Alle Modelle der Serie –Schalten Sie die Lampe fünfmal hintereinander für 5 Sekunden EIN und für 5 Sekunden AUS.
+OSRAM Serie "Lightify"Lampen: Classic A, CLB 40, PAR16 und Leuchten: Gardenspot, Flex, DownlightSchalten Sie die Lampe fünfmal hintereinander für 3 Sekunden EIN und für 5 Sekunden AUS.
+OSRAM Serie "Lightify Surface"Modelle: TW, W38, W28 und W23Schalten Sie die Lampe fünfmal hintereinander für 2 Sekunden EIN und für 5 Sekunden AUS.
+

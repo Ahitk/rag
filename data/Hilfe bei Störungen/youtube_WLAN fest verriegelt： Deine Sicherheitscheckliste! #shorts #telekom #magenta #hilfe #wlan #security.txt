@@ -1,0 +1,6 @@
+Question:
+Haben Sie darauf geachtet, dass die Router-Software auf dem neuesten Stand ist und die WPR-2-Verschlüsselung in Ihrem Router aktiviert ist?
+
+Answer:
+In diesem Transkript geht es darum, wie man sein Netzwerk sichert, um unerwünschte Zugriffe zu vermeiden. Die Schlüsselmaßnahmen umfassen: Sicherzustellen, dass die Router-Software auf dem neuesten Stand ist, die WPR-2-Verschlüsselung in Ihrem Router zu aktivieren und ein starkes Passwort zu erstellen. Es wird auch empfohlen, das Router-Passwort und den Netzwerknamen zu ändern und den Zugang zum Netzwerk zu beschränken. Bei Bedarf sollte auch ein sicheres Weller-Verfahren verwendet werden.
+

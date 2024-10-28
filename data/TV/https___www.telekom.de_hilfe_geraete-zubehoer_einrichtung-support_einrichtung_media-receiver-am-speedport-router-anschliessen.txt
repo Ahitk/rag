@@ -1,0 +1,20 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/media-receiver-am-speedport-router-anschliessen
+
+Question: Wie schließe ich meinen Media Receiver an den Speedport Router an?
+Answer: Verbindung mit LAN-Kabel
+Der Media Receiver sollte direkt mit dem mitgelieferten Kabel mit dem LAN-Anschlusses des Speedport Router verbunden werden.
+
+Die Telekom bietet, falls eine direkte Kabelverbindung nicht möglich oder nicht gewünscht ist, als Alternative auch die Verbindung über dieSpeedport W 102 Bridgeoder dieSpeedport Powerline 101 Duoan. Diese Geräte sind nicht im Lieferumfang des Media-Receivers enthalten.Informieren Sie sich hier über unsere Angebote.
+Verbindung mit Speedport W102 Bridge Duo
+Die genaue Anleitung zur Einrichtung der Speedport W102 Bridge Duo finden Sie in derBedienungsanleitung.
+
+Verbindung mit Speedport Powerline 101 Duo
+Verbinden Sie das LAN-Kabel mit dem ersten Powerline-Adapter und stecken Sie dann den Adapter in die gewünschte Steckdose. Benutzen Sie bitte keine Mehrfachsteckdose für den Adapter. Verbinden Sie nun den Adapter mit dem Speedport Router. Sie können eine beliebige der vier LAN-Buchsen benutzen.
+
+Verbinden Sie nun den zweiten Adapter mit der LAN-Buchse des Media-Receivers.
+
+
+• Grün: Optimal
+• Rot: Gering
+• Aus: Es besteht keine Verbindung zu anderen Powerline 101 Adaptern (Bitte beachten Sie: Die LED ist ebenfalls aus, wenn sich der Adapter im Energiesparmodus befindet).
+

@@ -1,0 +1,6 @@
+Question:
+Haben Sie unsere Aufforderung erhalten, Ihre E-Mail-Adresse zu bestätigen und sind Sie in der Lage, die Bestätigungsverfahren durchzuführen, wie in unserer Nachricht beschrieben?
+
+Answer:
+Wir haben unsere Kunden per E-Mail, SMS oder Brief aufgefordert, ihre E-Mail-Adresse zu bestätigen. Dies ist erforderlich, um vertrauliche Daten wie Rechnungen per E-Mail weiterhin senden zu können. Diese Bestätigung ist ebenfalls eine Methode zur zweifaktoriellen Authentifizierung, um sicherzustellen, dass wir mit dem korrekten Benutzer kommunizieren. Dies ist laut Artikel 5.1 der EUDSGVO verpflichtend, um personenbezogene Daten korrekt und aktuell zu halten. Die Bestätigung der Identität kann auf verschiedene Weisen erfolgen, beispielsweise durch Eingabe des Geburtsdatums oder durch Bestätigung der E-Mail-Adresse durch Klick auf einen Link.
+

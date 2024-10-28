@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/umwelt/blauer-engel/blauer-engel-full-eco-mode
+
+Question: Beinhalten die Geräte mit dem Blauen Engel auch den Full ECO Mode?
+Answer: Ja, alle Sinus DECT-Telefone mit dem Blauen Engel verfügen über den Full ECO Mode plus, der zumBlue Eco Modeweiterentwickelt wurde. Im Full ECO Mode plus sendet die Basisstation nur dann, wenn es erforderlich ist – etwa, wenn ein Anruf ankommt, während eines Gesprächs oder beim Verbindungsaufbau. Die Sendeleistung wird entsprechend der Entfernung zwischen Basisstation und Mobilteil automatisch angepasst. Im Ruhezustand bleibt der Sender der Basisstation ganz abgeschaltet.
+DerBlue Eco Modebedeutet, dass der Verbraucher selbst die gewünschte Sendeleistung an der Basisstation einstellen und jederzeit verändern kann.
+

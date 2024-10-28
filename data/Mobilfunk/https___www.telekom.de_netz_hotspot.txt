@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/netz/hotspot
+
+Question: Was ist ein Hotspot für das Handy?
+Answer: Sie können Ihr Smartphone als Hotspot verwenden und somit anderen Geräten bzw. Nutzern eine WLAN-Verbindung über Ihr Gerät ermöglichen. Zu beachten ist hier, dass der Datenverbrauch dann über das Datenvolumen Ihres Mobilfunkvertrages abgerechnet wird. Daher ist es empfehlenswert, die Hotspot-Funktion in Ihrem Smartphone zu deaktivieren, sobald diese nicht mehr benötigt wird.
+Wenn ein WiFi-fähiges Endgerät wie z. B. ein Laptop oder Tablet mit einem Smartphone gekoppelt wird, spricht man in diesem Zusammenhang von Tethering.
+
+Question: Was ist bei der Nutzung von öffentlichen Hotspots zu beachten?
+Answer: Anders als das eigene WLAN-Netzwerk in Ihrem Zuhause, sind öffentliche Hotspots selten mit dem WPA2-Verschlüsselungsverfahren gesichert. Daher ist es generell empfehlenswert, einen VPN-Client zu verwenden, wenn die Verbindung zu einem öffentlichen Hotspot hergestellt wird. Denn dadurch ist die gesamte Verbindung komplett verschlüsselt und gesichert.
+Darüber hinaus sollten Sie auch immer darauf achten, sich nicht mit WLAN-Hotspots zu verbinden, die Ihnen nicht bekannt sind oder allein vom Namen her verdächtig erscheinen.
+Sollten Sie unterwegs keinen Hotspot benötigen ist es immer empfehlenswert, die WLAN-Verbindung auf Ihrem Smartphone zu deaktivieren. Denn hierdurch sparen Sie nicht nur Akkuleistung, sondern verhindern auch, dass sich Ihr Smartphone automatisch mit einem öffentlichen Hotspot verbindet, ohne dass Sie es direkt mitbekommen.
+

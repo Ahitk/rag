@@ -1,0 +1,28 @@
+Source URL: https://www.telekom.de/netz/speedtest
+
+Question: Was ist die Download-Geschwindigkeit?
+Answer: Die Download-Geschwindigkeit ist der maßgebliche Wert einer Internetverbindung. Er bestimmt, wie schnell die Daten von einem Server heruntergeladen werden können. Der Download ist deshalb auch dafür verantwortlich, in welcher Qualität Sie Inhalte von Streaming-Plattformen sehen. Die Einheit ist Megabit pro Sekunde (MBit/s), welche angibt, wie viele Daten pro Sekunde übertragen werden.
+
+Question: Was ist die Upload-Geschwindigkeit?
+Answer: Das Gegenstück zum Download bildet der Upload. Die Upload-Geschwindigkeit ist maßgebend dafür, wie schnell Sie Daten hochladen können. Je höher die Upload-Geschwindigkeit, desto schneller können große Datenblöcke verschickt werden. Auch beim Online-Gaming ist eine hohe Uploadrate wichtig. Die Einheit des Uploads wird, wie auch beim Download, in Megabit pro Sekunde (MBit/s) angegeben.
+
+Question: Was ist der Ping-Wert beim Speedtest?
+Answer: Der Ping wird auch Paketlaufzeit genannt. Er beschreibt die Zeit, die zwischen dem Aussenden eines Datenpaketes und des daraufhin zurückgesendeten Antwortpaketes vergeht. Der Ping wird in Millisekunden angegeben. Aus technischer Sicht wird der Ping auch als Latenz bezeichnet. Je niedriger der Ping, desto besser. Er ist ausschlaggebend für hochauflösendes Online-Gaming oder Telefonie per Video.
+
+Question: Funktioniert der Speedtest auch unterwegs?
+Answer: Sie können den Speedtest bei der Telekom ebenfalls unterwegs mit Ihrem Mobilfunk-Gerät sowie zu Hause mit DSL, VDSL, Kabel und Glasfaser nutzen. Doch auch die mobile Internet-Geschwindigkeit kann durch verschiedene Faktoren beeinflusst werden. Stellen Sie Verluste in der Schnelligkeit Ihres gebuchten Datenvolumens fest, kann es daran liegen, dass Ihr Anbieter keinen Funkmast in der Nähe Ihres Aufenthaltsortes besitzt. Die Telekom verfügt über ein flächendeckendes LTE- und 5G-Netz in Deutschland. Mit unseren MagentaMobilSmartphone-Tarifenerhalten Sie je nach Bedarf ausreichend Datenvolumen, um schnell zu surfen, zu streamen und online Games zu spielen.
+Auch falsche Mobilfunk-Einstellungen Ihres Smartphones beeinträchtigen unter Umständen die mobile Internet-Geschwindigkeit. Das können Sie meist selbst in den Handy-Einstellungen beheben. Bereitet es Ihnen größere Schwierigkeiten, kontaktieren Sie den Hersteller Ihres Smartphones.
+
+Question: Was ist der Grund für schwankende Internet-Geschwindigkeiten?
+Answer: Zunächst ist es wichtig, zu klären, ob es um die Internet-Geschwindigkeit Ihres Festnetz-Internetanschlusses geht oder um die Ihres mobilen Netzes. Denn es gibt hier unterschiedliche Auslöser für schwankende Geschwindigkeiten. Für Ihren Internetanschluss zu Hause gilt, dass die Anzahl der Nutzer, die Position Ihres Routers und die Bauart Ihres Heimnetz-Anschlusses (FTTH, FTTB, FTTC) Ihre Internet-Geschwindigkeit beeinflussen können. Im Mobilfunk-Netz können Schwankungen durch Ihren Standort und den dort verfügbaren Funkmasten entstehen. Auch wenn viele Nutzer gleichzeitig dieselbe Mobilfunkzelle nutzen, kann es zu Schwankungen kommen. Das erklärt ebenfalls den Einfluss der Tageszeiten auf das mobile Internet, da am Tag mehr Personen im Netz surfen als in der Nacht.
+
+Question: Welche Up- und Download-Geschwindigkeiten sind gut?
+Answer: Diese Frage lässt sich pauschal nicht beantworten. Denn die passenden Up- und Download-Geschwindigkeiten sind unterschiedlich, je nachdem, welche Ansprüche und Anforderungen Sie haben. Daher bietet die Telekom verschiedene MagentaZuhauseDSL-Tarifeund Smartphone-Tarife an, die zu Ihnen passen: Egal, ob Sie Viel- oder Wenigsurfer sind. Wenn Sie zu Hause eine moderate Internetnutzung haben, empfiehlt sich der TarifMagentaZuhause M. Mit diesem surfen Sie mit bis zu 50 MBit/s. Arbeiten mehrere Personen bei Ihnen im Homeoffice und Sie spielen gerne hochauflösende Online-Games, sollten Sie sich fürMagentaZuhause LoderMagentaZuhause XLentscheiden, um genügend Bandbreite zu erhalten.
+Ähnliches gilt für dieMobilfunktarife. Wenn Sie viel unterwegs sind und dabei Musik streamen, Online-Games spielen oder in den sozialen Medien chatten, ist derMagentaMobil Leine gute Wahl. Sind Sie ein Wenignutzer, reicht Ihnen oftmals ein Tarif mit weniger Datenvolumen, wie derMagentaMobil S.
+Diese Download-Geschwindigkeiten stehen Ihnen mit folgenden Anschlüssen und Technologien bei der Telekom, je nach Tarif und Verfügbarkeit, zur Verfügung:
+• DSL/VDSL: bis zu 250 MBit/s
+• Glasfaser: bis zu 1.000 MBit/s
+
+Question: Wie beurteilt man das Ergebnis des Speedtests?
+Answer: Der Speedtest bei der Telekom gibt nur Aufschluss über die Geschwindigkeit, die genau zu dem Zeitpunkt der Messung unter bestimmten Bedingungen erfasst wird. Nicht nur die Uhrzeit, sondern auch andere Geräte im Netzwerk, VPN-Verbindungen oder sonstige Einstellungen beeinflussen den Speedtest. Um aus einer Speedtest-Messung aussagekräftige Rückschlüsse über Ihre WLAN- oder Mobilfunk-Internetverbindung zu ziehen, ist es wichtig, dass Sie diese mehr als einmal unter Berücksichtigung verschiedener Faktoren durchführen. Am besten notieren Sie die Ergebnisse und Zeiten der Speedtests. Kommen Sie nach mehrmaliger Messung zu unterschiedlichen Tages- und Nachtzeiten auf dieselben Ergebnisse, die Ihnen eine geringere Internet-Geschwindigkeit bestätigen, als Sie in Ihrem Tarif gebucht haben, sollten Sie tätig werden und Ihren Internet-Anbieter kontaktieren.
+

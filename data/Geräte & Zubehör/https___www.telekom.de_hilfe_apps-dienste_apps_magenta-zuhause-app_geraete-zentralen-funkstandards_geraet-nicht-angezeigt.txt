@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/geraet-nicht-angezeigt
+
+Question: Warum wird mein Gerät nach dem Verbinden nicht in der MagentaZuhause App angezeigt?
+Answer: Wenn das Gerät von der App erfolgreich angelernt werden konnte, erscheint es normalerweise anschließend im Menü "Geräte" im entsprechenden Raum bzw. unter "Nicht zugeordnet". Die Anzeige des neuen Geräts kann jedoch wenige Sekunden dauern.
+Sollte das Gerät weiterhin nicht aufgeführt werden, kann das daran liegen, dass die Geräteübersicht nicht aktualisiert wurde. Wischen Sie hierfür die Übersichtsseite mit dem Finger nach unten, um sie neu zu laden. Die Aktualisierung wird mit einem sich drehenden Kreis verdeutlicht. Das neu angelernte Gerät sollte nun in der Geräteübersicht angezeigt werden.
+

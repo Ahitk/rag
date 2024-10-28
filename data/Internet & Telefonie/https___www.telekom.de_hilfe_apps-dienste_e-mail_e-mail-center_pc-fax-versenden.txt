@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/pc-fax-versenden
+
+Question: Wie kann ich ein Fax mit PC-Fax versenden?
+Answer: So können Sie mit PC-Fax imE-Mail CenterFaxe versenden:
+Klicken Sie auf "Fax" und befüllen die Felder wie z. B. den Empfänger und den Inhalt der Nachricht, um ein Fax zu versenden.
+

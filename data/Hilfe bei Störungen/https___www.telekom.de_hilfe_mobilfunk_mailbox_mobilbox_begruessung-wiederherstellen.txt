@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mailbox/mobilbox/begruessung-wiederherstellen
+
+Question: Wie kann ich bei meiner Mobilbox die Standard-Begrüßung mit Rufnummer wiederherstellen?
+Answer: Für die Wiederherstellung der Standard-Begrüßung rufen Sie Ihre Mobilbox über die3311auf, warten den Begrüßungstext ab bzw. wechseln über die Eingabe der Zahl "3" ins Hauptmenü. Folgen Sie anschließend den Anweisungen.
+

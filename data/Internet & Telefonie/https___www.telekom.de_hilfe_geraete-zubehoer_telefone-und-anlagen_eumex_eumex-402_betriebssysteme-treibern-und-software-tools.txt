@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/eumex/eumex-402/betriebssysteme-treibern-und-software-tools
+
+Question: Welche Betriebssysteme werden von den Treibern und Software-Tools der Eumex 402 unterstützt?
+Answer: Die zur Verfügung stehenden Treiber und Tools der Eumex 402 unterstützen folgende Betriebssysteme:
+Der LAN-CAPI-Treiber der Eumex 402 unterstützt nur 32Bit-Betriebssyssteme.
+Weitere technische Vorraussetzungen entnehmen Sie bitte der Bedienungsanleitung.
+• Windows 2000
+• Windows XP (32Bit)
+• Windows Vista (32 + 64Bit)
+• Windows 7 (32 + 64Bit)
+

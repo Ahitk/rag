@@ -1,0 +1,169 @@
+The image appears to focus on the "MagentaZuhause Regio" service, specifically regarding the setup of a router without a reset during a connection switch (exemplified by the Speedport Smart 3 model). Here are the key details:
+
+### Title: 
+**MagentaZuhause Regio**
+
+### Main Points:
+- **Router Initialization:** Instructions on how to set up the router after switching the connection without needing to reset it.
+- **Device:** Example model used is the Speedport Smart 3.
+- **Status Indicators:** The router features several status lights including:
+  - Status
+  - Link
+  - Online
+  - Telefonie (Telephony)
+  - Service
+
+### Interface Buttons:
+- **WLAN:** For wireless network settings.
+- **Anmelden/WPS:** To connect devices via WPS (Wi-Fi Protected Setup).
+- **Telefon suchen:** Search for phone connections.
+
+### Additional Notes:
+- Date of the document indicates that the information is current as of July 2021.
+
+This summary encapsulates the essential functions and setup processes related to the telecommunication product depicted in the image.
+The image provides important instructions related to the setup of a telecommunications device (likely a router) referred to as "Speedport" after a service transition. Here’s a summary of the key points:
+
+1. **Setup Timing**: Users should only follow the setup steps provided after receiving a confirmation SMS indicating that the technical transition of their MagentaZuhause Regio connection has occurred.
+
+2. **Device Reset Disclaimer**: The instructions assume that the Speedport device has not been reset to factory settings. If it has been reset, users are instructed to refer to a different setup guide specifically for devices after a factory reset.
+
+These guidelines are critical for ensuring proper configuration and functioning of the Speedport device following a service switch.
+The image provides instructions for logging into a telecommunication device's user interface. Here's a summary of the key points:
+
+### Step 1: Log into the User Interface
+
+1. **Connect Your Device**: 
+   - Connect your PC either via WLAN or with a network cable to the router.
+   - Alternatively, you can use a smartphone or tablet.
+
+2. **Open a Web Browser**: 
+   - Enter the following URL in the address bar: 
+     - `http://speedport.ip` 
+     - or alternatively `http://192.168.2.1`.
+
+3. **Access the Configuration Start Page**: 
+   - This URL will open the main page of the Speedport configuration program.
+
+4. **Enter Device Password**: 
+   - Input the device password.
+   - If you have not changed the device password, it can be found on the device label or in the WLAN device pass of the router.
+
+5. **Click 'Login'**: 
+   - After entering the password, click on the “Login” button to access the interface. 
+
+### Additional Information:
+- The image includes a visual guide showing how to connect your device and navigate the interface for better clarity on the process. 
+
+This summary captures the relevant information for accessing the router's configuration settings.
+The image provides instructions for setting up internet access for a telecommunications product, specifically the "Speedport Smart 3." Here’s a summary of the relevant information:
+
+### Step 2: Start Setting Up Internet Access
+
+1. **Navigate to the Overview Page:**
+   - Select the section labeled "Internet."
+
+2. **Access Connection Data:**
+   - Click on "Zugangsdaten" (Access Data) in the following screen.
+
+### Key Points:
+- Ensure you are on the overview page before proceeding.
+- The internet connection can be managed and various settings can be adjusted in this section.
+
+This information is essential for users setting up their internet service with the specified device.
+The image provides instructions for changing access data on a telecommunications device (likely a router). Here’s a summary of the key points:
+
+### Step 3: Change Access Data
+
+1. **Select Provider**:
+   - Choose "Telekom" as the provider (do not select "MagentaZuhause Regio").
+
+2. **Input Access Data**:
+   - Enter the following details in the appropriate fields:
+     - **Access Number**: T-Online number format.
+     - **Membership Number**: (personal identification).
+     - **Personal Password**: (to confirm identity).
+     - **Connection Identification**: If no connection identification is available, you can enter the access number again.
+
+3. **Save Entries**:
+   - Confirm the inputs by clicking on **"Speichern"** (Save).
+
+### Important Notes:
+- The access data from previous router configurations cannot be reused if it's from "MagentaZuhause Regio".
+- Make sure all inputs are correct before saving to ensure proper connectivity.
+
+This process is essential for setting or updating the internet connection settings for Telekom services.
+The image provides instructions for setting up telephony on a Speedport device. Here’s a summary of the key points:
+
+### Step 4: Start of Telephony Setup
+1. **Connection Check**: The Speedport checks if the connection can be established. If there are issues, additional instructions will be provided.
+2. **Post-Internet Setup**: After successfully setting up the internet connection, you can proceed with the telephony setup.
+3. **Accessing Telephony Settings**: 
+   - Select the "Telefonie" section in the device interface to begin the telephony configuration.
+   - Provide necessary access data such as your access number (typically your T-Online number).
+
+### Important Details
+- Make sure to follow any prompts displayed during the setup process.
+- If errors occur, troubleshooting hints will be provided on the screen.
+
+By following these instructions, users should be able to effectively set up their telephony services using the Speedport device.
+### Summary of the Image Content
+
+#### Step 5: Enter Phone Number(s)
+- **Instruction**: 
+  - Enter the phone number(s) associated with your connection, including the area code, in the corresponding fields.
+  
+- **Completion**: 
+  - To finalize your entries, click on "Speichern" (Save).
+
+#### Interface Elements:
+- A screenshot of the "Speeddport Smart 3" user interface is shown, where the user can enter their phone numbers.
+- Fields for entering:
+  - Provider (e.g., Telekom)
+  - Phone number with area code
+
+#### Important Notes:
+- Multiple phone numbers can be added.
+- The interface allows for registration of phone numbers and the use of default settings if desired.
+
+This information is relevant for users setting up their telecommunication devices or services, ensuring they correctly input the necessary phone details for connectivity.
+Here's a summary of the relevant information from the image:
+
+### Step 6: Complete New Configuration
+
+1. **Speedport Verification**:
+   - The Speedport device checks if the phone number(s) can be successfully registered.
+   - A notification will be provided shortly regarding the registration status.
+
+2. **Assignment of Phone Numbers**:
+   - Newly set up phone numbers can be assigned to connected mobile devices and telephones linked to the Speedport.
+
+3. **Other Settings**:
+   - All other settings on your Speedport remain unchanged.
+
+4. **Exiting the Configuration Program**:
+   - You can exit the configuration program by clicking "Abmelden" (Log out).
+
+### Diagrams and Interfaces:
+- The images show configurations related to telephony settings and status notifications, confirming that data has been saved successfully.
+
+This information should assist users in completing the setup of their telecommunication device effectively.
+The image contains troubleshooting instructions for telecommunication products, specifically aimed at users experiencing issues with connectivity. Here’s a summary of the key points:
+
+### Troubleshooting Steps
+1. **Connection Checks**:
+   - Ensure the LAN cable is properly connected.
+   - Confirm that WLAN is enabled on all relevant devices.
+   - Verify that the correct WLAN key is being used.
+   - Check if the speed port is connected to the power supply.
+
+2. **Data Verification**:
+   - Make sure all user data (username, password, phone numbers, etc.) is entered completely and accurately.
+
+3. **Contact Information**:
+   - For further assistance, users are directed to contact the MagentaZuhause Regio Hotline at **0800 33 06807**.
+
+### Additional Notes
+- The instruction mentions that the representations in the guide may differ slightly from what appears on the user’s screen.
+
+This summary encapsulates the essential troubleshooting steps and contact details for users encountering issues with their telecommunication setup.

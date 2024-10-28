@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Hardware-IT/Installation-zyxel-m1-nicht-moeglich/td-p/6972406/jump-to/first-unread-message
+Subject: Installation zyxel m1 nicht möglich
+Content: Hallo,ich wollte heute meine drei zyxel m1 installieren, aber es funktioniert einfach nicht! Nach einiger Recherche habe ich nun die Information, wie die pppoe beim anmelden zusammengesetzt ist, aber trotzdem geht es danach nicht weiter in der App.M1 ist mit dem Router verbunden... Und leuchtet dauerhaft türkis. Dann app starten, qr Code scannen und mit dem WLAN des zyxel verbinden. Nun blinkt es grün und ich kann die Verbindungsart auswählen. Nun die Anmeldedaten eingeben und dann geht's leider nicht weiter. Die App macht nichts mehr und der zyxel blinkt fröhlich weiter.Was kann noch falsch sein?Anmeldedaten:https://telekomhilft.telekom.de/t5/Festnetz-Internet/PPPOE-Einwahl-ueber-einen-Router-herstellen/ta-...
+
+Accepted Solutions:
+- Das hatte ich auch schon probiert aber erstmal keinen Erfolg. Nachdem ich jetzt einfach einen anderen m1 ausprobiert habe geht es aber... Keine Ahnung warum, aber hier musste ich nichts eingeben und alles lief von selbst. Ich danke trotzdem für die schnellen Antworten
+- Das hatte ich auch schon probiert aber erstmal keinen Erfolg. Nachdem ich jetzt einfach einen anderen m1 ausprobiert habe geht es aber... Keine Ahnung warum, aber hier musste ich nichts eingeben und alles lief von selbst. Ich danke trotzdem für die schnellen Antworten

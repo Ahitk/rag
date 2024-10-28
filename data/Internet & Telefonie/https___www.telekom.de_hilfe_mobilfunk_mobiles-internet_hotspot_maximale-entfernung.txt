@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/maximale-entfernung
+
+Question: Wie groß darf die maximale Entfernung zu einem HotSpot sein?
+Answer: In geschlossenen Räumen sind Reichweiten von bis zu 100 Metern möglich. Entscheidend ist die Signalstärke, die vom Sender ausgeht und vom Notebook oder Smartphone empfangen wird. Je nach räumlichen Gegebenheiten variiert die Reichweite.
+

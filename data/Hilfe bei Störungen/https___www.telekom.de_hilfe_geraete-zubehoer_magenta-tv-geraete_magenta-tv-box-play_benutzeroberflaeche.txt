@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/benutzeroberflaeche
+
+Question: Wie gelange ich auf die Benutzeroberfläche meiner MagentaTV Box (PLAY)?
+Answer: Sie haben 2 Möglichkeiten, um in das Konfigurationsmenü Ihrer MagentaTV Box (Play) zu gelangen.
+Weg 1 über die MAC-AdresseÖffnen Sie Ihren Browser und geben in die Adresszeile die letzten 6 Stellen der MAC-Adresse Ihrer MagentaTV Box (PLAY), gefolgt von dem Zusatz "-wifi-magentatv-box" ein (Beispiel "a6af89-wifi-magentatv-box"). Die MAC-Adresse entnehmen Sie dem Typenschild auf der Unterseite Ihrer MagentaTV Box (PLAY) oder dem Gerätepass.
+Weg 2 über die IP-AdresseAlternativ können Sie die IP-Adresse der MagentaTV Box (PLAY) in die Adresszeile Ihres Browsers eingeben. Wie diese lautet, ermitteln Sie über das Konfigurationsmenü Ihres Routers. Bei unserem Speedport Smart 3 beispielsweise finden Sie diese Information unter dem Reiter "Netzwerk". Dort sehen Sie eine Auflistung Ihrer Geräte, können die MagentaTV Box (PLAY) anklicken und die zugehörige IP-Adresse ablesen.
+

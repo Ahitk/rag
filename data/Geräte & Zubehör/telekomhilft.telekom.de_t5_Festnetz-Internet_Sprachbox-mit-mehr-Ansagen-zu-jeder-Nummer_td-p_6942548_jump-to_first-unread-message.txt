@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Sprachbox-mit-mehr-Ansagen-zu-jeder-Nummer/td-p/6942548/jump-to/first-unread-message
+Subject: Sprachbox - mit mehr Ansagen zu jeder Nummer
+Content: Hallo,ich habe 3 Unterschiedliche Rufnummern, möchte dazu auch Unterschiedliche Sprachboxen. Ist das noch oder wieder möglichdas einzustellen ohne Telefonanlage oder seperate AB dazu zu nehmen?Danke für eure Nachrichten.Lg
+
+Accepted Solutions:
+- @Greystormschrieb:habe jetzt beschlossen das ich jetzt erst mal eine neue 7690 davor schalte und dann die Telefongeschichten alles darüber laufen lasse,Mach es hinter dem Speedport, ansonsten hast du nur Chaos da ein Speedport nicht als Client angebunden werden kann und du somit doppeltes NAT hast
+- Hallo@Greystormes gibt nur 1x Sprachbox pro Anschluss.Da hilft zb eine Fritzboxhttps://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/6_Anrufbeantworter-der-FRITZ-Box-einricht...Da kannst du zu jeder Nummer den Anrufbeantworter einrichten
+- Hallo@Greystormes gibt nur 1x Sprachbox pro Anschluss.Da hilft zb eine Fritzboxhttps://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/6_Anrufbeantworter-der-FRITZ-Box-einricht...Da kannst du zu jeder Nummer den Anrufbeantworter einrichten
+- @Greystormschrieb:habe jetzt beschlossen das ich jetzt erst mal eine neue 7690 davor schalte und dann die Telefongeschichten alles darüber laufen lasse,Mach es hinter dem Speedport, ansonsten hast du nur Chaos da ein Speedport nicht als Client angebunden werden kann und du somit doppeltes NAT hast

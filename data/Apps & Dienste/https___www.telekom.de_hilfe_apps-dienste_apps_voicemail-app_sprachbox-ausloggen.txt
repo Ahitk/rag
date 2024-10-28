@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/sprachbox-ausloggen
+
+Question: Wie kann ich mich aus der SprachBox und Mobilbox Pro ausloggen?
+Answer: Sie können sich aus Ihrem SprachBox- sowie Mobilbox Pro-Account ausloggen, indem Sie rechts bei dem jeweiligen Anschluss auf "Logout" drücken. Bei der Voicemail iOS werden Ihnen für Ihren Mobilfunk-Anschluss beim Ausloggen zwei Möglichkeiten angeboten: Entweder werden zukünftig die Nachrichten in der App nicht mehr angezeigt, erscheinen aber wieder auf dem Smartphone oder es werden gar keine Sprachnachrichten angezeigt.
+

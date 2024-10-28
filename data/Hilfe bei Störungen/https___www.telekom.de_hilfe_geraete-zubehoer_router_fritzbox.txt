@@ -1,0 +1,26 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/fritzbox
+
+Question: Wie funktioniert EasySupport mit der FRITZ!Box?
+Answer: Sie haben die Möglichkeit für Ihre Fritz!Box den EasySupport der Telekom zu nutzen. Wie das funktioniert und was zu beachten ist, erfahren Sie auf dieser Seite.
+
+Question: Welche Router sind mit Telekom Glasfaser-Anschlüssen kompatibel?
+Answer: Sie wollen wissen, welche Geräte an einem FTTB oder FTTH Glasfaser-Anschluss funktionieren? Hier finden Sie die Antwort.
+
+Question: Welche Router kann ich am MagentaZuhause Regio Anschluss nutzen?
+Answer: Hier erhalten Sie eine Auswahl an kompatiblen Routern, die für Ihren MagentaZuhause Regio Anschluss geeignet sind.
+
+Question: Welche Router sind für die Nutzung von MagentaTV oder MagentaTV Sat geeignet?
+Answer: Sie möchten wissen, welchen Router Sie benötigen, um MagentaTV sehen zu können? Hier finden Sie eine Auflistung aller Geräte, mit denen die Nutzung möglich ist.
+
+Question: Welche Router sind für Super-Vectoring geeignet?
+Answer: Hier finden Sie eine Kurzübersicht, welche Telekom Router (S)VDSL unterstützen und im Tarif MagentaZuhause XL genutzt werden können.
+
+Question: Wo finde ich die Modem-ID?
+Answer: Erfahren Sie hier, wo Sie die ID Ihres Glasfaser-Modems oder des im Router integrierten Modems ablesen können.
+
+Question: Wo finde ich das Gerätepasswort und den WLAN-Schlüssel meines Routers?
+Answer: Lesen Sie hier, wie Sie das Standard-Passwort und den WLAN-Key herausfinden, mit dem Ihr Router ausgeliefert wurde.
+
+Question: Mit welchen Routern ist die MagentaTV Box (PLAY) kompatibel?
+Answer: Eine Übersicht, welche Router mit der MagentaTV Box (PLAY) kompatibel sind, sowie wichtige Hinweise finden Sie in dieser FAQ.
+

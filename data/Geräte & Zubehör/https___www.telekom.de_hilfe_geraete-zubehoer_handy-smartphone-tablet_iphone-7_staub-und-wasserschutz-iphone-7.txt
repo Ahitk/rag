@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/iphone-7/staub-und-wasserschutz-iphone-7
+
+Question: Ist das iPhone 7 staub- und wassergeschützt?
+Answer: Ja, das iPhone 7 ist nach IEC Norm 60529 unter IP67 klassifiziert und Staub- und spritzwassergeschützt.
+

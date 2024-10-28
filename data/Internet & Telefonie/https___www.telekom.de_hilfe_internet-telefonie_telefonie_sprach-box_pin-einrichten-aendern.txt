@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/sprach-box/pin-einrichten-aendern
+
+Question: Wie kann ich die PIN meiner Telekom SprachBox einrichten oder ändern?
+Answer: So können Sie die PIN Ihrer SprachBox festlegen:
+Hinweis: Die PIN muss aus 4 bis 10 Ziffern bestehen. Nicht gestattet sind auf- oder absteigende Ziffernfolgen aus mehr als zwei Ziffern (z. B. 6781) und drei oder mehr gleiche Ziffern hintereinander (z. B. 2225).
+• TelefoniecenterLoggen Sie sich imTelefoniecentermit dem Telekom Login ein und wählen Sie die Rufnummer aus. Klicken Sie auf "Weiter". Im Bereich "SprachBox" unter "Nachrichten abfragen" wählen Sie "PIN festlegen". Hier geben Sie Ihre Wunsch-PIN ein, wiederholen diese zur Bestätigung und drücken auf "Speichern". Wenn bereits eine PIN eingerichtet war, wird die alte PIN nicht mehr abgefragt.
+• SprachBox-MenüRufen Sie von Ihrem Festnetz-Anschluss Ihre SprachBox 0800 33 02424 an und drücken die Tastenkombination "341" zur Einrichtung der PIN. Um auch die Nachrichtenabfrage von zu Hause mit einer PIN zu schützen, geben Sie die Tastenkombination "3412" ein.
+

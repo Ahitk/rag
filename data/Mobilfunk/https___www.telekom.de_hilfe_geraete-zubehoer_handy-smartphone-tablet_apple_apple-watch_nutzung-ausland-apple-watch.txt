@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/apple-watch/nutzung-ausland-apple-watch
+
+Question: Funktioniert die Apple Watch auch im Ausland?
+Answer: Eine Mobilfunk-Nutzung der Apple Watch ohne Verbindung mit dem iPhone im Ausland (internationales Roamig) ist möglich. Voraussetzung dafür ist die Software-Version watchOS 9.1 (und neuer) ab der Apple Watch Series 5, Apple Watch SE sowie der Apple Watch Ultra. Apple Watch Series 3 und 4 unterstützen kein Ausland-Roaming.
+Hinweis:Nicht alle Mobilfunk-Anbieter im Ausland unterstützen das Roaming für die Apple Watch. Eine Liste der Mobilfunk-Anbieter für Apple Watch finden Sie auf der Internet-Seite von Apple.
+

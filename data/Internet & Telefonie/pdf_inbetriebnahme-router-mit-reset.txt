@@ -1,0 +1,111 @@
+The image contains information about the "MagentaZuhause Regio" service, specifically related to the setup and operation of a router (Speedport Smart 3). Here’s a summary of the relevant content:
+
+### Overview
+- **Service Name**: MagentaZuhause Regio
+- **Purpose**: Instructions for router setup, including a reset after changing connections.
+
+### Key Details
+- **Router Model**: Speedport Smart 3
+- **Instructions Presented**: 
+  - The initial setup process needs to include a reset after changing the connection.
+  
+### Key Features of the Router
+- **Indicators and Buttons**: 
+  - **Status, Link, Online, Telephony, Service**: These indicators show the operational status of the router.
+  - **Buttons**: 
+    - **WLAN**: For wireless network access.
+    - **Anmelden/WPS**: For connecting devices securely using WPS.
+    - **Telefon suchen**: Likely for searching or managing phone connections.
+
+### Additional Information
+- **Document Version**: Stand: 07/2021
+
+This information is useful for setting up and troubleshooting the router within the MagentaZuhause service framework.
+The image contains important instructions for setting up a telecommunications device, specifically the "Speedport." Here’s a summary of the key points:
+
+1. **Setup Timing**: Only perform the setup steps after receiving a confirmation SMS that the technical activation of your "MagentaZuhause Regio" connection has been completed.
+
+2. **Steps 2 and 3**: These steps are optional and should only be completed if you want to configure personal settings on your Speedport (e.g., assigning phone numbers to specific devices, changing WLAN names, or modifying WLAN passwords).
+
+3. **Basic Configuration**: If you do not wish to make personal adjustments, you only need to complete Step 1.
+
+Make sure to follow these guidelines for a smooth setup process.
+### Summary of Router Reset Instructions:
+
+#### Step 1: Resetting the Router to Factory Settings
+
+1. **Connect the Router**: Ensure your Speedport is connected to the power supply.
+2. **Press the Reset Button**: 
+   - Use a thin object to press the designated reset opening on the back of the Speedport for five seconds.
+3. **Loading Factory Settings**: 
+   - The router will then load the factory settings and restart within three minutes.
+
+#### Post-Restart Configuration:
+- After restarting, the Speedport will automatically configure the connection to MagentaZuhause, which includes internet access and phone services. 
+- This process may take a few minutes, during which the device's LEDs may blink/illuminate. The router may restart again.
+
+#### Important Note:
+- Wait for the Status LED on the device to light up green before proceeding to the next steps.
+
+### LED Indicators:
+- **Status**: Indicates the current operational status of the router.
+- **Link**: Shows connectivity status.
+- **Online**: Indicates internet connection status.
+- **Telephony**: Reflects the status of phone services.
+- **Service**: For operational services related to the router.
+
+This summary provides essential instructions for resetting and configuring the Speedport router.
+The image provides instructions for logging into the user interface of a telecommunications router. Here’s a summary of the key steps:
+
+1. **Connection**:
+   - Connect your PC to the router via WLAN or an Ethernet cable.
+   - Alternatively, you can use your smartphone or tablet.
+   - Find the WLAN access data on the router's pass or on the label at the bottom of the device.
+
+2. **Accessing the Login Page**:
+   - Start a web browser and enter the following address: `http://speedport.ip` or `http://192.168.2.1`.
+   - This will open the homepage of the Speedport configuration program.
+
+3. **Entering Device Password**:
+   - Enter the device password, which is found on the label or router pass.
+   - Click on “Login” to access the settings.
+
+This process is typical for setting up and configuring network devices. Make sure to have your device password at hand to proceed smoothly.
+Here's a summary of the information from the image related to the Speedport router setup:
+
+### Step 3: Personal Settings and Completion
+
+1. **Confirmation of Setup**: 
+   - After successfully logging in, the Speedport confirms that internet and telephony have been successfully set up.
+
+2. **Router Guidance**: 
+   - The router will guide you through the most important personal settings. Click on "Weiter" (Continue) to proceed.
+
+3. **Completing the Setup**:
+   - If you are satisfied with all settings made, you can conclude the setup by clicking on "Abmelden" (Logout) to exit the configuration program.
+
+### Additional Notes:
+- There are prompts for different sections like "Internet" and "Telephony," which indicate that users can access and modify various configurations from their dashboard.
+- The interface suggests ongoing assistance with settings related to WLAN and telephone management.
+
+This information is crucial for successfully completing the setup of the Speedport router and ensuring that users can effectively manage their internet and telephony services.
+The image appears to provide troubleshooting instructions for telecommunication devices. Here’s a summary of the key points:
+
+### Troubleshooting Instructions
+1. **General Advice**:
+   - Instructions may vary based on your device display.
+   - Follow the setup steps appropriately.
+
+2. **Connection Checks**:
+   - Ensure that the LAN cable is properly plugged in.
+   - Verify that the WLAN is turned on for all relevant devices.
+   - Confirm that the correct WLAN key is being used.
+   - Check that the speedport is connected to the power source.
+
+3. **Data Verification**:
+   - Ensure all information (username, password, phone numbers) is entered completely and correctly.
+
+4. **Support Contact**:
+   - For further assistance, contact the MagentaZuhause Regio Hotline at **0800 33 06807**.
+
+This summary captures the essential troubleshooting steps and support information provided in the image.

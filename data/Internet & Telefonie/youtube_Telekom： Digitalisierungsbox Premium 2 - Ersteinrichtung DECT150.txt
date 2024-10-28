@@ -1,0 +1,6 @@
+Question:
+Was sind die zwei verschiedenen Möglichkeiten, um ein Update der Deckt 150 Basis Station durchzuführen, wenn es benötigt wird?
+
+Answer:
+In diesem Video geht es um die Einrichtung einer Deckt 150 Basisstation für den Digitalisierungspox 2. Für die Einrichtung ist die Firmware 2.59 erforderlich. Ein Firmware-Update kann entweder über eine DigiBox 1 oder über einen lokalen Webserver durchgeführt werden. Vor dem Start der Konfiguration müssen die Energieversorgung und die Netzwerkverbindung hergestellt sein. Anschließend erfolgt der Zugriff auf das Webinterface mittels der Atmenzugangsdaten. Nach der Einrichtung der Telefonie und den zugehörigen Anweisungen, wird ein Benutzer erstellt und eine interne Hofnummer zugewiesen. Die endgültige Konfiguration der Endgeräte erfolgt in der Deckt 150 Basisstation. Nach Abschluss der Konfiguration müssen die Mobilteile registriert werden. Dies geschieht durch den Anmeldemodus der Deckt 150 Basisstation und durch Bestätigung der System-PIN auf dem Mobilteil. Der Prozess muss für alle zu registrierenden Mobilteile wiederholt werden. Schließlich ist die Konfiguration und Registrierung der Mobilteile erfolgreich abgeschlossen.
+

@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/tv/inhalte/registrierungslink-nicht-erhalten
+
+Question: Was kann ich tun, wenn ich keinen Registrierungslink zum gebuchten Streaming-Dienst bei MagentaTV bekommen habe?
+Answer: Liegt Ihnen der Registrierungslink nicht in Ihrem E-Mail-Postfach vor, prüfen Sie Ihren Spam-Ordner. Alternativ können Sie den Registrierungslink imKundencenternutzen, je nachdem, worüber Sie den Dienst angemeldet haben:
+Mobilfunk: Vertragsdetails > Meine Partnerdienste > Partnerdienste bearbeiten > Details
+Festnetz: Zum Vertrag > Tarifoptionen > Zu den Optionen > Zugebuchte Partneroptionen > Partnerdienste bearbeiten > Details
+Hinweis:Sie nutzen MagentaTV ohne Telekom Anschluss und Ihnen fehlt der Link? Dann verwenden Sie ersatzweise zur Registrierung den Link imKundencenter. Klicken Sie auf "Geräte & Dienste" und auf "Details & Einstellungen" bei Ihrem Streaming-Dienst. Sollte Ihnen Ihr bestellter Streaming-Dienst dort nicht angezeigt werden, wenden Sie sich bitte an unserService-Team.
+

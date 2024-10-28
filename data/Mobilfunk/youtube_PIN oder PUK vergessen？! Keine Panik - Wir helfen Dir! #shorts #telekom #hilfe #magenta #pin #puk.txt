@@ -1,0 +1,6 @@
+Question:
+Hast du vielleicht eine zweite Rufnummer, die mit deinem Kundencenter verknüpft ist?
+
+Answer:
+Der Handy-Akku ist leer oder das Gerät musste neu gestartet werden, was die Frage aufwirft: Was war die Pin für die SIM-Karte? Nach dreimaliger Falscheingabe, wird die SIM-Karte gesperrt. Wenn der Puck verfügbar ist, kann eine neue Pin eingestellt werden. Falls eine zweite Rufnummer mit dem Kundencenter verknüpft ist, kann ein Freischaltcode an diese gesendet werden, um die Pin und den Puck anzeigen zu lassen. Wenn die Pin geändert wurde, kann sie mittels Puck und Code aktualisiert werden. Sollten diese Schritte nicht hilfreich sein, kann der Puck kostenpflichtig telefonisch von uns durchgegeben werden. Kontaktieren Sie uns hierfür auf den bekannten Kanälen.
+

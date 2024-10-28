@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/importieren-synchronisieren
+
+Question: Welche Daten können mit der Sync-Plus App importiert bzw. synchronisiert werden?
+Answer: Beim Kopiervorgang können Sie Ihre gesamten Kontaktdaten von Ihrem Gerät in Ihr Adressbuch bei der Telekom übernehmen.
+Die Synchronisation unterstützt pro Kontakt bis zu drei E-Mail-Adressen und fünf Telefonnummern (1 x Mobil, 2 x Privat, 2 x Geschäftlich).Darüber hinaus werden jeweils Titel, Vorname, Name, Foto, Firma, Position, Geburtstag, Jahrestag, zwei Anschriften (Privat, Geschäftlich), Notizen, Homepage sowie die Fax-Nummer (Privat, Geschäftlich) übernommen.
+

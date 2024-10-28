@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/ip-telefonie-speedport-w-724v-einrichten
+
+Question: Wie richte ich die Telefonie in meinem Speedport W 724V ein?
+Answer: Die folgende Anleitung zeigt Ihnen, wie Sie Ihre IP-Telefonie (Internet-Telefonie) einrichten.Was ist zu tun?Wählen Sie sich in Ihrem Browser über speedport.ip in die Einrichtung Ihres Routers ein. Zur Konfiguration wechseln Sie in der Kopfzeile in den Bereich "Internet" und tragen dort Ihre Zugangsdaten ein, die wir Ihnen mit der Post zugeschickt haben. Sie haben IhreZugangsdaten vergessen oder nicht zur Hand?
+
+Einrichtung der IP-Telefonie:
+
+
+• Zur Einrichtung der Rufnummern wechseln Sie in der Kopzeile in den Bereich "Telefonie". Dort klicken Sie unter dem Eingabefeld auf den Button "ändern".
+• Tragen Sie die Rufnummer, die wir Ihnen in der Auftragsbestätigung mitgeteilt haben, immer mit der jeweiligen Vorwahl in das entsprechende Feld ein. Schreibt man die Rufnummer ohne Vorwahl, scheitert die Registrierung.
+• In das Feld "E-Mail-Adresse" tragen Sie Ihre E-Mail-Adresse @magenta.de/@t-online.de ein.
+• Ihr Passwort oder auch Webkennwort tragen Sie in das folgende Feld ein.
+• Die Einstellungen schließen Sie mit dem Button "Speichern" ab, die Registrierung der Rufnummer beginnt jetzt.
+
+Question: Die Einrichtung hat nicht funktioniert. Was kann ich tun?
+Answer: Sie haben die IP-Telefonie bereits wie imHandbuchab Seite 37 beschrieben eingerichtet, und es funktioniert trotzdem nicht? Hier finden Sie einige Tipps zur Lösung des Problems. Bitte beachten Sie, dass Ihr Telefon nur funktioniert, wenn eine Internetverbindung besteht! Eine erfolgreiche Einrichtung Ihres Routers erkennen Sie daran, dass anschließend die Online-Leuchte am Router dauerhaft grün leuchtet.
+

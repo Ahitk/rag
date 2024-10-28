@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/app-funktionen/rechte
+
+Question: Haben in der MagentaZuhause App alle Mitglieder eines Haushalts die gleichen Rechte?
+Answer: Aktuell hat der Haushaltsinhaber mehr Rechte den Haushalt zu gestalten und kann beispielsweise Mitglieder einladen oder entfernen, den Standort des Haushalts festlegen oder neue Geräte integrieren und Routinen dafür einrichten.
+Haushaltsmitglieder können jedoch uneingeschränkt alle smarten Geräte steuern. Mit der fortschreitenden Entwicklung werden die Berechtigungen für Haushaltsmitglieder weiter ausgestaltet, so dass der Haushaltsinhaber bestimmte Einschränkungen z. B. für Kinder festlegen kann.
+

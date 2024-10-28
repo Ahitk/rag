@@ -1,8 +1,8 @@
 import os
 import tiktoken
 import numpy as np
-from dotenv import load_dotenv
 import streamlit as st
+from dotenv import load_dotenv
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain.load import dumps, loads
 from langchain_openai import ChatOpenAI

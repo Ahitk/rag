@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/rechnungsdaten-aendern
+
+Question: Wie kann ich meine Rechnungsdaten ändern?
+Answer: Die Rechnungsanschrift und den Rechnungsempfänger können Sie im Kundencenter oder in der MeinMagenta App selbst anpassen.
+Alternativ können Sie uns Ihren Änderungswunsch auch perKontaktformularmitteilen. Dafür benötigen wir Ihre Kundennummer.
+Hinweis: Wenn Sie die Rechnungsdaten für einen Mobilfunk-Vertrag ändern, dann schicken wir Ihnen einen Bestätigungscode per SMS, mit der Sie die Adressänderung im Kundencenter oder in der MeinMagenta App bestätigen.
+• KundencenterMein Profil > Persönliche Daten > Rechnungsanschrift > Rufnummer auswählen > Stift-Symbol klicken > Daten eingeben > Daten überprüfen > Absenden
+• MeinMagenta AppBenutzer-Symbol rechts oben > Persönliche Daten > Rechnungsanschrift > Rufnummer auswählen > Bearbeiten > Daten eingeben > Daten überprüfen > Absenden
+

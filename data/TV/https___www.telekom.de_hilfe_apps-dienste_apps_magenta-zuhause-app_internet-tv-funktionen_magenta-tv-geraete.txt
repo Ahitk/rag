@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/magenta-tv-geraete
+
+Question: Welche MagentaTV Geräte werden von der MagentaZuhause App unterstützt?
+Answer: Folgende Geräte sind mit der MagentaZuhause App kompatibel:
+Nutzen Sie die MagentaZuhause App z. B. als virtuelle Fernbedienung oder für das automatisierte Ein- und Ausschalten Ihres Geräts. Das geht auch per Sprachbefehl mit demMagentaZuhause Skill für Alexa.
+• Media Receiver 201, 401, 601
+• MagentaTV Box inkl. PLAY
+• MagentaTV One
+• MagentaTV Stick
+

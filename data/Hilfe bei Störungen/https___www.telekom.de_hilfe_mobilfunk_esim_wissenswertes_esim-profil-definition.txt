@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/esim-profil-definition
+
+Question: Was ist ein eSIM-Profil?
+Answer: Ein eSIM-Profil, auch Zugangsprofil genannt, ist eine Datei, die alle Daten für den Zugang ins Mobilfunk-Netz enthält. Bisher waren diese Informationen auf dem Chip der "klassischen" SIM-Karte gespeichert. Bei der eSIM laden Sie nur noch über einen QR-Code oder mit Hilfe der EID das eSIM-Profil auf Ihr Gerät.
+

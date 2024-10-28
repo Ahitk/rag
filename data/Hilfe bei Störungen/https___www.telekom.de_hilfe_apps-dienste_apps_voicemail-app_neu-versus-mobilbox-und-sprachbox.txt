@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/neu-versus-mobilbox-und-sprachbox
+
+Question: Was ist neu bei Voicemail gegenüber Mobilbox Pro und SprachBox Pro?
+Answer: Der Dienst Spracherkennung wird zum 1. Juni 2024 eingestellt. Daher können bereits heute keine neuen Abos und keine Verlängerungen mehr gebucht werden.
+Die Voicemail App der Telekom ist der Nachfolger von SprachBox Pro. Mit Voicemail können Sie jetzt alle Sprachnachrichten:
+in einer App abrufen.
+• aus dem Mobilfunk für mehrere Rufnummern – dies gilt auch beim Betrieb von Dual-SIM (eSIM + SIM-Karte) und
+• am Festnetz-Anschluss für mehrere Anschlüsse gleichzeitig
+

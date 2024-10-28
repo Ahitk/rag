@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/ich-habe-drei-sim-karten-mit-der-gleichen-rufnummer-ich-kann-sms/td-p/6944061/jump-to/first-unread-message
+Subject: ich habe drei sim karten mit der gleichen rufnummer. ich kann sms nur mit einem handy davon empfangen. wie schalte ich ein anderes davon für sms frei?
+Content: Bis heute habe ich SMS nur auf meinem IPhon empfangen. Nun macht der Akku schlapp. Ich möchte mein A 53 für SMS freischalten. Was muss ich tun?
+
+Accepted Solutions:
+- Grüße@oldhachijiEntweder auf dem Gerät wo die SMS ankommen soll*222#tippen, oder er das Kundencenter unter meineSIM einstellen.Mehr Infos(Zum Lesen öffnen)Bei dem Gerät/der SIM-Karte, welche für den SMS-Empfang und Versand aktiviert werden soll,gib den Code *222# über deine Telefontastatur ein und drücke anschließend die Anruftaste.Bei dem Gerät/der SIM-Karte, welche für den SMS-Empfang und Versand aktiviert werden soll, gib den Code *222# über deine Telefontastatur ein und drücke anschließend die Anruftaste.
+- Grüße@oldhachijiEntweder auf dem Gerät wo die SMS ankommen soll*222#tippen, oder er das Kundencenter unter meineSIM einstellen.Mehr Infos(Zum Lesen öffnen)Bei dem Gerät/der SIM-Karte, welche für den SMS-Empfang und Versand aktiviert werden soll,gib den Code *222# über deine Telefontastatur ein und drücke anschließend die Anruftaste.Bei dem Gerät/der SIM-Karte, welche für den SMS-Empfang und Versand aktiviert werden soll, gib den Code *222# über deine Telefontastatur ein und drücke anschließend die Anruftaste.

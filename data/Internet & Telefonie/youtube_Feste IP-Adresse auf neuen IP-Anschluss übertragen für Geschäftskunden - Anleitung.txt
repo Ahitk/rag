@@ -1,0 +1,6 @@
+Question:
+Wo finden Sie Ihre Zugangsnummer und das persönliche Kennwort, die Sie benötigen, um Ihre feste IP-Adresse zu übertragen?
+
+Answer:
+Sie können Ihre Feste-IP-Adresse nach dem Wechsel auf einen neuen IP-Anschluss beibehalten. Loggen Sie sich zuerst in das Kundencenter Ihres alten Anschlusses ein und erstellen Sie einen Token-Code. Für den Wechsel haben Sie 14 Tage Zeit. Geben Sie den Code und Ihre feste IP-Adresse im Kundencenter Ihres neuen Anschlusses ein. Wenn Sie einen Deutschlandland-Anschluss verwenden, gehen Sie bitte online mit Ihrem neuen Anschluss. Loggen Sie sich in das DSL-Business-Kuncenter ein und verwenden Sie Ihre alten Zugangsdaten. Wählen Sie die Option zur Übertragung Ihrer Feste-IP-Adresse und notieren Sie den Token-Code. Schließlich loggen Sie sich in das Kunstcenter Festnet Ihres neuen Anschlusses ein und geben dort den Token und Ihre Feste-IP-Adresse ein. Weitere Anleitungen finden Sie online. Bei Fragen helfen wir Ihnen gern.
+

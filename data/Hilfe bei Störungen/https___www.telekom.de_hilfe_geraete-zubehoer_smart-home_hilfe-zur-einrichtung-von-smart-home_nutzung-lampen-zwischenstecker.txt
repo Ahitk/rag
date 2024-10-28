@@ -1,0 +1,13 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/nutzung-lampen-zwischenstecker
+
+Question: Wie kann ich in Magenta SmartHome smarte Lampen und Zwischenstecker am besten nutzen?
+Answer: Für die Nutzung einer SmartHome-fähigen LED-Lampe und eines Zwischensteckers in Ihrem SmartHome sind folgende Tipps und Hinweise hilfreich.
+Hinweise für smarte Lampen:
+Hinweise für den Zwischenstecker:
+Unser Tipp:Sie möchten mehrere Lampen und/oder Geräte in Kombination mit dem Zwischenstecker mit nur einem Befehl steuern? Das geht ganz einfach mit einer Szene oder Regel in SmartHome. Mit einer Szene legen Sie eine Gerätegruppe an, die sich wie ein einzelnes Gerät steuern lässt. Eine Regel automatisiert das Schalten Ihrer Geräte bspw. zu einer festgelegten Uhrzeit oder für eine bestimmte Dauer.
+• Eine smarte LED-Lampe hat die SmartHome-Funktionalität bereits eingebaut und sollte deshalbkeinesfallsmit einem smarten Zwischenstecker kombiniert werden. Die Einstellmöglichkeiten der LED wie zum Beispiel Lichthelligkeit und Lichtfarbe gehen unter Umständen sogar verloren, wenn die Leuchte durch den Zwischenstecker vom Strom genommen wird. Im stromlosen Zustand lässt sich die smarte Lampe nicht mehr über SmartHome steuern, weil sie für das System nicht mehr erreichbar ist. Steuern Sie Ihre smarten LEDs und Leuchten deshalb ausschließlich über SmartHome, da auch Lichtschalter an der Leuchte oder Wandtaster die Stromzufuhr unterbrechen.
+• Sie können Ihre smarte LED in jeder herkömmlichen Leuchte verwenden und über die App oder per Sprachbefehl steuern.
+• Wenn Sie Ihre LED-Lampe auch mit einem Wandtaster ein- und ausschalten möchten, nutzen Sie dafür einfach einen der smartenWandtaster für SmartHome.
+• Der smarte Zwischenstecker ermöglicht die Einbindung herkömmlicher Geräte in Ihr SmartHome, wenn sie nicht SmartHome-fähig sind. Das können konventionelle Leuchten sein, aber auch Ihre Waschmaschine, der Kaffeevollautomat oder eine nicht „smarte“ Stereoanlage. Der Zwischenstecker überbrückt damit die fehlende SmartHome-Funktionalität der bereits vorhandenen Haushaltsgeräte. Ein Neukauf dieser Geräte entfällt damit.
+• Die SmartHome-Steuerung der konventionellen Geräte ist durch den Zwischenstecker auf das Ein- und Ausschalten begrenzt. Damit wird das angeschlossene Gerät „stromlos“ geschaltet. Je nach Gerätemodell kann auch gedimmt werden oder es erfolgt eine Messung des Stromverbrauchs.
+

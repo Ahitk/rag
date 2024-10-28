@@ -1,0 +1,10 @@
+Question:
+Haben Sie weitere Probleme mit Ihrem WLAN-Heimnetz oder inkompatiblen Geräten, die wir gemeinsam lösen könnten?
+
+Answer:
+Wenn Magenta TV nicht läuft, liegt das Problem oft am heimischen WLAN-Netzwerk, das durch verschiedene Faktoren gestört werden kann. Dazu gehören Objekte wie Aquarien, Heizkörper, Pflanzen und massive Steinstrukturen, die das Signal behindern, aber auch Geräte wie DECT-Telefone, Mikrowellen und Bluetooth-Geräte können Störungen verursachen. Es wird empfohlen, alle WLAN-Geräte weg von diesen Störquellen zu platzieren und weitere Mesh-Geräte für eine bessere Abdeckung zu nutzen. Der automatische Kanalwechsel hilft auch, Störungen zu vermeiden.
+
+Zudem kann es Kompatibilitätsprobleme mit bestimmten Geräten geben. Es wird empfohlen, Geräte zu verwenden, die das Multicast-Verfahren unterstützen, bei dem ein Sender nur einmal Datenpakete an viele Empfänger sendet. Medienreceiver 401, 201 und die Magenta TV Box nutzen dieses Verfahren.
+
+Auch Störungen durch Geräte, die das IGMP-Protkoll Version 3 nicht unterstützen, können zu Netzwerkproblemen führen. Deshalb sollten nutzte Geräte das IGMP-Snooping-Verfahren unterstützen. Bei Unklarheiten kann der Gerätehersteller kontaktiert werden. Bei weiteren Schwachstellen im Heimnetzwerk gibt es hilfreiche Links unter dem Video.
+

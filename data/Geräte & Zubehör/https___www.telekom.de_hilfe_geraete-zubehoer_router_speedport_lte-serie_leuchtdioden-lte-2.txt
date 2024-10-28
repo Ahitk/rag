@@ -1,0 +1,28 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/lte-serie/leuchtdioden-lte-2
+
+Question: Was bedeuten die Leuchtdioden am Speedport LTE II?
+Answer: Im Folgenden erhalten sie eine Übersicht über die Bedeutung der Leuchten am Speedport LTE II.
+MODE
+Power
+Feldstärke
+WLAN
+WPS:
+• leuchtet blau = LTE verbunden, keine Datenübertragung
+• blinkt blau = LTE verbunden, Datenübertragung
+• leuchtet grün = UMTS/HSPA/HSPA+ verbunden, keine Datenübertragung
+• blinkt grün = UMTS/HSPA/HSPA+ verbunden, Datenübertragung
+• blinkt weiß = Netzwerk aktiv, Datenübertragung
+• leuchtet rot = keine Netzwerkverbindung möglich
+• leuchtet lila = SIM-Karte fehlt oder PIN-Prüfung fehlgeschlagen, bitte überprüfen Sie, ob die SIM-Karte eingelegt ist und geben Sie gegebenfalls die PIN erneut über das Routermenü ein.
+• Alle Leuchtanzeigen mit Ausnahme der Power-Anzeige blinken: Aktualisierung der Firmware. Schalten Sie den Speedport LTE II  keinesfalls aus!
+• leuchtet nicht = AUS
+• leuchtet = EIN
+• Statusbalkenanzeige in Abhängigkeit des Aufstellorts
+• leuchtet nicht = WLAN ausgeschaltet
+• leuchtet = WLAN eingeschaltet
+• blinkt = Datenübertragung im WLAN
+• blinkt regelmäßig = Suche nach WLAN-fähigem Geräten (blinkt bis zu zwei Minuten lang)
+• blinkt unregelmäßig = Verbindung fehlgeschlagen. Bitte überprüfen Sie die WPS-Einstellungen im Konfigurationsmenü und stellen Sie die WPS-Verbindung erneut her oder es ist ein Firmwareupdate verfügbar.
+• leuchtet = WPS aktiviert
+• aus = WPS deaktiviert
+

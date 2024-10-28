@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/zusaetzliche-ordner
+
+Question: Wie kann ich im E-Mail Center zusätzliche Ordner anlegen?
+Answer: Um zusätzliche Ordner imE-Mail Centeranzulegen, klicken Sie links neben "Meine Ordner" auf das "+" und vergeben einen Namen. Über das "Zahnrad" neben dem neuen Ordner können Sie innerhalb des neuen Ordners weitere Unterordner einrichten.
+

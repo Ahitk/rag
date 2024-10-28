@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/sms-mms/funktioniert-nicht
+
+Question: Warum kann ich keine SMS oder MMS versenden und empfangen?
+Answer: Vermutlich ist Ihr SMS-/MMS-Speicher voll oder Sie nutzen mit Ihrem Vertrag auch MultiSIMs.
+SMS und MMS können immer nur auf einem Gerät mit Ihrer Rufnummer versendet oder empfangen werden. Standardmäßig ist immer die Hauptvertrags-SIM eingestellt.
+So prüfen Sie die aktuellen EinstellungenWenn Sie wissen möchten, auf welchem Gerät der Dienst zurzeit aktiviert ist, geben Sie bitte *221# ein und drücken Sie die Anruftaste.
+

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/umwelt/reuse-mymobile/daten-loeschen
+
+Question: Wie werden die Daten der Vorbesitzer des gebrauchten Smartphones sicher gelöscht?
+Answer: Die Daten auf den gebrauchten Geräten werden von Fachleuten der UnternehmenCTDI(Sie werden weitergeleitet auf www1.ctdi.eu.) undAdisa(Sie werden weitergeleitet auf adisa.global.) mithilfe der "BLITZ"-Software über das MCE360-Interface gelöscht. Beide Unternehmen sind für diese Dienstleistung selbstverständlich ISO zertifiziert.
+Durch zufälliges Überschreiben des Speichers mit neuen Werten bzw. die "Wipe and Flash"-Funktion wird sichergestellt, dass Data Mining oder eine Datenwiederherstellung nicht mehr möglich sind.
+

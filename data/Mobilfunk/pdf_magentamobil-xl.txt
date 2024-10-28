@@ -1,0 +1,28 @@
+The document is a product information sheet for the "MagentaMobil XL (Mobilfunk)" telecom plan from Telekom Deutschland GmbH. Below is a summary of the key information:
+
+### Product Overview
+- **Services Included**: Internet, telephony, SMS, access to internet services with unlimited data volume.
+- **Market Launch Date**: 01.08.2024.
+
+### Data Transfer Rates
+- **Download Speed**: Up to 300 MBit/s.
+- **Upload Speed**: Up to 50 MBit/s.
+- Note: These speeds are applicable for domestic traffic only.
+
+### Contract Information
+- **Minimum Contract Duration**: 24 months.
+- **Cancellation Notice Period**: 1 month after the minimum duration.
+- **Post-Contract Cancellation**: Can be canceled with a one-month notice.
+
+### Pricing
+- **Monthly Fees** (excluding hardware costs):
+  - **Without Smartphone**: €84.95
+  - **With Smartphone**: €94.95
+  - **With Top Smartphone**: €104.95
+  - **With Premium Smartphone**: €114.95
+  - **With Premium-Plus Smartphone**: €124.95
+
+### Additional Information
+- More details about the product and services can be found on the Telekom website.
+
+This summary encapsulates the key points regarding the telecom product, including its features, pricing, and contract terms.

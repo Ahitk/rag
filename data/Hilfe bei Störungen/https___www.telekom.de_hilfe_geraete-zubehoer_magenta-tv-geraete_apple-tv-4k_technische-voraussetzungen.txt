@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/apple-tv-4k/technische-voraussetzungen
+
+Question: Was sind die technischen Voraussetzungen zur Nutzung von Apple TV 4K?
+Answer: Alles, was Sie brauchen, um Apple TV 4K nutzen zu können, ist ein Fernseher mit einem HDMI-Anschluss, eine freie Steckdose und einen WLAN-Internetzugang.
+

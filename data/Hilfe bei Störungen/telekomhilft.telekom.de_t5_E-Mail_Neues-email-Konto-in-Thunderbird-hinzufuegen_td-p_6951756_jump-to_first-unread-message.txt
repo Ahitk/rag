@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Neues-email-Konto-in-Thunderbird-hinzufuegen/td-p/6951756/jump-to/first-unread-message
+Subject: Neues email-Konto in Thunderbird hinzufügen
+Content: Hi, will ein zusätzliches email-Konto in Thunderbird einfügen. Dazu gehe ich nach den üblichen Beschreibungen bei Telekom vor. Bekomme aber ständig die Fehlermeldung "Anmeldung auf dem server fehlgeschlagen. Eventuell sind Konfiguration, Benutzername oder Passwort nicht korrekt". Ich komm nicht auf den Fehler.Habe die Konfiguration für das neue Konto auch bereits manuell angepasst auf die Server-Einstellungen meiner "Stamm-email". Geht auch nicht. Hat wer ne Idee?
+
+Accepted Solutions:
+- @SaDi,setz das E-Mail Passwort mal neu.Manchmal "verschluckt" sich die Sache.Eventuell mal ein einfacheres testen.Wird eine Zwei Faktor Geschichte genutzt?
+- @SaDi,setz das E-Mail Passwort mal neu.Manchmal "verschluckt" sich die Sache.Eventuell mal ein einfacheres testen.Wird eine Zwei Faktor Geschichte genutzt?

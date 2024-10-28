@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Internetdienst-nicht-erreichbar-pruefen-Sie-die-Verbindung-zu/td-p/6959765/jump-to/first-unread-message
+Subject: Internetdienst nicht erreichbar, prüfen Sie die Verbindung zu Ihrem Internetanbieter.
+Content: Hey,ich hab einen neuen Internetvertrag und wollte den Router selber anmelden. Ich habe die Anleitung befolgt. Doch nun wird mir angezeigt:IPV4: verbundenIPv6: nicht verbundenInternetdienst nicht erreichbar, prüfen Sie die Verbindung zu Ihrem Internetanbieter.Habe bereits die Updates und die Verkabelung überprüft. Weiß jemand zufällig was das Problem sein könnte?
+
+Accepted Solutions:
+- Hallo@mittHerzlich willkommen in der CommunityEinrichtunghttps://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7510/1339_FRITZ-Box-am-Telekom-DSL-Anschluss-e...Bereitstellung laut Auftragsbestätigung ist heute?Wenn ja., bitte noch warten. Bis 21 Uhr sollte definitiv alles durch seinOder hast du nur eine Eingangsbestätigung bekommen?
+- Hallo@mittHerzlich willkommen in der CommunityEinrichtunghttps://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7510/1339_FRITZ-Box-am-Telekom-DSL-Anschluss-e...Bereitstellung laut Auftragsbestätigung ist heute?Wenn ja., bitte noch warten. Bis 21 Uhr sollte definitiv alles durch seinOder hast du nur eine Eingangsbestätigung bekommen?

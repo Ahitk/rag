@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/bestellen-einrichten/wechsel-sim-kartenformat
+
+Question: Wie kann ich mein SIM-Kartenformat wechseln?
+Answer: In wenigen Minuten können Sie einen Wechsel Ihres SIM-Kartenformats von der "klassischen" SIM-Karte auf eSIM und umgekehrt durchführen. Melden Sie sich bitte in IhremKundencenteran und gehen Sie dann wie folgt vor:
+Zum Vertrag bzw. Vertragsdetails > Meine SIMs > Einstellungen > Sicherheitsüberprüfung > SIM tauschen > Wechsel SIM Kartentyp > Weiter > SIM Auswahl treffen > folgen Sie nun bitte den weiteren Anweisungen
+Hinweis:Für die Sicherheitsüberprüfung ist eine Authentifikation über einen SMS-Code (mTAN) erforderlich. Die SMS kann nur an eine Mobilfunk-Nummer geschickt werden, die zu Ihrem Vertragskonto gehört – also wenn Sie mehrere Mobilfunk-Verträge in Ihrem Kundencenter sehen. Wenn Sie keine andere Nummer zur Auswahl haben, nehmen Sie bitteKontaktzu unserem Service-Team auf.
+

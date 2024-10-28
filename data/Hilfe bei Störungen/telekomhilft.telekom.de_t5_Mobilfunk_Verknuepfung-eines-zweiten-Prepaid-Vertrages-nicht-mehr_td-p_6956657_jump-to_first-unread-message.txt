@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Verknuepfung-eines-zweiten-Prepaid-Vertrages-nicht-mehr/td-p/6956657/jump-to/first-unread-message
+Subject: Verknüpfung eines zweiten Prepaid-Vertrages nicht mehr ersichtlich
+Content: Seit ca. zwei Wochen kann ich meinen zweiten Prepaid-Vertrag nicht mehr in der MeinMagenta App einsehen.Im Online Kundencenter im Browser sind beide Verträge ersichtlich und richtig verknüpft.Die App wurde bereits mehrfach neu installiert und auch die Verknüpfung selbst wurde einmal gelöst und wieder neu angelegt, brachten aber keinen Erfolg.
+
+Accepted Solutions:
+- Hey@Danny270784,der aktuelle Fehler in der Ansicht unserer App ist uns bereits bekannt. Dieser wird mit einem kommenden Update bereinigt.Sorry für die aktuellen Umstände.Gruß Timo
+- Hey@Danny270784,der aktuelle Fehler in der Ansicht unserer App ist uns bereits bekannt. Dieser wird mit einem kommenden Update bereinigt.Sorry für die aktuellen Umstände.Gruß Timo

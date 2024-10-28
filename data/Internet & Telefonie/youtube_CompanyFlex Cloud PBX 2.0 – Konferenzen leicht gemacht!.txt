@@ -1,0 +1,12 @@
+Question:
+Wie kann ich die Konferenzfunktion der Cloud Bibik nutzen und welche Arten von Meetings kann ich planen?
+
+Answer:
+Hallo! Markus erklärt uns heute verschiedene Funktionen der Cloud Bibik, insbesondere die Konferenzfunktion. Mit dem Konferenzpaket Plus oder Premium können Nutzer verschiedene Konferenzen nicht nur beitreten, sondern auch planen. Er erklärt die Unterschiede zwischen geplanten Konferenzen, persönlichen Konferenzräumen, Wikeout-Sessions und Gruppenchat-Konferenzen. Bei einer geplanten Konferenz wird eine Nummer generiert, nur diejenigen, die eingeladen sind, können teilnehmen. Der persönliche Konferenzraum ist immer offen und geeignet für Ad-hoc-Meetings. Bei Wikeout-Sessions handelt es sich um separate Arbeitskonferenzen innerhalb einer größeren Konferenz. Konferenzen können auch direkt in einem Gruppenchat gestartet werden.
+
+Markus führt dann durch den Prozess der Planung einer Konferenz im mobilen Client, Save software. Er erklärt, wie Nutzer das Thema und die Teilnehmer auswählen und ein Datum und eine Uhrzeit festlegen können. Zum Schluss erklärt er, wie man Meetings mit der Serientermine-Funktion wiederholen kann.
+
+In Meetings können Benutzer verschiedene Dokumente teilen, den gesamten Arbeitsbereich oder einzelne Anwendungen und sogar eine zusätzliche Kamera. Meetings können auch aufgenommen und auf dem lokalen Rechner gespeichert werden (Plus-Paket) oder in der Cloud (Premium-Paket). Markus verspricht, in einem zukünftigen Video mehr über die Autointegration zu sprechen. Er lädt die Zuschauer ein, in der Business-Community mitzudiskutieren und freut sich auf Kommentare. 
+
+In letzter Instanz wird ein Link in der Beschreibung des Videos bereitgestellt. Markus wünscht viel Spaß mit den neuen Funktionen!
+

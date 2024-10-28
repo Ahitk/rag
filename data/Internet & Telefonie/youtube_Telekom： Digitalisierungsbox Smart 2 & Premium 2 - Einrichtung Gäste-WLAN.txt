@@ -1,0 +1,6 @@
+Question:
+Wie kann ich das Gäste-WLAN auf meiner Digitalisierungspox 2 einrichten und konfigurieren?
+
+Answer:
+Willkommen zum Zusammenfassung unseres Digitalisierungspox 2 Videos über die Einrichtung eines Gäste-WLAN-Netzwerkes. In diesem Video wird gezeigt, wie ein Gäste-WLAN-Netzwerk eingerichtet wird, das völlig getrennt vom Firmennetzwerk ist. Mit Hilfe des Webinterfaces der Digitalisierungspox 2 wird die Konfiguration gestartet, indem das WLAN-Gastnetzwerk aktiviert, eine SISID (Netzwerkname) gewählt und ein Passwort eingegeben wird. Weitere Einstellungen zur Anpassung sind optional. Diese umfassen die Verschlüsselungsmethode, die Option zur SISID-Verbergung, Klein-Isolation und die Konfiguration der IPv4-Adresse und des DHCP-Dienstes. Nach Übernahme der Einstellungen ist das Gäste-WLAN-Netzwerk aktiv und einsatzbereit. Keine weiteren Einstellungen sind erforderlich.
+

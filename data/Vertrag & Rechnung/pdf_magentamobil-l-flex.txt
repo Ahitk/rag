@@ -1,0 +1,26 @@
+Here's a summary of the relevant information from the image regarding the "MagentaMobil L Flex" telecommunication product:
+
+### Product Overview:
+- **Name:** MagentaMobil L Flex (Mobilfunk)
+- **Includes:** Mobile connection for telephony, SMS, and internet services.
+
+### Data Transmission Rates:
+- **Estimated Maximum Speeds:**
+  - Download: **300 MBit/s**
+  - Upload: **50 MBit/s**
+- **Reduced Speeds After 80 GB Usage:**
+  - Download: **64 kBit/s**
+  - Upload: **16 kBit/s**
+
+### Additional Product Information:
+- **Contract Terms:**
+  - No minimum contract duration.
+  - One-month notice period for cancellation.
+
+- **Monthly Fee:**
+  - **59.95 EUR** for the complete product, excluding hardware one-time costs.
+
+### Validity:
+- Information is effective from **August 1, 2024**.
+
+For further details, customers can refer to the official Telekom website or the provided AGB (general terms and conditions).

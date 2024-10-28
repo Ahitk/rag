@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Endgeraete-schalten-zeitgleich/td-p/6960936/jump-to/first-unread-message
+Subject: Endgeräte schalten zeitgleich
+Content: Hallo zusammen,Ich habe das Problem das ich erstens keine Source-Auswahlmöglichkeit habe. Wäre alles nicht so wild, wenn alle Geräte automatisch zueinander finden und der passende HDMI-Eingang des TVs erkannt wird.Nun ist es so, dass ich mal angenommen, eine weitere Box oder Konsole schalte, diese dann automatisch denHDMIbelegen, so wie es soll.Aaaaber: Sobald der TV dann startet, sagt die M TV One 2.0 "Dankeschön", startet und sourced auf ihren Kanal.Ich werde irre... Hat jemand ne Idee?
+
+Accepted Solutions:
+- Hab es jetzt hinbekommen. Unter ExperteneinstellungHDMIkann man den Wechsel auf Magenta TV Eingang unterbinden.✌️Danke
+- Hab es jetzt hinbekommen. Unter ExperteneinstellungHDMIkann man den Wechsel auf Magenta TV Eingang unterbinden.✌️Danke

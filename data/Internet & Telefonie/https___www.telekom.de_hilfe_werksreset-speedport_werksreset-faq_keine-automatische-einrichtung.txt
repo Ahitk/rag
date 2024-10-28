@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/keine-automatische-einrichtung
+
+Question: Was mache ich, wenn mein Router sich nicht automatisch einrichtet?
+Answer: Sollte die automatische Einrichtung nicht funktioniert haben, können Sie diese manuell starten. Geben Sie in die Adresszeile Ihres Browerswww.telekom.de/einrichtenein und folgen Sie den Schritten des Einrichtungsassistenten.
+Sollte die genannte Webseite nicht funktionieren, prüfen Sie bitte, ob Easy Login an Ihrem Anschluss aktiviert ist.Falls nicht, können Sie Easy Login jederzeit selbst im Kundencenter wieder aktivieren.Zur Hilfe-Seite
+

@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone
+
+Question: Wie wird ein Festnetztelefon installiert?
+Answer: Damit Sie IhrenTelefonanschlussnutzen können, verbinden Sie die Basisstation Ihres Telefons mit Kabel an der Telefonsteckdose oder dem WLAN-Router. Ein Schnurtelefon ist damit sofort einsatzbereit, bei einem schnurlosen Modell platzieren Sie das Mobilteil zunächst auf der Ladeschale, bis der Akku ausreichend geladen ist.
+
+Question: Wie kann das Signal eines schnurlosen Festnetztelefons verstärkt werden?
+Answer: Mit einem DECT-Repeater erweitern Sie wirksam die Reichweite eines schnurlosen Telefons mit Anrufbeantworter. Dabei handelt es sich um eine kleine Box, die das Sendesignal der Basisstation aufnimmt, verstärkt und weiterleitet. Den Repeater sollten Sie dabei in der Reichweite des schnurlosen Haustelefons platzieren, um das Signal zu verstärken.
+
+Question: Wodurch zeichnen sich seniorengerechte Festnetztelefone aus?
+Answer: Ein seniorengerechtes Festnetztelefon zeichnet sich vor allem dadurch aus, dass es einfach zu bedienen ist. Daher verfügen die meisten Seniorentelefone über große, gut spürbare Tasten und ein kontrastreiches Display, auf dem die Anzeigen gut erkennbar sind. Besonders von Vorteil ist ein schnurloses Telefon für Senioren, da sie sich bei einem längeren Anruf bequem hinsetzen oder das Telefon in Reichweite legen können, wenn sie einen Anruf erwarten.
+
+Question: Was ist ein IP-Telefon?
+Answer: Ein IP-Telefon unterscheidet sich in Bezug auf Aussehen und Handhabung nicht von einem üblichen Festnetztelefon. Im Gegensatz zu einem analogen Modell wird ein IP-Telefon jedoch nicht in die Telefondose in der Wand, sondern in Ihren DSL-Router gesteckt. Somit ist es direkt mit dem Internet verbunden. Per Voice-over-IP Technologie, kurz VoIP, werden die Gespräche in Form von digitalen Daten übertragen. Dies ermöglicht eine bessere Übertragungsqualität im Vergleich zur analogen Telefonie.
+
+Question: Wie wird ein IP-Telefon angeschlossen?
+Answer: In der Regel erfolgt der Anschluss Ihres IP-Telefons unkompliziert und in kurzer Zeit. Haben Sie sich für ein Modell mit kabelgebundener Basisstation entschieden, verbinden Sie diese mithilfe des LAN-Kabels mit dem Router. Bei einer kabellosen Basisstation erfolgt die Verbindung per Funk. Anschließend konfigurieren Sie das IP-Telefon, wie in der Bedienungsanleitung beschrieben.
+

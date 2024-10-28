@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/firmware-update-home-base-1
+
+Question: Wie kann ich ein Firmware-Update per USB-Stick für die SmartHome Home Base 1 durchführen?
+Answer: Stellen Sie sicher, dass Ihr USB-Stick im Format "FAT-32" formatiert und leer ist.
+

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/zweites-Telefon-Speedport-Smart-4/td-p/6972832/jump-to/first-unread-message
+Subject: zweites Telefon Speedport Smart 4
+Content: An meinem alten Speedport Smart 3 gab es auf der Rückseite die möglichkeit ein zweites Telefon anzuschließen.Dieses Telefon konnte ich zu meinen Drahtlosteilen als festes Telefon mit eigener Nummer nutzen. Ich möchte diese Option weiterhin nutzen, was muss ich tun?Vielen Dank für die Hilfe im Voraus
+
+Accepted Solutions:
+- @k.kraemerschrieb:Ich möchte diese Option weiterhin nutzen, was muss ich tun?Dann wäre einSpeedport Smart 4 plusSinnvollDieser hat 2 AnschlüsseEs wäre auch möglich, das Telefon perDECTmit dem Speedport zu koppeln und die Rufnummer zuzuweisenhttps://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/rufnummernzuordnung-speedport
+- @k.kraemerschrieb:Ich möchte diese Option weiterhin nutzen, was muss ich tun?Dann wäre einSpeedport Smart 4 plusSinnvollDieser hat 2 AnschlüsseEs wäre auch möglich, das Telefon perDECTmit dem Speedport zu koppeln und die Rufnummer zuzuweisenhttps://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/rufnummernzuordnung-speedport

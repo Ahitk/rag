@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/zusaetzlich-zentrale
+
+Question: Benötige ich für die Nutzung der MagentaZuhause App neben meinen smarten Geräten zusätzlich noch eine Zentrale?
+Answer: Smarte Geräte mit einer Verbindung über WLAN oder LAN-Kabel benötigen keine zusätzliche Zentrale und können direkt mit der MagentaZuhause App verbunden werden.
+Benötigt wird die SmartHome fähige Zentrale nur, wenn Geräte der Funkstandards DECT, ZigBee, Homematic IP und Schellenberg genutzt werden sollen.
+

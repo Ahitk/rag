@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/sprachauswahl-der-app
+
+Question: In welchen Sprachen steht die Trassen Defender App zur Verfügung?
+Answer: Über den Menüpunkt "Einstellungen" in der App können Sie zwischen den folgenden sieben Sprachen wählen:Deutsch, Englisch, Polnisch, Portugiesisch, Russisch, Tschechisch und Türkisch.
+

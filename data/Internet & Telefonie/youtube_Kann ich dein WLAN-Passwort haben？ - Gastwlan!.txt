@@ -1,0 +1,6 @@
+Question:
+Könnten Sie mir bitte erklären, wie ich das Gästewlan auf meinem Spielport Smart 4 einstelle?
+
+Answer:
+Die Transkript erklärt die Funktionalität und den Nutzen eines Gast-WLANs. Ein Gast-WLAN ist eine separate Netzwerkverbindung, die nur Internetzugang bietet und vom Hauptnetzwerk getrennt ist, um eine bessere Sicherheit zu gewährleisten. Das Hauptnetzwerk bleibt dabei gegen potenzielle Angriffe, beispielsweise durch unbekannte Geräte, geschützt. Mit dieser Funktion kann man auch Geräte, denen man nicht vollständig vertraut, nur auf das Gast-WLAN zugreifen lassen. Weiterhin können Eltern das Gast-WLAN für die Internetnutzung ihrer Kinder verwenden und es abends ausschalten, während sie weiterhin Zugang zum Internet haben. Die Einstellungen des Gast-WLANs können direkt über das Display von Spielport Smart 4 verwaltet werden.
+

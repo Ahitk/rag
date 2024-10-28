@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/firmware-reset-der-home-base
+
+Question: Was passiert bei einem Firmware Reset der Home Base?
+Answer: Drücken Sie mit einem Stift oder einem anderen spitzen Gegenstand auf der Stirnseite der Home Base den Resetknopf dann werden alle installierten Apps und Konfigurationen auf der Home Base gelöscht. Die SmartHome App können Sie unter "Apps hinzufügen" und aus der letzten Qivicon Sicherung den Stand der Geräteliste wieder herstellen.
+Nach dem erfolgten Werksreset muss die Home Base wieder registriert werden. Dafür gehen Sie über "Mein QIVICON" (mein.qivicon.de) auf "Einstellungen", dann auf den Tab "QIVICON Home Base" und klicken den Button "Backup". Dort klicken Sie auf "Wiederherstellen" und bestätigen dies erneut.
+

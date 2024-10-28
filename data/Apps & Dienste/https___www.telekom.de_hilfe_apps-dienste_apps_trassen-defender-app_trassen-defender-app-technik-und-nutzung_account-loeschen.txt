@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-technik-und-nutzung/account-loeschen
+
+Question: Wie kann ich meinen Trassen Defender Account löschen?
+Answer: Im Menüpunkt "Einstellungen" löschen Sie über den Button "Trassen Defender Account löschen" Ihren Account. Bestätigen Sie bitte die Löschung mit Ihrem aktuellen Passwort.
+Bitte beachten Sie:Ihre Accountdaten inklusive Ihrer gemeldeten Schäden werden unwiderruflich gelöscht.
+

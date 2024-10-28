@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Sprachsteuerung-Magenta-TV/td-p/6952339/jump-to/first-unread-message
+Subject: Sprachsteuerung Magenta TV
+Content: Seit einigen Tagen funktioniert die Sprachsteuerung per Fernbedienung nicht mehr. Laut den Einstellungen ist derSprachassistent aber aktiviert.Nach Betätigen der Mikrotaste auf der Fernbedienung erscheint der Hinweis "Ich höre zu",aber es erfolgt nach Ansage keine Reaktion/Senderwechsel)(Magenta XL/MagentaTV Basic 2.0)
+
+Accepted Solutions:
+- @D-SchleidenFalls Du eine Magenta TV One / One 2 benutzt , hast Du schon mal einen Neustart gemacht ? (Ein / Aus Taste länger drücken und dann auf Neustart gehen) .Das hat bei mir bisher immer geholfen .Gruß Ralf
+- @D-SchleidenFalls Du eine Magenta TV One / One 2 benutzt , hast Du schon mal einen Neustart gemacht ? (Ein / Aus Taste länger drücken und dann auf Neustart gehen) .Das hat bei mir bisher immer geholfen .Gruß Ralf

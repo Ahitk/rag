@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/ausland-roaming/probleme
+
+Question: Warum komme ich mit meinem Mobilfunk-Gerät im Ausland nicht ins Internet?
+Answer: Daten-Roaming ist standardmäßig ausgeschaltet, deshalb aktivieren Sie die Funktion in den Einstellungen Ihres Gerätes.
+Sollten Sie weiterhin keine Internet-Verbindung haben, starten Sie Ihr Gerät einmal komplett neu, um den Zwischenspeicher zu leeren oder melden Sie sich bei uns unter der aus dem Ausland kostenfreien Rufnummer+49 171 2522088.
+

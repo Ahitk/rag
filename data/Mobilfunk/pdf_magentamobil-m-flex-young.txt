@@ -1,0 +1,24 @@
+The image is a product information sheet for the telecom service "MagentaMobil M Flex Young" by Telekom Deutschland GmbH. Here’s a summary of the relevant information:
+
+### Product Overview
+- **Service Includes**: Mobile connection for telephony, SMS, and internet access.
+- **Marketing Start Date**: October 5, 2021.
+
+### Data Transfer Rates
+- **Download Speed**: Up to 300 MBit/s.
+- **Upload Speed**: Up to 50 MBit/s.
+- **Data Throttle**: After 40 GB usage, speeds drop to:
+  - **Download**: 64 KBit/s
+  - **Upload**: 16 KBit/s.
+
+### Further Product Information
+- **Contract Terms**:
+  - No minimum contract duration.
+  - One-month notice period for cancellation.
+  
+- **Monthly Fee**: €39.95 (plus one-time hardware cost).
+
+### Additional Notes
+- This service is intended for users looking for a flexible mobile plan without long-term commitment. 
+
+For further details, users can visit the Telekom website.

@@ -1,0 +1,33 @@
+The image provides information on how to switch the SmartHome central unit for the MagentaZuhause app. Here’s a summary of the key points:
+
+### Overview of the Switching Process
+The table lists various SmartHome devices (origin) and their compatibility with different target devices.
+
+### Key Details:
+- **Origin Devices**: 
+  - Home Base 2.0
+  - Speedport Smart
+  - Speedport Smart 2
+  - Speedport Smart 3
+  - Speedport Smart 4 (Types A/B and Plus)
+  - Speedport Pro, Pro Plus, Gaming Edition
+
+### Target Devices:
+- Switching options vary based on the origin device:
+  - **Home Base 2.0**: Limited ability to switch
+  - **Speedport Smart**: Compatible with specific target units
+  - **Speedport Smart 2 & 3**: Compatibility assured
+  - **Speedport Smart 4**: Needs reconnection for ZigBee devices
+  - **Speedport Pro, Pro Plus, Gaming Edition**: Generally supports switching
+
+### Important Notes:
+- **ZigBee Devices**: Must be reconnected after switching, indicated by a red mark in the app’s device overview.
+- For devices lacking certain communication standards (ZigBee, Homematic IP), additional attachments or modifications may be needed.
+- HomeMatic (non-IP) devices are only supported by Home Base and cannot switch to Speedport models.
+
+### Symbols Used:
+- ✔️: Compatibility available
+- ❌: Incompatibility
+- 🔄: Requires reconnection for specific protocols
+
+This image serves as a guide for users looking to transition their SmartHome setup within the MagentaZuhause app, including necessary reconfigurations for certain types of devices.

@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/speedphone/speedphone-funktioniert-nicht-mehr-nach-software-update
+
+Question: Speedphone funktioniert nicht mehr nach Software-Update?
+Answer: Beim Update des Speedphone auf eine neue Software-Version, kann es sporadisch zu Fehlern kommen.
+Folgende Fehler können auftreten:• Display-Sprache plötzlich in Englisch• Gerät ist abgemeldet und lässt sich nicht mehr anmelden• verschiedene Tasten sind ohne Funktion
+Die Lösung:Bitte folgen Sie dieser Anleitung:1.Speedphone in den Lieferzustand zurücksetzen mit„Menü – Einstellungen – OK – Problemlösung - OK – Lieferzustand MT – OK – PIN-Eingabe 0000 (sofern nicht verändert) und OK2.Sprache auf „Deutsch“ mit „Speichern“ einstellen3.Jetzt direkt die Akkus aus dem Telefon entfernen4.Speedport Router für 20 Sekunden vom Strom trennen5.Wenn der Router wieder vollständig hoch gefahren ist (LED „Telefonie“ leuchtet), die Akkus wieder ins Speedphone einsetzen6.Nach dem Starten des Speedphone warten bis „Bitte Anmelden“ (mit Symbol Ausrufzeichen) erscheint7.„Anmelden“ (rechte Auswahltaste) drücken8.Basis (1) auswählen mit OK bestätigen und die Anmelde-Taste am Router drücken
+Sollte die Maßnahme die vollständige Funktion des Speedphone nicht herstellen, wenden Sie sich bitte an die Hotline 01805 53 90 90(0,14 €/Min. aus dem Festnetz, höchstens 0,42 €/Min. aus den Mobilfunknetzen) oder per E-Mail an: vtechservice@datrepair.de).
+Wenn Sie das Speedphone im Bundle mit dem Speedport Neo erhalten haben, rufen Sie uns bitte unter der kostenlosen Hotline 0800 33 01000 an.
+

@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/probleme-beheben/installation-android
+
+Question: Warum kann ich die Telekom Mail App nicht auf meinem Android-Gerät installieren?
+Answer: Wenn Sie im Google Play Store die Meldung "Ihr Gerät ist mit dieser Version nicht kompatibel" erhalten, liegt es daran, dass die Telekom Mail App nur auf Geräten ab der Version AOS 10 oder höher installiert werden kann.
+Ausnahme: Wenn Sie die Telekom Mail App bereits auf Ihrem Smartphone/Tablet installiert hatten und gelöscht haben, können Sie die App neu installieren, wenn das Google-Konto dasselbe ist. Öffnen Sie dafür Ihren Google Play Store und gehen Sie wie folgt vor:
+Profil oben rechts > Apps und Gerät verwalten > Verwalten > Telekom Mail App auswählen (ggf. unter "Nicht installiert") > Installieren/Aktivieren
+

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/zertifikatsfehler
+
+Question: Was mache ich, wenn von meinem E-Mail Center eine Benachrichtigung zu einem Zertifikatsfehler kommt?
+Answer: Sie müssen die Zertifikate für die Nutzung des E-Mail Centers aktualisieren. Dies geschieht automatisch, wenn Sie den Browser auf Standardeinstellung zurücksetzen.
+So setzen Sie Ihren Browser zurück:Rechts oben drei Punkte > Zahnrad > Einstellungen > Einstellungen zurücksetzen
+

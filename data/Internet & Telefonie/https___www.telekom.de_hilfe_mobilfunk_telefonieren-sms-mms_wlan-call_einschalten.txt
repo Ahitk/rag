@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/einschalten
+
+Question: Kann ich die Funktion WLAN Call manuell ein- oder ausschalten?
+Answer: Sie können WLAN Call nicht für ein einzelnes Gespräch einschalten, aber Sie können die Funktion generell ein- oder ausschalten.
+Anleitung für Android
+Anleitung für iOS
+

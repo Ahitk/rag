@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/allgemein/geraete-code
+
+Question: Mein Handy verlangt nach Eingabe der PIN nach einem weiteren Geräte-Code. Welche Nummer muss ich eingeben?
+Answer: Hat Ihr Handy Ihre PIN-Nummer akzeptiert und fordert Sie danach noch auf, einen so genannten Security-Code einzugeben, dann ist Ihr Handy zusätzlich gegen Diebstahl und/oder unberechtigte Nutzung gesperrt. Sollte Ihnen dieser Code nicht vorliegen, kann Ihr Handy durch den Hersteller kostenpflichtig entsperrt werden.
+

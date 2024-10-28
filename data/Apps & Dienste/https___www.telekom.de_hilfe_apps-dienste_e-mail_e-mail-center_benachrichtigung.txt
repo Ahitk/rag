@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/benachrichtigung
+
+Question: Wie kann ich die Benachrichtigungen für eingehende E-Mails anpassen?
+Answer: Die Benachrichtigungen für E-Mails können Sie im E-Mail Center oder in der Telekom Mail App anpassen.
+Hinweis:Wenn Sie die Telekom Mail App nutzen, aktivieren/deaktivieren Sie ggf. die Benachrichtigungen in den Mitteilungs-Einstellungen Ihres Mobiltelefons.
+• E-Mail Center:Zahnrad > Alle Einstellungen anzeigen > Browser, Apps & Benachrichtigungen
+• Telekom Mail App:Menü > Einstellungen > E-Mail-Adresse auswählen > E-Mail-Optionen > Benachrichtigungen
+

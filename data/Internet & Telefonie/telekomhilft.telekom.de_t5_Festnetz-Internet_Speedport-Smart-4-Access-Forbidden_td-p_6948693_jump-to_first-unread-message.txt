@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Smart-4-Access-Forbidden/td-p/6948693/jump-to/first-unread-message
+Subject: Speedport Smart 4 - Access Forbidden
+Content: Hallo, ich bekomme beim Zugriff vom Webbrowser Chrome auf speedport.ip imer eine Meldung - Access Forbidden.Über das gleiche Wlan am Android funktioniert der Zugriff. Was muss ich im Windows 11 oder im Chrome Browser einstellen damit es auch am Rechner funktioniert, hat da Jemand eine Idee?
+
+Accepted Solutions:
+- @guidokoensgenschrieb:hat da Jemand eine Idee?Zufällig in einemVPNangemeldet?
+- @guidokoensgenschrieb:hat da Jemand eine Idee?Zufällig in einemVPNangemeldet?

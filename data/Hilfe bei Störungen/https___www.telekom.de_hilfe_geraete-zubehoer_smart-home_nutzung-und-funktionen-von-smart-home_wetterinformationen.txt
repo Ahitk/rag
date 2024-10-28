@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/wetterinformationen
+
+Question: Wie erhalte ich bei Magenta SmartHome Wetterinfos für meinen Standort?
+Answer: Wechseln Sie über das Hauptmenü der Magenta SmartHome App in den Bereich "Einstellungen" und anschließend "Standort". Der Standort bestimmt, welche Wettermeldungen Sie erhalten. Zudem unterstützt er den Haushüter bei der präzisen Bestimmung des Sonnenauf- und untergangs.
+• Die aktuellen Wetterinfos finden Sie immer im Bereich "Mein Zuhause".
+• Als Vorwarnungen eingestufte Meldungen werden als Nachrichten in der App übermittelt.
+• Akute und aktuelle Wetterwarnungen werden zusätzlich als Push-Nachricht gesendet.
+

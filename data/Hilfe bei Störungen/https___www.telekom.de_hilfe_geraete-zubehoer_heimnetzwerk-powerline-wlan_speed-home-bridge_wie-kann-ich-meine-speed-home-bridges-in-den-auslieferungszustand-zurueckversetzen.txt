@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-bridge/wie-kann-ich-meine-speed-home-bridges-in-den-auslieferungszustand-zurueckversetzen
+
+Question: Wie kann ich meine Speed Home Bridges in den Auslieferungszustand zurücksetzen?
+Answer: Durch das Zurücksetzen können Sie ein Problem beheben, dass sich anders nicht lösen lässt. Setzen Sie die Bridges einfach nacheinander zurück, bis Sie die Funktion erfolgreich wiederhergestellt haben.
+Und so einfach gehts:
+Haben Sie den Master Adapter zurückgesetzt, wiederholen Sie den Vorgang nacheinander an allen Slave-Geräten.
+• Ihre Speed Home Bridge muss mit dem Stromnetz verbunden sein.
+• Drücken und halten Sie für 10 Sekunden die Reset-Taste auf der Geräterückseite.
+• Warten Sie, bis die Speed Home Bridge neu gestartet ist und die Leuchtanzeigen nicht mehr blinken.
+• Drücken Sie die WPS-Tasten an den Speed Home Bridges, um eine Verbindung herzustellen.
+

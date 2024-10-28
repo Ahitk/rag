@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-allgemeines/stoerung-melden
+
+Question: Was passiert, wenn ich eine Störung über die Trassen Defender App gemeldet habe?
+Answer: Sobald die Meldung erfolgreich "Übertragen" und an die zuständige Einheit übergeben worden ist ("In Bearbeitung"), werden wir uns baldmöglichst um die Behebung des Schadens kümmern. Abhängig von der Auftragslage können aber mehrere Stunden vergehen, bis die Instandsetzung begonnen und abgeschlossen ist. Je nach Meldezeitpunkt kann sich die Instandsetzung auch auf den folgenden Werktag verschieben. Sobald die Instandsetzung abgeschlossen ist, wird dies in der App über den Status "Abgeschlossen" signalisiert.
+

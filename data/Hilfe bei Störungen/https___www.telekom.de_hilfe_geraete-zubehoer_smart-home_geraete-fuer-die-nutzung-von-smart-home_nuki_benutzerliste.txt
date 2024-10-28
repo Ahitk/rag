@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/benutzerliste
+
+Question: Warum stimmt die Benutzerliste in Magenta SmartHome nicht mit den Benutzern in der Nuki App überein?
+Answer: Änderungen von Benutzern in der Nuki App werden mit Magenta SmartHome synchronisiert.Es kann jedoch bis zu 24 Stunden dauern, bis die Daten von Nuki zur Verfügung gestellt werden. Möchten Sie beispielsweise einen neuen Nutzer in eine SmartHome Regel einfügen, so ist dies erst nach der Synchronisation möglich.
+

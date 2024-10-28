@@ -1,0 +1,6 @@
+Question:
+Wie kann ich einen Telekom-Syptronk-Anschluss in einer Digitalisierung-Box-Premium einresten?
+
+Answer:
+Willkommen zu unserer neuen Anleitung zur Einrichtung eines Telekom-SIP-Trunk-Anschlusses auf einer Digitalisierung-Box-Premium, die im Media-Gateware-Modus (MGW) betrieben wird. Dieser Modus ermöglicht es Ihnen, eine ISDN-Telefonanlage über Voice-over-IP zu betreiben. die S0-Ports der Box werden benötigt. Um die Konfiguration zu starten, setzen Sie bitte die Digitalisierung-Box-Premium in den MGW-Modus und melden Sie sich mit Ihren Zugangsdaten an. Wählen Sie nun im Bereich Telefonie "Erste Schritte" aus. Hier stellen Sie den Status des Media-Gatewares auf Aktiv und passen landesspezifische Einstellungen an. In der S0-Port-Konfiguration wählen Sie, ob die Ports im Punkt-zu-Mehr-Punkt- oder Punkt-zu-Punkt-Modus betrieben werden sollen. Als nächstes richten Sie den Telekom-SIP-Trunk-Anschluss ein. Falls bisher kein Anschluss konfiguriert wurde, öffnet sich die Konfiguration automatisch. Geben Sie die benötigten Daten wie den Telefonie-Benutzernamen, das Telefonie-Passwort usw. ein. Schließlich speichern Sie die Konfiguration dauerhaft auf dem System. Nun kann die ISDN-Telefonanlage über die Digitalisierung-Box am Voice-over-IP-Anschluss genutzt werden. Vielen Dank für Ihre Aufmerksamkeit.
+

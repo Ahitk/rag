@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/wlan-und-mehr/was-ist-wps-wi-fi-protected-setup
+
+Question: Was ist WPS (Wi-Fi Protected Setup)?
+Answer: WPS (Wi-Fi Protected Setup) ist eine Funktion, mit der Sie auf sehr einfache Art und Weise eine WLAN-Verbindung herstellen können. Zwei WLAN-fähige Geräte werden dabei per Knopfdruck verbunden. Die umständliche Eingabe eines Passworts in ein Konfigurationsmenü entfällt.
+Beispiele für die Verwendung der WPS-Funktion sind die Einbindung eines WLAN-Repeaters oder WLAN-Druckers in Ihr Heimnetzwerk. Inzwischen unterstützen sehr viele moderne Geräte die Verbindung per WPS.
+WPS per Knopfdruck (Pushbutton) am Beispiel des Speedport W 724V.
+
+Sie haben zusätzlich auch die Möglichkeit, die Pushbutton-Methode im Menü Ihres Routers zu aktivieren.
+Was Sie dort genau tun sollen wird erklärt, wenn Sie auf "Wie geht das?" klicken.
+PIN-Methode:
+Wenn Sie diese Methode auswählen, dann funktioniert der automatische Abgleich über eine WPS-PIN. Für die PIN-Methode müssen Sie das Konfigurationsmenü Ihres Routers aufrufen.
+
+• Drücken Sie die Taste "Anmelden" an der Vorderseite Ihres Speedport W 724V. (Bei anderen Geräten befindet sich der "WPS"-Knopf meist auf der Rückseite. Hier am Beispiel des Speedport W 723V.)
+• Jetzt haben Sie 2 Minuten Zeit, den "WPS"-Knopf an dem Gerät zu drücken, welches Sie Ihrem WLAN-Netzwerk hinzufügen wollen.
+• Anschließend wird eine gesicherte Verbindung aufgebaut, was durch das Blinken der Anmelden-Taste beziehungsweise der WPS-Taste angezeigt wird. Dieser Vorgang dauert einige Minuten.
+• Sollte sich die Verbindung nicht herstellen, wiederholen Sie den Ablauf erneut und kontrollieren, ob Ihre Geräte nicht zu weit voneinander entfernt stehen.
+

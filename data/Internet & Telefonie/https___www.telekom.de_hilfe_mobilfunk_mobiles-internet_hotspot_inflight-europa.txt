@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/inflight-europa
+
+Question: Wie kann ich mich über den HotSpot der Inflight FlyNet einloggen?
+Answer: Aktivieren Sie einfach den Flugmodus auf Ihrem Gerät (Smartphone, Tablet oder Laptop) und anschließend die WLAN-Nutzung.
+

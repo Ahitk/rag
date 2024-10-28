@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/blinken-led-bedeutung
+
+Question: Was bedeutet das Blinken der LEDs an meiner Home Base?
+Answer: Home Base 1. Generation – Leuchtanzeige im Detail
+Home Base 2. Generation – Leuchtanzeige im Detail
+Beim Start
+Beim Verbinden mit Ihrem Router über WPS
+In Betrieb
+Beim Ausführen der Statusabfrage durch Drücken der Funktionstaste
+Beim Zurücksetzen auf Werkseinstellungen/Neustart
+Beim direkten Verbinden mit einem Computer
+

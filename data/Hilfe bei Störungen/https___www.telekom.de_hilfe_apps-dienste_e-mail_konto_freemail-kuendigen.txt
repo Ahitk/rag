@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/freemail-kuendigen
+
+Question: Wie kann ich meinen Freemail-Account kündigen?
+Answer: Die Abmeldung Ihrer kostenfreien E-Mail-Adresse erfolgt imKundencenter. Nach dem Login gelangen Sie über "Telekom Mail Verwalten" in die Übersicht der angemeldeten Dienste. Melden Sie zuerst zusätzliche Dienste (z. B. Mail S oder M) und anschließend den Dienst "Freemail" über "Kündigen" ab.
+

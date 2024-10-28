@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/wofuer-kann-ich-die-cloud-vpn-app-nutzen
+
+Question: Wofür kann ich die Cloud VPN App nutzen?
+Answer: Die Cloud VPN App ist die zentrale Steuerzentrale für Ihr Cloud VPN.
+
+Sie bietet  eine grafische Benutzeroberfläche zur Darstellung der Datenströme im Cloud VPN als Basis für das Visual QoS.
+
+Weiterhin erhalten Sie umfangreiche Möglichkeiten zur Eingabe und Einstellung von Konfigurations-Parametern für Ihr Cloud VPN.
+
+Installieren Sie jetzt die Cloud VPN App für Ihr iPad.(Sie werden weitergeleitet auf itunes.apple.com)
+

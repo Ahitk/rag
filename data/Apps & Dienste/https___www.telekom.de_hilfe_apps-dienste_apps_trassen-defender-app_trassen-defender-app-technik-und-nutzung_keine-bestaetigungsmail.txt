@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-technik-und-nutzung/keine-bestaetigungsmail
+
+Question: Warum habe ich keine Bestätigungsmail erhalten?
+Answer: Aktuell werden keine Bestätigungsemails verschickt. Der Status in der Trassen Defender App gibt Aufschluss über den Bearbeitungsstand der Schadensmeldung.
+

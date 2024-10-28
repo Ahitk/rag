@@ -1,0 +1,6 @@
+Question:
+Was ist die maximale Geschwindigkeit, die Ihr Router am Landport anzeigen sollte, wenn Sie über ein aktuelles Kabel verfügen?
+
+Answer:
+"Oh nein, hat Ihr Magenta TV Probleme? Meistens sind diese auf Ihr Heimnetzwerk zurückzuführen und können von Ihnen selbst behoben werden. Überprüfen Sie zuerst die Verbindung zwischen Ihrem Router und Mediareceiver. Eine LAN-Verbindung ist am besten und dafür benötigen Sie mindestens ein CAT 5E-Kabel, um die notwendige Geschwindigkeit zu gewährleisten. Bei älteren Installationen ist das oft nicht gegeben. Wenn Sie Ihre Geräte nicht verkabeln können, benötigen Sie eine stabile WLAN-Verbindung über ein Mesh-WLAN. Geräte nach dem neuesten Wi-Fi Standard 6 sind hier ideal. Darüber hinaus sollten Sie vermeiden, Powerline-Adapter zu verwenden, da diese häufig Geschwindigkeitseinbußen verursachen. Die Telekom bietet auch eine neue Premium TV-Box, die Magenta TV-1, an. Weitere Tipps und Tricks zum Thema Heimnetzwerk finden Sie in den verlinkten Videos. Wenn Ihnen dieses Video geholfen hat, hinterlassen Sie gerne einen Daumen nach oben oder einen Klick unter diesem Video. Viel Spaß mit Magenta TV!"
+

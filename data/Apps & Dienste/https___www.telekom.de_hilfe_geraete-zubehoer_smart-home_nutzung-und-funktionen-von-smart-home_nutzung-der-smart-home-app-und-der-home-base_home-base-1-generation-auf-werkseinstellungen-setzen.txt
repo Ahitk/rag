@@ -1,0 +1,13 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/home-base-1-generation-auf-werkseinstellungen-setzen
+
+Question: Wie kann ich meine Home Base 1. Generation auf Werkseinstellungen zurücksetzen?
+Answer: Sollte es einmal erforderlich sein, können Sie Ihre Home Base 1. Generation auf die Werkseinstellungen zurücksetzen.
+Hinweis:Um zu vermeiden, dass Dritte Zugriff auf Ihre persönlichen Daten/Informationen bekommen, setzen Sie die Home Base 1. Generation – z. B. vor einem Weiterverkauf – auf die Werkseinstellungen zurück.
+
+SmartHome Base neu registrieren
+Nach dem erfolgten Werksreset kann die Home Base 1 wieder registriert werden. Starten Sie die Magenta SmartHome App auf Ihrem Smartphone/Tablet, sobald an der Home Base 1 "Power" und "Service" dauerhaft weiß leuchten. Wählen Sie die Zentrale "Home Base 1.0" aus und geben Sie die Seriennummer der Home Base und Ihr Benutzerpasswort ein. Tippen Sie auf "Weiter" und folgen den Anweisungen auf Ihrem Gerät.
+Datensicherung wiederherstellen
+Wenn Sie jetzt eine Wiederherstellung einer Datensicherung ausführen möchten, öffnen Sie in der Magenta SmartHome App im Menü "Einstellungen" > "Zentrale" > "Sichern und wiederherstellen". Wählen Sie unter "VORHANDENE SICHERUNGEN" die gewünschte Sicherung aus.
+Tipp: Wählen Sie am besten eine Sicherung von dem Tag aus, an dem Ihr SmartHome-Heimnetz ordnungsgemäß funktioniert hat.
+Tippen Sie auf "Wiederherstellen". Fertig! Die Wiederherstellung ist nach wenigen Minuten abgeschlossen.
+

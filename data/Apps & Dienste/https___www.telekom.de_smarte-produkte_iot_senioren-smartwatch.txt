@@ -1,0 +1,41 @@
+Source URL: https://www.telekom.de/smarte-produkte/iot/senioren-smartwatch
+
+Question: Was ist die TCL Safety Watch MT43AX?
+Answer: Die TCL Safety Watch MT43AX ist eine Smartwatch mit Sturzerkennung, SOS-Taste, integriertem GPS-Tracker und Telefonfunktion. So können ältere Menschen über die Smartwatch mit ihren Angehörigen telefonieren und Sprachnachrichten schicken. Außerdem können Angehörige in Echtzeit den Standort ermitteln, an dem sich z. B. ihr Ehepartner, Vater oder Mutter gerade aufhält – einfach und sicher über die TCL Connect App auf ihrem Smartphone. Doch die clevere Notruf-Uhr hat zusätzlich zur GPS-Ortung und Telefonfunktion noch viele weitere praktische Funktionen: durch Drücken der SOS-Taste kann der Nutzer der Notfalluhr automatisch drei definierte Notfallkontakte anrufen. Außerdem lassen sich auf Wunsch festgelegte Sicherheitsbereiche definieren. Sollte der Nutzer der Notruf-Uhr diese Bereiche verlassen, bekommen die Angehörigen vom GPS-Sender der Safety Watch eine Mitteilung auf ihr Handy gesandt. Der integrierte Schrittzähler und der Pulsmesser unterstützen darüber hinaus einen aktiven Lebensstil und machen aus der Smartwatch mit Sturzerkennung gleichzeitig auch eine Gesundheitsuhr.
+
+Question: Warum sollte ich mir diese Smartwatch mit SOS-Funktion kaufen?
+Answer: Die Safety Watch ist für alle Menschen geeignet, die sich in ihrem Alltag gerne sicherer fühlen möchten und bei Bedarf schnell Angehörige oder Freunde anrufen wollen.
+
+Question: Wie genau ist die GPS-Ortung mit der Safety Watch?
+Answer: Die Notruf-Uhr bietet 7 verschiedene Ortungs-Modi: GPS, AGPS oder Glonass, G Sensor, WLAN und LBS. Jeder der Methoden zur Standortbestimmung unterscheidet sich hinsichtlich der Standortgenauigkeit. In manchen Situationen kann es zu Abweichungen kommen. Die Genauigkeit von GPS ist z. B. in der Nähe von hohen Gebäuden oder anderen Hindernissen etwas eingeschränkt. Bei optimalem GPS-Empfang kann aber die Position der Uhr auf 10-30 m genau bestimmt werden.
+
+Question: Warum brauche ich für die Safety Watch einen Mobilfunktarif?
+Answer: Damit die Telefonie, der SOS-Notruf sowie das integrierte Ortungssystem funktionieren, brauchen Sie zwingend einen Mobilfunk-Tarif. Diese Smartwatch gleicht so gesehen einem Handy und greift auf das Mobilfunknetz zu. Sie können die Safety Watch MT43AX Smartwatch selbstverständlich auch ohne Mobilfunktarif nutzen, aber die Hauptfunktionen, also Telefonieren und GPS-Ortung, lassen sich so nicht nutzen.
+
+Question: Wie funktioniert die automatische Sturzerkennung?
+Answer: Wie bei einem Sturzmelder ist in der Safety Watch ein Bewegungs- und Beschleunigungs-Sensor eingebaut. Dieser Sturzsensor registriert, wenn eine schnelle Abwärtsbewegung stattfindet und löst dann den automatischen Notruf und die SMS mit dem GPS-Standort aus. Zudem gibt es auch denJohanniterCall.
+
+Question: Muss ich bei der automatischen Sturzerkennung den Notruf noch bestätigen oder wird dieser automatisch ausgelöst?
+Answer: Bei dieser Smartwatch mit Sturzerkennung haben Sie im Falle eines Sturzes 60 Sekunden lang Zeit, den Notruf noch zu beenden, wenn Sie doch keine Hilfe benötigen. Wenn der Notruf innerhalb dieser Zeit nicht von Ihnen beendet wird, werden nach 60 Sekunden automatisch Ihre Notfallkontakte angerufen, Sie müssen nichts weiter tun.
+
+Question: Benötigen Nutzer der Notfalluhr ein eigenes Handy?
+Answer: Nein, Nutzer der Notruf-Uhr benötigt kein eigenes Handy. Nur der Angehörige, der die App nutzt, benötigt ein Smartphone (ab Android 6.0 oder iOS 11).
+
+Question: Wo steht der Server für die Safety Watch, also wo werden meine Daten verarbeitet?
+Answer: Der Server für die Safety Watch steht in Frankfurt. Ihre Daten werden also gemäß der Datenschutzgrundverordnung (DSGVO) gesichert und verarbeitet.
+
+Question: Was ist der JohanniterCall?
+Answer: Der JohanniterCall ist der neue mobile Hausnotruf-Service der Johanniter-Unfall-Hilfe. Der Vorteil bei diesem neuen Hausnotrufdienst ist, dass Sie bei diesem Notruf-Service nicht mehr an Ihr Zuhause gebunden sind, sondern Sie auch unterwegs die Johanniter zu Hilfe rufen können. Den Service JohanniterCall können Sie ganz einfach direkt bei den Johannitern buchen. Wenn Sie dann in Ihrer Safety Watch die Johanniter als Notrufkontakt hinterlegen, werden diese bei Drücken der SOS-Taste an der Uhr oder im Fall eines Sturzes sofort benachrichtigt. Ein auf Sie und Ihre individuellen Bedürfnisse abgestimmter Notfallablaufplan garantiert dann die optimale Versorgung. Auch Ihre Angehörigen können durch die Johanniter benachrichtigt werden.
+
+Question: Wie funktioniert der JohanniterCall bei der Senioren Smartwatch TCL MT43AX?
+Answer: Wenn Sie den JohanniterCall gebucht haben, speichern Sie die per E-Mail erhaltenen Einwahldaten als Kontakt in Ihrer Safety Watch TCL MT43AX ab und belegen diesen mit der Kurzwahlfunktion. Dann brauchen Sie im Notfall nur noch die SOS-Taste auf Ihrer Senioren Smartwatch zu drücken, um schnelle und individuelle Hilfe zu erhalten. Bei der Einrichtung ist das Hinterlegen einer Notfall-Kontaktperson notwendig, die bei Bedarf ebenfalls alarmiert wird. Der JohanniterCall funktioniert als mobiler Hausnotruf ohne weiteres Zusatzgerät und ist dank der Safety Watch direkt griffbereit. Die professionell ausgebildeten Mitarbeiter der Johanniter-Servicezentrale hören Ihnen zu und sind täglich rund um die Uhr erreichbar.
+
+Question: Warum ist die Akkulaufzeit der Safety Watch im Vergleich zu einem Fitnesstracker (z. B. fitbit) relativ kurz?
+Answer: Ein reiner Fitnesstracker (wie z. B. fitbit) hat kein Mobilfunkmodul, weil man mit diesen Fitnesstrackern nicht telefonieren kann. Dadurch, dass das Mobilfunkmodul ständig eingeschaltet ist, wird der Akku relativ schnell reduziert, genau wie bei einem Smartphone. Der Akku wird auch dann verbraucht, wenn nicht aktiv telefoniert wird, sondern die Uhr „nur“ im Standby Modus am Armgelenk getragen wird. Wenn das Mobilfunkmodul deaktiviert wird, ist keine Übertragung des GPS-Standorts mehr möglich, und auch der SOS-Notruf würde nicht funktionieren. Daher ist es wichtig, dass die Mobilfunkfunktion eingeschaltet bleibt.
+
+Question: Werden der Puls und die Schritte permanent live gemessen und an die App übertragen?
+Answer: Nein, die Pulsmessung erfolgt immer nur in dem Moment, indem sie aktiv durch den Träger an der Uhr oder durch Fernauslösung am Smartphone z. B. durch einen Angehörigen ausgelöst wird. Dann wird der aktuelle Wert an die App übertragen. Auch die Zählung der Schritte erfolgt ebenfalls nur durch Auslösen der Schrittzählung an der Uhr und wird nicht dauerhaft live an die App auf dem Smartphone übertragen, um den Akku zu schonen. Hinweis: Bei Nutzung mit einem Rollator funktioniert der Schrittzähler nicht, da hier die typische Pendelbewegung der Arme fehlt und dadurch keine Unterscheidung der einzelnen Schritte möglich ist.
+
+Question: Was ist der Unterschied zwischen der Safety Watch TCL MT 43AX und der Doro Watch?
+Answer: Im Gegensatz zur Safety Watch TCL MT 43 AX kann die Doro Watch nicht eigenständig ohne Smartphone genutzt werden. Das heißt, dass z. B. keine automatischen Anrufe bei Angehörigen über die SOS Taste erfolgen, wenn man nicht auch gleichzeitig sein Smartphone mit dabei hat. Der Grund ist, dass die Doro Watch über keine eigene SIM-Karte verfügt. Außerdem kann die Doro Watch nur mit einem Doro Smartphone gekoppelt werden. Die Safety Watch kann mit jedem beliebigen Smartphone ab iOS 11 oder Android 6.0 gekoppelt werden.
+

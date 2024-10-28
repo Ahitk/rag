@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/alexa-skill-parallel-nutzen
+
+Question: Kann ich den SmartHome Alexa Skill und den MagentaZuhause Alexa Skill parallel nutzen?
+Answer: Ja, die beiden Skills können auch parallel genutzt und in der Alexa App aktiviert werden.
+Hinweis:
+Wenn Sie zuvor den SmartHome Skill für Amazon Alexa genutzt und nun den MagentaZuhause Skill aktiviert haben, kann es sein, dass Geräte mehrfach mit gleichem Namen in der Alexa App angezeigt werden.
+Um jedes einzelne Gerät mit Alexa per Sprache steuern zu können, können Sie in der Alexa App individuelle Namen für die Geräte vergeben. Die Namensänderung in der Alexa App hat keine Auswirkung auf Ihre Gerätenamen in der MagentaZuhause oder der Magenta SmartHome App.
+In der Alexa App können bei Bedarf auch doppelt angezeigte Geräte entfernt werden.
+

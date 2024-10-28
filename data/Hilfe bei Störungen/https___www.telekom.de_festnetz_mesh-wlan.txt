@@ -1,0 +1,53 @@
+Source URL: https://www.telekom.de/festnetz/mesh-wlan
+
+Question: Was ist die Mesh-Technologie und wie funktioniert sie?
+Answer: Bei einem gewöhnlichen WLAN-Netzwerk wird der Empfang durch ein einzelnes Gerät, den Router, in der Wohnung verteilt. Ein Mesh-Netzwerk hingegen wird mithilfe verschiedener Zugangspunkte im gesamten Wohnbereich eingerichtet. So wird ein WLAN-Netz erzeugt, welches flächendeckend gleichbleibende Datenübertragungsraten garantiert. Sie können dann überall in Ihrer Wohnung auf eine hohe Übertragungsqualität zurückgreifen. Die Zeiten, in denen Sie in einigen Räumen einen schlechteren oder gar keinen Empfang hatten, gehören damit der Vergangenheit an.
+
+Question: Wie können Sie die Reichweite Ihres WLANs optimieren?
+Answer: Die Reichweite eines WLAN-Routers ist begrenzt. Bei einem gewöhnlichen Router können Sie von einer maximalen Reichweite von 10 bis 20 Metern ausgehen. Dabei sollten Sie jedoch beachten, dass die Leistung des Internets abnimmt, je weiter Sie sich vom Ausgangspunkt entfernen. Darüber hinaus können dicke Wände sowie Fußbodenheizungen oder elektronische Geräte wie Babyphones den Empfang stören.
+
+Question: Wie können Sie die Mesh-Technologie zu Hause nutzen?
+Answer: Bei der Kombination mit älteren Routern oder in großen Wohnungen benötigen Sie meist mindestens zwei Speed Home WLAN Geräte. So vernetzen Sie Ihre Wohnung oder Ihr Haus tatsächlich ganzheitlich mit Mesh-WLAN.
+• Bei der Kombination mit älteren Routern oder in großen Wohnungen benötigen Sie meist mindestens zwei Speed Home WLAN Geräte. So vernetzen Sie Ihre Wohnung oder Ihr Haus tatsächlich ganzheitlich mit Mesh-WLAN.
+• 
+• Bei der Kombination mit älteren Routern oder in großen Wohnungen benötigen Sie meist mindestens zwei Speed Home WLAN Geräte. So vernetzen Sie Ihre Wohnung oder Ihr Haus tatsächlich ganzheitlich mit Mesh-WLAN.
+• 
+• Bei der Kombination mit älteren Routern oder in großen Wohnungen benötigen Sie meist mindestens zwei Speed Home WLAN Geräte. So vernetzen Sie Ihre Wohnung oder Ihr Haus tatsächlich ganzheitlich mit Mesh-WLAN.
+
+Question: In welchen Wohnungen können Sie Mesh-WLAN nutzen?
+Answer: Die Signalstärke eines gewöhnlichen Routers reicht nur selten aus, um ein Haus oder eine Wohnung komplett mit der gleichen Übertragungsrate auszustatten. Im Gegenteil, oft müssen Sie mit starken Verlusten bezüglich der Datenqualität in einem Stockwerk rechnen, wenn sich der Router in einem anderen befindet. Auch können dicke Wände dazu führen, dass das Internet nur langsam oder gar nicht funktioniert. Üblicherweise lohnt sich ein Mesh-Netzwerk in den folgenden Fällen:
+• Eine große Wohnung oder ein Wohnhaus soll mit konstanter Internetqualität versorgt werden
+• Stahlbeton, Fußbodenheizung oder andere Faktoren stören den WLAN-Empfang in bestimmten Räumen
+• Die WiFi-Abdeckung soll auf Garten, Keller oder Dachgeschoss ausgeweitet werden
+• Im Haushalt befinden sich viele Geräte, die mit schnellem Internet versorgt werden sollen (PCs, Laptops, Smart TVs etc.)
+
+Question: Wann ist der Einsatz eines Mesh-Netzwerks sinnvoll?
+Answer: Mit der modernen Mesh-Technologie gehören Probleme bei der Datenübertragung der Vergangenheit an. Sie steigert nicht nur die Reichweite Ihres WLAN-Routers, sondern sorgt auch dafür, dass Sie im gesamten Wohnbereich mit gleichbleibender Datenqualität surfen können.
+• Mit der modernen Mesh-Technologie gehören Probleme bei der Datenübertragung der Vergangenheit an. Sie steigert nicht nur die Reichweite Ihres WLAN-Routers, sondern sorgt auch dafür, dass Sie im gesamten Wohnbereich mit gleichbleibender Datenqualität surfen können.
+• 
+• Mit der modernen Mesh-Technologie gehören Probleme bei der Datenübertragung der Vergangenheit an. Sie steigert nicht nur die Reichweite Ihres WLAN-Routers, sondern sorgt auch dafür, dass Sie im gesamten Wohnbereich mit gleichbleibender Datenqualität surfen können.
+• 
+• Mit der modernen Mesh-Technologie gehören Probleme bei der Datenübertragung der Vergangenheit an. Sie steigert nicht nur die Reichweite Ihres WLAN-Routers, sondern sorgt auch dafür, dass Sie im gesamten Wohnbereich mit gleichbleibender Datenqualität surfen können.
+
+Question: Welche Vorteile bietet ein Mesh-WLAN?
+Answer: Natürlich können Sie sich auch einen einfachen Repeater zulegen, der das WiFi-Signal verstärkt und so für eine verbesserte WLAN-Ausleuchtung sorgt. Das ist zwar die günstigere Alternative, aber aus den folgenden Gründen nicht zu empfehlen:
+
+Mit einem Mesh-System der Telekom müssen Sie sich nicht mit solchen Ärgernissen herumschlagen. Sie profitieren dann immer von schnellem Internet im gesamten Wohnraum.
+Eine weitere Möglichkeit, die genannten Probleme zu umgehen, könnte auch die Installation eines Powerline-Adapters sein. Dabei werden Daten von einem Router über die Stromleitung verschickt, der Adapter wird einfach in eine freie Steckdose eingesteckt. So können beispielsweise WLAN-Netzwerke erweitert werden, ohne dass lästige Kabel verlegt werden müssen.
+
+Die Nutzung von Powerline-Adaptern bringt aber ebenfalls einige Nachteile mit sich:
+• Da Repeater die gleiche Verbindung wie der dazugehörige Router nutzen, wird die Übertragungsrate pro angeschlossenem Verstärker etwa halbiert.
+• Oft übernehmen Repeater den WLAN-Namen des Routers nicht. Das hat zur Folge, dass Endgeräte im Netzwerk des Routers bleiben, obwohl der Accesspoint des Repeaters stärker wäre.
+• Wenn das Signal gewechselt wird, kommt es zu einem kurzen Verbindungsabbruch. Das kann zu Ladezeiten beim Streaming, zum Abbruch von Downloads oder zur Unterbrechung von Video-Anrufen führen.
+• Die Datenqualität nimmt in der Regel ab, je weiter ein Gerät von einem Adapter entfernt ist. Hohe Übertragungsgeschwindigkeiten werden meist nur erreicht, wenn sich das Endgerät im gleichen oder benachbarten Raum befindet.
+• Irritationen im Stromkreis können die Verbindung unterbrechen. So sollte der Adapter nicht in eine Mehrfachsteckdose gesteckt werden. Geräte, die sich im Stromkreis zwischen Adapter und Endgerät befinden, können die Verbindung empfindlich stören.
+• Wenn Sie mehrere Geräte mithilfe der Powerline-Technologie gleichzeitig vernetzen möchten, benötigen Sie dafür auch mehrere Adapter. Dadurch können die Anschaffungskosten in die Höhe schnellen.
+
+Question: Warum sollten Sie Mesh-WLAN anderen Varianten vorziehen?
+Answer: Beide Varianten, WLAN-Repeater und Powerline-Adapter, zeigen im Gegensatz zum Mesh-WiFi deutliche Nachteile auf. Wenn Sie also zuverlässiges Internet in Ihrer gesamten Wohnung nutzen möchten, sollten Sie sich für die moderne Mesh-Methode entscheiden.
+• Beide Varianten, WLAN-Repeater und Powerline-Adapter, zeigen im Gegensatz zum Mesh-WiFi deutliche Nachteile auf. Wenn Sie also zuverlässiges Internet in Ihrer gesamten Wohnung nutzen möchten, sollten Sie sich für die moderne Mesh-Methode entscheiden.
+• 
+• Beide Varianten, WLAN-Repeater und Powerline-Adapter, zeigen im Gegensatz zum Mesh-WiFi deutliche Nachteile auf. Wenn Sie also zuverlässiges Internet in Ihrer gesamten Wohnung nutzen möchten, sollten Sie sich für die moderne Mesh-Methode entscheiden.
+• 
+• Beide Varianten, WLAN-Repeater und Powerline-Adapter, zeigen im Gegensatz zum Mesh-WiFi deutliche Nachteile auf. Wenn Sie also zuverlässiges Internet in Ihrer gesamten Wohnung nutzen möchten, sollten Sie sich für die moderne Mesh-Methode entscheiden.
+

@@ -1,0 +1,6 @@
+Question:
+Für welchen Teil der Leitung ist die Telekom verantwortlich und für welchen Teil ist der Kunde verantwortlich?
+
+Answer:
+In der Diskussion geht es um den Einbau und die Installation von Glasfaserleitungen in einem Privathaushalt. Die Telekom gibt Auskunft, dass die Installationsverantwortung von der Wohnsituation abhängt. Für Einfamilienhäuser wird die Glasfaserleitung in einem Drei-Meter-Radius um den Glasfaseranschlusskasten im Keller installiert. In Mehrfamilienhäusern wird die Faser über das Treppenhaus in die Wohnung geführt. Ein Modem und Router werden bei der Installation ebenfalls bereitgestellt. Es wird betont, dass der Router idealerweise zentral in der Wohnung platziert werden sollte, um ein starkes WLAN-Signal zu gewährleisten. Kunden können die Installationsstelle ihrer Wahl vorbereiten, jedoch müssen sie dafür entsprechende Kabelkanäle anlegen. Telekom bietet eine kostenpflichtige Vorbereitung der Kabelkanäle an, wenn der Kunde dies nicht selbst getan hat. Es wird auch geraten, die Glasfaserkabel in Kabelkanälen zu schützen, um Beschädigungen zu vermeiden. Telekom schickt alle relevanten Informationen per E-Mail an den Kunden und unterstützt bei der Inbetriebnahme des Anschlusses.
+

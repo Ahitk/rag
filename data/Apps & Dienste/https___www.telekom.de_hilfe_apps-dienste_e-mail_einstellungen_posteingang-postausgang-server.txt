@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/einstellungen/posteingang-postausgang-server
+
+Question: Wie heißt der Posteingangsserver/Postausgangsserver für meine Telekom E-Mail-Adresse?
+Answer: Wenn Sie Ihre @magenta.de/@t-online.de E-Mail-Adresse in einem Programm, wie z. B. Outlook oder einer App einrichten möchten, benötigen Sie den Posteingangs- und Postausgangsserver.
+Posteingangsserver IMAP:Server: secureimap.t-online.dePort: 993Sicherheit: SSL
+Posteingangsserver POP 3:Server: securepop.t-online.dePort: 995Sicherheit: SSL oder TLS
+Postausgangsserver IMAP und POP 3 (SMTP):Server: securesmtp.t-online.dePort: 465 oder 587Sicherheit: SSL
+Hinweis:Bei der Einrichtung in Ihrem E-Mail-Programm benötigen Sie einPasswort für E-Mail-Programme.
+

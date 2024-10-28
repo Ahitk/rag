@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Mobile-Network-not-available/td-p/6968615/jump-to/first-unread-message
+Subject: Mobile Network not available
+Content: Hello,I’m experiencing an issue with my mobile network, and I’d appreciate any assistance or advice. I’m using an iPhone 14 Pro with Dual SIM functionality (two eSIMs and one physical SIM). I have three SIMs in total:eSIM for Germany (Deutsche Telekom)eSIM for PortugalPhysical SIM for ItalyFor about a week, I had my German eSIM switched off while I used my Portuguese and Italian SIMs. After I reactivated the German eSIM, my mobile network stopped working. Now, I can only make and receive WLAN calls with my German number, and the regular mobile network is unavailable.I contacted customer service via WhatsApp, and they mentioned they didn’t see any issues on their end. They sent me a new eSIM, but unfortunately, the problem persists.Has anyone else experienced a similar issue or know of any troubleshooting steps I can try? Any help would be greatly appreciated!Thank you in advance.
+
+Accepted Solutions:
+- Thank you for your time,@FDefila.The eSIM works as desired again! Very good.Have a wonderful weekend.Kind regardsCaro
+- Thank you for your time,@FDefila.The eSIM works as desired again! Very good.Have a wonderful weekend.Kind regardsCaro

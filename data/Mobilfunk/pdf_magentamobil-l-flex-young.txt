@@ -1,0 +1,28 @@
+Here's a summary of the relevant information from the provided document about the "MagentaMobil L Flex Young" telecommunication product:
+
+### Product Overview:
+- **Name:** MagentaMobil L Flex Young
+- **Provider:** Telekom Deutschland GmbH
+- **Marketing Start Date:** 05.10.2021
+
+### Features:
+- **Included Services:** Mobile connection for telephony, SMS, and access to internet services.
+
+### Data Transmission Rates:
+- **Download Speed:** Up to 300 MBit/s
+- **Upload Speed:** Up to 50 MBit/s
+- **Speed Reduction:** After 80 GB of data consumption, speeds are reduced to:
+  - **Download:** 64 KBit/s
+  - **Upload:** 16 KBit/s
+
+### Contract Information:
+- **Contract Duration:** 
+  - No minimum contract duration.
+  - One month notice period for cancellation.
+- **Monthly Fee:** 
+  - €49.95 (plus one-time hardware cost).
+
+### Important Links:
+- Additional details and terms can be found at [Telekom's website](www.telekom.de/ag). 
+
+This information is critical for understanding the terms and conditions of the mobile plan, especially regarding data limits and costs associated with the service.

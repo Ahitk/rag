@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/surf-geschwindigkeiten
+
+Question: Wie hoch sind die Surf-Geschwindigkeiten der Speedbox?
+Answer: Die Speedbox unterstützt Geschwindigkeiten bis zu300 Mbit/sim Download und50 Mbit/sim Upload.
+Im Akku-Betrieb wird die Leistung der Speedbox auf 20 Mbit/s im Download und 5 Mbit/s im Upload limitiert. Dabei handelt es sich um eine gewollte Geschwindigkeitsbegrenzung zur Verlängerung der Akku-Lebensdauer.
+

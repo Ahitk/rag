@@ -1,0 +1,23 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/android/funktioniert-nicht
+
+Question: Sync-Plus funktioniert nicht auf meinem Android-Gerät. Was kann ich tun?
+Answer: Hier einige allgemeine Tipps, die Ihnen weiterhelfen können, wenn Sync-Plus nicht fehlerfrei arbeiten sollte:
+1. Überprüfen der Internet-Verbindung
+2. Neustarten des Telefons
+3. Aus- und Einschalten der Synchronisation
+4. Überprüfen der Einstellungen im Gerät
+5. Führen Sie ein Software-Update für Ihr Telefon durch
+6. Neueinrichtung von Sync-Plus
+7. Überprüfen, dass der richtige Kalender für die Termine verwendet wird
+8. Überprüfen, dass das richtige Adressbuch für die Kontakte verwendet wird
+Hinweis:Bitte beachten Sie, dass bei Android-Smartphones aufgrund der großen Vielfalt von Herstellern, Gerätetypen und Betriebssystemversionen eine reibungslose Synchronisation nicht für alle Geräte sichergestellt werden kann.
+• Möglicherweise hat Ihr Gerät keine Verbindung ins Internet. In diesem Fall kann keine Synchronisation stattfinden. Überprüfen Sie, ob die Internet-Verbindung (Datenverbindung, WLAN oder HotSpot) Ihres Geräts eingeschaltet ist und warten Sie gegebenenfalls, bis Sie wieder Kontakt haben. Dann läuft die Synchronisation wie gewohnt weiter.
+• Oft können Fehler nur durch das einmalige Aus- und Einschalten des Geräts behoben werden. Schalten Sie dazu Ihr Telefon aus und warten Sie einige Minuten ab, bevor Sie das Gerät erneut einschalten. Sollte der Fehler dann nochmals auftreten, fahren Sie mit dem nächsten Schritt fort.
+• Öffnen Sie die Einstellungen Ihres Geräts und wählen Sie "Konten und Synchronisierung". Wählen Sie den Exchange-Account aus und stellen Sie dort den Datenabgleich auf "Manuell". Nach einem Geräteneustart stellen Sie auf gleichem Weg den Datenabgleich wieder auf "Push".
+• Öffnen Sie die Sync-Plus App und prüfen Sie dort in den Einstellungen das Synchronisationsintervall. Klicken Sie anschließend auf den Button „Jetzt synchronisieren“ um die Synchronisation manuell anzustoßen.
+• Überprüfen Sie, ob auf Ihrem Gerät eine aktuelle Android-Version installiert ist. Für Sync-Plus ist mindestens die Android-Version 5.0 nötig. Informieren Sie sich gegebenenfalls bei dem Hersteller Ihres Gerätes, ob ein Update verfügbar ist und führen Sie dieses durch.
+• Löschen Sie das E-Mail-Konto @magenta.de/@t-online.de auf Ihrem Gerät, so dass die Synchronisation zunächst nicht mehr aktiviert ist. Gehen Sie dazu in die Einstellungen und öffnen Sie "Konten und Synchronisierung". Öffnen Sie den Exchange-Account und wählen Sie die Schaltfläche "Konto entfernen". Richten Sie dann das Konto neu ein. Nutzen Sie dafür dieEinrichtungsanleitung für Ihr Android-Gerät.
+• In Ihrem Android-Gerät haben Sie die Möglichkeit, mehrere Kalender anzulegen und sich anzeigen zu lassen. Darum müssen Sie darauf achten, für die Synchronisation den Kalender des Kontos (@t-online.de/@magenta.de) zu verwenden, den Sie bei der Einrichtung der Sync-Plus App verwendet haben.
+• In Ihrem Android-Gerät  haben Sie die Möglichkeit, mehrere Adressbücher anzulegen und sich anzeigen zu lassen. Darum müssen Sie darauf achten, für die Synchronisation das Sync-Plus-Adressbuch zu nutzen.
+• Um dies sicherzustellen, folgen Sie einfach unsererAnleitung zur Adressbucheinrichtung.
+

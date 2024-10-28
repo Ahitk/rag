@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/signatur-einrichten
+
+Question: Wie kann ich eine Signatur in der Telekom Mail App einrichten?
+Answer: So können Sie in der Telekom Mail App die Signatur für iOS und Android (ab Version 3.1) einstellen:
+

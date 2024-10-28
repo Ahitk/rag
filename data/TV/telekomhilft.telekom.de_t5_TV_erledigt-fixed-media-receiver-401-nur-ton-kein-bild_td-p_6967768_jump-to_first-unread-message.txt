@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/erledigt-fixed-media-receiver-401-nur-ton-kein-bild/td-p/6967768/jump-to/first-unread-message
+Subject: [erledigt/fixed] media receiver  401 nur ton kein bild
+Content: Hiseit heute bekomme ich nach dem Starten nur noch Ton, aber kein Bild mehr zu sehen.  Bei einem Reboot (komplett aus mit Schalter hinten) sehe, ich das normale Boot Menü mit % Counter.Hat wer eine Idee ?
+
+Accepted Solutions:
+- @FernSeheNerdKönnte ein allgemeines Problem seinhttps://telekomhilft.telekom.de/t5/TV/MediaReceiver-kein-Home-Menue-mehr/m-p/6967693#M691605
+- @FernSeheNerdKönnte ein allgemeines Problem seinhttps://telekomhilft.telekom.de/t5/TV/MediaReceiver-kein-Home-Menue-mehr/m-p/6967693#M691605

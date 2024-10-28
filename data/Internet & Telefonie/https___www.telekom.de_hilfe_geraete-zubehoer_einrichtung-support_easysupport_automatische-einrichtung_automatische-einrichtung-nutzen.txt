@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/automatische-einrichtung/automatische-einrichtung-nutzen
+
+Question: Wie kann ich mit meinem Router die automatische Einrichtung nutzen?
+Answer: Wenn Sie einen neuen Telekom Anschluss mit einem Router erhalten oder sich für Ihren bestehenden Anschluss einen neuen Router geholt haben, können Sie Ihr Internet und die Telefonie automatisch einrichten. Wir zeigen Ihnen Schritt für Schritt, wie das geht.
+Hinweis:Die automatische Konfiguration funktioniert ausschließlich mit Routern der Speedport Serie und den Fritz!Boxen 7490 und 7590.
+Tipp:Halten Sie bitte Ihre Zugangsnummer (ehemals T-Online Nummer) und Ihr persönliches Kennwort bereit.
+

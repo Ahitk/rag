@@ -1,0 +1,24 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/ios/funktioniert-nicht
+
+Question: Sync-Plus funktioniert nicht mit meinem iPhone/iPad. Was kann ich tun?
+Answer: Hier finden Sie einige allgemeine Tipps, die Ihnen weiterhelfen können, wenn Sync-Plus nicht einwandfrei funktionieren sollte:
+1. Überprüfen der Mobilfunk-Verbindung
+2. Neustarten des Telefons
+3. Aus- und Einschalten der Synchronisation
+4. Überprüfen der Einstellungen im iPhone oder iPad
+5. Führen Sie ein Software-Update für Ihr Telefon durch
+6. Neueinrichtung von Sync-Plus
+7. Überprüfen, ob der richtige Kalender für die Termine verwendet wird
+8. Überprüfen, ob das richtige Adressbuch für die Kontakte verwendet wird
+• Möglicherweise hat Ihr Gerät keine Verbindung ins Internet. In diesem Fall kann keine Synchronisation stattfinden. Überprüfen Sie, ob die Internet-Verbindung (Datenverbindung, WLAN oder HotSpot) Ihres Geräts eingeschaltet ist und warten Sie gegebenenfalls, bis Sie wieder Kontakt haben. Dann läuft die Synchronisation wie gewohnt weiter.
+• Oft können Fehler nur durch das einmalige Aus- und Einschalten des iPhones oder iPads behoben werden. Schalten Sie dazu Ihr Telefon aus und warten Sie einige Minuten ab, bevor Sie das Gerät erneut einschalten. Sollte der Fehler dann nochmals auftreten, fahren Sie mit dem nächsten Schritt fort.
+• Öffnen Sie die Einstellungen Ihres iPhones oder iPads und wählen Sie "Mail /Accounts".  Stellen Sie dort den Datenabgleich auf "Manuell". Nach einem Geräteneustart stellen Sie auf gleichem Weg den Datenabgleich wieder auf "Push".
+• Rufen Sie die Einstellungen auf und wählen Sie dann "Mail, Kontakte, Kalender".
+• Überprüfen Sie, ob im Eingabefeld "E-Mail" Ihre E-Mail-Adresse @magenta.de/@t-online.de eingetragen ist. Als Benutzername und Kennwort sollten Ihre E-Mail-Adresse @magenta.de/@t-online.de und das zugehörige Passwort eingetragen sein.
+• Abschließend sollten Sie überprüfen, ob im Feld "Server" die Serveradresse "spica.t-online.de" eingetragen ist. Bestätigen Sie Ihre Überprüfung mit Klicks auf <Weiter> bzw. <Fertig>.
+• Überprüfen Sie die Einrichtung von Sync-Plus. Eine Anleitung der Einrichtung finden Sie hier.
+• Schließen Sie Ihr iPhone an Ihren PC oder Mac an und öffnen Sie das Programm iTunes. Sollten Sie aufgefordert werden, das Programm iTunes selbst zu aktualisieren, so führen Sie zunächst dieses Update durch. Anschließend klicken Sie in iTunes auf Ihr iPhone. Klicken Sie auf "Nach Updates suchen …" und folgen Sie den Anweisungen auf dem Bildschirm.
+• Löschen Sie das bisherige Konto @magenta.de/@t-online.de, so dass die Synchronisation zunächst nicht mehr aktiviert ist. Gehen Sie dazu in die Einstellungen und öffnen Sie "Mail, Kontakte, Kalender".
+• In Ihrem iPhone/iPad haben Sie die Möglichkeit, mehrere Kalender anzulegen und sich anzeigen zu lassen. Darum müssen Sie darauf achten, für die Synchronisation den Telekom Kalender zu nutzen.
+• In Ihrem iPhone/iPad haben Sie die Möglichkeit, mehrere Adressbücher anzulegen und sich anzeigen zu lassen. Darum müssen Sie darauf achten, für die Synchronisation das Telekom Adressbuch zu nutzen.
+

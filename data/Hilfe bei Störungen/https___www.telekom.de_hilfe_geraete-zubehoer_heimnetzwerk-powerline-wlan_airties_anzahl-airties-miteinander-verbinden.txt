@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/airties/anzahl-airties-miteinander-verbinden
+
+Question: Wie viele Airties Geräte kann ich miteinander koppeln?
+Answer: Sie können sechs Airties Geräte miteinander vernetzen. Eines davon muss dabei per LAN-Kabel mit dem vorhandenen Router verbunden sein. Alle weiteren Geräte verbinden Sie dann per Airties WiFi App oder per WPS.
+

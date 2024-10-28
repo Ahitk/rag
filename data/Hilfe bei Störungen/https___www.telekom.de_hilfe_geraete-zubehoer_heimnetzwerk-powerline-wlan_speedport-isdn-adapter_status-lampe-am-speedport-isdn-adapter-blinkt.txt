@@ -1,0 +1,21 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speedport-isdn-adapter/status-lampe-am-speedport-isdn-adapter-blinkt
+
+Question: Warum blinkt die Status-Lampe an meinem Speedport ISDN Adapter abwechselnd rot/weiß?
+Answer: Sollte die Telefonie über am Speedport ISDN Adapter angeschlossene Geräte nicht möglich sein, achten Sie auf die Status-Lampe auf dem Gerät. Blinkt diese abwechselnd rot und weiß, ist ein Update der Betriebs-Software nötig.
+
+Dazu gehen Sie wie folgt vor:
+• Laden Sie die Update-Datei runterund speichern diese auf dem Computer, mit dem das Update durchgeführt werden soll, unter einem Pfad Ihrer Wahl.
+• Schließen Sie den Speedport ISDN Adapter mit dem Netzwerkkabel (gelber Stecker) direkt an den Netzwerkanschluß Ihres Computer oder Notebook an.
+• Ebenfalls benötigt das Gerät für diesen Vorgang die Stromversorgung. Achten Sie darauf, dass an Ihrem Computer oder Notebook keine Netzwerkverbindungen aktiv sind(z.B. WLAN).
+• Offnen Sie auf dem Computer oder Notebook einen Internet-Browser. Geben Sie in der Adresszeilehttp://192.168.2.1ein und drücken die Enter-Taste.
+• Es öffnet sich folgende Seite:
+• Geben Sie in das Feld "PIN-Code" das Geräte-Passwort des Speedport ISDN Adapter ein.Wichtig: lassen Sie beim Geräte-Passwort die beiden letzten Stellen weg!Das Geräte-Passwort finden Sie auf dem Aufkleber auf der Rückseite des Gerätes.
+• Wenn sich folgende Seite nicht automatisch öffnet, klicken Sie oben links in der Navigation auf "Firmware Upgrade".
+• Wählen Sie hier beim Auswahlmenü "Upgrade Target" den Punkt "Firmware" aus.
+• Über den Button "Durchsuchen" navigieren Sie zum Speicherort, wo Sie zuvor die herunter geladene Firmware-Datei abgelegt haben und wählen diese aus.
+• Klicken Sie anschließend auf "APPLY"
+• Bestätigen Sie die folgenden Hinweisfenster mit "OK".
+• Es beginnt die Einspielung der Firmware Datei. Trennen Sie den Speedport ISDN Adapter in dieser Phase bitte auf keinen Fall Strom oder Computer/Notebok! Nach ca. 2-3 Minuten ist der Vorgang beendet.
+• Verbinden Sie danach den Speedport ISDN Adapter wieder mit Ihrem Speedport gemäß der Bedienungsanleitung. Nach kurzer Zeit sollte die Status-Lampe wieder weiß leuchten. Falls nicht, führen Sie bitte noch einmal die Ersteinrichtung gemäß der Bedienungsanleitung durch.
+• Anschließend können Sie Ihr ISDN Gerät wieder an dem Speedport ISDN Adapter anschließen. Die Telefonie-Funktion ist nun wieder gegeben.
+

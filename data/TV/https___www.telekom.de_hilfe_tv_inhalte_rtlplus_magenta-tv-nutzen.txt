@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/tv/inhalte/rtlplus/magenta-tv-nutzen
+
+Question: Kann ich mein bestehendes RTL+ Premium Paket auch mit MagentaTV nutzen?
+Answer: Ja, um Ihr bestehendes RTL+ Premium Abo mit MagentaTV zu nutzen, können Sie IhrenRTL+ Account mit dem Telekom Login verbinden. Anschließend loggen Sie sich aufhttps://my.plus.rtl.de/loginein und deaktivieren unter "Paket" Ihr aktuelles RTL+ Paket. Dieses wird zum nächsten Abrechnungsintervall deaktiviert und Sie nutzen dann nur noch das RTL+ Premium Paket aus Ihrem MagentaTV Tarif.
+Hinweis:Wurde das bestehende Abo nicht direkt über RTL+, sondern über einen Drittanbieter (z. B. Apple oder Amazon Prime) gebucht, ist eine separate Kündigung beim Drittanbieter erforderlich. Um eine Doppelberechnung zu vermeiden, buchen Sie die gewünschte Option einen Tag nach der Kündigung des alten Abos. Eine Verknüpfung ist nicht möglich.
+

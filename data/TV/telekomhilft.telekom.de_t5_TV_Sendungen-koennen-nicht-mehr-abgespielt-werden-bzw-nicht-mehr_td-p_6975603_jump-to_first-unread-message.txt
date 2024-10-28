@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Sendungen-koennen-nicht-mehr-abgespielt-werden-bzw-nicht-mehr/td-p/6975603/jump-to/first-unread-message
+Subject: Sendungen können nicht mehr abgespielt werden bzw. nicht mehr aufgenommen werden
+Content: Seit ca. 8 Wochen können keine Sendungen mehr aufgenommen bzw. abgespielt werden.Es kommt immer ein Hinweis mit irgendeinem Hauptreceiver? Ich habe aber nur den einen.Die externe Festplatte habe ich bereits getauscht und einen Neustart habe ich auch schon mehrmals durchgeführt
+
+Accepted Solutions:
+- @FLS12schrieb:Werksreset? was ist da zu machen?MfgKeine Bedienungsanleitung mehr?https://www.telekom.de/hilfe/downloads/bedienungsanleitung-media-receiver-401-typ-b.pdf
+- Hallo@FLS12,speichert der Media Receiver auch was extern? Das glaube ich nämlich erstmal nicht, der kann nur mit der internen Festplatte und die ist jetzt wohl hinüber.Versuchen Sie mal einen Werksreset, ohne die interne Platte auszubauen.Viele Grüße,Coole Katze
+- Hallo@FLS12,speichert der Media Receiver auch was extern? Das glaube ich nämlich erstmal nicht, der kann nur mit der internen Festplatte und die ist jetzt wohl hinüber.Versuchen Sie mal einen Werksreset, ohne die interne Platte auszubauen.Viele Grüße,Coole Katze
+- @FLS12schrieb:Werksreset? was ist da zu machen?MfgKeine Bedienungsanleitung mehr?https://www.telekom.de/hilfe/downloads/bedienungsanleitung-media-receiver-401-typ-b.pdf

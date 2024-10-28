@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/werbung-deaktivieren
+
+Question: Wie kann ich die Werbung in der Telekom Mail App deaktivieren?
+Answer: Tippen Sie in der Telekom Mail App auf das Hamburger-Menü (3 waagerechte Striche) und anschließend auf "Einstellungen".
+

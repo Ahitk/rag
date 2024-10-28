@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Neukunde-DSL-Verbindung-ist-gestoert-Fritzbox-7530/td-p/6959531/jump-to/first-unread-message
+Subject: Neukunde: DSL Verbindung ist gestört Fritzbox 7530
+Content: Guten Tag,als Neukunde der Telekom hätte heute mein Anschluss freigeschaltet werden sollen.Die Zugangsdaten habe ich schon heute morgen im Router hinterlegt. Leider bekomme ich auch nach mehrmaliger Neueingabe am Abend immer noch die Meldung in der FritzBox"Die Prüfung der Internetverbindung ist fehlgeschlagen. Die DSL-Verbindung ist gestört. Prüfen Sie, ob das DSL-Kabel richtig angeschlossen ist"Dies habe ich natürlich mehrfach getan.Die Power/DSL Lampe blinkt dauerhaft.Kann es sein dass hier vlt doch noch nichts geschaltet ist oder die falsche Leitung erwischt wurde, falls das . möglich ist? Bei mnet kam damals jemand in die Wohnung um die Leitung durchzuklingeln.Vielen Dank für hoffentliche HilfeViele GrüßeChristoph
+
+Accepted Solutions:
+- Abschluss:Techniker war heute da und hat im Keller die Leitung umgesteckt.Router (Fritz Box 7530 original von mnet) hat sich mit Telekom Zugangsdaten problemlos eingewählt.Internet funktioniert jetzt.
+- Abschluss:Techniker war heute da und hat im Keller die Leitung umgesteckt.Router (Fritz Box 7530 original von mnet) hat sich mit Telekom Zugangsdaten problemlos eingewählt.Internet funktioniert jetzt.

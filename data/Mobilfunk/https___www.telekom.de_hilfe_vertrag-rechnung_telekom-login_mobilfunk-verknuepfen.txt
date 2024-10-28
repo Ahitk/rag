@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/mobilfunk-verknuepfen
+
+Question: Wie kann ich meinen Mobilfunk-Vertrag nachträglich mit einem Telekom Login verknüpfen?
+Answer: Melden Sie sich mit Ihrem Telekom Login imKundencenteran und gehen Sie in der Kachel "Verträge" auf "Verträge verwalten".
+

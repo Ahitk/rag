@@ -1,0 +1,6 @@
+Question:
+Wie kann ich die Online-Zeit meiner Kinder mit dem Speedport Router begrenzen?
+
+Answer:
+In dieser Diskussion erfährt der Hörer, wie man das Mesh-WLAN des Speedport Smart 4 Routers nutzen kann, der mehr als nur eine einfache Mesh-Zentrale ist. Alin Clement, ein Experte von Tetekom, erklärt die verschiedenen Funktionen, die durch die Tasten auf dem Gerät verfügbar sind. Hierzu zählen die WLAN-Taste, die Display- oder Menü-Taste und die Plus-Taste. Mit letzterer kann man beispielsweise Zusatzgeräte anmelden oder ausschalten. Wenn eine wichtige Statusmeldung ansteht, blinkt die Display- oder Menü-Taste. Tanya, eine Zuhörerin, möchte wissen, wie man ein Gäste-WLAN einrichtet. Alin erklärt, dass man dies einfach durch das Menü navigieren kann, bis man zum Punkt "Gäste-WLAN" kommt. Dann drückt man auf das grüne Plus, und das Gäste-WLAN ist aktiviert. Seine Standardeinstellung bleibt 24 Stunden aktiv, kann aber über die Weboberfläche des Routers angepasst werden. Eine andere Zuhörerin, Gabi, möchte die Online-Zeit ihrer Kinder begrenzen. Alin erklärt, wie sie die Kinderschutzfunktionen des Routers nutzen kann, um die Zeit zu begrenzen. Schließlich wird erwähnt, dass der Router auch Smart-Home-Funktionen unterstützt, was im nächsten Video erklärt werden wird.
+

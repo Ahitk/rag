@@ -1,0 +1,6 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Smart-4-Interne-Telefonanrufe-auf-analogem-Port-ueber/td-p/6945081/jump-to/first-unread-message
+Subject: Speedport Smart 4 Interne Telefonanrufe auf analogem Port über IP-Telefon
+Content: Hallo,ich bin ja etwas leidgeprüft mit der DECT-Funktion des o.g. Routerssiehe:LinkDaher bin ich auf WLAN Telefonie umgestiegen mit einem WLAN Telefon von Grandstream. Funktioniert bisher sehr gut, allerdings kann ich keinen Ruf zur analogen Nebenstellen des Routers aufbauen. Im WLAN Telefon kommt die Meldung " K. Übereinstimmung mit Rufnummernplan". Schlecht da an dem Port die Türsprechstelle hängt und ich keine Info bekomme wenn jemand klingelt...Interne Gespräche vom WLAN-Telefon zu den noch in Funktion befindlichen DECT-Telefonen gehen aber in beiden Gesprächsrichtungen . Auch vom DECT-Telefon zum internen analogen Port des Routers geht es in beiden Richtungen problemlos.Hat jemand eine Idee?
+
+Accepted Solutions:
+- ich hab jetzt nochmal recherchiert, das IP Endgerät hat sich an den "**", also  **63 bzw. **1 gestört, die man bei internen Nebenstellen wählen muss. Man muss dann im "Rufnummernplan" (besteht nur aus einer Eingabezeile) folgende Syntax hinterlegen: **xx+| **x+nun funktioniert es

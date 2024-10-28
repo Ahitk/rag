@@ -1,0 +1,6 @@
+Question:
+Wie richten Sie einen Telekom-Zip-Trunk-Anschluss im Media-Gateware-Betrieb ein?
+
+Answer:
+Willkommen zu einer kurzen Zusammenfassung unseres Videos über die Einrichtung eines Telekom-Zip-Trunk-Anschlusses im Media-Gateware-Betrieb. Dieses Video zeigt, wie eine bestehende ISDN-Telefonanlage auf IP mittels einer Digitalisierungsbox umgestellt wird. Die Box registriert Voice-Over IP-Rufnummern und leitet diese an die ISDN-Anlage weiter. Die Einstellungen werden mittels Anmeldeinformationen in der Digitalisierungsbox vorgenommen, wobei grundlegende Einstellungen im Bereich 'erste Schritte' geändert werden können. Hier kann man auch Ländereinstellungen anpassen, ISDN-Ports konfigurieren und den Betriebsmodus der Media-Gateware ändern. Um den Telekom-Zip-Trunk-Anschluss einzurichten, sind bestimmte Informationen wie der Telefonie-Benutzername, das Telefonie-Passwort, die Registrierungsnummer und der Rufnummernblock erforderlich, die von der Deutschen Telekom  bereitgestellt werden. Nach der Konfiguration ist der Telekom-Zip-Trunk-Anschluss einsatzbereit und die Konfiguration der Digitalisierungsbox wird gespeichert. Das Video endet mit Dank für die Aufmerksamkeit der Zuschauer. Copyright WDR 2020
+

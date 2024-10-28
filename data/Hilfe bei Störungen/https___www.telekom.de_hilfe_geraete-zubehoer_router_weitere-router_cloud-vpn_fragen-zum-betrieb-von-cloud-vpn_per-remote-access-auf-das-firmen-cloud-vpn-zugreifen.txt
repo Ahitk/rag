@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/per-remote-access-auf-das-firmen-cloud-vpn-zugreifen
+
+Question: Können Mitarbeiter per Remote Access auf das Firmen-Cloud VPN zugreifen?
+Answer: Wenn ein kompatibler SSL-VPN Client (z. B. Cisco "AnyConnect") installiert werden kann, kann auch eine VPN Verbindung hergestellt werden. Die Remote-Einwahl bietet dann vollständigen Zugriff auf das Cloud VPN-Netz und agiert, analog zu einem kleinen Standort, mit vollem Nutzungsumfang.
+

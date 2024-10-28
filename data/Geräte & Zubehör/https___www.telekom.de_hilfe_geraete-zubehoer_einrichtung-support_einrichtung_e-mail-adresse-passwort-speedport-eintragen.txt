@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/e-mail-adresse-passwort-speedport-eintragen
+
+Question: Wie trage ich E-Mail-Adresse und Passwort in meinen Router vom Typ Speedport ein?
+Answer: So tragen Sie die  geänderte E-Mail-Adresse und/oder das Passwort in Ihren Speedport ein:
+Ab sofort verwendet Ihr Speedport für die Internet-Telefonie die neue E-Mail-Adresse und/oder das neue Passwort.
+• Geben Sie in Ihrem Internet-Browser die Adresse http://192.168.2.1 ein und drücken Sie die Eingabetaste. Die Loginseite erscheint.
+• Klicken Sie auf "Konfiguration starten".
+• Geben Sie das Gerätepasswort ein und klicken Sie auf "OK". Die Startseite des Konfigurationsprogramms erscheint.
+• Klicken Sie unter "Konfiguration" auf den Menüpunkt "Telefonie".
+• Klicken Sie unter "Telefonnummern" auf den Menüpunkt "DSL Telefonie ".
+• Klicken Sie auf die Telefonnummer, zu der Sie die Zugangsdaten geändert haben.
+• Auf der jetzt erscheinenden Seite können Sie die E-Mail-Adresse und/oder das Passwort anpassen.
+• Klicken Sie auf "Speichern".
+

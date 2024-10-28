@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/sicherheitsteam/passwort-aenderungsprozess
+
+Question: Wie kann ich meinen Telekom Login nach Sperrung vom Sicherheitsteam freischalten?
+Answer: Öffnen Sie dasKundencenterund melden Sie sich mit Ihrem gesperrten Telekom Login (Benutzername und Passwort) an, um automatisch in den Passwort-Änderungsprozess geleitet zu werden und den Grund der Sperrung zu erfahren. Klicken Sie anschließend auf "Weiter".
+

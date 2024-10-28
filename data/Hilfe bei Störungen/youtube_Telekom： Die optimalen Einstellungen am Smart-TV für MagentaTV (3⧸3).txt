@@ -1,0 +1,6 @@
+Question:
+Welche Art von HDMI-Kabel sollte mindestens für die Verbindung von Mediaressiebe und Fernseher verwendet werden?
+
+Answer:
+Das Hauptproblem bei Magenta TV ist üblicherweise eine mangelhafte Heimnetzverbindung. Die Ursache könnte das HDMI-Kabel sein - es sollte mindestens ein HDMI 2.0A-Kabel sein. Bei den Mediaressiebe 4001 und Magenta TV 1 ist immer das passende Kabel enthalten. Die Problemquelle kann aber auch der HDMI-Port selbst sein. Sollten Probleme mit dem Fernsehgerät auftreten, kann ein Neustart helfen. Ansonsten können Versuche mit verschiedenen HDMI-Funktionen unternommen werden. Wichtige Punkte sind das Überprüfen und Deaktivieren der HDCP-Version, eventueller eigenen Aufnahmefunktionen und erweiterter HDMI-Funktionen sowie das Anpassen der Auflösung und Bildfrequenz. Zuletzt kann die HDMI CEC-Steuerungsfunktion deaktiviert werden. Wenn Magenta TV immer noch nicht funktioniert, könnten andere Schwachstellen im Heimnetz die Ursache sein.
+

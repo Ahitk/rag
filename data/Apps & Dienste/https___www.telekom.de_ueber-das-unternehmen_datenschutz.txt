@@ -1,0 +1,241 @@
+Source URL: https://www.telekom.de/ueber-das-unternehmen/datenschutz
+
+Question: 1. Welche Daten werden erfasst, wie werden sie verwendet und wie lange werden sie gespeichert?
+Answer: a) Erforderliche Verarbeitungen bei der Erbringung des digitalen Dienstes (Art. 6 Abs. 1 b DSGVO, § 25 Abs. 2 Nr. 2 TTDSG)
+b) Zusätzliche Verarbeitungen bei der Erbringung des digitalen Dienstes, die auf Basis einer Einwilligung erfolgen, z.B. optionale angebotene Kommunikationskanäle (Art. 6 Abs 1 a DSGVO, § 25 Abs. 1 TTDSG)
+c) Abweichende Verarbeitungen im Bereich TelekomCloud Marketplace (Geschäftskunden)
+d) Verarbeitungen bei der Erbringung des digitalen Dienstes, die auf Basis des berechtigten Interesses erfolgen (Art. 6 Abs. 1 f DSGVO, § 25 Abs. 2 Nr. 2 TTDSG)
+• Der Feedback-Button auf der Webseite. Über diese Schaltfläche können Sie uns jederzeit Ihr Feedback geben. Sofern Sie diese Funktion nicht nutzen, werden auch keine Daten übermittelt.
+• Einblendung einer aktiven Feedback-Abfrage. Diese Abfrage können Sie verneinen oder zu jeder Zeit abbrechen. Die Antworten werden erst gesendet, wenn die Befragung durch Sie abgeschlossen wird.
+• Verarbeitung mit dem AuftragsverarbeitersIBM Deutschland GmbH(„IBM“, Wilhelm-Fay-Straße 30-34, 65936 Frankfurt). Personenbezogene Daten, wie z. B. Ihr Name, Ihre Anschrift, Telefonnummer, oder E-Mail-Adresse, werden vor der Übertragung an den Auftragsverarbeiter pseudonymisiert. Dabei erfolgt das Daten-Hosting im IBM Cloud Rechenzentrum in Frankfurt am Main, Deutschland.
+• Um Ihnen eine passende Antwort auf Ihre Fragen zu geben, setzen wir eine eigene technische Plattform ein, die u. a. OpenAI ChatGPT verwendet. In diesem Fall werden alle personenbezogenen Daten vor der Datenübertragung entfernt.
+• Darüber hinaus werden die Daten vor der Verwendung zur Verbesserung dieser Dienste durch eine Anonymisierung um potenzielle personenbezogene Daten bereinigt. Hier finden Sie weiterführende Informationen zum ThemaChat. Das pseudonymisierte Chatprotokoll wird nach dem Dialogende gelöscht. Es besteht die Möglichkeit, dass der Chatbot bei Bedarf und nach Ihrer Zustimmung Daten an unseren Text Chat des Kundenservices übergibt. Dabei werden der Chatverlauf und vorhandene Kundendaten, sofern sie sich vorab mit dem Telekom-Login eingeloggt haben, an den Text Chat übergeben.
+
+Question: 2. Sendet der Online-Dienst Push-Benachrichtigungen?
+Answer: Push-Benachrichtigungen sind Nachrichten, die auf Ihr Endgerät gesendet und dort priorisiert dargestellt werden. Dieser Online-Dienst verwendet Push-Benachrichtigungen im Auslieferungszustand, sofern Sie bei der Installation oder bei der ersten Nutzung eingewilligt haben (Art. 6 Abs. 1a DSGVO).Sie können den Empfang von Push-Benachrichtigungen jederzeit in den Einstellungen Ihres Gerätes deaktivieren. Die Abwicklung erfolgt über die Auftragsverarbeiter360Dialog GmbHbzw.MoEngage.
+
+Question: 4. Wird mein Nutzungsverhalten ausgewertet, z. B. für Werbung oder Tracking?
+Answer: Wir möchten, dass Sie unsere digitalen Dienste gerne nutzen und unsere Produkte und Dienste in Anspruch nehmen. Damit Sie die Produkte finden, die Sie interessieren und wir unseren digitalen Dienst nutzerfreundlich ausgestalten können, analysieren wir pseudonymisiert Ihr Nutzungsverhalten. Im Rahmen der gesetzlichen Regelungen werden Nutzungsprofile angelegt. Nachfolgend informieren wir Sie allgemein über die verschiedenen Zwecke der Verarbeitungen. Über die Abfrage „Einwilligung in die Datenverarbeitung“, die beim Aufruf unseres digitalen Dienstes erscheint, haben Sie die Möglichkeit den Verarbeitungen zuzustimmen oder sie in Teilen oder Ganz abzulehnen. Verarbeitungen, die zur Erbringung des digitalen Dienstes erforderlich sind, (siehe Erläuterung oben unter 1.) können nicht abgelehnt werden.
+a) Erforderliche Verarbeitungen
+Diese Verarbeitungen sind notwendig, damit Sie durch den digitalen Dienst navigieren und wesentliche Funktionen nutzen können. Sie ermöglichen Grundfunktionen, wie die Bestellabwicklung im Online-Shop und den Zugriff auf gesicherte Bereiche des digitalen Dienstes. Zudem dienen sie der anonymen Auswertung des Nutzerverhaltens, die von uns verwendet werden, um unseren digitalen Dienst stetig für Sie weiterzuentwickeln. Rechtsgrundlage für diese Verarbeitungen ist §25 Abs. 2 Nr. 2 TTDSG, Art. 6 Abs. 1b DSGVO bzw. bei Drittstaaten Art. 44 ff. DSGVO.
+Telekom
+Warenkorb
+Session, 30 Tage
+Deutschland
+Telekom
+Login inkl. „Benutzername merken“ / „Angemeldet bleiben“
+Session, 12 Monate (Angemeldet bleiben)
+Deutschland
+Tealium
+Tag-Management
+3 Monate
+Niederlande
+PurpleView
+Video-Ident
+12 Stunden
+Deutschland
+Risk.Ident
+Betrugsprävention
+Code-Snippet
+Deutschland
+b. optionale Verarbeitungen
+Diese Verarbeitungen werden verwendet, wenn Sie zusätzlichen Funktionen, wie z. B. den Chat nutzen. Die möglichen Funktionen werden im Abschnitt 1 dieses Datenschutzhinweises erläutert. Rechtsgrundlage für diese Verarbeitungen ist § 25 Abs. 1 TTDSG, Art. 6 Abs. 1 a DSGVO bzw. bei Drittstaaten Art. 49 Abs. 1 a DSGVO.
+Firma
+Zweck
+Speicherdauer
+Land
+Genesys
+Text Chat
+36 Monate
+Deutschland
+SurveyMonkey (vorm. Usabilla)
+Benutzerumfragen
+24 Monate
+Irland
+Telekom
+Chatbot (Frag Magenta)
+14 Tage
+Deutschland
+Salesforce Survey
+Service Portal
+6 Monate
+Deutschland, Frankreich
+PurpleView
+Video-Beratung
+12 Stunden
+Deutschland
+MoEngage
+Push-Nachrichten
+24 Monate
+Deutschland, USA
+360Dialog
+Push-Nachrichten
+24 Monate
+Deutschland
+c. Analytische Verarbeitungen
+Diese Verarbeitungen helfen uns, das Nutzungsverhalten besser zu verstehen. Analytische Verarbeitungen ermöglichen die Erhebung von Nutzungs- und Erkennungsmöglichkeiten durch Erst- oder Drittanbieter, in pseudonymen Nutzungsprofilen. Wir benutzen beispielsweise analytische Verarbeitungen, um die Zahl der individuellen Nutzer des digitalen Dienstes zu ermitteln oder um technische Informationen bei einem Absturz des digitalen Dienstes zu erheben, als auch das Nutzerverhalten auf Basis pseudonymer Informationen zu analysieren, wie Nutzer mit dem digitalen Dienst interagieren. Rechtsgrundlage für diese Verarbeitungen ist Art. 6 Abs. 1 a DSGVO bzw. bei Drittstaaten Art. 49 Abs. 1 a DSGVO.
+Telekom oder Mapp (vorm. Webtrekk)
+Bedarfsgerechte Gestaltung und Analyse
+6 Monate
+Deutschland
+Adjust
+Bedarfsgerechte Gestaltung
+30 Tage
+Deutschland
+Ipsos (vorm. GfK)
+Marktforschung
+Session
+Europa
+INFOnline
+Reichweitenmessung
+60 Tage
+Europa
+Artefact (vorm. Metalyzer)
+Affiliate
+30 Tage
+Deutschland
+Mapp (vorm. Teradata)
+Newsletter (Affiliate)
+30 Tage
+Deutschland
+Telekom (Matomo)
+Bedarfsgerechte Gestaltung
+13 Monate
+Deutschland
+ABlyft
+A/B Testing
+3 Monate
+Deutschland
+AT Internet (Xiti)
+Bedarfsgerechte Gestaltung
+6 Monate
+Europa
+Verint
+Benutzerumfragen, Bedarfsgerechte Gestaltung
+24 Monate
+Deutschland, Niederlande
+Datenschutz-Einstellungen: Sie können IhreEinstellungenjederzeit erneut aufrufen, um Ihre Präferenzen zu verwalten.
+d. Marketing / Retargeting Verarbeitungen
+Diese Verarbeitungen werden eingesetzt, um Ihnen personalisierte und dadurch relevante werbliche Inhalte anzeigen zu können.
+Marketing-Verarbeitungen werden eingesetzt, um interessante Werbeinhalte anzuzeigen und die Wirksamkeit unserer Kampagnen zu messen. Dies geschieht nicht nur in digitalen Diensten der Telekom, sondern auch in anderen digitalen Diensten (Drittanbieter). Dies wird auch als Retargeting bezeichnet. Es dient zur Erstellung pseudonymer Inhalts- oder Anzeigenprofile, der Schaltung relevanter Werbung in anderen digitalen Diensten und um Erkenntnisse über Zielgruppen, die die Anzeigen und Inhalte betrachtet haben, abzuleiten. Marketing- und Retargeting-Verarbeitungen helfen uns mögliche relevanten Werbeinhalte für Sie anzuzeigen. Durch das Unterdrücken von Marketing-Verarbeitungen sehen Sie auch weiterhin die gleiche Anzahl an Werbung, die aber möglicherweise weniger relevant für Sie ist. Rechtsgrundlage für diese Verarbeitungen ist §25 Abs. 1 TTDSG, Art. 6 Abs. 1a DSGVO bzw. bei Drittstaaten Art. 49 Abs. 1a DSGVO.
+Telekom
+Bedarfsgerechte Gestaltung, Werbung
+24 Monate
+Deutschland
+Ad4Mat
+Werbung
+24 Monate
+Deutschland
+AWIN
+Werbung
+24 Monate
+Deutschland
+Mapp (vorm. Webtrekk)
+Marketing, Personalisierung
+6 Monate
+Deutschland
+emetriq (vorm. Xplosion)
+Profilbildung, Werbung
+12 Monate
+Deutschland
+Linkster
+Werbung
+30 Tage
+Deutschland
+Trbo
+Personalisierung
+24 Monate
+Deutschland
+Telekom
+Personalisierung
+4 Monate
+Deutschland
+Datenschutz-Einstellungen: Sie können IhreEinstellungenjederzeit erneut aufrufen, um Ihre Präferenzen zu verwalten.
+e. Dienste von anderen Unternehmen (eigenverantwortliche Drittanbieter)
+Wir haben Dienste von Drittanbietern eingebunden, die ihre Dienste eigenverantwortlich oder in gemeinsamer Verantwortung mit der Telekom erbringen. Dabei werden bei der Nutzung unseres digitalen Dienstes mittels Cookies oder ähnlicher Technologien Daten erfasst und an den jeweiligen Dritten, zum Teil für Telekomeigene Zwecke, übermittelt. Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 a bzw. Art. 49 Abs 1a DSGVO. Informationen zur Weiterverarbeitung zu eigenen Zwecken des Drittanbieters entnehmen Sie den Datenschutzhinweisen des Drittanbieters (Zwecke, Speicherdauer und Rechtsgrundlage). Sofern eine Datenverarbeitung, auch in Mitverantwortung der Telekom erfolgt, informieren wir wie folgt über die möglichen Risiken.
+Vereinigte Staaten von Amerika (Datenexporteur: Google Irland)
+Google LLC
+Nutzungsdaten
+EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher
+Vereinigte Staaten von Amerika (Datenexporteur: LinkedIn Irland)
+LinkedIn Inc.
+Nutzungsdaten
+EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher
+Vereinigte Staaten von Amerika (Datenexporteur: Facebook Irland)
+Meta Platforms Inc.
+Nutzungsdaten
+EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher
+Vereinigte Staaten von Amerika (Datenexporteur: Microsoft Irland)
+Microsoft Corporation
+Nutzungsdaten
+EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher
+GoogleGoogle Ads:Wir verwenden in unserem digitalen Dienst die Google Adsund Floodlight Funktion der Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irland („Google“). Diese Funktion dient dazu, Besuchern im Rahmen des Google-Werbenetzwerks interessenbezogene Werbeanzeigen zu präsentieren. Im digitalen Dienst können dem Besucher dann Werbeanzeigen präsentiert werden, die sich auf Inhalte beziehen, die der Besucher zuvor in anderen digitalen Diensten aufgerufen hat, die die Remarketing Funktion von Google verwenden. Sollten Sie die Remarketing Funktion von Google dennoch nicht wünschen, können Sie diese grundsätzlich deaktivieren, indem Sie die entsprechenden Einstellungen unterhttp://www.google.com/settings/adsvornehmen. Alternativ können Sie den Einsatz von interessenbezogener Werbung über die Werbenetzwerkinitiative deaktivieren, indem Sie den Anweisungen unterhttp://www.networkadvertising.org/managing/opt_out.aspfolgen. Weiterführende Informationen zu Google Ads und die Datenschutzerklärung von Google können Sie einsehen unter:https://policies.google.com/technologies/ads?hl=de/.
+Wenn Sie über eine Google-Anzeige auf unseren digitalen Dienst gelangt sind, wird von Google AdWords ein Cookie auf Ihrem Endgerät gespeichert. Dieses Cookie verliert nach 90 Tagen seine Gültigkeit. Die mit Hilfe dieses sogenannten Conversion-Cookies eingeholten Informationen dienen dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer durch eine Google-Anzeige auf unsere Webseiten gekommen sind und innerhalb von 90 Tagen ein Produkt erwerben. Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookies für Conversion-Tracking deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der entsprechenden Domain blockiert werden: Google Ads:googleadservices.com
+Google YouTube Videos:YouTube erhebt Daten, um den Nutzern bessere Dienste zur Verfügung zu stellen – von der Feststellung grundlegender Informationen, wie zum Beispiel Ihrer Sprache bis hin zu komplexeren Fragen, wie zum Beispiel Werbung. Welche Daten YouTube erhebt und wie diese verwendet werden, hängt davon ab, wie Sie die Dienste nutzen und wie Sie Ihre Datenschutzeinstellungen verwalten.Wenn Sie nicht in einem Google-Konto angemeldet sind, werden die erhobenen Daten mit eindeutigen Kennungen gespeichert, die mit dem Browser, der App oder dem Gerät verknüpft sind. Damit kann beispielsweise gewährleistet werden, dass die Spracheinstellungen bei allen Sitzungen beibehalten werden.Wenn Sie in einem Google-Konto angemeldet sind, werden auch Daten erhoben, die in Ihrem Google-Konto gespeichert und als personenbezogene Daten erachtet werden.Weitere Informationen finden Sie unter:https://policies.google.com/privacy?hl=de&gl=de
+Meta / FacebookWir verwenden in unserem digitalen Dienst das Meta-Pixel und den Customer Audience Dienst zur Optimierung unseres Werbeangebotes, soweit Sie gegenüber Facebook eine entsprechende Zustimmung erteilt haben. Weitere Informationen über diese Facebook-Dienste und die Datenschutzhinweise von Meta Ireland Ltd., Merrion Road Dublin 4, Irland ("Meta") können Sie unter dem Linkhttps://www.facebook.com/privacy/explanationabrufen.
+Wenn Sie einen Facebook User Account nutzen, ist dies für das Meta-Pixel auf unserem digitalen Dienst anhand des gesetzten Facebook Cookies erkennbar, über welches die gesammelten Nutzungs-Daten zu Analyse- und Marketingzwecken an Meta übermittelt werden. Dieser Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Meta können Sie direkt bei Facebook überprüfen und/ oder deaktivieren. Beim Meta-Pixel handelt es sich um einen JavaScript-Code, welcher folgenden Daten an Facebook übermittelt:
+Die vorgenannte Datenverarbeitung betrifft nur Nutzer, die einen Account bei Facebook haben oder eine Partner-Seite von Facebook aufgerufen haben (wodurch ein Cookie gesetzt wurde). Die Ausspielung von Werbung auf Facebook-(Partner-) Seiten anhand des Dienstes „Customer Audience“ betrifft keine Nutzer, die nicht Mitglied bei Facebook sind. Kann eine Zuordnung der im Facebook-Cookie enthaltenen Facebook-ID zu einem Facebook-Nutzer vorgenommen werden, ordnet Facebook diesem Nutzer anhand der von uns festgelegten Regeln einer Zielgruppe ("Custom Audience") zu, sofern die Regeln einschlägig sind. Die so erhaltenen Informationen nutzen wir für die Präsentation von Telekom Werbung auf Facebook-(Partner-) Seiten. Wenn Sie der Nutzung vom Facebook-Pixel widersprechen möchten, können Sie ein Opt-Out Cookie bei Facebook setzen oder JavaScript in Ihrem Browser deaktivieren. Weitere Informationen sowie die Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre zu Werbezwecken entnehmen Sie bitte den Datenschutzrichtlinien von Facebook, welche u.a. aufhttps://www.facebook.com/ads/website_custom_audiences/zu finden sind.
+LinkedInDas Re-Targeting und Conversion Tracking von LinkedIn (LinkedIn Irland, Wilton Plaza, Wilton Place, Dublin 2, Irland) mittels des LinkedIn Insight Tag ermöglicht die Erhebung von statistischen, pseudonymen Daten (Referrer URL, IP-Adresse (gekürzt), Geräte- und Browsereigenschaften) über den die Nutzung unseres Online-Dienstes und auf dieser Grundlage entsprechende aggregierte Statistiken zur Verfügung zu stellen. Außerdem dienen diese Angaben dazu, interessenspezifische und relevante Angebote und Empfehlungen anzeigen zu können, nachdem Sie sich auf unserem Online-Dienst für bestimmte Produkte, Informationen und Angebote interessiert haben. Diese anonyme Angaben werden in einem Cookie für 6 Monate gespeichert. Sie können sich jederzeit über die Datenverarbeitung durch LinkedIn unterhttps://www.linkedin.com/legal/privacy-policy?trk=registration_footer-privacy-policyinformieren und dieser widersprechen oder Ihre Einwilligung über dieCookie Einstellungenwiderrufen. Für diese Verarbeitung sind die Telekom Deutschland GmbH und LinkedIn gemeinsame Verantwortliche nach Art. 26 DSGVO. Bei Fragen können Sie sich andatenschutz@telekom.dewenden.
+Microsoft AdvertisingAuf unserem digitalen Dienst verwenden wir den Dienst Bing Ads und das UET-Tag von Microsoft (Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland, „Microsoft“), um Daten zu erfassen und zu speichern, aus denen wir unter Verwendung von Pseudonymen Nutzungsprofile erstellen. Mittels dieses Dienstes sind wir in der Lage, die Aktivitäten von Nutzern auf unserer Webseite nachzuvollziehen, wenn sie über Bing Ads-Anzeigen auf unseren digitalen Dienst gelangen. Wenn Sie über eine solche Anzeige auf unsere Webseite gelangen, wird ein Cookie auf Ihrem Gerät gespeichert.Zudem haben wir einen Bing UET-Tag in unserem digitalen Dienst integriert. Dieser Tag besteht aus einem Code, der in Verbindung mit dem Cookie einige Daten zur Nutzung unseres digitalen Dienstes erfasst. Dazu gehört beispielsweise die Verweildauer, die aufgerufenen Bereiche und die Anzeige, über die die Nutzer auf den digitalen Dienst gelangt sind. Diese Informationen helfen uns dabei, Conversion-Statistiken zu erstellen und zu erfassen, wie viele Nutzer nach dem Klick auf eine Werbeanzeige bei Microsoft Bing Ads zu einem späteren Zeitpunkt einen Kauf auf unserer Website ausgeführt haben. Die erfassten Informationen werden an Server von Microsoft in den USA übertragen und dort für maximal 180 Tage gespeichert.Microsoft kann möglicherweise Ihr Nutzungsverhalten über verschiedene Ihrer Geräte hinweg verfolgen, indem sie sogenanntes Cross-Device-Tracking verwenden. Dadurch sind sie in der Lage, personalisierte Werbung auf Microsoft-Webseiten und -Apps anzuzeigen. Wenn Sie dieses Verhalten deaktivieren möchten, können Sie dies unterchoice.microsoft.com/de-de/opt-outtun.
+Für weitere Informationen zum Datenschutz bei Microsoft und Bing finden Sie in den Datenschutzbestimmungen von Microsoft (https://privacy.microsoft.com/de-de/privacystatement).
+emetriq GmbHemetriq ist Anbieter von Targeting-Dienstleistungen im Bereich der Online-Vermarktung von Werbeplätzen. Targeting steht für eine genaue Zielgruppenansprache in der Online-Vermarktung und eine Personalisierung von Inhalten. Zu diesem Zwecke betreibt emetriq einen Datenpool, dessen Ziel es ist, die Qualität von Targeting signifikant zu steigern, damit Werbetreibende relevante Werbung gemäß Ihren Interessen einblenden können. Um zu ermöglichen, dass nutzerspezifische Werbung und Inhalte angezeigt werden können, erfasst die emetriq GmbH, Vorsetzen 35, 20459 Hamburg, Informationen über das Surfverhalten bzw. die App Nutzung. Verwendet werden Cookies, Messpixel, APIs oder SDKs, die folgende Informationen erheben bzw. verarbeiten können:
+Die erhobenen Daten werden zum frühestmöglichen Zeitpunkt entweder bereits in der App oder im Browser des Nutzers oder im ersten verarbeitenden System pseudonymisiert und erst dann weiterverarbeitet. Sämtliche erhobenen Informationen über einen Nutzer werden ausschließlich mit Hilfe von pseudonymen IDs gespeichert. emetriq löscht diese Daten nach spätestens 6 Monaten.
+Um auch geräteübergreifende Personalisierung von Werbung zu ermöglichen, vergibt emetriq für jedes Ihrer genutzten Endgeräte eine Kennung (ID) unter Rückgriff auf Ihre verhashten E-Mail-Adresse. Damit ist es möglich, in den Fällen, in denen Sie sich auf digitalen Diensten unter Nutzung verschiedener Endgeräte eingeloggt haben, die verschiedenen vergebenen IDs einander zuzuordnen.
+Durch die Einbindung einer neutralen Instanz, der so genannten Trusted-Third-Party, wird sichergestellt, dass emetriq keinen Zugriff auf die E-Mail-Adresse erhält. Möglich wird damit in Einzelfällen eine anbieterübergreifende Zuordnung eines Endgerätes zu einem Nutzer, auch wenn sich dieser mit seinem Endgerät in den Telekom digitalen Dienst nicht eingeloggt hat. Damit wird auch ohne ein Login eine interessensgerechte Anpassung des Angebots möglich.
+Für diese Verarbeitung sind die Telekom Deutschland GmbH und emetriq GmbH gemeinsame Verantwortliche nach Art. 26 DSGVO. Bei Fragen können Sie sich andatenschutz@telekom.dewenden.
+Beschränkt auf die oben genannten Zwecke werden diese Daten eigenverantwortlich auch durch emetriq und ihre Technologiepartner verarbeitet. Weitere Informationen erhalten Sie bei emetriq:https://www.emetriq.com/datenschutz.
+Darüber hinaus arbeitet emetriq mit dem AnbieterThe Trade Desk Ltd. UK(kurz „TTD“, in 1 Bartholomew Cl, London EC1A 7BL, Vereinigtes Königreich) zusammen. The Trade Desk verarbeitet die IP-Adresse und Nutzungsdaten (wie aufgerufene Seiten und Produkte). Den Nutzern wird dafür eine zufällig generierte ID mittels eines Cookie zugeordnet, durch die der Nutzer auf unseren digitalen Diensten sowie den digitalen Diensten Dritter im Werbenetzwerk von TTD wiedererkannt und Werbekampagnen optimiert werden können. Informationen zum Datenschutz bei The Trade Desk finden Sie unterhttps://www.thetradedesk.com/us/privacy
+Deep Media GmbHWir verwenden auf unserem digitalen Dienst den Deep Media Advertiser Tag, einen Dienst derDeep Media Technologies GmbH, Hohe Bleichen 8, 20354 Hamburg. Der Deep Media Advertiser Tag ist ein Tag-Management-System zur Verwaltung von Technologien zu Marketing- und Optimierungszwecken. Der Einsatz erfolgt insbesondere um für Sie relevante und interessante Anzeigen zu schalten und die Berichte der Kampagnenleistung zu verbessern. Beim Einsatz des Advertiser Tags werden Informationen, zum Beispiel in Form von Cookies oder Klick-IDs, verarbeitet. Die Verarbeitung der Daten und ggf. Weitergabe dieser Online-Identifier durch die Deep Media Technologies GmbH erfolgt nur an Anbieter, für welche der Nutzer im Rahmen der Datenschutzeinstellungen eine Zustimmung gegeben hat. Der Datenerhebung und -speicherung kann jederzeit beim jeweiligen Anbieter widersprochen werden. Weiterführende Informationen zum Umgang mit den Daten und Opt-Out Möglichkeiten sind den jeweiligen Abschnitten der Anbieter in dieser Datenschutzerklärung zu entnehmen. Weitere Informationen zur Datennutzung durch Deep Media Technologies GmbH, können Sie der nachfolgenden Website der Deep Media Technologies GmbH entnehmen:https://www.deepmedia.de/datenschutzerklaerung-advertisertag/
+Adform
+Wir verwenden in unserem digitalen Dienst den Service vonAdform A/S(in Silkegade 3B, ST. & 1., 1113 Kopenhagen, Dänemark) um Auswertungen über die Performance unserer Kampagnen, Targeting-Daten und Werbeanzeigen zu erhalten, folgende werden dabei verglichen:
+Adform analysiert die über Cookies und IDs gesammelten Daten, um interessenbezogene Werbeanzeigen tätigen zu können. Diese Informationen werden für maximal 13 Monate gespeichert, Cookie basierte Informationen für 60 Tage. Sie können sich jederzeit über die Datenverarbeitung durch Adform unterhttps://site.adform.com/de/privacy-center/platform/datenschutzrichtlinie-fuer-produkte-und-services/#WiewirCookiesverwendeninformieren und dieser widersprechen oder Ihre Einwilligung über die Cookie Einstellungen widerrufen.
+Für diese Verarbeitung sind die Telekom Deutschland GmbH und Adform A/S gemeinsame Verantwortliche nach Art. 26 DSGVO. Bei Fragen können Sie sich andatenschutz@telekom.dewenden.
+Datenschutz-Einstellungen: Sie können IhreEinstellungenjederzeit erneut aufrufen, um Ihre Präferenzen zu verwalten.
+• HTTP Header-Informationen (u.a. IP-Adresse, Informationen zum Webbrowser, Seitenspeicherort, Dokument, URL des digitalen Dienstes und Nutzeragent des Webbrowsers, Referrer URL sowie Tag und Uhrzeit der Nutzung)
+• Pixelspezifische Daten; dies umfasst die Pixel-ID und Facebook-Cookie-Daten, einschließlich Ihrer Facebook-ID (diese Daten werden verwendet, um Ereignisse mit einem bestimmten Facebook-Werbekonto zu verknüpfen und sie einem Facebook-Nutzer zuzuordnen)
+• Zusätzliche Informationen über den Besuch auf unserem Online-Dienst, sowie über standard- und benutzerdefinierte Datenereignisse.Getätigte Bestellungen (Kaufabschlüsse)Abschluss von Registrierungen und ProbeabonnementsGesuchte Produkte, Aufruf von Produktinformationen
+• Getätigte Bestellungen (Kaufabschlüsse)
+• Abschluss von Registrierungen und Probeabonnements
+• Gesuchte Produkte, Aufruf von Produktinformationen
+• Getätigte Bestellungen (Kaufabschlüsse)
+• Abschluss von Registrierungen und Probeabonnements
+• Gesuchte Produkte, Aufruf von Produktinformationen
+• Pseudonyme IDs: Cookie-ID, Identifier for Advertising (IDFA) oder Advertinings-ID (AdID), IP-Adresse
+• Informationen der App oder des Browsers, zum Beispiel Browser-Kennung, Zeitzone, Sprache, Betriebssystem
+• Informationen über gesehene bzw. angeklickte Werbebanner
+• URL der besuchten Seiten unserer angebundenen Vermarkter
+• Soziodemografische Daten, wie Altersdekaden, Anrede und gekürzte Postleitzahl
+• Verhashte Login Daten (E-Mail)
+• Cookie ID, 1stParty ID, Partner ID, Cross-Device ID oder Mobile Advertising ID
+• Device Informationen (Browsertyp & Einstellungen, Betriebssystem)
+• Interaktionen, sowie
+• ungefähre geografischer Standort auf Basis der gekürzten IP oder GPS-Daten
+
+Question: 5. Wo finde ich die Informationen, die für mich wichtig sind?
+Answer: DieserDatenschutzhinweisgibt einen Überblick über die Punkte, die für die Verarbeitung Ihrer Daten in unserem Online-Dienst durch die Telekom gelten. Weitere Informationen, auch zum Datenschutz in speziellen Produkten, erhalten Sie aufhttps://www.telekom.com/de/verantwortung/datenschutz-und-datensicherheit/datenschutzund unterhttps://www.telekom.de/datenschutzhinweise.
+
+Question: 6. Wer ist verantwortlich für die Datenverarbeitung? Wer ist mein Ansprechpartner, wenn ich Fragen zum Datenschutz bei der Telekom habe?
+Answer: Datenverantwortliche ist die Telekom Deutschland GmbH, Landgrabenweg 151, 53327 Bonn. Bei Fragen können Sie sich an unseren Kundenservice wenden oder an unseren Datenschutzbeauftragten, Herrn Dr. Claus D. Ulmer, Friedrich-Ebert-Allee 140, 53113 Bonn,datenschutz@telekom.de.
+
+Question: 7. Welche Rechte habe ich?
+Answer: Sie haben das Recht,
+
+Question: 8. An wen gibt die Telekom meine Daten weiter?
+Answer: AnAuftragsverarbeiter, das sind Unternehmen, die wir im gesetzlich vorgesehenen Rahmen mit der Verarbeitung von Daten beauftragen, Art. 28 DSGVO (Dienstleister, Erfüllungsgehilfen). Die Telekom bleibt auch in dem Fall weiterhin für den Schutz Ihrer Daten verantwortlich. Wir beauftragen Unternehmen insbesondere in folgenden Bereichen: IT, Vertrieb, Marketing, Finanzen, Beratung, Kundenservice, Personalwesen, Logistik, Druck.
+AnKooperationspartner, die in eigener Verantwortung Leistungen für Sie bzw. im Zusammenhang mit Ihrem Telekom-Vertrag erbringen. Dies ist der Fall, wenn Sie Leistungen solcher Partner bei uns beauftragen oder wenn Sie in die Einbindung des Partners einwilligen oder wenn wir den Partner aufgrund einer gesetzlichen Erlaubnis einbinden.
+Aufgrundgesetzlicher Verpflichtung: In bestimmten Fällen sind wir gesetzlich verpflichtet, bestimmte Daten an die anfragende staatliche Stelle zu übermitteln.
+
+Question: 9. Wo werden meine Daten verarbeitet?
+Answer: Ihre Daten werden in Deutschland und im europäischen Ausland verarbeitet. Findet eine Verarbeitung Ihrer Daten in Ausnahmefällen auch in Ländern außerhalb der Europäischen Union (in sog. Drittstaaten) statt, geschieht dies,
+Darüber hinaus erfolgt eine Verarbeitung Ihrer Daten in Drittstaaten nur, soweit durch bestimmte Maßnahmen sichergestellt ist, dass hierfür ein angemessenes Datenschutzniveau besteht (z.B. Angemessenheitsbeschluss der EU-Kommission oder sog. geeignete Garantien, Art. 44ff. DSGVO).
+
+Question: 10. Wer oder was ist Utiq?
+Answer: Über den Utiq Service
+Die Utiq SA/NV („Utiq“) ist ein europäisches AdTech-Unternehmen. Gestützt von mehreren Telekommunikations-Netzbetreibern, betreibt Utiq einen so genannten Authentic Consent Service („Utiq Service“) für verantwortungsvolles digitales Marketing.Der Utiq Service bietet Ihnen mehr Kontrolle und Transparenz über die Verwendung Ihrer Daten, wenn Sie auf Utiqs Partnerwebseiten personalisierten Erlebnissen oder Analysen zustimmen. Als Teil des Utiq Services erhalten Sie Zugang zu einem zentralen Datenschutz-Selbstverwaltungsportal, dem so genannten Utiqconsenthub. Dort können Sie Ihre Präferenzen für den Utiq Service und Ihre Utiq Einwilligungen verwalten und Ihre Datenschutzrechte ausüben. Alles an einem Ort und zu jeder Zeit.
+Über unsere Partnerschaft mit Utiq
+Die Telekom Deutschland GmbH stellt die netzbasierte Infrastruktur für diesen Service bereit. Das heißt, wenn Sie auf einer teilnehmenden Webseite Ihre aktive Einwilligung geben, wird Ihre IP-Adresse an uns weitergeleitet. Damit prüfen wir, ob die Voraussetzungen zur Nutzung des Services erfüllt sind und unterstützen, falls zutreffend, bei der Aktivierung des Utiq Service. Im Rahmen der Aktivierung gleichen wir Ihre IP-Adresse mit Ihrem Mobilfunk-Vertrag ab, um dann eine pseudonyme Kennung zu erzeugen, die alsNetwork Signalbezeichnet wird. DasNetwork Signalwird mit Hilfe eines sicheren Verfahrens (z.B. Verschlüsselung) erstellt. So wird ihre Identität geschützt, bevor dasNetwork Signalan Utiq weitergeleitet wird. Utiq verwendet dieses Signal als Teil seines so genanntenconsentpassSystems. Damit hilft Utiq teilnehmenden Werbetreibenden und Medienunternehmen, auf ihren Webseiten ein personalisiertes Erlebnis zu bieten oder Analysen zu erstellen. Gleichzeitig behalten Sie als Nutzer die Kontrolle über Ihre Daten. DasNetwork Signalwird nicht mit Ihren Kunden-, Internetnutzungs- oder Verkehrsdaten oder anderen Informationen angereichert. Ebenso wenig erstellen wir Profile über Ihr Verhalten auf einzelnen Webseiten. Eine Datenverarbeitung durch uns erfolgt nur dann, wenn Sie auf der jeweiligen Partnerwebseite Ihre Einwilligung zu dem genannten Zweck gegeben haben.Als Kunde der Telekom Deutschland GmbH können Sie den Utiq Service auf Partnerwebseiten von Utiq nutzen, wenn Sie diese besuchen. Die Nutzung des Services ist nur nach vorheriger, freiwilliger und ausdrücklicher Einwilligung (so genanntes Opt-in-Verfahren) möglich, da der Utiq Service standardmäßig inaktiv ist. Bitte beachten Sie, dass die Einwilligung auf jeder teilnehmenden Partnerwebseite separat erteilt werden muss.
+Wie Sie Ihren Utiq-Dienst verwalten können
+Über den Utiqconsenthubkönnen Sie jederzeit Ihre Utiq Einwilligungen einsehen und verwalten, alle von Ihnen erteilten Einwilligungen widerrufen, den Service deaktivieren oder seine Aktivierung unterbinden. Wenn Sie dort Ihre Einwilligung widerrufen, bedeutet das auch, dass Sie die Einwilligung zur Datenverarbeitung durch die Telekom Deutschland GmbH widerrufen.Weitere Informationen über den Utiq Service finden Sie im Utiqconsenthuboder in derDatenschutzerklärung von Utiq.
+
+Stand der Datenschutzhinweise 03.04.2024
+

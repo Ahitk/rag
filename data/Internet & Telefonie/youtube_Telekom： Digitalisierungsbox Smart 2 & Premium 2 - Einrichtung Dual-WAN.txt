@@ -1,0 +1,6 @@
+Question:
+Wie kann man eine zweite Internetverbindung an der Digitalisierungspox 2 einrichten und als Backupverbindung oder mit Load-Balancing nutzen?
+
+Answer:
+In diesem Video zur Digitalisierungspox 2 geht es um die Konfiguration einer zweiten Internetverbindung, die als Backup oder im Load-Balancing aktiv genutzt werden kann. Dank drei verschiedener Internetzugangsschnittstellen der Digitalisierungspox können verschiedene Kombinationen, z.B. ein DSL-Modem, SFP-Glassfaser-Modem oder ein Warnport, genutzt werden. Anmeldung und die ersten Schritte der Konfiguration werden erklärt, genauso wie das Einrichten einer Backupverbindung über den Warnport. Es wird gezeigt, wie man verschiedene Geräte wie ein externes DSL-Modem oder ein LTE-Modem anschließen und konfigurieren kann, und wie man die Konfiguration abschließt. Anschließend wird gezeigt, wie man Load-Balancing einrichtet und Internet-Traffic über beide Internet-Zugänge verteilt, sowie die Möglichkeit, bestimmte Verbindungen einem der beiden Zugänge zuzuordnen. Zudem kann man den Datenverkehr zwischen der primären und sekundären Warnschnittstelle verteilen. Am Ende des Videos kann man das eingerichtete Load-Balancing einfach deaktivieren und weitere Optionen finden. Über ein zusätzliches Menü kann man die primäre und Backup-Verbindung einfach tauschen oder die Backup-Verbindung deaktivieren.
+

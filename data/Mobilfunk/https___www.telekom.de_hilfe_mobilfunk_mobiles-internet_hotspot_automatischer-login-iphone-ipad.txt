@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/automatischer-login-iphone-ipad
+
+Question: Warum funktioniert nach einer Änderung des Passworts beim iPhone/iPad das automatische Login am HotSpot nicht mehr?
+Answer: Damit das Login am HotSpot wieder automatisch funktioniert, müssen Sie in den Einstellungen "Telekom" auf dem Gerät löschen und neu einrichten:
+Das neue Passwort ist jetzt im Gerät gespeichert. Damit Sie in Zukunft automatisch mit dem HotSpot verbunden werden, tippen Sie beim Eintrag "Telekom" auf den Pfeil nach rechts und überprüfen Sie, dass "Autom. verbinden" und "Autom. anmelden" eingeschaltet sind.
+Um unerwartete Kosten zu vermeiden, aktivieren Sie die Option "Autom. verbinden" nur dann, wenn Sie die HotSpot Flat gebucht haben oder diese bereits in Ihrem Tarif enthalten ist.
+• Öffnen Sie die "Einstellungen" auf dem iPhone oder iPad.
+• Wählen Sie "WLAN".
+• Tippen Sie beim Eintrag "Telekom" auf den Pfeil nach rechts. Sie müssen sich in einem HotSpot befinden, damit das Netzwerk "Telekom" angezeigt wird.
+• Wählen Sie "Dieses Netzwerk ignorieren", um die Einstellungen für das Netzwerk zu löschen.
+• Wählen Sie in der Liste wieder das Netzwerk "Telekom" aus.
+• Rufen Sie in Safari eine beliebige Webseite auf
+• Sobald die Seite zur Eingabe der Anmeldedaten angezeigt wird, geben Sie Ihren Benutzernamen und das neue Passwort ein.
+

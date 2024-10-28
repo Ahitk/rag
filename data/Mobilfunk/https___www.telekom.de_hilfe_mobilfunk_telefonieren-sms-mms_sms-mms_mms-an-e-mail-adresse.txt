@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/sms-mms/mms-an-e-mail-adresse
+
+Question: Wie kann ich eine MMS an eine E-Mail-Adresse senden?
+Answer: Um eine MMS an eine E-Mail-Adresse zu senden, geben Sie einfach anstatt der Rufnummer die E-Mail-Adresse in der Empfängerzeile ein.
+

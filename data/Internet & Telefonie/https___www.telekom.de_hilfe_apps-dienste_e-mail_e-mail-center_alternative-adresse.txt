@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/alternative-adresse
+
+Question: Wie lege ich eine alternative Adresse im E-Mail Center an?
+Answer: Melden Sie sich imE-Mail Centeran. Dort können Sie eine Alternative Adresse wie folgt anlegen:
+Zahnrad > Alle Einstellungen anzeigen > E-Mail-Adressen > Alternative Adressen
+

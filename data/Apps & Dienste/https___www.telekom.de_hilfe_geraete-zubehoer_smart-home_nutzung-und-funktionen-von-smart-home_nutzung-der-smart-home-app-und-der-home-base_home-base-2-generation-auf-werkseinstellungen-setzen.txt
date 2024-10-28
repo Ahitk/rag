@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/home-base-2-generation-auf-werkseinstellungen-setzen
+
+Question: Wie kann ich meine SmartHome Home Base 2. Generation auf Werkseinstellungen zurücksetzen?
+Answer: SmartHome Home Base neu registrieren
+Nach dem erfolgten Werksreset kann die Home Base wieder registriert werden. Starten Sie die Magenta SmartHome App auf Ihrem Smartphone/Tablet, sobald an der Home Base die Leuchte einmal grün aufgeleuchtet hat. Wählen Sie Zentrale "Home Base 2.0" aus und geben Sie die Seriennummer der Home Base und Ihr Benutzerpasswort ein. Tippen Sie auf "Weiter" und folgen den Anweisungen auf Ihrem Gerät.
+
+Datensicherung wiederherstellen
+Möchten Sie jetzt eine Wiederherstellung einer Datensicherung ausführen, gehen Sie bitte wie folgt vor: Öffnen Sie in der Magenta SmartHome App über "Mehr" die "Einstellungen". Gehen Sie dann über "Zentrale" zu den Punkt "Sichern und Wiederherstellen". Nun wählen Sie unter "Vorhandene Sicherungen“ die gewünschte Sicherung aus und tippen abschließend auf "Sicherung wiederherstellen".
+Tipp: Wählen Sie am besten eine Sicherung an dem Tag aus, an dem Ihr SmartHome-Heimnetz ordnungsgemäß funktioniert hat.
+

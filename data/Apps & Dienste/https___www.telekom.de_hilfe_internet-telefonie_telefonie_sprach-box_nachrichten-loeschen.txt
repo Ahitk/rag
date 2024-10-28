@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/sprach-box/nachrichten-loeschen
+
+Question: Wie kann ich Nachrichten meiner Telekom SprachBox löschen?
+Answer: So können Sie Nachrichten auf Ihrer SprachBox löschen:
+• Voicemail AppInstallieren Sie dieVoicemail Appund melden Sie sich mit dem Telekom Login an. Wählen Sie unter "Nachrichten" die gewünschte Nachricht aus und klicken Sie auf das Papierkorb-Symbol. Bestätigen Sie im nächsten Schritt mit "Löschen".
+• E-Mail CenterMelden Sie sich imE-Mail Centermit dem Telekom Login an und gehen Sie im Ordner "SprachBox" auf die entsprechende Nachricht und löschen Sie diese mit Klick auf das "Papierkorb-Symbol".
+• TelefonischWenn Sie eineNachricht von der SprachBox abhören, drücken Sie zum Löschen dieser die Taste 9. Alle bereits abgefragten Nachrichten löschen Sie gleichzeitig durch Drücken der Tastenkombination "99*".
+

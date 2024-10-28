@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/zuruecksetzen
+
+Question: Welche Einstellungen werden beim Zurücksetzen im Telefoniecenter gelöscht?
+Answer: Mit der Funktion "Zurücksetzen" löschen Sie für eine ausgewählte Rufnummer alle Telefonie-Einstellungen und setzen diese auf die Standardwerte zurück. Das betrifft z. B. Einstellungen zu "Anklopfen" oder zur Weiterleitung auf die SprachBox.
+Für denNutzer, mit dem Sie "Zurücksetzen" ausführen, werden außerdem alle eingegebenen Telefonnummern unter "Anrufer blockieren" sowie alle Einträge in den Kurzwahlen gelöscht.
+Hinweis: Das Zurücksetzen wirkt sich nur auf Telefonie-Einstellungen der zuvor ausgewählten Rufnummer aus. Einstellungen, die alle Rufnummern Ihres Anschlusses betreffen, werden nicht verändert.
+

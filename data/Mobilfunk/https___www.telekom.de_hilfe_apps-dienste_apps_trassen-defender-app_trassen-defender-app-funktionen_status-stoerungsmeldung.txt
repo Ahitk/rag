@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/status-stoerungsmeldung
+
+Question: Welche verschiedenen Status kann meine Störungsmeldung in der Trassen Defender App annehmen?
+Answer: Eine Störungsmeldung in der Trassen Defender App kann die folgenden Status zeigen:
+• Unvollständig(grau) – Die Meldung ist unvollständig und noch nicht verschickt.
+• Wird übertragen(gelb) – Die Meldung ist versendet und wird an die Telekom übertragen.
+• Übertragen(gelb) – Die Meldung wurde erfolgreich an uns übertragen.
+• In Bearbeitung(grün) – Die Meldung wird durch die zuständige Einheit übermittelt.
+• Abgeschlossen(blau) – Der gemeldete Schaden wurde behoben.
+• Nicht übertragen(rot) – Die Meldung konnte noch nicht versendet werden.
+• Fehlgeschlagen(rot) – Die Meldung erscheint, wenn Ihre Störungsmeldung zwei Stunden lang nicht verschickt werden konnte. Zusätzlich erfolgt der Hinweis, den Schaden telefonisch zu melden.
+

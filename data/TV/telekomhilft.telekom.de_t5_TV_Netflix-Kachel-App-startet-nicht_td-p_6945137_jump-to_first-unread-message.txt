@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Netflix-Kachel-App-startet-nicht/td-p/6945137/jump-to/first-unread-message
+Subject: Netflix Kachel-App startet nicht
+Content: Nachdem ich lange Probleme mit dem Magenta TV-Stick hatte - er hat sich nur willkürlich mit dem Netz verbunden, habe ich ein manuelles Update von Vers. 10... auf 12... durchgeführt.  Ich dachte, der Stick macht das sebständig. Das einloggen klappt jetzt problemlos.Jetzt kann ich mich aber nicht mehr über die Kachel bei Netflix anmelden. Wenn ich darauf klicke, erscheint. "Du hast keine App". Die App ist aber installiert und ich kann Netflix oben über die Einstellungen - Apps... normal starten. Ich habe schon deaktiviert, alle Daten gelöscht und wieder aktiviert. Nützt nichts. Netflix habe ich privat, also nicht im Magenta Tv-Paket. Das hatte vorher aber alles funktioniert. Die Apps von Netflix, die mir Magenta anbietet, sind alle direkt mit einem Abo verbunden, also da kann ich mich mit meinen Netflix-Daten nicht anmelden.Weiß jemand Rat, damit Netflix wieder aus der Kachel startet?Vielen DankMiWa
+
+Accepted Solutions:
+- Ich habe einen Hardware-Reset gemacht und alles neu eingestellt. Danach konnte ich Netflix neu installieren/aktualisieren. Bei dem großen Update von Version 10... auf 12... muss etwas falsch gelaufen sein.
+- Ich habe einen Hardware-Reset gemacht und alles neu eingestellt. Danach konnte ich Netflix neu installieren/aktualisieren. Bei dem großen Update von Version 10... auf 12... muss etwas falsch gelaufen sein.

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/MagentaTV-1-Gen-Cloud-Aufnahmen-auf-Samsung-TV-koennen-nicht/td-p/6963029/jump-to/first-unread-message
+Subject: MagentaTV 1.Gen - Cloud-Aufnahmen auf Samsung TV können nicht abgespielt werden (Fehler 4001) bzw. (Fehler9)
+Content: Hallo, ich kann meine Aufnahmen seit einiger zeit nicht abspielen. Der Router wurde bereits getauscht um die Internetverbindung zu verbessern. ein Fehler so laut Telecom an der Leitung bzw. Leistung wurde nicht festgestellt.Vom Netz genommen, App Magenta 1.Gen deinstalliert und neu installiert ... hat alles nix gebracht.gibt es eine andere Lösung.Viele Grüße
+
+Accepted Solutions:
+- Es gibt aktuell einen Fehler bei Aufnahmen. Fehler ist in der Analyse
+- Es gibt aktuell einen Fehler bei Aufnahmen. Fehler ist in der Analyse

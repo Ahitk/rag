@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/meine-telekom/kundencenter/vertragsinhaber-nutzer
+
+Question: Was sind die Unterschiede zwischen "Vertragsinhaber" und "Nutzer"?
+Answer: Als "Vertragsinhaber" haben Sie andere Nutzerrechte imKundencenterals in der Rolle des "Nutzers" eines Vertrages.
+VertragsinhaberAls "Vertragsinhaber" eines Mobilfunk- oder Festnetz-Vertrages können Sie im Kundencenter Ihre Daten und Rechnungen einsehen, Verträge verwalten, Änderungen durchführen, den Auftragsstatus verfolgen, Adressdaten verwalten, Optionen buchen, den Vertrag wechseln, von verbesserten Konditionen profitieren und festlegen, welche Rechte ein "Nutzer" bekommt.
+NutzerSie haben mit dieser Rolle lediglich begrenzte Einsicht in die Daten des entsprechenden Vertrages und können diese nicht bearbeiten. Einzelne Dienste und Funktionen, wie z. B. das Anpassen von Anrufeinstellungen, der Abruf von Verbrauchsdaten oder das Aufladen von Guthaben bei Prepaid-Karten, sind möglich.
+

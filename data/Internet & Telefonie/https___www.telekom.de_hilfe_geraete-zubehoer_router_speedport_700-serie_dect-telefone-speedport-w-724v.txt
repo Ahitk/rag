@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/dect-telefone-speedport-w-724v
+
+Question: Wie viele DECT Telefone (Mobilteile) kann ich an der Basis des Speedport W 724V betreiben?
+Answer: Der Speedport W 724V kann als DECT-Basisstation genutzt werden. Sie können bis zu fünf schnurlose Mobilteile einsetzen.
+

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei/huawei-smartphones/huawei-p20-hd-voice-plus-evs
+
+Question: Was ist HD Voice Plus (EVS) und unterstützt das HUAWEI P20 diesen Dienst?
+Answer: HD Voice Plus (EVS) "Enhanced Voice Services" ist ein neuer Telefondienst-Codec und damit weltweit Nachfolger für HD Voice. Für das neue Klang- und Qualitätserlebnis in einem Mobilfunkgespräch muss EVS beidseitig sowohl vom jeweiligen Netz als auch Smartphone mit einer entsprechenden Software unterstützt werden. Voraussetzungen sind ein Voice over LTE (VoLTE) Smartphone mit entsprechender Freischaltung und durchgängiger Nutzung des LTE-Netzes, welche beide Seiten unterstützen müssen.
+Das HUAWEI P20unterstütztHD Voice Plus (EVS).
+

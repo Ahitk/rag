@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/tv/magenta-tv-app/cloud-aufnahmen
+
+Question: Wie kann ich Cloud-Aufnahmen bei MagentaTV schauen?
+Answer: Alle Aufnahmen, die Sie mit der MagentaTV App programmieren, werden in der Cloud gespeichert und können überall und jederzeit angeschaut werden.
+Das Abspielen der Cloud-Aufnahmen über ältere TV-Receiver ist nicht möglich.
+Hinweis:Ihre aufgenommenen Sendungen können auf Ihr Smartphone/Tablet heruntergeladen und in der MagentaTV App offline angeschaut werden. Das erkennen Sie am Downloadzeichen an der jeweiligen Aufnahme unter den Menüpunkten "Meins" und "Cloud". Über den Browser steht diese Funktion leider nicht zur Verfügung.
+• Über Ihr Smartphone oder Tablet mit derMagentaTV App
+• Auf Ihrem Samsung Smart TV, dem FireTV Stick oder auf Android TV. Die Cloud-Aufnahmen finden Sie über den Menüpunkt "Meins".
+• Am PC/Laptop über denBrowserüber die Menüpunkte "Meins" und "Cloud Aufnahmen".
+• Mit demMagentaTV Stickoder derMagentaTV Oneüber den Menüpunkt "Meins".
+

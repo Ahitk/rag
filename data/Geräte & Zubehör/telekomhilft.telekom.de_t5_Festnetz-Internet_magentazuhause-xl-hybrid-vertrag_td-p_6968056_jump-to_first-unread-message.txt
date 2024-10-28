@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/magentazuhause-xl-hybrid-vertrag/td-p/6968056/jump-to/first-unread-message
+Subject: magentazuhause xl hybrid vertrag
+Content: Hallo,ich habe jetzt neu den MagentaZuhause  XL Hybrid Vertrag. Darin steht unter Internet:"zusätzlich der Zugang zum Internet über das Mobilfunknetz der Telekom: Hybrid mit bis zu 250 MBit/s Download..."Was heißt das ? Wie nutze ich über welchen Weg diesen Internetzugang ?Danke für die Antwort.
+
+Accepted Solutions:
+- @JochenJschrieb:ok, welchen Router brauche ich dann ?Enweder die vertriebseingestellten "Speedport Hybrid" oder "Speedport Pro (plus)"Die können kein5G.Oder den Speedport Smart4 zusammen mt dem 5G-Empfänger.zur Miete:https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/speedport-smart-mit-5g-empfaenge...als Kaufgerät:https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/speedport-smart-mit-5g-empfaenge...
+- @JochenJschrieb:Wie nutze ich über welchen Weg diesen Internetzugang ?Wenn Du einen Hybrid-Vertrag hast, bruachst Du auch hybridfähige Endgeräte, z.B.https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router
+- @JochenJschrieb:Wie nutze ich über welchen Weg diesen Internetzugang ?Wenn Du einen Hybrid-Vertrag hast, bruachst Du auch hybridfähige Endgeräte, z.B.https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router
+- @JochenJschrieb:ok, welchen Router brauche ich dann ?Enweder die vertriebseingestellten "Speedport Hybrid" oder "Speedport Pro (plus)"Die können kein5G.Oder den Speedport Smart4 zusammen mt dem 5G-Empfänger.zur Miete:https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/speedport-smart-mit-5g-empfaenge...als Kaufgerät:https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router/speedport-smart-mit-5g-empfaenge...

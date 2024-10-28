@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/mehrere-geraete-gleiche-mailadresse
+
+Question: Ist es möglich, meinen Trassen Defender App Account mit mehreren Personen bzw. Smartphones gemeinsam zu nutzen?
+Answer: Aus technischer Sicht kann ein Account zwar auf mehreren Smartphones eines Accountinhabers gleichzeitig genutzt werden, aber: Durch eine Parallelnutzung auf mehreren Endgeräten kann es zu Übertragungsproblemen und irreführenden Push-Nachrichten kommen. Von der gemeinsamen Nutzung eines Accounts durch mehrere unterschiedliche Nutzer oder Endgeräten raten wir auch aus Sicherheitsgründen ausdrücklich ab.
+Wichtig: Bitte legen Sie je Nutzer einen eigenen Account an und halten Sie Ihr Trassen Defender Passwort geheim um Missbrauch zu vermeiden. Vielen Dank.
+Feedback zur Trassen Defender App
+

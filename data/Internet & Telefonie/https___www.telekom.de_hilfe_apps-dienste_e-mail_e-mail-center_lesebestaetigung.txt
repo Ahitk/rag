@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/lesebestaetigung
+
+Question: Wie kann ich eine Lesebestätigung für meine E-Mail anfordern?
+Answer: Öffnen Sie imE-Mail Centereine neue E-Mail und setzen Sie oben rechts den Haken neben "Lesebestätigung". Dies gilt auch beim Antworten und Weiterleiten von E-Mails.
+Stimmt der Empfänger Ihrer Anforderung einer Lesebestätigung zu, bekommen Sie automatisch eine Nachricht per E-Mail.
+Hinweis:Der Versand einer Lesebestätigung kann vom Empfänger auch abgelehnt werden.
+

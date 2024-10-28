@@ -12,9 +12,9 @@ from typing_extensions import TypedDict
 from typing import List, Annotated
 from pprint import pprint
 from indexing import get_vectorstore
-import routing
-import initials
-import prompts
+import routing as routing
+import initials as initials
+import prompts as prompts
 
 ### Tavily web search tool
 tavily_client = TavilyClient(api_key = initials.TAVILY_API_KEY)

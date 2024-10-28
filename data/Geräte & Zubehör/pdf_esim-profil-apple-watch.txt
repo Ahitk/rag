@@ -1,0 +1,63 @@
+The image provides instructions and details for activating an Apple Watch with eSIM functionality through a telecommunication provider. Here's a summary of the important information:
+
+### Overview:
+- **Product**: Apple Watch with LTE function.
+- **Network**: Best performance on the Telekom network.
+- **eSIM**: Allows the watch to be reachable independently of the paired iPhone.
+
+### Key Benefits:
+1. **MultiSIM**:
+   - Allows the Apple Watch to be reachable with its own number.
+   - Can be used with family members who own an Apple Watch without needing an additional iPhone.
+
+2. **CombiCard Smart Connect M**: 
+   - Designed for family configuration.
+   - Own numbers for Apple Watch users, with shared mobile benefits within the family.
+
+### Activation Steps:
+1. **Pairing**: 
+   - Open the "Watch" app on your iPhone.
+   - Select "Pair New Watch."
+   - Choose the desired configuration option (MultiSIM or CombiCard Smart Connect).
+
+2. **Activation**:
+   - After pairing, options for activating either:
+     - **MultiSIM** for personal use.
+     - **CombiCard Smart Connect M** for family configuration.
+
+### Support:
+- **Service Hotline**: 0800 33 02202 for assistance.
+
+This guide facilitates the setup of your Apple Watch, ensuring users can access LTE functionality effectively.
+Here’s a summarized analysis of the provided image related to activating telecommunications products:
+
+### Instructions for Activating MultiSIM and CombiCard Smart Connect M
+
+#### 1. Activating MultiSIM (For Personal Use)
+- **Step 4**: Start the mobile configuration on your device (Apple Watch).
+- **Step 5**: Choose between the following options:
+  - Order a new MultiSIM.
+  - Switch an existing MultiSIM.
+  - Activate a pre-ordered MultiSIM.
+- **Step 6**: You'll receive a confirmation message once your Apple Watch is connected to the Telekom network.
+
+#### 2. Activating CombiCard Smart Connect M (For Family Members)
+- **Step 4**: Within your family or friends circle, initiate the configuration process for a family member.
+- **Step 5**: Choose the desired Apple ID option of the family member.
+- **Step 6**: Start the mobile configuration.
+- **Step 7**: Follow booking instructions.
+- **Step 8**: Confirmation message indicating that the Apple Watch can now be used.
+
+### Additional Important Notes
+- **For Business Customers**: Contact your Telekom business account manager for assistance.
+- Ensure your Apple Watch is ready for configuration and has not been previously linked if activation is needed.
+- **Operational Requirements**:
+  - The Apple Watch Series 4 or newer requires an iPhone 6 or newer.
+  - A valid MultiSIM plan is necessary.
+  
+### General Notes
+- Monthly costs for MultiSIM start from €9.95.
+- For the CombiCard Smart Connect, fees may apply based on data usage and inclusion in your plan.
+- Data plans vary in terms of limits and pricing, check your contract for specifics.
+
+This summary captures the essential instructions and details for activating telecom services with a focus on MultiSIM and CombiCard for Apple Watches.

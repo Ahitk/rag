@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/speedport-router-zweimal-angezeigt
+
+Question: Warum bekomme ich den Speedport Router in der MagentaZuhause App zweimal angezeigt, als Gerät im Geräte-Bereich und als Zentrale für SmartHome?
+Answer: Dies liegt daran, dass zwischen dem Router und der SmartHome Zentrale unterschieden wird.
+Der Router und die zugehörigen Einstellungen betreffen hauptsächlich das Heimnetzwerk.SmartHome hingegen ist eine weitere Funktionalität der Speedport Routermodelle. Diese müssen zunächst aktiviert werden, um den Router auch als SmartHome Zentrale zu nutzen. Nach dieser initialen Aktivierung wird der Hinweis auf die Zentrale in der MagentaZuhause App nicht mehr angezeigt. Die SmartHome-Funktionen auf dem Speedport Router könnenmit wenigen Schritten aktiviert werden.
+

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/eid-definition
+
+Question: Was ist die EID?
+Answer: Die EID, auch eUICCID genannt, ist die Identifikationsnummer für die eSIM Ihres Geräts und besteht aus 32 Ziffern. Sie finden die EID in den Geräte-Informationen unter "Einstellungen" und auf der Verpackung Ihres eSIM-Geräts.
+

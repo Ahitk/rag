@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Kein-ankommendes-Gespraech-moeglich-Digibox-2-mit-Eumex-820lan/td-p/6961557/jump-to/first-unread-message
+Subject: Kein ankommendes Gespräch möglich Digibox 2 mit Eumex 820lan
+Content: Bei einer Digibox 2 Premium mit Eumex 820lan sind seit neuestem ankommende Gespräche nicht möglich.Die Fehlermeldung im Log lautet: 2024-10-02 18:19:12 SIP: Terminate call (8969) with reason 'no response'.Hat jemand eine Idee dazu?
+
+Accepted Solutions:
+- Sache gelöst. Eumex ausgetauscht. Alles wieder OKKann geschlossen werden.Danke
+- Sache gelöst. Eumex ausgetauscht. Alles wieder OKKann geschlossen werden.Danke

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/datenvolumen/privat-relay-deaktivieren
+
+Question: Wie deaktiviere ich iCloud Privat-Relay, um pass.telekom.de aufzurufen?
+Answer: Öffnen Sie die Einstellungen Ihres Apple Gerätes.
+

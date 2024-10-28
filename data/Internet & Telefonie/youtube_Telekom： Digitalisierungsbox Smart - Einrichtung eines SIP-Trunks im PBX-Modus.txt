@@ -1,0 +1,6 @@
+Question:
+Wie kann man die erste Installation einer Digitalisierungssbox Smart an einem Telekom-Zip-Trunk durchführen?
+
+Answer:
+Willkommen zu einem neuen Digitalisierungsbox Smart Video. Dieses Video zeigt, wie man die erste Installation einer Digitalisierungsbox Smart an einem Telekom-Zip-Trunk durchführt. Zunächst muss die Stromversorgung hergestellt und das System mit dem Internet verbunden werden, entweder über das integrierte DSL-Modem oder über einen externen Modem, z.B. ein DSL- oder Glasfiber-Modem. Nachdem Sie auf die Weboberfläche der Digitalisierungsbox zugegriffen haben, melden Sie sich mit Ihren Zugangsdaten an und beginnen mit der Konfiguration. Es werden Methoden zur Einrichtung von einzelnen Telefonnummern beschrieben sowie der Umgang mit eingehenden und ausgehenden Rufnummern. Darüber hinaus wird erläutert, wie man analoge und VoIP-Endgeräte hinzufügt und verwaltet, und wie man die Betriebsart auswählt. Am Ende dieses Tutorials sollte der Benutzer in der Lage sein, die Digitalisierungsbox als Telefonanlage oder als Medien-Gateway zu betreiben. Weitere Tutorials sind über die oben rechts auf der Website hinterlegte Schaltfläche (Play-Button) verfügbar.
+

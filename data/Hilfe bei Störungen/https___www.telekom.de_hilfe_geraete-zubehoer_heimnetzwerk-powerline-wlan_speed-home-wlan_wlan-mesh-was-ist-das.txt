@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-wlan/wlan-mesh-was-ist-das
+
+Question: Mesh-WLAN, was ist das?
+Answer: In einem Mesh-WLAN sind alle Geräte miteinander verbunden. Dabei erzeugt jedes Gerät wiederum ein eigenes WLAN-Signal. Anders als bei einem WLAN-Repeater wird also nicht lediglich ein bestehendes WLAN-Signal weitergeleitet. Durch Mesh-WLAN entsteht ein flächendeckendes Netzwerk – "Mesh" steht für maschenartiges Netz.
+Das hat folgende Vorteile für Sie:
+Mehr Informationen zur Heimvernetzung
+• Die WLAN-Geschwindigkeit bleibt erhalten.
+• Das Mesh-Netzwerk hat einen einheitlichen Netzwerknamen (SSID).
+• Ihre Geräte verbinden sich immer mit dem stärksten WLAN-Signal.
+

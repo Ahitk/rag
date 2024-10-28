@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/hybrid/lte-led-leuchtet-nicht
+
+Question: Warum leuchtet am Speedport Hybrid die LTE-LED nicht?
+Answer: Es kann sein, dass die SIM-Karte nicht oder falsch eingelegt wurde.
+Eventuell kann der Speedport Hybrid am Aufstellungsort keinen LTE-Empfang herstellen.
+Gut zu wissen:Haben Sie beide Ursachen überprüft und die LED-Anzeige leuchtet weiterhin nicht auf, gehen Sie bitte zu unsererHilfe bei Störungen.
+• Bitte legen Sie die SIM-Karte in den Speedport Hybrid ein oder überprüfen Sie, ob die SIM-Karte in richtiger Ausrichtung eingelegt wurde und hörbar einrastet.
+• Gehen Sie nun mit den Speedport Hybrid in verschiedene Räume Ihrer Wohnung und prüfen Sie erneut die LTE-Anzeige. Diese leuchtet auf, sobald der Empfang da ist.
+

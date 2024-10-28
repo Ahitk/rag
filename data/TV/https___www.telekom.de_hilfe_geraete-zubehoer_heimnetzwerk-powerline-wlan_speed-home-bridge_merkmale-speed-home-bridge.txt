@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-bridge/merkmale-speed-home-bridge
+
+Question: Was sind die wesentlichen Merkmale der Speed Home Bridge?
+Answer: Die Speed Home Bridge verbindet Ihren Router über ein eigenes WLAN mit dem Media Receiver und liefert brillante HD/UHD-Qualität.
+Gut zu wissen: Wenn Sie eineMagentaTV Boxnutzen, benötigen Sie keine besonderen Geräte, um eine WLAN-Verbindung mit Ihrem Router herzustellen. Voraussetzung: Ihr Router ist WLAN-kompatibel mit der MagentaTV Box.Jetzt prüfen
+• Unterstützt MagentaTV HD/UHD-Qualität bzw. MagentaTV in HD-Qualität
+• Datenübertragung zwischen den Geräten nach schnellem WLAN mit IEEE 802.11ac mit bester Reichweite
+• Schnelle und einfache Konfiguration "Plug&Play" inklusive sicherer Verschlüsselung der Daten
+• Automatische Kanalwahl für beste Performance
+• Gigabit LAN Port für besten Datendurchsatz
+• Bei Bedarf durch optional erhältliche Single-Komponenten für bis zu fünf Receiver stufenlos erweiterbar
+

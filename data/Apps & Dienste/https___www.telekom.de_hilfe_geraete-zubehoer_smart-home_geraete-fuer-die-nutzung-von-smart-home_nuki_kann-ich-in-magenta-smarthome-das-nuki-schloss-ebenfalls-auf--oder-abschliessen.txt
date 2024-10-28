@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/kann-ich-in-magenta-smarthome-das-nuki-schloss-ebenfalls-auf--oder-abschliessen
+
+Question: Kann ich in Magenta SmartHome das Nuki Schloss ebenfalls auf- oder abschließen?
+Answer: Das ist aktuell nicht möglich.
+In der Fernbedienung der Magenta SmartHome App können Sie aber in der Detailansicht des Schlosses über die 3 Punkte rechts oben diese Funktion über die Nuki App nutzen.
+Aus Sicherheitsgründen darf die Verwendung eines Sprachassistenten für die Steuerung des Nuki Smart Lock nicht unterstützt werden, denn das Aufschließen "per Zuruf" wäre damit für jeden von außen möglich.
+

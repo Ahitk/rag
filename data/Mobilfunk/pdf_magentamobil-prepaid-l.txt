@@ -1,0 +1,30 @@
+Here's a summary of the relevant information from the image regarding the MagentaMobil Prepaid L (Prepaid Mobilfunk) plan:
+
+### Product Overview
+- **Name**: MagentaMobil Prepaid L
+- **Type**: Prepaid mobile tariff
+- **Services Included**: Telephony, SMS, Internet access.
+
+### Data Transmission Rates
+- **Estimated Maximum Speeds**:
+  - **Download**: 300 Mbit/s
+  - **Upload**: 50 Mbit/s
+- **Data Throttling**: After using 15 GB of data, speeds are reduced to 64 kbit/s.
+
+### Free SMS and Minutes
+- **Free SMS/Minutes**: Unlimited calls and SMS to all German networks, including landlines.
+
+### Contract Information
+- **Contract Duration**: No binding contract; cancellation can be done daily by the customer.
+
+### Fees
+- **Cost**: 
+  - €14.95 every four weeks.
+  - One-time activation fee of €15.00.
+  - Card price: €14.95 (standard price).
+
+### Additional Information
+- **Marketing Start Date**: 21.08.2024
+- **Company**: Telekom Deutschland GmbH, Bonn.
+
+For detailed terms and conditions, please refer to their general terms of service on [Telekom’s website](www.telekom.de/agb).

@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/einstellungen-erforderlich-nachdem-zugangsdaten-im-kundencenter-geaendert
+
+Question: Welche Einstellungen sind erforderlich, nachdem die Zugangsdaten im Kundencenter geändert wurden?
+Answer: Wenn Sie im Kundencenter Ihre Zugangsdaten wie persönliches Kennwort, E-Mail-Adresse oder Passwort ändern, müssen Sie dieselbe Änderung auch in Ihrem Router, in der Zugangssoftware oder im Internet-Telefon durchführen. Sonst funktioniert der Internetzugang oder die Internet-Telefonie nicht mehr.
+1. Einstellungen nach Ändern des persönlichen KennwortsSie haben zwei Möglichkeiten:
+2. Einstellungen nach Ändern von E-Mail-Adresse/PasswortAuch hier haben Sie zwei Möglichkeiten:
+• Automatische Konfiguration
+• Manuelle Konfiguration im Router
+• Automatische Konfiguration
+• Manuelle Konfiguration im Router
+

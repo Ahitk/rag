@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/sim-karte/wissenswertes/fehlerbehebung
+
+Question: Was kann ich bei Problemen mit der SIM-Karte tun?
+Answer: Es kann mehrere Gründe geben, warum ein Gerät eine SIM-Karte nicht erkennt oder für ungültig erklärt. In den meisten Fällen liegt kein Defekt der Karte vor und das Problem kann selbst gelöst werden.
+GerätTesten Sie die SIM-Karte in einem anderen Gerät. Sollte die SIM funktionieren, liegt ein Defekt Ihres Geräts vor. Um sicherzugehen, ist es ratsam, eine andere SIM-Karte in Ihrem Gerät zu testen.
+APN-EinstellungenPrüfen Sie, ob das APN-Profil in Ihrem Gerät richtig hinterlegt ist. Wenn dieAPN-Einstellungennicht korrekt sind, kann die SIM-Karte keine Verbindung ins Daten-Netz herstellen.
+SIM-Karte​​​​​​​Schon kleinste Staubpartikel auf der SIM-Karte und im SIM-Karten-Slot können die sensiblen Kontakte stören. Reinigen Sie die Karte und den Slot mit einem trockenen und fusselfreien Tuch.
+Falls Sie Ihre SIM-Karte gerade erst neu in den SIM-Karten-Slot gelegt haben, kontrollieren Sie, ob die SIM richtig im Slot liegt und nicht verrutscht ist. Bei einemDual-SIM-Handytesten Sie die SIM bitte in dem anderen SIM-Karten-Slot.
+

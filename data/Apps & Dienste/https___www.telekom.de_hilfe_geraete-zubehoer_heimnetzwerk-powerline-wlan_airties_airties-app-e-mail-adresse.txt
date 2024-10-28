@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/airties/airties-app-e-mail-adresse
+
+Question: Warum muss ich zur Nutzung der App meine E-Mail-Adresse eingeben?
+Answer: Sie bekommen an Ihre E-Mail-Adresse eine PIN zugeschickt. Diese benötigen Sie, um die App freizuschalten.
+Zudem hat dies den Vorteil, dass Sie immer über wichtige Updates für die Airties-Geräte informiert sind.
+Gut zu wissen: Ihre E-Mail-Adresse wirdselbstverständlich nicht weitergegeben.
+

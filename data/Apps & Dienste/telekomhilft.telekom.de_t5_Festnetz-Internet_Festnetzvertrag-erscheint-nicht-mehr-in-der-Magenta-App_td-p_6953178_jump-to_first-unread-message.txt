@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Festnetzvertrag-erscheint-nicht-mehr-in-der-Magenta-App/td-p/6953178/jump-to/first-unread-message
+Subject: Festnetzvertrag erscheint nicht mehr in der Magenta App
+Content: Hallo,seit kurzem erscheint mein Festnetzvertrag nicht mehr in der magenta App, im Kundencenter scheint alles normal... Woran kann es liegen? Zur Info: Habe vor kurzem einen neuen Mobilfunkvertrag sowie Magenta Sport hinzugebucht... Könnte es daran liegen?Gruss Dirk
+
+Accepted Solutions:
+- Hallo@dirk2104,es gibt momentan einen Fehler in der App, dass Festnetzverträge unter bestimmten Umständen in der App nicht angezeigt werden. Hast du eventuell bei deinem Festnetzvertrag eine Kündigung in der Zukunft drin stehen? Falls ja, bist du von dem Fehler betroffen. Da wird aber schon an einer Lösung gearbeitet.GrüßePeter
+- Hallo@dirk2104,es gibt momentan einen Fehler in der App, dass Festnetzverträge unter bestimmten Umständen in der App nicht angezeigt werden. Hast du eventuell bei deinem Festnetzvertrag eine Kündigung in der Zukunft drin stehen? Falls ja, bist du von dem Fehler betroffen. Da wird aber schon an einer Lösung gearbeitet.GrüßePeter

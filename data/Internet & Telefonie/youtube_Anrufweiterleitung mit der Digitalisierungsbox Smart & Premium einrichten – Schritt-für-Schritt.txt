@@ -1,0 +1,14 @@
+Question:
+Wie kann man die Anrufweiterleitung auf der Digitalisierungsbox einrichten?
+
+Answer:
+Willkommen zu unserem Digitalisierungsbox-Video, in dem wir uns mit der Einrichtung einer Anrufweiterleitung und Rufumleitung befassen. Wir gehen auf verschiedene Aspekte ein, wie die sofortige Anrufweiterleitung (CFO), die Anrufweiterleitung bei Nichtmelden (CFNR), und die Anrufweiterleitung bei Belegt (CFB). Darüber hinaus betrachten wir die Tastenkonfiguration für Bintech Elmix Systemtelefone und behandeln das Sonderthema der Rufumleitung im Amt, bezogen auf Telekom SipTrunk-Anschlüsse mit der Funktion Sip302. 
+
+Wir erklären, wie man sich über das Webinterface in das System einloggt und verschiedene Einstellungen anpasst. Anhand mehrerer Beispiele zeigen wir, wie man interne und externe Anrufweiterleitungen einrichtet und wie man die Zeiten für die Weiterleitung bei Nichtmelden anpasst. 
+
+Zudem erläutern wir die Tastenkonfiguration bei Systemtelefonen zur Auslösung von Anrufweiterleitungen und gehen auf das Thema Anrufweiterleitung im Amt bei einem Telekom SipTrunk-Anschluss ein. 
+
+Abschließend erklären wir, wie man individuelle Zugänge für die einzelnen Nebenstellen einrichtet, sodass Benutzer ihre Umleitungen selbst konfigurieren können und stellen die Wichtigkeit des Speicherns von Konfigurationsänderungen hervor. 
+
+Schließlich weisen wir auf weitere hilfreiche Videos zur Digitalisierungsbox hin. Vielen Dank für Ihre Aufmerksamkeit.
+

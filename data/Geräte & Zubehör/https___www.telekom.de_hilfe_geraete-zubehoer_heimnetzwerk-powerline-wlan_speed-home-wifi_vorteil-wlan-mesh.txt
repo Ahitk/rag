@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-wifi/vorteil-wlan-mesh
+
+Question: Was ist der Vorteil der WLAN-Mesh-Lösung?
+Answer: "Mesh" steht für maschenartiges Netz. Wie auch in einem solchen Maschennetz, sind alle Netzknoten miteinander verbunden. Die Daten in diesem WLAN-Mesh suchen sich immer den Weg der besten Verbindung.
+Wenn Sie sich mit Ihrem Smartphone durch das Gebäude bewegen, sind Sie immer automatisch mit dem stärksten Netzknoten verbunden.Die Geschwindigkeit der WLAN-Verbindung geht nicht verloren.
+Das ist anders, wenn Sie einen Repeater nutzen. Dieser verstärkt zwar das Signal für eine Erhöhung der Reichweite, die Geschwindigkeit reduziert sich dabei allerdings.
+

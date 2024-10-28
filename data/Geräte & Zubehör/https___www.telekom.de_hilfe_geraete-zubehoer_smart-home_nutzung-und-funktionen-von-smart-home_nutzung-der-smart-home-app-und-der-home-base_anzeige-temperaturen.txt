@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/anzeige-temperaturen
+
+Question: Welche Temperaturen werden mir in der Fernbedienung sowie im Heizungsprofil der Magenta SmartHome App angezeigt?
+Answer: Die Heizungssteuerung in Magenta SmartHome bietet die Möglichkeit, die Solltemperatur eines Raumes vorzugeben – unabhängig von der Anzahl der im Raum vorhandenen Heizkörperthermostate. Alle Thermostate werden dann nach den gleichen Zeit- und Temperaturvorgaben gleichzeitig gesteuert.Auch die Absenkung auf Wohlfühl-, Eco- und Frostschutz-Temperatur (die Symbole "Haus", "Blatt" und "Schneeflocke") erfolgt für alle Heizkörper eines Raums gleich.Diese Temperaturen können Sie über das Menü Heizung einstellen, indem Sie rechts oben das Einstellungsrädchen klicken und dort die Soll-Temperaturen ändern.Über das Menü "Fernbedienung" können Sie darüber hinaus alle Heizkörperthermostate eines Raums unabhängig vom definierten Heizungsprofil steuern.
+Das Heizungsprofil wird die von Ihnen festgelegte Temperatur dann zum nächsten Schaltzeitpunkt wieder einstellen.
+Temperaturen im Heizungsprofil:
+Haben Sie ein Heizungsprofil eingerichtet, so stellt die aktuelle Ist-Temperatur den Durchschnittswert aller Temperaturfühler eines Raumes dar. Misst das Heizkörperthermostat beispielsweise 25 Grad Celsius und das Wandthermostat 20 Grad Celsius, so wird Ihnen der Durchschnittswert von 22,5 Grad Celsius angezeigt.Die jeweiligen Ist-Temperaturen für jeden Ihrer Räume finden Sie in der Magenta SmartHome App:
+Haben Sie in den Heizungsoptionen festgelegt, dass die Ist-Temperatur eines Raumes nur an einem als "Hauptgerät" gekennzeichneten Heizungsthermostat abgenommen werden soll, so findet die oben beschriebene Durchschnittsbildung nicht statt. Die Temperaturanzeige in der Titelzeile dieses Raums entspricht dann dem Messwert des von Ihnen festgelegten Temperaturfühlers. Diese kann von der tatsächlichen Raumtemperatur abweichen.
+Temperaturen in der Fernbedienung:
+Im Menü der Fernbedienung wird jeder Temperatursensor einzeln aufgelistet undmit einem roten Thermometer angezeigt, in dem die aktuell an diesem Sensor gemessene Ist-Temperatur ausgegeben wird. Ist der Temperatursensor nicht erreichbar, wird der Wert "-°" angegeben.
+Befinden sich in einem Raum ein oder mehrere Thermostate, so wird in der Titelzeile dieses Raums im Menü Fernbedienung die als Durchschnittswert ermittelte Raumtemperatur angezeigt. Haben Sie in den Heizungsoptionen festgelegt, dass die Raumtemperatur nur an einem der vorhandenen Thermostate gemessen werden soll, so zeigt die Titelzeile dieses Raums im Menü der Fernbedienung diesen gemessenen Sensorwert.
+• In der Übersicht auf der Startseite, im Abschnitt "Temperatur"
+• Im Menüpunkt "Heizung", in der Überschriftenzeile des jeweiligen Raumes
+

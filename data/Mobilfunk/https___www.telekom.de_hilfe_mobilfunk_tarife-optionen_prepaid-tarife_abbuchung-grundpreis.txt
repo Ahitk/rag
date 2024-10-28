@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/prepaid-tarife/abbuchung-grundpreis
+
+Question: Wann wird das nächste Mal der Grundpreis meines Prepaid-Tarifs abgebucht?
+Answer: Der Grundpreis Ihres Tarifs wird alle vier Wochen von Ihrem Prepaid-Guthaben abgezogen. Wenn Sie Ihren Prepaid-Vertrag im Kundencenter hinterlegt haben, können Sie dort oder in der MeinMagenta App den nächsten Abbuchungstag einsehen. Unter der Anzeige Ihres aktuellen Datenvolumens stehen die Tage bis zur nächsten fälligen Zahlung Ihres Prepaid-Grundpreises.
+

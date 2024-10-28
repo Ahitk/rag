@@ -1,0 +1,6 @@
+Question:
+Was ist die G-Pon Installationskennung und warum ist sie für die Einrichtung eines FTTH Anschlusses der FTTH 1.7 Plattform an der Digitalisierungsbox 2 notwendig?
+
+Answer:
+Das Video zur Digitalisierungsbox 2 beschreibt die Einrichtung eines FTTH-Anschlusses der FTTH 1.7 Plattform mit dem Digitalisierungsbox Glasfaser Modem. Für den erfolgreichen Setup benötigt man die G-Pon Installationskennung von der Telekom und muss an dem Anschluss den O&T-Ridescavery starten. Nach Erfüllung der Voraussetzungen und Hardwareaufbau, wird die Einrichtung der Digitalisierungsbox 2 gestartet, indem man sich zunächst mit den Atmenzugangsdaten an der Web-Oberfläche anmeldet. Nach dem Eingeben der G-Pon Installationskennung startet der automatische Einrichtungsprozess. Da es während der Einrichtung möglicherweise zu einem Neustart der Digitalisierungsbox 2 kommen kann, sollte genügend Zeit eingeplant werden. Nach dem Setup ist die Digitalisierungsbox einsatzbereit und kann weiter konfiguriert werden (z.B. Auswahl zwischen PBX Modus oder Media-Gateware-Betrieb). Nach Abschluss des Assistenten sind viele weitere Einstellungsmöglichkeiten verfügbar. Das Video endet mit einem Dank für die Aufmerksamkeit des Zuschauers und einem Abschied.
+

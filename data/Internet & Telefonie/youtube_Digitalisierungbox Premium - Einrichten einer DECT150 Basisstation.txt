@@ -1,0 +1,6 @@
+Question:
+Wie kann man eine Bintech-MAC dekt 150 Deckbasis Station an einer Digitalisierungssbox Premium in Betrieb nehmen?
+
+Answer:
+Willkommen bei unserem neuen Digitalisierungssbox-Video. Das Video erläutert, wie Sie eine Bintech-MAC dekt 150 Basisstation mit Ihrer Digitalisierungssbox Premium verbinden können. Zuerst melden Sie sich am Web-Interface der Box an. Es ist wichtig, dass der DHCP-Server den Geräten eine Provisionierungs-URL zur Verfügung stellt. Wenn die Digitalisierungssbox als DHCP-Server verwendet wird, kann dies geprüft werden. Nachdem die Systemvoraussetzungen erfüllt sind, richten wir das Deck 150-System ein. Wir erstellen einen Benutzer, weisen ihm eine interne Telefonnummer zu und verknüpfen diese mit einem Gerät. Wir können auch Berechtigungsklassen für diesen Benutzer festlegen. Zum Schluss speichern wir die Konfiguration auf der Digitalisierungssbox. Außerdem werden wir Ihnen zeigen, wie man eine interne Telefonnummer erstellt und diese mit dem Benutzer verknüpft und schließlich das Endgerät mit dieser Nummer verknüpft. Wenn die   Bintech Elmer dekt 150 Single Cell Deckbasisstation nicht in der Digitalisierungssbox angezeigt wird, überprüfen Sie bitte die Stromversorgung, die Netzwerkverbindung und ob die Basisstation eine IP-Adresse hat. Weitere Details finden Sie im Video. Copyright WDR 2020.
+

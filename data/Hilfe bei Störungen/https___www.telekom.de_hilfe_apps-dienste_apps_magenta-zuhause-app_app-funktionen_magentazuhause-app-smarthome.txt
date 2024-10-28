@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/app-funktionen/magentazuhause-app-smarthome
+
+Question: Kann ich beide Apps, MagentaZuhause und Magenta SmartHome, parallel nutzen?
+Answer: Da viele unserer Geräte in beide Apps eingebunden sind und somit als Sensor oder Aktor genutzt werden können, ist eine gleichzeitige Nutzung in beiden Apps möglich.
+Hinweis: Ausgenommen hiervon sind die Geräte des Herstellers WiZ und alle SmartHome WLAN-Geräte. Diese können nur in einer der beiden Apps angelernt und genutzt werden. Wenn Sie für diese Geräte die App wechseln möchten, löschen Sie bitte zunächst in der ersten App das Gerät und verbinden es anschließend in der anderen App erneut.
+Um zu verhindern, dass beide Apps widersprüchliche Befehle an die smarten Geräte senden, sollten folgende Funktionen in der Magenta SmartHome App deaktiviert werden:
+Im Speedport Router können beide Apps eingebunden werden, hier gibt es keine Einschränkungen bei einer parallelen Nutzung.
+• Heizung
+• Alarmsystem
+• Regeln
+

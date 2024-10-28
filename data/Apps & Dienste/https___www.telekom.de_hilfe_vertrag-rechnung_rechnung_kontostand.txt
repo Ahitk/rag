@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/kontostand
+
+Question: Wo kann ich den aktuellen Kontostand für meine Rechnungen sehen?
+Answer: Den aktuellen Kontostand Ihrer Festnetz- und Mobilfunk-Verträge können Sie im Kundencenter oder in der MeinMagenta App einsehen.
+• KundencenterRechnung & Zahlung > Alle anzeigen > Klick auf den Pfeil des entsprechenden Vertrages > Kontostatus
+• MeinMagenta AppZahlungen > Klick auf die Kachel des entsprechenden Vertrages > Ihr Kontostatus
+

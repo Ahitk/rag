@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/e-mail-konto-einrichten
+
+Question: Wie richte ich ein oder mehrere Telekom E-Mail-Konten in der Telekom Mail App ein?
+Answer: Sie können in der Telekom Mail App eine oder mehrere Telekom E-Mail-Konten (@t-online.de/@magenta.de) parallel nutzen.
+E-Mail-Konto einrichten:
+Weitere Telekom E-Mail-Konten einrichten:
+Hinweis:E-Mail-Adressen anderer Anbieter können ab iOS-Version 4.6.2 bzw. Android-Version 3.0.0 nicht mehr in der Telekom Mail App eingerichtet werden. Kunden mit Homepage-Postfächern erhalten über dasHomepage Centerder Telekom weitere Informationen.
+

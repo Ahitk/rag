@@ -1,0 +1,6 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/TV-one-2-Generation/td-p/6941740/jump-to/first-unread-message
+Subject: TV one 2 Generation
+Content: Hallo zusammen,ich nutze schon seit einigen Jahren Magenta TV und hatte noch nie Probleme. Letzten Freitag habe ich eine TV one der 2.Generation in Betrieb genommen. Bis gestern, alles Bestens. Gestern Abend habe ich dann ein Update auf die September Version 3.146.5387 durchgeführt. Danach war der TV Ton, meines LG C39,  so leise, dass ich den Lautstärkeregler meiner Nubert AS3500 von 25% auf 75% erhöhen musste, damit ich überhaupt etwas verstanden habe. Es wurde nichts anderes geändert. Die TV One ist auf Stereo Ausgabe eingestellt. Eine versuchsweise Änderung der Tonausgabe blieb ohne Erfolg. Hat jemand das gleiche Problem?GrußMichael
+
+Accepted Solutions:
+- Ich habe heute morgen die One übe den Reset Knopf neu gestartet. Beim Neustart würde die Software neu installiert.Nun funktioniert alles wieder wie gewohnt.Irgendetwas ist beim letzten Update wohl schief gelaufen.Danke für die Hilfe

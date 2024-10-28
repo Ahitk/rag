@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/meine-daten/datenvolumen-ansehen
+
+Question: Wo kann ich mein aktuell verbrauchtes Datenvolumen ansehen?
+Answer: Den aktuellen Datenverbrauch für Ihren Festnetz- und Mobilfunk-Vertrag sehen Sie im Kundencenter, in der MeinMagenta App oder über Ihr mobiles Gerät unter "pass.telekom.de". Bei Bedarf buchen Sie dort auch zusätzliches Datenvolumen (SpeedOn). Bei zusätzlichen Verträgen wie z. B. MagentaMobil PlusKarten ist eine Ansicht zum aktuellen Verbrauchsstatus auch ohne Telekom Login genauso möglich.
+Hinweis: Bei Festnetz-Tarifen mit Datenvolumen können Sie sich den aktuellen Verbrauch derzeit noch nicht in der MeinMagenta App anschauen.
+

@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei/huawei-smartphones/huawei-p20-besonderheiten
+
+Question: Welche Besonderheiten hat das HUAWEI P20?
+Answer: Die weiteren technischen Besonderheiten des Huawei P20:
+
+• Integriertes Bluetooth-Modul zur kabelfreien Übertragung von Sprache und Daten
+• Modemfunktion für Laptop über Bluetooth, USB, WLAN
+• Weitere Schnittstellen: Bluetooth, USB, USB Typ C, WLAN a/b/g/n/ac 2,4 & 5 GHz
+• Huawei Safe SuperCharge
+

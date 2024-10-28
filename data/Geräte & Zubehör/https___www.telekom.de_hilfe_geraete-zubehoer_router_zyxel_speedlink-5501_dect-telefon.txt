@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/zyxel/speedlink-5501/dect-telefon
+
+Question: Kann ich ein DECT-Telefon am Router Zyxel Speedlink 5501 nutzen?
+Answer: Ja, Sie haben die Möglichkeit schnurlose Telefone mit eigener DECT-Basisstation am Router anzuschließen. Am Router selbst sind 3 Anschlussmöglichkeiten für Telefone (2 x analog und 1 x ISDN).
+Wie Sie ein DECT-Telefon anschließen, finden Sie in derBedienungsanleitung.
+Gut zu wissen:Der Router selbst hat kein eigenes DECT-Modul. Somit können Sie DECT-Telefone ohne eigene Basisstation wie z.B. Speedphone nicht nutzen.
+

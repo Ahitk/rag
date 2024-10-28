@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/glasfaser/super-vectoring
+
+Question: Was ist Super-Vectoring?
+Answer: Super-Vectoring oder auch (S)VDSL ist eine Technologie, mit der sich die maximal möglichen Datenraten in schon bestehenden Kupferleitungen erhöhen lassen. So werden Geschwindigkeitsübertragungen von bis zu 250 Mbit/s (Downstream) bzw. 40 Mbit/s (Upstream) ermöglicht. Damit stellt Super-Vectoring Bandbreiten bereit, die z. B. für UHD, Virtual Reality oder noch kontrastreichere Bildformate benötigt werden.
+

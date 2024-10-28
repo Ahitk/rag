@@ -1,0 +1,8 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/type-error-im-Kundencenter/td-p/6948848/jump-to/first-unread-message
+Subject: type error im Kundencenter
+Content: ich habe seit Tagen einen Type Error im Kundencenter. Login funktioniert noch, danach kommt die Fehlermeldung
+
+Accepted Solutions:
+- Hat sich erledigt! mit Edge kommt kein TypeError auf www Kundencenter. Das heißt für mich, dass in der Programmierung  etwas falsch läuft, als die gewöhnlich verdächtigen Browser Safari und Firebox keine Berücksichtigung finden. Blöd nur, dass die QR-Codes von Magenta TV alle im Standardbrowser landen. Ich bin aber nicht gewillt, wegen dem Kundencenter meinen Standardbrowser zu ändern
+- Anruf der Telekom nicht erhalten.Mich hat das jetzt zwei Tage so massiv geärgert, dass ich den Vertrag magenta tv flex widerrufen habe.
+- Anruf der Telekom nicht erhalten.Mich hat das jetzt zwei Tage so massiv geärgert, dass ich den Vertrag magenta tv flex widerrufen habe.

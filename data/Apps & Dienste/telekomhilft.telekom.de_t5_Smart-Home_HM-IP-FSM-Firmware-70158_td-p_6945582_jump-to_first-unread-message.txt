@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/HM-IP-FSM-Firmware-70158/td-p/6945582/jump-to/first-unread-message
+Subject: HM IP FSM Firmware 70158
+Content: Hallo Zusammen,ich habe seit einigen Tagen das Problem, dass der UP-Aktor sich von allein ausschaltet und man ihn nicht wieder an bekommt. Sobald man in der MZH-App ihn einschaltet, steht sofort wieder da, dass er aus ist. Nur ein Neustart der Zentrale oder das Stromlosmachen des Aktors bringt temporäre Hilfe. Es hatte dann fast 24h gehalten und nun wieder.Hat das jemand mal beobachtet?Grussmarkus
+
+Accepted Solutions:
+- Hallo Zusammen. Ich kann als Feedback geben, dass es seit letzten Mal vernünftig funktioniert. Keine Ahnung, was da los war. Wie von Zauberhand geht es wieder. Ähnliches hatte ich mit einem anderem Aktion gleicher Art.grussmarkus
+- Hallo Zusammen. Ich kann als Feedback geben, dass es seit letzten Mal vernünftig funktioniert. Keine Ahnung, was da los war. Wie von Zauberhand geht es wieder. Ähnliches hatte ich mit einem anderem Aktion gleicher Art.grussmarkus

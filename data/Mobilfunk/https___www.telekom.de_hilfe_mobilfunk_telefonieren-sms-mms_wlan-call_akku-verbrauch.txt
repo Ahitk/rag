@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/akku-verbrauch
+
+Question: Erhöht sich durch WLAN Call der Akku-Verbrauch meines Smartphones?
+Answer: Nein, der Akku-Verbrauch bei der Nutzung von WLAN Call ist wie bei der normalen Sprachtelefonie.
+

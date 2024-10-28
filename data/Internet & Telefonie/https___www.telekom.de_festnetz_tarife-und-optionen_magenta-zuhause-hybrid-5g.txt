@@ -1,0 +1,28 @@
+Source URL: https://www.telekom.de/festnetz/tarife-und-optionen/magenta-zuhause-hybrid-5g
+
+Question: Was ist Hybrid 5G?
+Answer: Hybrid 5G ist die Weiterentwicklung des bereits am Markt verfügbaren LTE Hybrid. Durch Hybrid 5G wird zur Bandbreite des Telekom Festnetzanschlusses zusätzliche Datenrate über Mobilfunk zugeschaltet, sobald das Internet Daten schneller liefern kann, als sie über die Festnetzleitung transportiert werden können.
+
+Question: Wie funktioniert Hybrid 5G?
+Answer: Sobald die Bandbreite am Festnetzanschluss nicht mehr ausreicht, um die von den Servern angelieferten Daten mit der maximalen Geschwindigkeit anzunehmen, wird automatisch 5G/LTE Mobilfunk zur Festnetzbandbreite zugeschaltet. Das funktioniert über einen Aggregations-Knoten im Netz der Telekom. Dieser verteilt die Datenpakete über die Festnetzleitung und nimmt Mobilfunk dazu, wenn Daten so schneller transportiert werden können. Die Datenpakete über Festnetz und Mobilfunk werden dann im Router wieder zusammengebracht.
+
+Question: Welche Vorteile bietet Hybrid 5G?
+Answer: Die Kombination von DSL und Mobilfunk bei Hybrid 5G bringt zwei Vorteile mit sich:
+• Bessere Performance: Dank der Bündelung zweier Technologien mit Hybrid 5G der Telekom sind sehr hohe Datenraten möglich.
+• Gesteigerte Ausfallsicherheit: Im Fall einer Festnetzstörung können Kunden mit DSL-Anschluss nicht weiter surfen. Bei Hybrid 5G läuft das Internet dann über Mobilfunk, also 5G oder LTE.
+
+Question: Wie schnell ist die Datenübertragung mit Hybrid 5G?
+Answer: Hybrid 5G bietet zusätzliche Bandbreite über Mobilfunk zum vorhandenen Festnetzanschluss. Je nach Auslastung des Mobilfunknetzes sind so Geschwindigkeiten von bis zu 250 MBit/s im Down- und 50 MBit/s im Upload möglich.
+
+Question: Löst Hybrid 5G das aktuelle LTE Hybrid-Angebot ab?
+Answer: LTE Hybrid steht für Bestandskunden weiterhin zur Verfügung. Hybrid 5G ist das Nachfolgeangebot für Neukunden.Durch Hybrid 5G wird unser LTE-Mobilfunknetz entlastet (Verlagerung des Datenverkehrs von LTE nach 5G), sodass das Kundenerlebnis auch für LTE Hybrid-Kunden verbessert wird.
+
+Question: Wie bekomme ich als Bestandskunde Hybrid 5G?
+Answer: Um den Hybrid 5G Tarif buchen zu können, benötigen Sie als Bestandskunde den Speedport Smart 4 sowie einen 5G-Empfänger. Sind diese Voraussetzungen erfüllt, fügen Sie zu Ihrem bestehendenDSL-Tarifentweder die 5G/LTE Hybrid-Option oder wechseln Sie in einen MagentaZuhause Hybrid Tarif.
+
+Question: Welche Hardware nutzt Hybrid 5G und wie wird sie installiert?
+Answer: Hybrid 5G basiert gegenüber dem bisherigen LTE Hybrid auf einem neuen Hardwarekonzept. Damit unsere Kunden maximale Leistung erhalten, wird Hybrid 5G mit einem separaten 5G-Empfänger für den Außenbereich angeboten. Dieser wird mit einem geeigneten Router, zum Beispiel mit demSpeedport Smart 4der Telekom, verbunden. Dies erfolgt über ein separates 10 Meter langes Flachbandkabel. Dieses kann problemlos auch durch Fensterdichtungen verlegt werden.Damit der 5G/LTE-Empfang optimal ist, sollte der 5G Empfänger im Außenbereich befestigt werden (zum Beispiel am Balkon oder der Fensterbank; Befestigungsmaterial ist im Lieferumfang enthalten). Die Mobilfunk-Empfangsqualität können Sie über eine LED-Anzeige am 5G-Empfänger nachvollziehen. Bei ungünstigen 5G-Empfangsbedingungen wechselt der Empfänger automatisch auf LTE.
+
+Question: Enthält Hybrid 5G eine echte Flatrate auf der Mobilfunkseite?
+Answer: Ja, der Mobilfunkanteil bei Hybrid 5G ist nicht limitiert.
+

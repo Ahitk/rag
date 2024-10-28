@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/E-mail-login-funktioniert-nicht-mehr-mit-outlook-oder/td-p/6943081/jump-to/first-unread-message
+Subject: E-mail login funktioniert nicht mehr mit outlook oder thunderbird
+Content: Seit langem benutzen wir Microsoft Outlook und/oder Thunderbird für diverse e-mail Konten, alle bei T-online.  Seit heute ist der Login zu einem dieser Konten gestört. Nach Eingabe der korrekten Adresse und Passwort kommt das Login Fenster immer wieder zurück, Posteingang und Versand funktionieren nicht. Die übrigen Konten funktionieren einwandfrei. Beim Versuch über den Web-Client auf das gestörte Konto zu zu greifen kam, nach Eingabe von Adresse und Passwort, die Aufforderung einen per SMS  zugeschickten Code ein zu geben, danach war zumindest auf dieser Weise das Konto benutzbar. Aber über Outlook oder Thunderbird geht es immer noch nicht. Die Telekom Hotline Hilfe hat das Problem nicht lösen können, und vermutete ein Problem mit Microsoft Outlook, aber da es auch mit dem Thunderbird client auftritt (und nur bei diesem einen Konto) ist diese Erklärung nicht so plausibel. Hat sich bei Telekom was geändert und wenn ja, was soll in den e-mail Clients geändert werden, damit die Mail wieder funktioniert?
+
+Accepted Solutions:
+- Jetzt geht es plötzlich wieder. Wie bei UlrichZ, hat nur länger gedauert. Problem scheint gelöst zu sein.
+- Jetzt geht es plötzlich wieder. Wie bei UlrichZ, hat nur länger gedauert. Problem scheint gelöst zu sein.

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/bestellen-einrichten/fehler-qr-code
+
+Question: Was kann ich tun, wenn der QR-Code zur Aktivierung der eSIM nicht funktioniert?
+Answer: Stellen Sie sicher, dass Ihr Gerät mit dem WLAN verbunden ist, bevor Sie den Code scannen.
+Wenn Sie den Aktivierungscode trotzdem nicht scannen können oder eine Fehlermeldung erhalten, bestellen Sie sich einen neuen QR-Code zur Aktivierung Ihrer eSIM. Das können Sie ganz einfach selbst in Ihrem Kundencenter und dauert nur ein paar Minuten.
+

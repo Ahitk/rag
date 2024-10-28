@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/prepaid-tarife/qr-code-aktivierung
+
+Question: Wo finde ich den QR-Code für die Prepaid-Online-Aktivierung?
+Answer: Seit Mitte 2022 ist in den Prepaid-Verpackungen ein QR-Code enthalten. Dieser enthält die neue Karten- und Rufnummer Ihrer Prepaid-Karte. Starten Sie die Aktivierung Ihrer Prepaid-Karte durch das Scannen des QR-Codes. Es werden die Karten- und Rufnummer automatisch aus dem QR-Code übernommen.
+Hinweis:Sie benötigen einen Internet-Zugang (WLAN-Verbindung Ihres Smartphones). Ältere Smartphone-Modelle benötigen ggf. zusätzlich eine Scan-App.
+

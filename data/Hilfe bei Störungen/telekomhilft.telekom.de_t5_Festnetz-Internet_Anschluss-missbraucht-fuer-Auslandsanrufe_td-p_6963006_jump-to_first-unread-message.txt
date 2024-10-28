@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Anschluss-missbraucht-fuer-Auslandsanrufe/td-p/6963006/jump-to/first-unread-message
+Subject: Anschluss missbraucht für Auslandsanrufe
+Content: Wir haben folgendes Schreiben  bekommen:"Sehr xxxuns ist aufgefallen, dass mit Ihrem Ansch|uss xxxxungewöhnlich viel ins Ausland u.a. zum Ziel xxx telefoniert wurde.Daher haben wir Ihren Anschluss vorsorglich für diese Verbindungen gesperrt.Zu lhrer Sicherheit: Bis auf Weiteres sind nun keine Verbindungen mehr ins Ausland möglich.Bitte setzen Sie sich dringend mit uns in Verbindung.Sie erreichen uns telefonisch montags bis freitags von 7 bis 18 Uhr kostenfrei unter xxxxxxx"Wir haben schon angerufen.  Router & Telefonanalage haben nun die letzte Firmware. Die Passwörter für beide wurden geändert.Spuren auf dem Router oder in der Telefonanlage habe wir nicht gefunden.Frage: Kann man irgendwie feststellen, ob das geholfen hat?Bzw. gibt es Mittel und Wege, wie man feststellen kann, ob da noch jemand Zugang hat und vielleicht etwas anderes macht als Auslandstelefonate, die ja derzeit eh nicht möglich sind?Oder hilft wirklich nur neue aktuelle Hardware?
+
+Accepted Solutions:
+- Moin@FrankDD,hier habe ich einen interessanten Artikel dazu:https://www.telekom.com/de/konzern/datenschutz-und-sicherheit/news/im-dauereinsatz-fuer-ein-sauberes...Besten GrußMatthias
+- Moin@FrankDD,hier habe ich einen interessanten Artikel dazu:https://www.telekom.com/de/konzern/datenschutz-und-sicherheit/news/im-dauereinsatz-fuer-ein-sauberes...Besten GrußMatthias

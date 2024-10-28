@@ -1,0 +1,26 @@
+Here's a summary of the relevant information from the document regarding the "MagentaMobil Speedbox Flex" telecommunication product:
+
+### Product Overview
+- **Name**: MagentaMobil Speedbox Flex (Mobilfunk)
+- **Availability**: Since February 12, 2019
+
+### Data Transmission Rates
+- **Download Speed**: Up to 300 Mbit/s
+- **Upload Speed**: Up to 50 Mbit/s
+- **Post 100 GB Usage**: Speed reduces to 0 kbit/s for both upload and download.
+
+### Contract Details
+- **Minimum Contract Period**: 24 months
+- **Cancellation Notice Period**: 1 month
+- **Contract Termination**: Can be cancelled at any time after the minimum contract period with a notice of one month.
+
+### Pricing Information
+- **Monthly Fee**: 0.00 EUR
+- **One-Time Hardware Fee**: Speedbox Router (price not specified)
+- **Data Pass**: 100 GB for 31 days costs 44.95 EUR.
+
+### Additional Notes
+- The product includes access to internet services within Germany.
+- Further product particulars can be found in the terms and conditions (AGB).
+
+This summary encapsulates the main points including data rates, contract details, and pricing for the telecommunications product.

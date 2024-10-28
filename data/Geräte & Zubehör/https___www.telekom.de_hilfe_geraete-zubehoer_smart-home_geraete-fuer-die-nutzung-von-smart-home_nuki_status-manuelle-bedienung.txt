@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/status-manuelle-bedienung
+
+Question: Wird der Status meines Nuki Smart Lock auch richtig angezeigt, wenn ich das Schloss von Hand bediene oder von außen mit einem Schlüssel aufschließe?
+Answer: Wenn Sie das Nuki Smart Lock mit dem Drehrad oder dem Türknopf öffnen, wird der Status korrekt an die Magenta SmartHome App gemeldet. Da diese Bedienung keinem Benutzer zugeordnet werden kann, wird dann "von Hand" bzw. "von Hand (Knopf)" angezeigt.
+Bei einem Schlüssel von außen kommt es auf den verbauten Zylindertyp an: Dreht sich der Schlüssel beim Auf- oder Abschließen von außen mit, so wird der Status korrekt gemeldet ("von Hand"). Dreht sich der innen steckende Schlüssel nicht mit, kann Nuki keine Änderung erkennen. Dementsprechend werden dann keine Regeln ausgelöst, die auf den Status "aufgeschlossen" reagieren.
+Tipp:Bei den meisten Türen ist ein Austausch des vorhandenen Schließzylinders gegen einen sog. "beidseitig schließbaren Zylinder mit Not- und Gefahrenfunktion" problemlos möglich. Manche Zylinder lassen sich sogar dahingehend erweitern.
+

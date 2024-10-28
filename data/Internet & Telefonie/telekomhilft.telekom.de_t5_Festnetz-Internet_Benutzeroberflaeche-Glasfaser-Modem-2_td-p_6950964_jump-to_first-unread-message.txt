@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Benutzeroberflaeche-Glasfaser-Modem-2/td-p/6950964/jump-to/first-unread-message
+Subject: Benutzeroberfläche Glasfaser-Modem 2
+Content: Hallo,habe seit kurzem einen Glasfaseranschluss der Telekom und das Glasfaser-Modem 2 im Einsatz. In der Bedienungsanleitung zum Modem steht auf Seite 20, dass man auf der Benutzeroberfläche des Modems die Aktualisierung der Firmware einstellen kann.Wo und wie kann ich denn die Benutzeroberfläche am PC öffnen?Vielen Dank für Hinweise.mfg
+
+Accepted Solutions:
+- Hallo@erim2Das Glasfaser Modem 2 erreicht man über die IP-Adresse192.168.100.1Direkte LAN Verbindung vom Modem zum PC.Ggf am PC die Netzwerkadresse anpassen
+- Hallo@erim2Das Glasfaser Modem 2 erreicht man über die IP-Adresse192.168.100.1Direkte LAN Verbindung vom Modem zum PC.Ggf am PC die Netzwerkadresse anpassen

@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/puls-tablet/wie-kann-ich-die-tastaturtoene-ausstellen
+
+Question: Wie kann ich die Tastaturtöne beim Puls-Tablet ausstellen?
+Answer: Um die Tastaturtöne auszuschalten gehen Sie bitte zuerst in die Android Einstellungen und folgen danach diesem Weg:
+Hier können Sie die Tastaturtöne ausschalten.
+• Sprache und Eingabe
+• Google-Tastatur
+• Einstellungen
+• Ton bei Tastendruck
+

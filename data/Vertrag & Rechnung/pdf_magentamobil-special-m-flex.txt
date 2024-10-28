@@ -1,0 +1,22 @@
+The image contains information about the "MagentaMobil Special M Flex" telecommunication product from Telekom Deutschland. Here’s a summary of the key details:
+
+### Product Overview
+- The "MagentaMobil Special M Flex" package includes mobile network access for telephone, SMS, and internet services.
+
+### Data Transmission Rates
+- **Estimated Maximum Values:**
+  - **Download:** 50 Mbit/s
+  - **Upload:** 10 Mbit/s
+- **Data Limit:**
+  - Up to 5 GB of data usage, after which the speed reduces to:
+    - **Download:** 64 kbit/s
+    - **Upload:** 16 kbit/s
+
+### Additional Product Information
+- **Contract Duration:** 
+  - No fixed contract period, can be terminated with one month's notice.
+  
+- **Monthly Fee:**
+  - **Cost:** 24.95 EUR (does not include hardware costs).
+
+This information is useful for potential users interested in mobile connectivity and internet services provided by Telekom Deutschland.

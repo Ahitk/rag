@@ -1,0 +1,6 @@
+Source URL: https://telekomhilft.telekom.de/t5/Homepage-Shop/Diese-osm-risse-de-Seite-wurde-nicht-gefunden/td-p/6972861/jump-to/first-unread-message
+Subject: Diese osm-risse.de-Seite wurde nicht gefunden
+Content: Diese osm-risse.de-Seite wurde nicht gefundenFür folgende Webadresse wurde keine Webseite gefunden:https://osm-risse.de/.HTTP ERROR 404Hallo,in allen Browsern die gleiche Meldung.Auch ein FTP Login funktioniert nicht.Was machen wir ggf. falsch?Mit freundlichen GrüßenDetlev Molitor
+
+Accepted Solutions:
+- Hallo@dmolitor,Danke für deine Geduld!Vielen Dank für das freundliche Telefonat!Wir konnten den Fall nun lösen.Es lag an einem falschen Produkt bzw. an einem Missverständnis bezüglich eines Widerrufs.Wir haben soeben die Zubuchoption "Webhosting" gebucht und damit die fehlenden Berechtigungen für sFTP und PHP ergänzt.Viele GrüßeMarcel Mo.

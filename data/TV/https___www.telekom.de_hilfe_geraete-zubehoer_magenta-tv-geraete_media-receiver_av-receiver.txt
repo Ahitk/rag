@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/media-receiver/av-receiver
+
+Question: Kann ich einen AV-Receiver zwischen dem Media Receiver / MagentaTV Box und meinem TV-Gerät anschließen?
+Answer: Ja, Sie können einen AV-Receiver, also einen Verstärker für das Tonsignal zwischen Ihrem Media Receiver bzw. Ihrer MagentaTV Box und Ihrem Fernseher anschließen.
+Der AV-Receiver und Ihr TV-Gerät müssen mindestens HDMI 2.0 und HDCP 2.2 für die Wiedergabe von UHD unterstützen.
+Alle Media Reveiver besitzten zusätzlich noch einen seperaten Coaxial-Ausgang.
+Sollte es zu Problemen bei der Wiedergabe über einen AV-Receiver kommen, verbinden Sie den Media Receiver bitte direkt mit Ihrem Fernseher.
+

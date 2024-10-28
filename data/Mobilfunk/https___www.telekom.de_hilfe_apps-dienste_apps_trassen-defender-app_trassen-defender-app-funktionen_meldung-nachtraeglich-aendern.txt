@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/meldung-nachtraeglich-aendern
+
+Question: Kann ich bereits verschickte Schadensmeldungen nachträglich ändern?
+Answer: Eine versendete Meldung kann nach dem Versenden leider nicht mehr geändert werden. Wenn Sie eine Schadensmeldung korrigieren oder ergänzen möchten, versenden Sie bitte eine neue Meldung .
+Zur besseren Zuordnung bitten wir Sie, dass Sie im Freitext auf Ihre vorherige Meldung verweisen.
+

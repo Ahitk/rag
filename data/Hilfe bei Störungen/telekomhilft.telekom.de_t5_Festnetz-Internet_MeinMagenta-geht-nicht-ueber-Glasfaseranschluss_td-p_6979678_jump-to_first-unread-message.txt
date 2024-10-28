@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/MeinMagenta-geht-nicht-ueber-Glasfaseranschluss/td-p/6979678/jump-to/first-unread-message
+Subject: MeinMagenta geht nicht über Glasfaseranschluss
+Content: Liebe Community, ich habe ein kleines eigentümliches Problem: Ich habe vorübergehend zwei Internet-Anschlüsse: VDSL von der Telekom und Glasfaser der Deutschen Glasfaser. Und über das WLAN des Glasfasernetzes (Fritzbox 7490) läuft meine MeinMagenta-App auf dem Smartphone nicht. Immer die Fehlermeldung "Die Seite konnte nicht geladen werden". Über WLAN-Telekom und über Mobilfunk läuft sie einwandfrei. Das ist für mich ziemlich rätselhaft und dürfte ja auch so nicht sein. Ich kann mich auch nicht erinnern, dieses Problem jemals in einem fremden WLAN gehabt zu haben. Überlegungen: IPv4/IPv6 oder Zertifikate? Neu installiert/neu angemeldet schon probiert. Selbes Problem. Wer hat eine Idee???
+
+Accepted Solutions:
+- Hallo zusammen, vielen Dank für alle Reaktionen.Ich habe das Thema erst einmal gelöst: In der Galsfaser-Fritzbox war "IPv6-Unterstützung" aktiviert. Aber DG bietet wohl zur Zeit kein IPv6 an. Nun läuft alles einwandfrei - mit dem Thema IPv& werde ich mich nochmal ein wenig beschäftigen.VG - Michael.
+- Hallo zusammen, vielen Dank für alle Reaktionen.Ich habe das Thema erst einmal gelöst: In der Galsfaser-Fritzbox war "IPv6-Unterstützung" aktiviert. Aber DG bietet wohl zur Zeit kein IPv6 an. Nun läuft alles einwandfrei - mit dem Thema IPv& werde ich mich nochmal ein wenig beschäftigen.VG - Michael.

@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/formate
+
+Question: Welche SIM-Formate gibt es?
+Answer: Aktuell gibt es für Mobilfunk-Verträge zwei unterschiedliche SIM-Formate: die Triple-SIM und die eSIM.
+

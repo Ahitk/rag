@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Bei-vorh-3-Emailadr-1-Hauptadr-2-zusaetzl-Adr-3-Alternative-Adr/td-p/6944262/jump-to/first-unread-message
+Subject: Bei vorh. 3 Emailadr.: ( 1.Hauptadr. ,2. zusätzl.Adr. ,3 .Alternative Adr.) landen die  an Alternative Adressierten jetzt immer in ,,HauptadrFach !
+Content: s.Kurzbeschreibung. Kann man das ändern ? Also Alternative in Alternativen Emailfach, es sollte keine 90 Tagesperre geben ,Adressänderung auch nicht . Bei Emailantwort  bitte leicht verständlich schreiben. Bitte gerne Anruf unter 0711/😀Danke[😀Beitrag aus Gründen des Datenschutzes von@pamperlapescubearbeitet. Rufnummer gelöscht!]
+
+Accepted Solutions:
+- @maggi51Ablauf wäre so, erst den Aliasnamen löschen, dann diesen überwww.telekom.de/mail-umziehenfreigeben (da den Punkt "Meine E-Mail-Adresse soll freigegeben werden" auswählen)und zum Schluss überwww.telekom.de/freemailals Freemail wieder einrichten.
+- @maggi51Ablauf wäre so, erst den Aliasnamen löschen, dann diesen überwww.telekom.de/mail-umziehenfreigeben (da den Punkt "Meine E-Mail-Adresse soll freigegeben werden" auswählen)und zum Schluss überwww.telekom.de/freemailals Freemail wieder einrichten.

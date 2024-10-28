@@ -1,0 +1,6 @@
+Question:
+Haben Sie Fragen zur Einrichtung und Verwendung der Telekom Speedbox?
+
+Answer:
+Habt ihr euch für die Telekom Speedbox entschieden? In dem folgenden Video zeigt Natalia, wie man sie in Betrieb nimmt. Zuerst müsst ihr die SIM-Karte in den Slot auf der Unterseite der Box einsetzen. Danach verbindet ihr die Geräte, die ihr online nutzen wollt, mit dem WLAN der Speedbox. Die notwendigen Daten findet ihr auf dem Gerätepass oder auf der Unterseite des Geräts. Die Speedbox konfiguriert ihr dann über den Browser eures Geräts, indem ihr eine bestimmte Nummer eingebt. Ihr werdet nach der PIN eurer SIM-Karte gefragt, die ihr in den zugesendeten Unterlagen findet. Nach der Eingabe wird die SIM-Karte initialisiert, was etwa 3 Minuten dauert, danach startet die Speedbox neu. Wenn alles glatt läuft, wird die LED auf der Box blau leuchten, was zeigt, dass ihr nun mit einem LTE Netzwerk verbunden seid. Ein zusätzlicher Tipp: Mit der HighLink App könnt ihr die Konfiguration der Speedbox auch außerhalb eures Browsers vornehmen. Solltet ihr noch Fragen zur Speedbox haben, könnt ihr gerne in der Telekom-Hilf-Community nachfragen.
+

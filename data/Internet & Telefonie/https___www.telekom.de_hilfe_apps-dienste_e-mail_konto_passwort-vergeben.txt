@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/passwort-vergeben
+
+Question: Wie vergebe ich für mein E-Mail-Konto ein neues Passwort?
+Answer: Der Hauptnutzer/Vertragsinhaber vergibt für das zusätzliche E-Mail-Konto/Inklusivnutzer-Konto ein neues Passwort. Melden Sie sich imE-Mail Centeran und ändern das Passwort unter:
+Zahnrad > Alle Einstellungen anzeigen > Passwörter > Telekom Login > Jetzt ändern
+

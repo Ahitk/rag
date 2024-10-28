@@ -1,0 +1,14 @@
+Source URL: https://www.telekom.de/hilfe/tv/pins-altersnachweis/benutzer-erwachsenen-pin
+
+Question: Wofür brauche ich die PIN bei MagentaTV?
+Answer: Um sicherzustellen, dass Inhalte mit Altersbeschränkungen geschützt sind, bietet MagentaTV zwei verschiedene 4-stellige PIN-Codes an.
+Benutzer-PINDie Benutzer-PIN dient dazu, den Zugriff auf bestimmte Inhalte und Einstellungen bei MagentaTV zu beschränken. Folgende Funktionen werden über die Benutzer-PIN verwaltet:
+Erwachsenen-PINDer Abruf reiner Erwachsenen-Inhalte ist standardmäßig durch die Eingabe der Erwachsenen-PIN geschützt. Mit dieser PIN können Sie die Inhalte der Erotic Lounge mit Altersbeschränkungen ab 18 Jahren freischalten. Die PIN-Abfrage kann aufgrund gesetzlicher Bestimmungen nicht deaktiviert werden.
+Hinweis: Die beiden Codes dürfen nicht identisch sein.
+• Freischaltung jugendschutzrelevanter Inhalte (ab 16 und ab 18 Jahren)
+• Konfiguration der Jugendschutzeinstellungen
+• Login für persönliche Einstellungen
+• Bestellung von Zubuchoptionen
+• Freischaltung kostenpflichtiger Angebote (optional)
+• Zugriff auf die Benutzer-PIN-Verwaltung
+

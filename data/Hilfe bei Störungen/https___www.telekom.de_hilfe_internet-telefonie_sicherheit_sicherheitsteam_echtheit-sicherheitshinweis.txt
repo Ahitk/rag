@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/sicherheitsteam/echtheit-sicherheitshinweis
+
+Question: Woran erkenne ich, dass die E-Mail mit einem Sicherheitshinweis wirklich von der Telekom kommt?
+Answer: Die Echtheit einer E-Mail von unserem Sicherheitsteam erkennen Sie anhand folgender Merkmale:
+• Die E-Mail ist imE-Mail Centermit einem blauen @-Symbol versehen
+• Im Text ist die betroffene Kundennummer angegeben
+• Die Vertragsperson ist namentlich aufgeführt
+• In der Betreffzeile steht dieZugangsnummerdes betroffenen Anschlusses sowie unsere Vorgangsnummer mit "Ticket-Nummer FRD-R-" beginnend und einer 7-stelligen Zahlenfolge
+• Es erfolgt eine persönliche Anrede (Handelt es sich jedoch um eine Freemail-Adresse, einen Inklusivnutzer oder eine externe E-Mail-Adresse z. B. @gmx.de, liegen uns keine Daten für eine Anrede vor)
+

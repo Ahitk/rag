@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/glasfaser/bestellung-nicht-vorhanden
+
+Question: Warum sehe ich meine Bestellung nicht im Glasfaser-Kundencenter?
+Answer: Sollte Ihr Auftrag nicht zu sehen sein, wurde er dem Kundencenter noch nicht zugewiesen.
+Nach Anmeldung imGlasfaser-Kundencenterper Telekom Login sollten Sie den Hinweis "Kundencenter-Zuordnung" sehen. Geben Sie Ihre Bestellnummer, Ihren Namen und das Geburtsdatum an und klicken Sie auf "Absenden". Anschließend sollte Ihr Auftrag und der Auftragsstatus angezeigt werden. Falls dies nicht der Fall ist,kontaktieren Sie uns.
+Hinweis:Die Bestellnummer haben Sie in der Auftragsbestätigung per E-Mail erhalten.
+

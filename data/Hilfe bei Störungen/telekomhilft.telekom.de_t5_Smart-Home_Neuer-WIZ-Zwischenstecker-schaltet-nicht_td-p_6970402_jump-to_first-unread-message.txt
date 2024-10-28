@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/Neuer-WIZ-Zwischenstecker-schaltet-nicht/td-p/6970402/jump-to/first-unread-message
+Subject: Neuer WIZ Zwischenstecker schaltet nicht
+Content: Ich habe einen nagelneuen WIZ Zwischenstecker, den ich problemlos in die ZuHause App integrieren konnte. Nach ein paar Tagen versagt die Schaltung. Der Stecker ist laut App AUS und auch die LED ist dunkel. Es fließt aber weiterhin Strom und die angeschlossene Lampe brennt weiter.
+
+Accepted Solutions:
+- @UlHa1972schrieb:Der Stecker ist laut App AUS und auch die LED ist dunkel. Es fließt aber weiterhin Strom und die angeschlossene Lampe brennt weiter.Hört sich nach einem Defekt an, ich würde ihn tauschen lassen
+- @UlHa1972schrieb:Der Stecker ist laut App AUS und auch die LED ist dunkel. Es fließt aber weiterhin Strom und die angeschlossene Lampe brennt weiter.Hört sich nach einem Defekt an, ich würde ihn tauschen lassen

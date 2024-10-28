@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/lte-serie/geraetepasswort-lte-2-vergessen
+
+Question: Was mache ich, wenn ich das Gerätepasswort für den Speedport LTE II vergessen habe?
+Answer: Das ursprüngliche Gerätepasswort finden Sie auf der Rückseite des Speedport LTE II.
+Haben Sie das Gerätepasswort geändert, setzen Sie den Speedport LTE II auf die Werkseinstellung zurück.
+Der Speedport LTE II verfügt über einen Resetschalter auf der linken Seite. Halten Sie diesen mit einem spitzen Gegenstand fünf Sekunden lang gedrückt.
+
+Nun sind alle Einstellungen, etwa das Gerätepasswort, WLAN Einstellungen usw. auf den Auslieferungszustand zurückgesetzt.
+Um den Speedport LTE II erneut einzurichten, geben Sie in den Internetbrowser speedport.ip oder 192.168.1.1 ein. Gehen Sie dann die Schritt-für-Schritt-Anleitung der Routereinrichtung durch.
+

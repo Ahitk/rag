@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Umzug-beauftragen-funktioniert-nicht-Meldung-HTTP-Status-400-Bad/td-p/6974390/jump-to/first-unread-message
+Subject: Umzug beauftragen funktioniert nicht. Meldung HTTP Status 400 - Bad Request
+Content: Mehrmals versucht unseren Umzug Internet/Telefon zum 1.11. zu melden. Formular ausgefüllt und abgeschickt: HTTP Status 400 - Bad Request.Hilfe!!!!
+
+Accepted Solutions:
+- @HARTMUTIXschrieb:LöscheCacheundCookiesim BrowserGgf anderer Browser.Ich nutze Firefox und Chrome
+- @HARTMUTIXschrieb:LöscheCacheundCookiesim BrowserGgf anderer Browser.Ich nutze Firefox und Chrome

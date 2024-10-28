@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-uebertragen
+
+Question: Wie kann ich meine Geräte aus der Magenta SmartHome App in die MagentaZuhause App übertragen?
+Answer: Stellen Sie zunächst sicher, dass Sie bei beiden Apps den gleichen Telekom Login verwenden.
+Ist das nicht der Fall, führen Sie die Anmeldung in der Magenta SmartHome App mit dem identischen Telekom Login durch. Anschließend haben Sie zwei Möglichkeiten, um die Geräte in die MagentaZuhause App zu importieren:
+• Entweder lassen Sie die MagentaZuhause App die bereits genutzten Geräte automatisch finden und importieren.
+• Oder Sie richten den Import der smarten Geräte Schritt für Schritt in der MagentaZuhause App selbst ein.
+

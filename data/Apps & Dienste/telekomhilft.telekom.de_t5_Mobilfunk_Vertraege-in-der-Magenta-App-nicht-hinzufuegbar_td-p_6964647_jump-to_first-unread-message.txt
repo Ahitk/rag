@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Vertraege-in-der-Magenta-App-nicht-hinzufuegbar/td-p/6964647/jump-to/first-unread-message
+Subject: Verträge in der Magenta App nicht hinzufügbar
+Content: Hi Leute,ich kann seit einiger Zeit meinen Mobilfunkvertrag nicht in der Magenta App hinzufügen.Mein Festnetzvertrag wird ganz normal angezeigt.Versuche ich meinen Mobifunkvertrag hinzuzufügen,kommt nach der Rufnummerneingabe immer folgende Fehlermeldung:"Die Seite konnte leider nicht geladenwerden, Vertrag wurde bereits verknüpft.(10062.de)"Logge ich mich im Kundencenter ein,sind sämtliche Verträge(Festnetz + Mobilfunk) ganz normal einsehbar.Folgendes habe ich bereits mehrfach gemacht:App + Bertiebssystem geupdatetAb- und wieder AngemeldetApp neuinstalliertVertrag im Kundencenter entfernt + wieder hinzugefügtLeider hat nichts geholfen.Vielleicht könnte mir jemand weiter helfen?!VGRouv
+
+Accepted Solutions:
+- Hallo@RikRok,der Vorgang steckt in der Analyse und eine Behebung des Fehlers folgt.LGAnna
+- Hallo@RikRok,der Vorgang steckt in der Analyse und eine Behebung des Fehlers folgt.LGAnna

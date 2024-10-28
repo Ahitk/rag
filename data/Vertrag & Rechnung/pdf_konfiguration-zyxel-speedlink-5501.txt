@@ -1,0 +1,110 @@
+The image contains instructions for configuring a Zyxel SPEEDLINK device for telecommunication using a Germany LAN SIP trunk connection. Here’s a summary of the relevant information:
+
+### Configuration Overview
+1. **Prerequisites:**
+   - Ensure the SPEEDLINK is connected as specified in the chapter about IP-based connections.
+   - A Germany LAN IP Voice/Data tariff must be activated.
+
+2. **Automatic Configuration:**
+   - The SPEEDLINK can be set up automatically without user intervention.
+   - After powering up the SPEEDLINK, wait for 15 minutes for configuration.
+   - Successful completion is indicated by the Internet and Phone LEDs turning green.
+   - Once configured, users can access the internet and make phone calls via connected devices.
+   - If the Phone LED does not stay green after 15 minutes, refer to the semi-automatic configuration.
+
+### Semi-Automatic Configuration:
+1. **Requirements:**
+   - You will need the sealed letter from Telekom that was sent for a new connection or for an existing connection.
+
+2. **Steps:**
+   - Connect to the SPEEDLINK device with a computer, notebook, or tablet via LAN or WLAN.
+   - Open an Internet browser; you should be redirected to Telekom's customer center.
+   - If not redirected, manually enter the URL: `telekom.de/einrichten` and click on "Zur Einrichtung".
+
+### Additional Notes:
+- This process is specific for users and products associated with Deutsche Telekom in Germany.
+- Users should follow the LED indicators on the device for confirmation of successful setup. 
+
+This information should guide users through setting up their SPEEDLINK device effectively.
+The image contains instructions related to the setup of a telecommunication device, specifically for a TELEKOM connection. Here’s a summary of the key points:
+
+### Login Instructions:
+1. **Access the Login Page:**
+   - You need your **access number** (in the "Login" field) and your **personal password** (in the "Password" field").
+   - If previously registered, you can use your email address and password.
+
+2. **Access Details:**
+   - Access Number: **0123/1234567**
+   - Personal Access Data: Found in the correspondence from Telekom.
+
+### Post-Login Setup:
+- After a successful login, you will follow the setup process.
+- **Options Available:**
+  - Access the **Router Settings** through a designated button to customize your router settings.
+  - Use the **"Jetzt Surfen" (Surf Now)** button to exit the settings area.
+
+### Manual Configuration:
+1. **Personal Access Data Required:**
+   - This data is also found in the sealed Telekom letter.
+   
+2. **Steps for Manual Configuration:**
+   - Typically, the browser will open the Telekom customer center automatically.
+   - If not, proceed directly to step 2.
+   - Enter the address in your web browser: `speedport.ip` or `192.168.2.1`.
+   - Log in with your username and password.
+   - Follow instructions until you reach the **Automatic Configuration** page.
+   - Make sure to clear the checkbox for **Automatic Configuration Activate**.
+
+It is advisable to keep your assigned phone numbers close at hand, as they may be needed during the setup process. For further assistance, a contact number is provided for inquiries.
+The image contains instructions for configuring telecommunication devices, specifically a SPEEDLINK router, for users setting up internet and telephony services. Here's a summary of the key points:
+
+### Internet Access Setup
+1. **Provider Selection**: Choose "Telekom" as the provider and input the necessary access data based on the provided example.
+2. **Telephone Numbers**: Enter your telephone numbers as per the order confirmation. Three fields are standard, but you can add more by selecting “Neue Rufnummer hinzufügen.”
+3. **Configuration Summary**: Complete the setup by clicking on "Übernehmen" on the summary page. You can then make further adjustments in the main menu.
+
+### Configuration of SIP-Trunk Connection
+1. **Initial Setup**:
+   - Connect to the internal ISDN port of the telephone system. A parallel connection with additional ISDN or analog devices is not possible.
+   - Wait for about 15 minutes after powering on for the device to prepare.
+   - Ensure the internet LED is green, indicating readiness for internet access.
+
+2. **Access the User Interface**:
+   - Enter the device's address in a web browser (e.g., `speedport.ip` or `192.168.2.1`).
+   - Log in using the provided username and password found on the device.
+
+3. **Navigate the Interface**:
+   - Go to "Telefonie" > "Allgemein" and activate "ISDN-Gateway Modus."
+   - Go to "Telefonie" > "Rufnummern" > "VoIP-Konten", click "Neu," and select "VoIP-Anbieter Telekom SIP-Trunk." Fill in the details using your access data as per the Telekom documentation.
+
+4. **Multiple Numbers**: When entering multiple phone numbers, separate them with commas, in the specified format.
+
+5. **Completion**: After finishing the input, click on "Speichern" to finalize the configuration.
+
+These instructions should help users effectively configure their telecommunication setup with the SPEEDLINK device.
+The document contains important instructions and details related to telecommunication setup, specifically for a Zyxel device. Here’s a summary of the key points:
+
+### Access Data
+- **Date**: April 11, 2017
+- **Access Number**: 201505641816230
+- **User Credentials**:
+  - **Username**: 123456789012
+  - **Password**: 123456789012
+- **Outbound Proxy**: registered.sip-trunk.telekom.de
+- **Registrar**: sip-trunk.telekom.de
+
+### Instructions for Setup
+1. **Internet Connection**: Step-by-step guidance is provided for setting up the internet connection.
+2. **Telephone Setup**: Instructions are included for configuring the phone connection using the provided credentials.
+
+### DHCP Server Change Notification
+- Changes in DHCP address assignments have been outlined. The device now assigns IP addresses in the range of 192.168.2.50 to 192.168.2.150.
+- Previously, the range was between 192.168.100.50 and 192.168.100.80.
+- The standard gateway address is now 192.168.2.1.
+- After firmware update, the previous configuration remains unless a factory reset is performed. In that case, the device 192.168.100.1 will no longer be accessible.
+
+### Additional Information
+- Users are advised to keep their access credentials confidential.
+- If users wish to assign a static IP address, they can contact customer service for assistance.
+
+This summary captures all the relevant information for setting up the telecommunication device and understanding recent changes to DHCP addressing.

@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/neues-geraet-raum-zuordnen
+
+Question: Wie kann ich in der MagentaZuhause App ein Gerät beim Verbinden einem neuen Raum zuordnen?
+Answer: Ein neues Gerät kann beim Verbinden direkt einem gewünschten Raum zugeordnet werden. Wählen Sie hierfür in der Geräteübersicht (Menü "Geräte") zunächst den Raum aus, zu dem das Gerät gehören soll. Gehen Sie nun auf das Plus-Zeichen in der rechten oberen Ecke, um das neue Gerät in dem gewünschten Raum hinzuzufügen.
+Hinweis:Das gleichzeitige Anlegen eines neuen Raums mit einem neuen Gerät ist nicht möglich.
+Ist der gewünschte Raum noch nicht in der App vorhanden:
+
+• Verbinden Sie das Gerät zunächst unter "Nicht zugeordnet".
+• Wählen Sie anschließend das neu verbundene Gerät aus.
+• Tippen Sie auf die Einstellungen ("Zahnrad") in der rechten oberen Ecke.
+• Im folgenden Menüpunkt "Raum" kann das Gerät in den gewünschten Raum verschoben oder ein neuer Raum über die Schaltfläche "Neuen Raum hinzufügen" angelegt werden.
+

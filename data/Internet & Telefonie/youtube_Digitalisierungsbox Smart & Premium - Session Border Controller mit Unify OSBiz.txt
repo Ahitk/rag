@@ -1,0 +1,10 @@
+Question:
+Wie kann ich eine Voice Over IP Telefonanlage an den Session Border Controller der Digitalisierungssbox anmelden?
+
+Answer:
+In diesem Video wird erläutert, wie man eine Voice Over IP Telefonanlage an den Session Border Controller der Digitalisierungssbox anmeldet. Dabei wird zunächst die allgemeine Konfiguration des SipTrunk-Anschlusses erklärt. Anschließend wird ausgeführt, wie man die Session Border Controller Anbindung in der Unify OpenScape Business-Telefonanlage einrichtet. Verschiedene Details, beispielsweise zu den erforderlichen Ländereinstellungen und der Sicherheit der Lösung, werden ebenfalls besprochen.
+
+Schließlich wird in demselben Video demonstriert, wie man auf die Web-Oberfläche der Digitalisierungssbox zugreift und die notwendigen Konfigurationsschritte für den SipTrunk-Anschluss und den Session Border Controller der Digitalisierungssbox vornimmt. Ergänzend werden die entsprechenden Konfigurationsschritte in der Unify OpenScape Business-Telefonanlage dargestellt.
+
+Die Vorteile dieser Methode, wie etwa die erhöhte Flexibilität bei der Weiterleitung des Anschlusses und verbesserte Sicherheitsfunktionen, werden im weiteren Verlauf des Videos hervorgehoben. Das Video endet mit der Betonung, dass sowohl die Digitalisierungssbox als auch die Unify OpenScape Business-Telefonanlage nun betriebsbereit sind.
+

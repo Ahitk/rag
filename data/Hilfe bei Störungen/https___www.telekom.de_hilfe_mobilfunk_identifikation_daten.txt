@@ -1,0 +1,15 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/identifikation/daten
+
+Question: Was passiert nach der Identifikation mit meinen Daten?
+Answer: Wenn Sie sich bei der Telekom für eine SIM-Karte oder eine andere Mobilfunk-Bestellung identifizieren, prüfen wir die Daten Ihres Ausweises anhand der offiziellen Prüfkriterien inklusive der Sichtprüfung der Person und einem Abgleich mit dem Foto.
+Folgende personenbezogene Daten nehmen wir in unsere Systeme auf:
+Von Ihrem Ausweisdokument nehmen wir auf:
+Seit dem 1. Juli 2017 sind Telekommunikationsanbieter per Gesetz ebenfalls verpflichtet, die Ausweisnummer zu erfassen und zu speichern.
+• Name, Vorname
+• Geburtsdatum
+• Anschrift
+• Nationalität
+• ausstellende Behörde des Ausweises
+• Art des Dokuments
+• Gültigkeit
+

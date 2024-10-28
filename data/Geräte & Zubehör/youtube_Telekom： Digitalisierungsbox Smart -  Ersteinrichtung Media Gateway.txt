@@ -1,0 +1,6 @@
+Question:
+Wie kann man die Digitalisierungs-Box mit der neuen Weboberfläche im Media Gate Webbetrieb einrichten?
+
+Answer:
+Das vorliegende Video-Tutorial zeigt die Einrichtung einer Digitalisierungsbox mit der neuen Weboberfläche im Media Gate Webbetrieb. Zunächst muss eine DSL-Verbindung und eine Netzwerkverbindung zwischen dem Konfigurations-PC und der Digitalisierungs-box hergestellt werden. Nach der automatisierten Grundinstallation kann die weitere Konfiguration, einschließlich der WLAN-Einstellungen, vorgenommen werden. Es wird erklärt, wie die Digitalisierungsbox entweder als eigenständige Telefonanlage oder im Media-Gate-Wave-Betrieb verwendet werden kann. Nach Neustart des Systems können individuelle Anpassungen, insbesondere in der Telefonie-Funktion, gemacht werden. Darüber hinaus werden die Rufnummernverwaltung und die Konfigurationsspeicherfunktion hervorgehoben. Das Tutorial endet mit einem Überblick über den Systemstatus und den erfolgreichen Konfigurationen.
+

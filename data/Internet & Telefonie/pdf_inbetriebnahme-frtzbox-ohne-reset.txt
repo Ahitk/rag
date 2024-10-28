@@ -1,0 +1,139 @@
+The image appears to be a promotional or instructional document related to setting up a telecommunication router, specifically the FRITZ!Box 7490, as part of the "MagentaZuhause Regio" service. Here are the key points and likely relevant information:
+
+1. **Title**: MagentaZuhause Regio
+   - Indicates a product or service offered by Telekom.
+
+2. **Router Activation**: 
+   - The text suggests guidance on the activation of the router (FRITZ!Box 7490) without performing a reset after changing the connection.
+
+3. **Device Illustration**:
+   - The image visually displays the FRITZ!Box 7490, which is likely used for broadband services.
+
+4. **Date**: 
+   - The document is dated 07/2021, indicating when the information was published or last updated.
+
+5. **Branding**: 
+   - The Telekom logo is present, affirming the affiliation of the product with the company.
+
+For more specific instructions or detailed steps, additional content from the document would be required. If there are more elements visible, they could provide insight into installation steps, troubleshooting, or configuration settings.
+The image provides important instructions regarding the setup of a FRITZ!Box router for telecommunication services. Here’s a summary of the key points:
+
+1. **Setup Timing**: 
+   - Only proceed with the following steps after receiving a specific SMS confirming that the technical switch of your MagentaZuhause Regio connection has been completed.
+
+2. **Reset Requirements**: 
+   - The instructions assume that you have not reset your FRITZ!Box to factory settings. If you have done so, you should refer to the setup guide for the router following a factory reset.
+
+These details are crucial for ensuring that the installation process is carried out correctly and to avoid any potential issues with the setup.
+The image contains instructions for accessing the user interface of a FRITZ!Box router. Here’s a summary of the relevant information:
+
+### Step 1: Logging into the User Interface
+
+1. **Connection**:
+   - Connect your PC to the FRITZ!Box either via WLAN or a network cable.
+   - Alternatively, you can use a smartphone or tablet.
+
+2. **Open Browser**:
+   - Launch a web browser on your device.
+   - Enter the following URL in the address bar: `http://fritz.box`.
+
+3. **Login**:
+   - Enter your FRITZ!Box password to log in.
+   - If you haven’t set a personal password, the default password can be found on the type label located on the underside of the router.
+   - Confirm your entry by clicking on "Anmelden" (Login).
+
+### Key Points to Remember
+- Ensure you are connected to the router before attempting to log in.
+- The URL and default password are essential for access if no custom credentials were set.
+
+This process is generally used for configuring settings and managing the FRITZ!Box router.
+The image provides instructions for setting up a FRITZ!Box 7490 router, specifically focusing on using the setup assistant. Here’s a summary of the relevant information:
+
+### Step 2: Choosing the Setup Assistant
+1. **Accessing the Assistant**:
+   - On the overview page of the FRITZ!Box interface, select the section labeled "Assistenten" (Assistants).
+
+2. **Configuring Internet Access**:
+   - In the subsequent screen, click on "Internetzugang einrichten" (Set Up Internet Access).
+
+### Additional Details:
+- The assistant will guide users through the setup process, ensuring all necessary settings are configured.
+- The instructions imply that the process is interactive and much of the configuration can be done step-by-step through the assistant.
+
+### Security Note:
+- Ensuring device security during the setup is important, and users should follow any provided recommendations regarding network security.
+
+This summary captures the essential steps and considerations for the initial configuration of the FRITZ!Box router.
+The image provides instructions for setting up a FRITZ!Box 7490 telecommunications device. Here’s a summary of the relevant information:
+
+### Step 3: Start Automatic Setup
+
+1. **Select Connection Type**:
+   - Choose the option labeled **"EMPFOHLEN: Automatische Einrichtung"**.
+   - Do **not** select **"Einrichtung für MagentaZuhause Regio Tarife"**.
+
+2. **Confirm Your Selection**:
+   - Click on **"Weiter"** to confirm your choice.
+
+### Key Details:
+- The automatic setup will configure both internet access and telephony on the FRITZ!Box device.
+- Your phone number(s) will be registered on the device automatically.
+- Please wait until the process is completed before proceeding with other tasks. 
+
+This ensures a smooth experience in setting up the device for internet and telecommunication services.
+The image provides instructions for completing the automatic setup of a FRITZ!Box (specifically the 7490 model) for telecommunication services. Here’s a summary of the key points:
+
+1. **Completion of Setup**:
+   - After a successful setup, the FRITZ!Box displays the recognized area code.
+
+2. **Verification**:
+   - Users should check whether the area code is correct.
+   - If any adjustments are needed, make the necessary corrections before proceeding.
+
+3. **Next Steps**:
+   - Click "Weiter" (Continue) to move forward with the setup process.
+
+4. **Final Summary**:
+   - At the end of the setup, users will receive a brief summary of the internet access configuration.
+   - Complete the process by clicking "OK."
+
+These instructions guide users through ensuring their telecommunication device is correctly set up and finalized.
+The image outlines the final steps for setting up a FRITZ!Box 7490 router, specifically related to assigning newly configured phone numbers. Here’s a summary of the key information and instructions:
+
+### Step 5: Complete the Setup
+
+- **Assign Phone Numbers**: Newly configured phone numbers can be re-assigned to mobile devices and connected telephones registered with the FRITZ!Box.
+- **Use the Assistant**: Utilize the FRITZ!Box Assistant if necessary for managing the phone number assignments.
+
+### Additional Settings
+- All other settings on the FRITZ!Box will remain unchanged.
+- To exit the configuration program, click on the three-dot icon and select “Log Off”.
+
+### Additional Features
+- **Access Points and Diagnostics**: The interface allows for further configuration such as managing access points and diagnostics.
+- **Updates and Security**: Ensure that the FRITZ!Box settings are updated, maintaining secure and reliable access.
+
+This concludes the essential steps for configuring the FRITZ!Box in relation to newly set up phone numbers and maintaining its overall settings.
+The image contains troubleshooting instructions related to telecommunication devices, specifically a FRITZ!Box. Here’s a summary of the key points:
+
+### Troubleshooting Steps:
+
+1. **Connections Check**:
+   - Ensure LAN cables are properly connected.
+   - Verify that WLAN is activated on all relevant devices.
+   - Confirm the correct WLAN key is being used.
+   - Ensure the FRITZ!Box is connected to a power source.
+
+2. **Data Verification**:
+   - Check that all necessary information (username, password, phone numbers, etc.) is completely and accurately entered.
+
+3. **Web Interface Issues**:
+   - If you are unable to access the FRITZ!Box user interface, clearing your browser's cache may help.
+
+4. **Support Contact**:
+   - For further issues, users can contact the Magenta Zuhause Regio hotline at **0800 33 06807**.
+
+### Disclaimer:
+- The guide indicates that the instructions and diagrams may vary slightly from what appears on the user’s screen, but they should follow the steps as outlined.
+
+This summary captures the essential troubleshooting steps and support information provided in the image.

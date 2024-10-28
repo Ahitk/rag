@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/routinen-erstellen
+
+Question: Wie kann ich Routinen in der MagentaZuhause App erstellen?
+Answer: Die MagentaZuhause App schlägt Ihnen anhand der smarten Geräte, die Sie bereits nutzen, schon vorgefertigte Routinen vor. Diese können Sie entweder direkt so übernehmen oder bei Bedarf mit nur wenigen Klicks nach Ihren Wünschen anpassen.
+Darüber hinaus haben Sie die Möglichkeit, auch eigene Routinen zu erstellen, die somit ideal auf Ihre Bedürfnisse abgestimmt sind. Diese funktionieren nach dem Wenn-Dann-Prinzip, sodass Sie selbst festlegen: Wenn dies eintritt, dann soll das ausgewählte Gerät etwas Bestimmtes tun.
+

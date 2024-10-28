@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mailbox/mobilbox-pro/zeit-einstellen-weiterleitung
+
+Question: Wie kann ich die Zeit einstellen, bis ein Anruf auf die Mobilbox Pro weitergeleitet wird?
+Answer: Standardmäßig wird ein Anruf nach 15 Sekunden auf die Mobilbox Pro weitergeleitet. Sie können Anrufe aber auch in frei gewählten Zeitintervallen zur Mobilbox weiterleiten lassen.
+Hierfür geben Sie auf dem Tastenfeld Ihres Handys bitte hintereinander ein:**61*3311**Gewünschtes Zeitintervall(in Sekunden)als Ziffer#Hörertaste.
+Ein Beispiel:Die Mobilbox Pro soll nach 25 Sekunden antworten, geben Sie dafür**61*3311**25#ein und drücken zum Schluss die Anruf-/grüne Hörertaste.
+

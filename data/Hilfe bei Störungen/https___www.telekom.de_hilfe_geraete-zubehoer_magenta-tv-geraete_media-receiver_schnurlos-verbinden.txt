@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/media-receiver/schnurlos-verbinden
+
+Question: Kann ich den Media Receiver auch schnurlos an den Router anschließen?
+Answer: Ja, Sie können Ihren Media Receiver schnurlos mit Ihrem Router verbinden. Wir empfehlen Ihnen, dafür ausschließlich Geräte mitMesh-WLAN Technologiezu verwenden.
+Den optimalen Empfang haben Sie mit direkter Verkabelung von Media Receiver und Router per Netzwerkkabel (LAN).
+

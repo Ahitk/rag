@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Von-DLM-gedrosselt/td-p/6943294/jump-to/first-unread-message
+Subject: Von DLM gedrosselt?
+Content: Hallo zusammen,vor rund 3 Wochen haben sich an meinem VDSL-Anschluss aufgrund von Renovierungsarbeiten mehrere Router-Reboots in einem recht kurzen Zeitraum ergeben. Seitdem synct mein Modem nur noch mit 265/42 MBit/s, in den letzten 4 Jahren lief der Anschluss stabil mit dem 292er-Profil (292/46 MBit/s).Der DSLAM steht quasi bei mir vor der Haustür, die Leitungswerte sind entsprechend top. Kann mir jemand sagen, wie lange es dauert. bis ich aus der DLM-Drosselung wieder herauskomme?Danke für Eure Hilfe!
+
+Accepted Solutions:
+- Heute Nacht wurde meine Leitung tatsächlich wieder auf 292/46 hochgestuft. Vielen Dank für Eure Hilfe!😁
+- @junggeselle80schrieb:Kann ich was tun, um Abhilfe zu schaffen?Ja. Einfach nichts tun. Dafür istASSIAda. Die regelt das. Und solange du TKG-konform bist ändert sich da auch nichts.
+- @junggeselle80schrieb:Kann ich was tun, um Abhilfe zu schaffen?Ja. Einfach nichts tun. Dafür istASSIAda. Die regelt das. Und solange du TKG-konform bist ändert sich da auch nichts.
+- Heute Nacht wurde meine Leitung tatsächlich wieder auf 292/46 hochgestuft. Vielen Dank für Eure Hilfe!😁

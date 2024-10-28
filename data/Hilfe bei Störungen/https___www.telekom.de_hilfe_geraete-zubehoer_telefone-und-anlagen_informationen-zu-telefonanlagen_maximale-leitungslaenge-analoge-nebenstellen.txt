@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/informationen-zu-telefonanlagen/maximale-leitungslaenge-analoge-nebenstellen
+
+Question: Wie hoch ist bei Telefonanlagen die max. Leitungslänge bei der Verkabelung analoger Nebenstellen?
+Answer: Die maximale Leitungslänge der analogen Nebenstellen beträgt 1000 Meter (bei einem Kabeldurchmesser von 0,6 mm).Bitte beachten Sie, dass eine entsprechende Verdrahtung nur innerhalb von Gebäuden zulässig ist!
+

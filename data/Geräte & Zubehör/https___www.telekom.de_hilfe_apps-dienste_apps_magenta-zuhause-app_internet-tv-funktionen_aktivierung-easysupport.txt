@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/aktivierung-easysupport
+
+Question: Wie aktiviere ich den "Easy Support" im Konfigurationsmenü meines Speedport Routers?
+Answer: Über diese Schritte gelangen Sie zum Konfigurationsmenü Ihres Speedport Routers:
+• Aktivieren Sie WLAN auf einem Endgerät (idealerweise Tablet oder PC).
+• Loggen Sie sich über die URLhttp://speedport.ipin den Router ein.Das benötigte Gerätepasswort wird auf der Unterseite des Speedport Routers angezeigt.
+• Im Routermenü jetzt über den Reiter "System" - "Easy Support" das Häkchen bei "Ich habe den Hinweis gelesen…" entfernen, um "Easy Support" wieder zu aktivieren.
+

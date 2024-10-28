@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/geraetepasswort-wlan-schluessel
+
+Question: Wo finde ich das Gerätepasswort und den WLAN-Schlüssel meines Routers?
+Answer: Sofern nicht manuell geändert, können Sie das Router- und WLAN-Passwort am Typenschild, meistens auf der Rück- oder Unterseite Ihres Geräts ablesen. Unsere aktuellen Speedport Modelle besitzen außerdem einen Router-Pass, d. h. eine kleine Karte an der Unterseite, auf dem diese Angaben stehen. Wenn Sie einen Speeport Router an Ihrem Telekom Anschluss nutzen, können Sie alternativdasWLAN-Passwort in der MeinMagenta Appeinsehen und bei Bedarf ändern.
+Bei einigen Routern vergeben Sie das Gerätepasswort bei der Ersteinrichtung selbst.
+

@@ -1,0 +1,20 @@
+Question:
+Wie kann ich sicherstellen, dass das von mir gewählte WLAN-Passwort für meine Digitalisierungspox Premium angemessen sicher ist?
+
+Answer:
+In dem Premium-Video zur Digitalisierungspox wird die Ersteinrichtung an einem Telekom-ZipTrunk Anschluss erläutert. Nachdem die Stromversorgung und Internetverbindung sichergestellt wurden, kann die Einrichtung beginnen. Es besteht die Möglichkeit, sowohl das eingebaute DSL-Modem als auch ein externes Modem für den Internetanschluss zu nutzen.
+
+Die Anschlüsse können über das Webinterface der Digitalisierungspox erfolgen, welches über die IP-Adresse 192.168.2.1 mit HTTPS erreicht wird. Abhängig von dem Modell gibt es entweder bereits festgelegte Zugangsdaten oder ein Passwort muss manuell eingestellt werden.
+
+In der Ersteinrichtung erscheint eine Meldung, dass die Digitalisierungspox einsatzbereit ist. Der Benutzer wird durch den Prozess der WLAN-Konfiguration geführt, einschließlich der Benennung des WLAN-Namens und der Wahl eines sicheren WLAN-Passworts.
+
+Es folgt die Sicherheitskonfiguration, bei der das Passwort mindestens acht Zeichen lang sein muss und vier verschiedene Zeichen sowie mindestens drei Zeichengruppen (Kleinbuchstaben, Großbuchstaben, Ziffern, Symbole) enthalten muss.
+
+Der Benutzer erhält die Möglichkeit, zwischen zwei Betriebsarten für die Digitalisierungspox zu wählen: Media Gateware oder Ppx-Modus. In dem Video wird der Ppx-Modus als eigenständige Telefonanlage ausgeführt.
+
+Nach erfolgter Konfiguration kann der Benutzer nun zusätzliche Telefoneinstellungen vornehmen oder zum Home-Bereich wechseln, in dem es eine Übersicht über Telefonie, WLAN, Internetverbindung und Systeminformationen gibt.
+
+Zusätzlich zur Konfiguration von Telefonanschlüssen werden auch Themen wie die Einrichtung von Benutzern, internen Rufnummern und Endgeräten sowie die Rufverteilung behandelt. 
+
+Am Ende der Konfiguration muss diese auf der Digitalisierungsbox abgespeichert werden, um sie dauerhaft zu machen. Weitere Anleitungen und Unterstützung finden Benutzer auf der Website Digitalisierungspox.bintech-lmag.com.
+

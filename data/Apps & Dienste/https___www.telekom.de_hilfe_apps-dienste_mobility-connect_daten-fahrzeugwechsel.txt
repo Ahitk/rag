@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/mobility-connect/daten-fahrzeugwechsel
+
+Question: Was passiert mit meinen MobilityConnect Daten bei Wechsel des Fahrzeugs?
+Answer: Beim Wechsel Ihres Fahrzeugs wird das eSIM-Profil im alten Fahrzeug deaktiviert. Ihre Daten sind über die BMW ID gesichert und nicht für Dritte verfügbar.
+Die Buchung beschreiben wir Ihnen in unsererSchritt-für-Schritt-Anleitung.
+

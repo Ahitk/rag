@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Magenta-TV-App-Fehler-051104/td-p/6982345/jump-to/first-unread-message
+Subject: Magenta TV App Fehler 051104
+Content: Seit heute bekomme ich die Fehlermeldung 051104 auf meinem Fernseher.Ich nutze die Magenta App auf einem aktuellem Fire TV Cube mit aktuellem Update über WLan. Internet über Starlink. Magenta App funktioniert auf IPhone 15 Pro und IPad Pro (aktuelles Modell) im eigenem WLan ohne Probleme.Neustart des FireTV Cube, Deinstallation und Neuinstallation der Magenta App bringt kein Erfolg. Bis gestern funktionierte alles einwandfrei. Es wurden keine Änderungen am WLan oder sonstigen Geräten vorgenommen. Bin ratlos und benötige Hilfe!Gruß, Klappi
+
+Accepted Solutions:
+- Hat sich erledigt! Ich habe den Starlink Router einmal neu gestartet und es funktioniert wieder. Merkwürdig ist dennoch, dass mein Handy und auch das Tablet vor dem Neustart funktionierten. Deshalb habe ich den Starlink Router zunächst ausgeschlossen. Vielleicht hilft es ja jemandem.
+- Hat sich erledigt! Ich habe den Starlink Router einmal neu gestartet und es funktioniert wieder. Merkwürdig ist dennoch, dass mein Handy und auch das Tablet vor dem Neustart funktionierten. Deshalb habe ich den Starlink Router zunächst ausgeschlossen. Vielleicht hilft es ja jemandem.

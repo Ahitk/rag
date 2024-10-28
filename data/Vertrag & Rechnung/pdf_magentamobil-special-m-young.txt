@@ -1,0 +1,27 @@
+Here's a summary of the relevant information regarding the "MagentaMobil Special M Young" mobile phone plan from Telekom Deutschland:
+
+### Product Overview
+- **Name**: MagentaMobil Special M Young (Mobile)
+- **Availability**: Since September 6, 2019
+
+### Data Transfer Rates
+- **Maximum Download Speed**: 50 Mbit/s
+- **Maximum Upload Speed**: 10 Mbit/s
+- **Reduced Speeds after 5 GB Usage**:
+  - Download: 64 kbit/s
+  - Upload: 16 kbit/s
+
+### Additional Product Information
+- **Contract Duration**: Minimum 24 months
+- **Cancellation Notice Period**: 1 month
+- **Termination**: Can be canceled anytime after the minimum term with a notice period of one month.
+
+### Pricing
+- **Monthly Fee**:
+  - Without Smartphone: €14.95
+  - With Smartphone: €24.95
+
+### Additional Notes
+- The pricing excludes any one-time hardware costs. 
+
+This plan includes mobile access for telephony, SMS services, and internet access. For detailed terms and conditions, visit the provided Telekom website.

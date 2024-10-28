@@ -1,0 +1,6 @@
+Question:
+Befindet sich die Digitalisierungsspock in PbX Modus gemäß den Systeminformationen im Bereich Home?
+
+Answer:
+In dem Video zur Digitalisierungsspock Smart 2 wird erklärt, wie die Grundkonfiguration der Telefonanlagenfunktionen durchgeführt wird. Zunächst wird erläutert, wie man die Betriebsmodi wechselt und die Telefonie-Einstellungen im PbX-Modus vornimmt. Anschließend wird die Einrichtung von neuen Telefonverbindungen und Endgeräten, einschließlich Analog-, ISDN- und Voice-over-IP-Telefonen, erläutert. Außerdem wird auf zusätzliche Funktionen wie die Kalender- und Optionen-Konfiguration eingegangen. Dabei wird insbesondere auf den Tag- und Nachtbetrieb sowie die Einstellung "Besetzt bei besetzt" hingewiesen. Abschließend wird noch darauf eingegangen, wie man Statusinformationen zu Endgeräten abruft und Rufverteilungen vornimmt.
+

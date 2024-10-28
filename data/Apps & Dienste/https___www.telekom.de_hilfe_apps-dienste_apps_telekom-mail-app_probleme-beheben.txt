@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/probleme-beheben
+
+Question: Ich habe Probleme mit der Telekom Mail App auf meinem Android-Gerät. Was kann ich tun?
+Answer: Haben Sie einen der folgenden Fehler bei der Nutzung der Telekom Mail App?
+Probieren Sie dann die folgenden Möglichkeiten zur Fehlerbehebung aus:
+• Fehlermeldung: Laden fehlgeschlagen: Ordner konnten aufgrund eines technischen Fehlers nicht geladen werden.
+• Neue E-Mails werden nicht benachrichtigt
+• Deaktivieren Sie den Energiesparmodus Ihres Smartphones.Akkulaufzeit optimieren(Sie werden auf eine externe Seite weitergeleitet, für deren Inhalt die Telekom Deutschland GmbH nicht verantwortlich ist.)
+• Prüfen Sie, ob die App die erforderlichen Berechtigungen für "Kontakte" und "Speicher" hat. Sie finden diese Punkte über die folgendermaßen:Einstellungen > Apps > Telekom Mail > Berechtigungen
+• Entfernen Sie das betroffene E-Mail-Konto folgendermaßen:Einstellungen > Konten > Telekom Login. Richten Sie es danach einfach wieder neu ein.Zur Anleitung
+

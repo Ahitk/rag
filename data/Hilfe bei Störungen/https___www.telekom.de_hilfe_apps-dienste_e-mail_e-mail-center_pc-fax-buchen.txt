@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/pc-fax-buchen
+
+Question: Wie kann ich PC-Fax buchen?
+Answer: Loggen Sie sich mit Ihrem Telekom Login (E-Mail-Adresse und Passwort) imE-Mail Centerein und gehen Sie für die Bestellung von PC-Fax wie folgt vor:
+Zahnrad > Alle Einstellungen anzeigen > Postfacherweiterungen > Fax und SMS > Bestellen
+Hinweis:Voraussetzung für die Nutzung von PC-Fax ist ein Telekom Festnetz-Anschluss mit Internet.
+

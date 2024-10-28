@@ -1,0 +1,163 @@
+The image appears to provide information about the Speedlink 6501 router, specifically for the "Magenta Zuhause Regio" service. Here’s a summary of the relevant details:
+
+1. **Product Name**: Speedlink 6501
+2. **Service**: Magenta Zuhause Regio
+3. **Purpose**: Instructions for manual configuration of the router to access the Magenta Zuhause Regio connection.
+4. **Contact Information**: A hotline is provided for assistance, specifically the number **0800 33 06807** (expressed as "Kostenlose Hotline" indicating it is a free hotline).
+
+If you need specific details on setup instructions or other functionalities, please provide those details, and I can help further!
+The image provides instructions for setting up a Zyxel Speedlink 6501 device for telecommunications. Here’s a summary of the key points:
+
+1. **Prerequisites for Setup**:
+   - Establish necessary connections before proceeding with the setup.
+   - Refer to the specific section for cabling instructions related to IP-based connections (Voice over IP) on page 8 of the included quick start guide.
+
+2. **Resetting the Device**:
+   - If the Speedlink 6501 has been used previously or if initial settings were made, it must be reset to factory settings before setup.
+   - Instructions for resetting the device can be found in the "Speedlink to Factory Settings" section on page 11 of the quick start guide.
+
+3. **Diagram**:
+   - There is a diagram indicating the placement of a reset button on the device.
+
+This information will assist users in correctly setting up their Speedlink 6501 for optimal use.
+Here's a summary of the key information related to configuring the SPEEDLINK 6501 device:
+
+### Accessing the User Interface:
+1. **Devices Supported**: Configuration can be done using any device (e.g., computer, tablet) with an internet browser.
+2. **Opening the Interface**:
+   - Enter `http://speedport.ip` or the IP address `192.168.2.1` in the browser's address bar.
+
+### Default Login Credentials:
+- **Username**: admin
+- **Password**: 1234567890 (as indicated on the device's label)
+
+### Additional Device Information:
+- **Model Name**: SPEEDLINK 6501
+- **Serial Number**: 516200014024
+- **SSID**:
+  - 2.4 GHz: ZYXEL-yyy
+  - 5.0 GHz: ZYXEL-yyy-5G
+- **WLAN Security Key**: 1002,2020,1059,6645
+
+### Notes:
+- Use the credentials provided on the device's label for logging in, as they may differ from user-set values once configuration is completed.
+- Remember to click "Anmelden" (Login) after entering the credentials. 
+
+This information should assist in successfully accessing and configuring the SPEEDLINK 6501 device.
+The image provides instructions for starting a setup assistant for a Zyxel telecommunications device after a factory reset. Here’s a summary of the relevant information:
+
+1. **Starting the Setup Assistant**:
+   - After a factory reset, the setup assistant launches automatically.
+   - If it does not start, access the setup assistant from the main menu on the left side of the interface.
+
+2. **Overview of Steps**:
+   - The initial screen provides an overview of the steps you need to follow in the setup assistant.
+   - No input is required at this stage; simply click the **"Weiter" (Next)** button to proceed.
+
+3. **Automatic Configuration**:
+   - On the next page (Step 2), you need to uncheck the option for **"Automatische Konfiguration aktivieren" (Activate Automatic Configuration)**.
+   - Confirm this change by clicking **"Weiter" (Next)**.
+
+4. **Purpose of Automatic Configuration**:
+   - The automatic configuration option sets up internet and telephone access parameters automatically.
+   - If you wish to configure settings manually, you must remove the check from this option.
+
+This setup process is crucial for ensuring proper functionality of the telecommunication device.
+Here’s a summary of the relevant information and instructions from the image regarding internet access configuration:
+
+### Steps to Configure Internet Access:
+
+1. **Select Provider**: In Step 3, choose "Sonstiger Anbieter" (Other Provider) as your internet service provider.
+
+2. **Enter Credentials**:
+    - **Username**: In the field labeled "Zugangsname," enter your internet username. An example format provided is `13370815@mzregio.de`.
+    - **Password**: In the "Passwort" and "Passwortbestätigung" fields, enter your contract password.
+
+3. **Proceed**: Click on the "Weiter" (Next) button to continue with the setup.
+
+### Important Notes:
+- Ensure all information entered is correct to avoid connection issues.
+- The instructions appear to be specific to a Zyxel device configuration.
+
+This summary should help guide the user in properly configuring their internet access.
+The image contains instructions for configuring telephony settings for telecommunications products, specifically a Zyxel device. Here’s a summary of the relevant information:
+
+### Telephony Access Data Entry
+
+1. **Step 4 Configuration**:
+   - In this step, you will configure your telephony settings.
+
+2. **Selection of Provider**:
+   - Choose "Sonstiger Anbieter" (Other Provider).
+   - The domain must be set to **tel.mzregio.de**.
+
+3. **VoIP Numbers Section**:
+   - Enter at least one phone number associated with your Magenta Zuhause (home) connection, including the area code.
+
+4. **Authentication Name**:
+   - The format for the authentication name should be: **rufnummer@mzregio.de** (e.g., 035937133708515@zuhusestart.de).
+
+5. **Password Entry**:
+   - Input your contract password here, which is the same as your internet password.
+
+6. **Additional Notes**:
+   - The entered phone numbers will be automatically assigned to available ISDN interfaces.
+   - Depending on the type of phone number, specific settings may need to be verified in the ISDN configuration menu.
+
+This summarized information is crucial for anyone setting up a Zyxel device for VoIP services under the specified provider.
+The image contains instructions for completing the setup of a telecommunication service, specifically for the "MagentaZuhause Regio-Anschluss." Here are the key points summarized:
+
+1. **Completion of Setup**: The installation process is complete, and users are given a final overview.
+
+2. **Finalization Step**:
+   - Users must click on "Übernehmen" (which means "Confirm") to finalize the setup. This action will end the setup process and take users to the overview page.
+
+3. **Additional Settings**:
+   - If users want to make further adjustments to their Speedlink 6501 device, they should refer to the quick start guide or the detailed user manual. These documents can be accessed via the relevant menu point in the main menu for existing internet connections.
+
+4. **Interface Information**: The image includes a section that outlines the configuration summary, access data, and internet telephone information (though it notes that the service is not activated).
+
+This information is essential for users to effectively complete their setup and understand where to find additional resources if needed.
+The image provides instructions for setting up additional VoIP phone numbers after completing an initial setup process for a telecommunications device. Here’s a summary of the relevant information:
+
+### Setup Instructions
+
+1. **Access the Menu:**
+   - Navigate to: **Telefonie > Rufnummern > VoIP-Rufnummern**.
+
+2. **Select the Provider:**
+   - Choose **tel.mzregio.de** from the available providers.
+
+3. **Fill in Required Fields:**
+   - Complete the fields as indicated in the example provided on the interface.
+
+4. **Save Changes:**
+   - Click the **Speichern** (Save) button to apply the changes and register the new phone number.
+
+### Additional Information
+- Ensure that all corresponding passwords and configuration settings are correctly inputted for the VoIP setup.
+- Reference the user manual for more details on specific settings if needed.
+
+This guide helps users efficiently add VoIP numbers to their account through the specified interface.
+The image provides troubleshooting instructions for telecommunication products, specifically concerning the Speedlink 6501 device. Here’s a summary of the important points:
+
+### Troubleshooting Steps:
+1. **Check Connections**:
+   - Ensure LAN cables are properly connected.
+   - Verify that the Speedlink 6501 is connected to a power source.
+   - Make sure WLAN is enabled on all relevant devices.
+   - Confirm the correct WLAN key is being used.
+
+2. **Data Verification**:
+   - Ensure all necessary data (username, password, phone numbers) is entered correctly.
+
+3. **Reinitializing the Device**:
+   - If everything appears to be correctly set up but the device is still not functioning, reset the Speedlink 6501 to factory settings and attempt the setup again.
+
+### Contact Information:
+- For further assistance, users are encouraged to reach out to the MagentaZuhause regional hotline at **0800 33 06807**.
+
+### Important Note:
+- The guide may contain images and terms that differ slightly from actual appearances and terminologies used in your specific scenario.
+
+This summary captures the essential troubleshooting instructions and guidance provided in the image.

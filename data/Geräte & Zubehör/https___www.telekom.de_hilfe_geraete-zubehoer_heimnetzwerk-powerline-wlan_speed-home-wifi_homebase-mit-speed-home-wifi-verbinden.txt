@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-wifi/homebase-mit-speed-home-wifi-verbinden
+
+Question: Kann ich meine Smart Home "Home Base" mit einem Speed Home WiFi verbinden?
+Answer: Ja, Sie können Ihre "Home Base" mit einem Speed Home WiFi über WLAN nutzen.
+Verbinden Sie Ihre SmartHome "Home Base" direkt per Netzwerkkabel mit dem Router. Das Modell "Home Base 2" können Sie sowohl per LAN-Kabel als auch über WLAN mit dem Mesh-Netzwerk verbinden.
+

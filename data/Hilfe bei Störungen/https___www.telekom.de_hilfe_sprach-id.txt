@@ -1,0 +1,25 @@
+Source URL: https://www.telekom.de/hilfe/sprach-id
+
+Question: Warum wurde die SprachID abgeschaltet?
+Answer: Die Möglichkeiten der generativen Künstlichen Intelligenz (KI) haben in den letzten Jahren erstaunliche und rasante Fortschritte gemacht. Auch wenn es keine konkreten Anzeichen für Sicherheitsprobleme bei uns gibt, so hat die Sicherheit Ihrer Daten für uns oberste Priorität. Und so haben wir uns dazu entschieden, die SprachID vorerst nicht weiter zu nutzen.
+
+Question: Ich habe die SprachID – muss ich irgendwas beachten?
+Answer: Für Sie besteht kein Handlungsbedarf.
+
+Question: Was passiert mit meiner SprachID?
+Answer: Ihre SprachID wird bis zum 31. Dezember 2023 automatisch gelöscht.
+
+Question: Wie lösche ich die SprachID?
+Answer: Sie brauchen Ihre SprachID nicht selbst zu löschen, das übernehmen wir für Sie. Bis zum Ende des Jahres 2023 löschen wir alle hinterlegten SprachIDs.
+
+Question: Wie kann ich mich ohne SprachID an der Service-Hotline identifizieren?
+Answer: Wir fragen Sie nach zwei Kriterien, mit denen wir Ihre Identität überprüfen können, um Ihnen Auskünfte geben oder Änderungen durchführen zu dürfen.
+In der Regel werden dieKundennummer(bei Festnetz)oderdasKundenkonto(bei Mobilfunk) und dieletzten 6 Stellen Ihrer IBANab.
+Ausnahmen:
+• Wenn Sie für Ihren Mobilfunk-Vertrag ein Kundenkennwort festgelegt haben, werden Sie danach gefragt.
+• Bei Prepaid-Verträgen wird statt der IBAN nach derSIM-Kartennummergefragt.
+• Falls für Ihren Festnetz-Vertrag kein SEPA-Lastschriftmandat vorliegt, fragen wir Sie in jedem Fall nach der Kundennummer und nach demBuchungskontooder derZugangsnummer.
+
+Question: Wann wird die SprachID wieder aktiviert?
+Answer: Unsere Experten und Expertinnen werden die weitere Entwicklung der Stimmsynthese und anderer relevanter Technologien in den kommenden Jahren genau verfolgen. Eine genaue Aussage darüber, wann wir die SprachID wieder aktivieren, gibt es daher noch nicht.
+

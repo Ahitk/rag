@@ -1,0 +1,6 @@
+Question:
+Basierend auf diesem Transkript kann eine relevante Frage sein: "Wie kann ich die Bezahlungsmethode auf meinem Applegerät ändern, um über meine Handyrechnung zu zahlen?"
+
+Answer:
+Mit Apple-Geräten ist das Bezahlen jetzt einfacher und sicherer, indem einfach über die Handy-Rechnung abgerechnet wird. Nach Anpassung der Zahlmethode auf dem iPhone oder iPad, kann durch einen Klick auf den Link oder Scan des QR-Codes die Einrichtung vorgenommen werden. Sollte man mehrere Handynummern nutzen, kann ausgewählt werden, welche für den Dienst genutzt werden soll. Sollte die Bezahlmethode geändert werden müssen, kann dies einfach in den Einstellungen angepasst werden. Voraussetzung ist, dass die Sperre für Drittanbieterdienste aufgehoben wird. Dies kann man im Kundencenter tun, indem man unter "Vertragsdetails" die Option für Drittanbieterdienst-Sperre verwaltet. Daneben bietet die Seite weitere Informationen und ein Video zu dem Thema.
+

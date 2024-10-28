@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/telefonieren/rufnummer-unterdruecken
+
+Question: Wie kann ich meine Mobilfunk-Rufnummer unterdrücken?
+Answer: Wenn Sie jemanden anonym anrufen möchten, haben Sie zwei Möglichkeiten Ihre Mobilfunk-Rufnummer zu unterdrücken:
+• Einmalige Rufnummernunterdrückungfür einen bestimmten Anruf durch die manuelle Eingabe #31# vor der gewünschten Rufnummer.Hinweis:Das funktioniert nicht mehr bei der Wahlwiederholung bzw. bei dem erneuten Anwählen aus der Anrufliste.
+• Dauerhafte Rufnummernunterdrückungüber die Geräte-Einstellungen. Details finden Sie in der Bedienungsanleitung Ihres Geräts.
+

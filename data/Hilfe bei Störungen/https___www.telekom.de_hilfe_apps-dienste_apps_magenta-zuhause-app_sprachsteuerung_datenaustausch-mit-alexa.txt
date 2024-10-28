@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/datenaustausch-mit-alexa
+
+Question: Welche Daten werden zwischen dem MagentaZuhause Skill und Alexa ausgetauscht?
+Answer: Um den MagentaZuhause Skill mit Alexa verwenden zu können, findet nach Eingabe Ihrer Zugangsdaten fortlaufend eine Datenübermittlung aller Namen, IDs und Status Ihrer Geräte an Amazon statt. Die weitere Verarbeitung dieser Daten erfolgt durch Amazon.
+

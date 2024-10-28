@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei-watch-2/mit-welchen-geraeten-funktioniert-die-huawei-watch-2
+
+Question: Mit welchen Geräten funktioniert die HUAWEI Watch 2?
+Answer: Um den vollen Funktionsumfang der HUAWEI Watch 2 zu nutzen, benötigen Sie ein Smartphone mit Android ab Version 4.3 oder mit iOS ab Version 9. Für die Nutzung der eSIM ist die HUAWEI Wear App erforderlich. Diese ist nicht für iOS verfügbar. Um die Kompatibilität zu prüfen, rufen Sie die Seitehttp://g.co/wearcheckmit dem Handy auf.
+

@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/airties/airties-kompatibilitaet
+
+Question: Ist das Air 4920 kompatibel zu WLAN-Mesh-Geräten anderer Hersteller?
+Answer: Wenn Sie Airties Geräte mit WLAN-Mesh-Geräten anderer Hersteller nutzen möchten, können Sie lediglich die herkömmliche Bridge- oder Repeater-Funktion nutzen, da es derzeit leider noch keinen herstellerübergreifenden Standard gibt.
+
+Die WLAN-Mesh-Funktion entfällt dann.
+

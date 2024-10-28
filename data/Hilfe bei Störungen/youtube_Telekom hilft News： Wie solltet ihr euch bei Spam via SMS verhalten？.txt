@@ -1,0 +1,8 @@
+Question:
+Haben Sie in letzter Zeit auch SMS erhalten, in denen Ihnen Pakete angekündigt werden, obwohl Sie nichts bestellt haben?
+
+Answer:
+Zusammenfassung: 
+
+Thomas von Telekom hilft warnt vor SMS-Nachrichten, die Pakete ankündigen, obwohl der Empfänger nichts bestellt hat. Dies könnte ein Versuch sein, Schadsoftware auf das Android-Smartphone zu installieren oder persönliche Daten abzugreifen. Er empfiehlt, den Absender zu überprüfen und bei Bedenken den Link nicht anzuklicken. Anstatt auf den Link zu klicken, sollten Kunden die Sendungsverfolgung des Lieferdienstes oder des Online-Shops nutzen. Nutzer sollten stets die neuesten Sicherheitsupdates installieren und die Installation aus unbekannten Quellen deaktivieren. Wenn bereits eine verdächtige SMS geklickt wurde, besteht kein Grund zur Sorge - die Installation beginnt erst mit dem zweiten Klick. Sollten hohe Kosten für SMS-Versand ins Ausland auftreten oder sollte Telekom eine Warnung senden, sollten Nutzer ihr Smartphone sofort in den Flugmodus versetzen oder ihre SIM-Karte in einem anderen Gerät verwenden. In solchen Fällen muss das Telefon auf die Werkseinstellungen zurückgesetzt werden, um die Schadsoftware zu entfernen.
+

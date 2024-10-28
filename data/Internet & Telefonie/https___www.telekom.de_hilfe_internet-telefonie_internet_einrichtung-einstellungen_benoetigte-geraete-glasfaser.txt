@@ -1,0 +1,11 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/einrichtung-einstellungen/benoetigte-geraete-glasfaser
+
+Question: Welche Geräte benötige ich für die Einrichtung meines Glasfaser-Anschlusses?
+Answer: Je nachdem, ob bei Ihnen einFTTBoderFTTHAnschluss zum Einsatz kommt, sind für die Einrichtung unterschiedliche Geräte notwendig:
+FTTB
+FTTH
+Hinweis: Zur Aktivierung Ihres Anschlusses wird außerdem dieGlasfaser-IDund bei FTTH zusätzlich dieModem-IDbenötigt.
+• Glasfaser-fähigerRouter
+• Glasfaser-fähiger Router mit oder ohne integriertem Modem
+• Glasfaser-Modem, falls nicht bereits im Router integriert
+

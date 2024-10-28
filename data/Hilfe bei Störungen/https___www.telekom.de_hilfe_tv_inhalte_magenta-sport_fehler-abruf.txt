@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/tv/inhalte/magenta-sport/fehler-abruf
+
+Question: Wieso kann ich keine Inhalte abrufen, obwohl ich MagentaSport gebucht habe?
+Answer: Bekommen Sie den Fehlercode 1 angezeigt, wenn Sie einen Live-Kanal von MagentaSport anschauen möchten, so ist eine erneute Anmeldung mit Ihrem Telekom Login auf der Webseitewww.magentasport.debzw. in der MagentaSport App erforderlich.
+

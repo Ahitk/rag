@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/nummer-benachrichtigung-alarmfall
+
+Question: Was muss ich beachten, wenn ich für das Alarmsystem in der Magenta SmartHome App die Rufnummern für die Benachrichtigung per SMS hinterlegen möchte?
+Answer: Mobilfunk-Nummern für den AlarmfallFür den SMS-Versand im Alarmfall können Sie alle Mobilfunk-Nummern deutscher Anbieter verwenden. Sie können bis zu drei Rufnummern hinterlegen.
+SMS-Versand ins AuslandSie empfangen die SMS weltweit, sofern Sie Roaming im Ausland auf Ihrem Smartphone aktiviert haben.
+SMS-Zustellung bei NichterreichbarkeitDie Telekom Deutschland GmbH versucht 48 Stunden lang die SMS zuzustellen. Darüber hinaus erfolgt keine Zustellung der SMS (vgl. Mobilfunk-Vertrag).
+Rufnummern in der Magenta SmartHome App hinterlegenWenn Sie sich oder andere Personen per SMS bei Alarmen vom Alarmsystem, vom Wasser- oder vom Rauchmelder benachrichtigen lassen möchten, tragen Sie Ihre Mobilfunk-Rufnummer wie folgt in die Magenta SmartHome App ein:
+Abschließend erhalten Sie einmalig eine SMS, die Ihre Registrierung bestätigt.
+Hinweis:Um Missbrauch zu vermeiden, ist die Anzahl an versendbaren SMS pro Monat auf 1000 Stück beschränkt. Wird dieses Limit erreicht, senden wir Ihnen eine Push-Nachricht mit dem Hinweis, dass das Maximum an SMS für den jeweiligen Monat erreicht wurde und keine weiteren SMS mehr versendet werden können.
+

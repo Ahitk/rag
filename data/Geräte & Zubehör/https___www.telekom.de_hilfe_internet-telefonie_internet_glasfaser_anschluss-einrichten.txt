@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/glasfaser/anschluss-einrichten
+
+Question: Wie richte ich meinen Glasfaser-Anschluss mit meinem Router ein?
+Answer: Wenn Sie einen neuen Glasfaser-Anschluss bekommen haben und vorher keinen Anschluss hatten, folgen Sie den Einrichtungsschritten auf dieser Seite.
+Hinweis:Sollten Sie mit Ihrem bestehenden Anschluss auf Glasfaser wechseln und Ihren bisherigen Router weiterhin nutzen, können Sie den Punkt "Router einrichten" überspringen.
+• Glasfaser-Anschluss aktivierenRichten Sie mithilfe des Aktivierungslinks Ihren Glasfaser-Anschluss ein. Den Link erhalten Sie per E-Mail und SMS.
+• Router einrichtenUm Ihren Router einzurichten, geben Sie in Ihrem Browserwww.telekom.de/einrichtenein und folgen Sie den Schritten unseres Einrichtungsassistenten.
+• Technische FachkraftFür die Konfiguration und Installation Ihrer Geräte können Sie diePersönliche Installationonline buchen. Unsere technische Fachkraft wird die Einrichtung bei Ihnen vornehmen, sobald der Termin für die Fertigstellung Ihres Glasfaser-Anschlusses feststeht.
+

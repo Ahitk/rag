@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/bestellen-einrichten/multisim
+
+Question: Wie bestelle ich eine MultiSIM?
+Answer: Sie können eine oder mehrere MultiSIMs über IhrKundencenterbestellen:
+Wählen Sie den Vertrag über "Zum Vertrag" bzw. "Vertragsdetails" aus, zu dem die MultiSIM bestellt werden soll. Scrollen Sie zu "Meine SIMs" und klicken Sie auf den Button "MultiSIM bestellen". Führen Sie zur Authentifikation die "Sicherheitsüberprüfung" durch. Mit "Zahlungspflichtig bestellen" schließen Sie die Bestellung ab.
+

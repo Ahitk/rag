@@ -1,0 +1,6 @@
+Question:
+Hast du ein Gerätepasswort für deinen Speedport Smart 4?
+
+Answer:
+In diesem Leitfaden erfahren Sie, wie Sie den WLAN-Namen bei einem Speedport Smart 4 ändern können. Die Schritte sind ähnlich für andere Speedport-Modelle. Zunächst benötigen Sie das Gerätepasswort, mit dem Sie auf die Router-Oberfläche zugreifen können. Dieses finden Sie auf Ihrem Gerätepass oder auf dem Aufkleber am Speedport. Geben Sie Speedport.ip in die Adressleiste eines Browsers ein und melden Sie sich an. Klicken Sie auf der Konfigurationsseite auf "Netzwerk", dann auf "WLAN-Einstellungen" und dann auf den Namen. Geben Sie den neuen Namen, auch SSID genannt, ein. Verwenden Sie den gleichen Namen für beide Frequenzbänder und vermeiden Sie Leer- und Sonderzeichen, um Verbindungsabbrüche zu vermeiden. Ein sichtbarer Netzwerkname erhöht nicht die Sicherheit. Speichern Sie die Änderungen und prüfen Sie, ob der neue Name in den verfügbaren Netzwerken erscheint. Bei Bedarf starten Sie den Router neu. Nach der Namensänderung müssen alle zuvor verbundenen Geräte erneut verbunden werden. Um Ihren neuen WLAN-Namen sicherer zu machen, verwenden Sie nicht einfach irgendeinen Namen. Weitere Anleitungsvideos finden Sie am Ende bzw. unter diesem Video.
+

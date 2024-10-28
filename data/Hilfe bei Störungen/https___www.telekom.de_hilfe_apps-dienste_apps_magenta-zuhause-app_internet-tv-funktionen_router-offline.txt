@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/router-offline
+
+Question: Der Speedport Router wird in der MagentaZuhause App als "offline" angezeigt und ich kann keine Router-Funktionen nutzen, woran kann das liegen?
+Answer: Wird der Verbindungsstatus Ihres Routers nicht richtig angezeigt oder sind Router-Funktionen nicht nutzbar, muss geprüft werden, ob die "Easy Support" Funktion über das Konfigurationsmenü des Routers deaktiviert ist.
+Bitte aktivieren Sie diese wieder, um den vollständigen Funktionsumfang in der MagentaZuhause App nutzen zu können. Außerdem darf das Konfigurationsmenü des Routers nicht geöffnet sein, wenn zeitgleich in der MagentaZuhause App eine Router-Funktion ausgeführt werden soll.
+

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/Installation-der-Magenta-TV-App-auf-einem-AB-IPBOX-Android-TV/td-p/6953468/jump-to/first-unread-message
+Subject: Installation der Magenta TV App auf einem AB IPBOX Android TV
+Content: Hallo zusammen,ich würde gern die Magenta TV App auf meiner neuen o.a. TV-Box installieren.Eine Installation über GooglePlay Store ist nicht möglich, da dieser nicht von der Box unterstützt wird.Hier wird stattdessen der App-Store Aptoide verwendet, dieser bietet mir aber die Magenta TV App nicht an, lediglich eine tschechische Version (vermutlich, weil die IPBOX aus Tschechien stammt).Gibt es eine Möglichkeit, mein Gerät mit der Magenta TV App auszustatten?Vielen Dank im Voraus,Enneper
+
+Accepted Solutions:
+- @Enneperschrieb:Gibt es eine Möglichkeit, mein Gerät mit der Magenta TV App auszustatten?nein, dann nicht...Wenn die App gar nicht angeboten wird, im Google Play Store, dann gibt es keine Alternative für deine BoxDann nen FireStick oder MagentaTV One
+- @Enneperschrieb:Gibt es eine Möglichkeit, mein Gerät mit der Magenta TV App auszustatten?nein, dann nicht...Wenn die App gar nicht angeboten wird, im Google Play Store, dann gibt es keine Alternative für deine BoxDann nen FireStick oder MagentaTV One

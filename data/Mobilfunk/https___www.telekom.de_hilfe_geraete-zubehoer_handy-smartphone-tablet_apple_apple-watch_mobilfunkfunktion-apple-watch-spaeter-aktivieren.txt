@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/apple-watch/mobilfunkfunktion-apple-watch-spaeter-aktivieren
+
+Question: Kann ich die Mobilfunk-Funktion bei meiner Apple Watch auch später noch aktivieren?
+Answer: Ja, das funktioniert. Entweder aktivieren Sie die Mobilfunk-Funktion direkt während der ersten Kopplung zwischen der Watch und Ihrem iPhone. Oder, wenn Sie die Mobilfunk-Funktion erst später aktivieren möchten, können Sie das jederzeit mit der Watch App auf Ihrem iPhone unter dem Menüpunkt "Mobilfunk" > "Mobilfunk konfigurieren" tun.
+

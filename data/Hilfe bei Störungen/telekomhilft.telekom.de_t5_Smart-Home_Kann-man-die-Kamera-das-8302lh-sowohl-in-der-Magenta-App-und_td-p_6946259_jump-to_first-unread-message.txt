@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/Kann-man-die-Kamera-das-8302lh-sowohl-in-der-Magenta-App-und/td-p/6946259/jump-to/first-unread-message
+Subject: Kann man die Kamera das 8302lh sowohl in der Magenta App und Alexa einbinden
+Content: Die Kamera ist Alexa kompatibel daher die Frage ob sie in beiden Apps nutzbar ist
+
+Accepted Solutions:
+- @Athos3, wenn Du sie in MZA betreiben möchtest, richtest Du sie zunächst in der MZA App ein. Dazu legst Du Dir vorher noch einen mydlink-Account an, bindest die Kamera aber dort nicht direkt ein.Danach folgst Du den Anweisungen in der MZA-App. Zwischendurch wirst Du nach dem mydlink Account gefragt. Die Kamera wird dann dem mydlink-Account zugefügt. Wichtig ist, Bluetooth muss auf dem Smartphone aktiviert sein.Wenn das erledigt ist, kannst Du den Alexa Skill einrichten. Dazu verbindest Du Dich mit den mydlink Account-Daten.
+- Die Kamera lässt sich in beiden Apps einrichten.
+- Die Kamera lässt sich in beiden Apps einrichten.
+- @Athos3, wenn Du sie in MZA betreiben möchtest, richtest Du sie zunächst in der MZA App ein. Dazu legst Du Dir vorher noch einen mydlink-Account an, bindest die Kamera aber dort nicht direkt ein.Danach folgst Du den Anweisungen in der MZA-App. Zwischendurch wirst Du nach dem mydlink Account gefragt. Die Kamera wird dann dem mydlink-Account zugefügt. Wichtig ist, Bluetooth muss auf dem Smartphone aktiviert sein.Wenn das erledigt ist, kannst Du den Alexa Skill einrichten. Dazu verbindest Du Dich mit den mydlink Account-Daten.

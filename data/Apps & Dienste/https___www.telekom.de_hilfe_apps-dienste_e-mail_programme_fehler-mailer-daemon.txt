@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/programme/fehler-mailer-daemon
+
+Question: Warum erhalte ich eine Fehlermeldung auf meine E-Mail vom Absender "Mailer-Daemon"?
+Answer: Sie erhalten eine E-Mail von einem "Mailer-Daemon", wenn Ihre E-Mail aus einem bestimmten Grund nicht zugestellt werden konnte:
+• "unknown user/Teilnehmer existiert nicht" > überprüfen Sie die Schreibweise der Ziel-E-Mail-Adresse vor dem @
+• "unrouteable domain xxx.de/unknown host" > überprüfen Sie Schreibweise der Ziel-E-Mail-Adresse hinter dem @
+• "Mailbox quota exceedet/Mailbox voll" > das Ziel-Postfach ist voll
+• "could not send message for X hours" > der Ziel-E-Mail-Server ist aktuell nicht erreichbar
+• "You must specify a domain name" > geben Sie eine vollständige E-Mail-Adresse an
+

@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/benutzername-bereits-vergeben
+
+Question: Was mache ich, wenn die E-Mail-Adresse als Benutzername bereits vergeben ist?
+Answer: Erhalten Sie bei der Registrierung die Meldung "Diese E-Mail-Adresse ist bereits als Benutzername vergeben", dann haben Sie unter Umständen schon einen Telekom Login und können in diesem Fall dieanderen Anmeldeoptionennutzen, falls Ihnen die Login-Daten nicht oder nicht mehr bekannt sind.
+Haben Sie tatsächlich noch keinen Telekom Login oder wollen sich einen zusätzlichen Login anlegen, dann geben Sie im Registrierungsprozess eine andere E-Mail-Adresse als Benutzernamen ein.
+
