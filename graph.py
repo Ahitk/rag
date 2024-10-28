@@ -83,7 +83,7 @@ class GraphState(TypedDict):
     web_search : str # Binary decision to run web search
     max_retries : int # Max number of retries for answer generation 
     answers : int # Number of answers generated
-    loop_step: Annotated[int, operator.add]
+    loop_step : Annotated[int, operator.add]
     documents : List[str] # List of retrieved documents
     chat_history : list
     question_history : list
@@ -101,7 +101,6 @@ def transform_query(state):
     Returns:
         state (dict): Updates question key with a re-phrased question
     """
-
     print("---TRANSFORM QUERY---")
     question = state["question"]
     chat_history = state["chat_history"]
@@ -209,6 +208,7 @@ def retrieve_multi(state):
         # Use the get_unique_union function to ensure unique documents
         multi_query_docs = initials.get_unique_union(documents)
     return {"documents": multi_query_docs, "question": question, "question_history": question_history}
+
 
 def grade_documents_fusion(state):
     print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
@@ -360,6 +360,56 @@ def generate_multi(state):
         "generation": generation,
         "loop_step": loop_step + 1,
     }
+
+def generate_stepback(state):
+    """
+    Generate answer using RAG on retrieved documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, generation, that contains LLM generation
+    """
+    print("---GENERATE---")
+    question = state["question"]
+    question_history = state["question_history"]
+    documents = state["documents"]
+    chat_history = state["chat_history"]
+    loop_step = state.get("loop_step", 0)
+
+    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    retriever = vector_store.as_retriever()
+    # Generate step-back queries
+    generate_stepback_question = prompts.step_back_prompt | initials.model | StrOutputParser()
+    step_back_question = generate_stepback_question.invoke({"question": question, "question_history": question_history })
+    docs = retriever.invoke(question)
+    documents.extend(docs)
+
+    step_back_chain = (
+        {
+            "chat_history": lambda x: x["chat_history"],
+            "normal_context": lambda x: initials.format_docs(retriever.invoke(x["question"]), (x["question"]) ),
+            "question": lambda x: x["question"],
+            "step_back_context": lambda x: initials.format_docs(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
+        }
+        | prompts.stepback_response_prompt
+        | initials.model
+        | StrOutputParser())
+
+    # Use OpenAI callback to track costs and tokens
+    with get_openai_callback() as cb:
+        generation = step_back_chain.invoke({
+            "question": question,
+            "step_back_question": step_back_question,
+            "chat_history": chat_history,
+        })
+    # Return the updated state with generation
+    return {
+        "documents": documents,
+        "question": question,
+        "generation": generation,
+        "loop_step": loop_step + 1}
 
 def web_search(state):
     """
@@ -647,6 +697,54 @@ def run_graph_multi(question, chat_history, question_history, documents):
             "generate": "generate",
         },
     )
+    workflow.add_edge("web_search_node", "generate")
+    workflow.add_conditional_edges(
+        "generate",
+        grade_generation_v_documents_and_question,
+        {
+            "not supported": "generate",
+            "useful": END,
+            "not useful": "web_search_node",
+            "max retries": END,
+        },
+    )
+
+    # Compile
+    app = workflow.compile()
+
+    # Run
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "documents": documents}
+    for output in app.stream(inputs):
+        for key, value in output.items():
+            # Node
+            pprint(f"CURRENT GRAPH NODE: '{key}':")
+            # Optional: print full state at each node
+            # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
+        pprint("===========================================================")
+
+    #display(Image(app.get_graph().draw_mermaid_png()))
+    print("---END!---")
+    # Final generation
+    answer = value["generation"]
+    docs = value["documents"]
+    question = value["question"]
+    documents = initials.format_docs(docs, question)
+
+    return answer, documents
+
+def run_graph_stepback(question, chat_history, question_history, documents):
+    
+    workflow = StateGraph(GraphState)
+
+    # Define the nodes
+    workflow.add_node("generate", generate_stepback)  # generatae
+    workflow.add_node("transform_query", transform_query)  # transform_query
+    workflow.add_node("web_search_node", web_search)  # web search
+
+    # Build graph
+    # workflow.set_entry_point("transform_query") bu sekilde de grafik'e baslanabilir, alttakiyle ayni.
+    workflow.add_edge(START, "transform_query")
+    workflow.add_edge("transform_query", "web_search_node")
     workflow.add_edge("web_search_node", "generate")
     workflow.add_conditional_edges(
         "generate",

@@ -86,4 +86,5 @@ def get_specific_directory(question, model, data_directory):
     specific_directory = os.path.join(data_directory, sub_directory)
     # orjinal rag_advanced satiri sildim:
     #print(specific_directory)
+    print(f"==========   SELECTED DATA CATEGORY: {sub_directory}   ==========")
     return specific_directory
