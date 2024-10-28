@@ -49,7 +49,7 @@ if user_query:
                 question_history = st.session_state.question_history
 
                 try:
-                    response, documents = graph.run_graph_stepback(user_query, chat_history, question_history, documents)
+                    response, documents = graph.run_graph_naive(user_query, chat_history, question_history, documents)
 
                     # Move clear_system_cache here to ensure it's called after the response is processed
                     if response:

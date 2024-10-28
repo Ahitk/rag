@@ -115,6 +115,27 @@ def transform_query(state):
             "question_history": question_history,
             "documents": documents}
 
+def retrieve_naive(state):
+    """
+    Retrieve documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, documents, that contains retrieved documents
+    """
+    print("---RETRIEVE---")
+    question = state["question"]
+    question_history = state["question_history"]
+
+    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    retriever = vector_store.as_retriever()
+
+    # Retrieval
+    documents = retriever.get_relevant_documents(question)
+    return {"documents": documents, "question": question, "question_history": question_history}
+
 def retrieve_fusion(state):
     """
     Retrieve documents
@@ -257,6 +278,30 @@ def grade_documents(state):
             web_search = "Yes"
             continue
     return {"documents": filtered_docs, "question": question, "web_search": web_search}
+
+def generate_naive(state):
+    """
+    Generate answer using RAG on retrieved documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, generation, that contains LLM generation
+    """
+    print("---GENERATE---")
+    question = state["question"]
+    documents = state["documents"]
+    loop_step = state.get("loop_step", 0)
+
+    rag_chain = prompts.main_prompt | initials.model | StrOutputParser()
+    #print(documents)
+
+    # RAG generation
+    generation = rag_chain.invoke({"context": documents, "question": question})
+
+    ### =============BURADA GENERATION VE LOOP STEP GONDERSEK YETERLI MI; DIGERLERI GEREKLI MI?
+    return {"documents": documents, "question": question, "generation": generation, "loop_step": loop_step+1}
 
 
 def generate_fusion(state):
@@ -745,6 +790,72 @@ def run_graph_stepback(question, chat_history, question_history, documents):
     # workflow.set_entry_point("transform_query") bu sekilde de grafik'e baslanabilir, alttakiyle ayni.
     workflow.add_edge(START, "transform_query")
     workflow.add_edge("transform_query", "web_search_node")
+    workflow.add_edge("web_search_node", "generate")
+    workflow.add_conditional_edges(
+        "generate",
+        grade_generation_v_documents_and_question,
+        {
+            "not supported": "generate",
+            "useful": END,
+            "not useful": "web_search_node",
+            "max retries": END,
+        },
+    )
+
+    # Compile
+    app = workflow.compile()
+
+    # Run
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "documents": documents}
+    for output in app.stream(inputs):
+        for key, value in output.items():
+            # Node
+            pprint(f"CURRENT GRAPH NODE: '{key}':")
+            # Optional: print full state at each node
+            # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
+        pprint("===========================================================")
+
+    #display(Image(app.get_graph().draw_mermaid_png()))
+    print("---END!---")
+    # Final generation
+    answer = value["generation"]
+    docs = value["documents"]
+    question = value["question"]
+    documents = initials.format_docs(docs, question)
+
+    return answer, documents
+
+def run_graph_naive(question, chat_history, question_history, documents):
+    
+    workflow = StateGraph(GraphState)
+
+    # Define the nodes
+    workflow.add_node("retrieve", retrieve_naive)  # retrieve
+    workflow.add_node("grade_documents", grade_documents)  # grade documents
+    workflow.add_node("generate", generate_naive)  # generatae
+    workflow.add_node("transform_query", transform_query)  # transform_query
+    workflow.add_node("web_search_node", web_search)  # web search
+
+    # Build graph
+    # workflow.set_entry_point("transform_query") bu sekilde de grafik'e baslanabilir, alttakiyle ayni.
+    workflow.add_edge(START, "transform_query")
+    workflow.add_conditional_edges(
+        "transform_query",    
+        route_question,
+        {
+            "websearch": "web_search_node",
+            "vectorstore": "retrieve",
+        },
+    )
+    workflow.add_edge("retrieve", "grade_documents")
+    workflow.add_conditional_edges(
+        "grade_documents",
+        decide_to_generate,
+        {
+            "web_search_node": "web_search_node",
+            "generate": "generate",
+        },
+    )
     workflow.add_edge("web_search_node", "generate")
     workflow.add_conditional_edges(
         "generate",
