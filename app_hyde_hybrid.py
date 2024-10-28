@@ -1,10 +1,11 @@
 # Import necessary libraries
 import time
 import streamlit as st
+from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_vectorstore, get_hybrid_retriever
+from indexing import get_hybrid_retriever
 import prompts as prompts
 import initials as initials
 
@@ -27,41 +28,30 @@ def get_response(user_input, chat_history, question_history):
         # Prune chat history before processing
         initials.prune_chat_history_if_needed()
 
-        # Load vector store and retriever
-        vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
-        retriever = vector_store.as_retriever()
-        
-        # Generate multiple queries using the multi_query_prompt and model
-        generate_multi_queries = (
-            prompts.multi_query_prompt 
-            | initials.model 
-            | StrOutputParser() 
-            | (lambda x: x.split("\n"))
-        )
+        # Load hybrid search retrievers
+        retriever = get_hybrid_retriever(user_input, initials.model, initials.data_directory, initials.embedding)
 
-        # Generate the multiple queries based on user input
-        multiple_queries = generate_multi_queries.invoke({"question": user_input, "question_history": question_history})
-
-        retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
-
-        fusion_docs = retrieval_chain_rag_fusion.invoke({"question": user_input, "question_history": question_history})
-        formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, user_input)
-
-        fusion_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
+        hyde_docs = (prompts.prompt_hyde | ChatOpenAI(temperature=0) | StrOutputParser())
+        hyde_output = hyde_docs.invoke({"question": user_input, "question_history": question_history})
+        retrieval_chain_hyde = hyde_docs | retriever 
+        retrieved_docs = retrieval_chain_hyde.invoke({"question": user_input, "question_history": question_history})
+        formatted_docs = initials.format_docs(retrieved_docs, user_input)
+        hyde_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
 
         # Use OpenAI callback to track costs and tokens
         with get_openai_callback() as cb:
-            response = fusion_rag_chain.invoke({
-                "context": fusion_docs, 
+            response = hyde_rag_chain.invoke({
+                "context": formatted_docs, 
                 "question": user_input,
                 "chat_history": chat_history
-            }) if fusion_docs else "No relevant documents found."
+            }) if formatted_docs else "No relevant documents found."
 
         # Update total tokens and cost
         st.session_state.total_tokens += cb.total_tokens
         st.session_state.total_cost += cb.total_cost
 
-        return response, multiple_queries, formatted_docs
+        # Return both the response, the generated multiple queries, and the retrieved documents
+        return response, hyde_output, formatted_docs
 
     except FileNotFoundError:
         st.error("Documents could not be loaded. Please check the data directory path.")
@@ -71,9 +61,7 @@ def get_response(user_input, chat_history, question_history):
         st.error(f"An error occurred: {str(e)}")
         return None, None, None
 
-
 # Start chat
-
 # Display chat history
 for message in st.session_state.chat_history:
     if isinstance(message, HumanMessage):
@@ -92,26 +80,30 @@ if user_query:
         st.markdown(user_query)
 
     start_time = time.time()  # Start timing
-    with st.spinner("In progress..."):
+    with st.spinner("In progress..."):  # Spinner to show processing
         with st.chat_message("AI"):
             # Get the response, generated queries, and retrieved documents
-            response, queries, documents = get_response(user_query, st.session_state.chat_history, st.session_state.question_history)
+            response, hyde_context, documents = get_response(user_query, st.session_state.chat_history, st.session_state.question_history)
             print("==========   PROCESS ENDED  ==========")
-            if response:
-                # Calculate response time
-                response_time = time.time() - start_time
+            # Calculate response time
+            response_time = time.time() - start_time
 
-                # Display the AI's response with the response time
-                st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
+            # Display the AI's response with the response time
+            st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
-                # Append the AI response to the session state chat history
-                st.session_state.chat_history.append(AIMessage(content=response))
-                st.session_state.question_history.append(HumanMessage(content=queries))
+    # Append the AI response to the session state chat history
+    
+    st.session_state.chat_history.append(AIMessage(content=response))
+    st.session_state.question_history.append(HumanMessage(content=user_query))
 
     with st.sidebar:
         # Display the token count in the sidebar
         st.markdown(f"### Total Chat Token Count: {st.session_state.total_tokens}")
-        st.markdown(f"### Total Chat Cost (USD): ${st.session_state.total_cost:.6f}") 
+        st.markdown(f"### Total Chat Cost (USD): ${st.session_state.total_cost:.6f}")  # Display total cost
+
+        # List the generated queries and retrieved documents in the sidebar
+        st.markdown("### HyDE content: ")
+        st.markdown(hyde_context)
     
         st.markdown("### Retrieved documents:")
         st.write(documents)

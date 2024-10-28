@@ -7,6 +7,8 @@ import glob
 import os
 from langchain.docstore.document import Document
 from langchain_experimental.text_splitter import SemanticChunker
+from langchain.retrievers import EnsembleRetriever
+from langchain_community.retrievers import BM25Retriever
 #from langchain_community.vectorstores import Chroma
 from langchain_chroma import Chroma
 from routing import get_specific_directory
@@ -18,7 +20,10 @@ from routing import get_specific_directory
 # Çöp toplama işlemi cagrilmiyor ki hicbir fonksiyonu yko  niye burada tutuyoruz?
 
 # Sabitler
-TOP_N = 10 # Ilgili specified directory'den kac tane en yakin dosyayi getirmek istedigim.
+TOP_N = 30 # Ilgili specified directory'den kac tane en yakin dosyayi getirmek istedigim.
+VECTORSTORE_WEIGHT = 0.5
+MAX_CHUNK_NUMBER = 5 
+MAX_DOCUMENT_NUMBER_K = 10
 SUMMARY_FILE_PATTERN = '**/_summary.txt'
 
 vectorstore = None
@@ -160,11 +165,11 @@ def get_vectorstore(question, model, data_directory, embedding):
     summary_vectorstore.delete_collection()  # Bu tüm vektörleri silecek
     # En yakın özetlerin işaret ettiği orijinal dosyaları yükleyin
     docs = load_original_documents_from_summary_paths(closest_summary_files)
-    print("==========   DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
+    print(f"==========   {len(docs)} DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
 
     print("==========   SEMANTIC CHUNKING WORKING  ==========")
-    # Chunking yapısı: SemanticChunker'ı başlatın
-    text_splitter = SemanticChunker(embedding)
+    # SEMANTIC CHUNKING
+    text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
     
     # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
     splits = []
@@ -182,7 +187,7 @@ def get_vectorstore(question, model, data_directory, embedding):
     return vectorstore
 
 ###### ORIGINAL OLD WITHOUT SEMANTIC CHUNKING
-def get_vectorstore_without_semantic_chunking(question, model, data_directory, embedding):
+def get_vectorstore_without_chunking(question, model, data_directory, embedding):
     # Özetleri yükleyin
     summaries = load_summaries(get_specific_directory(question, model, data_directory))
     # Chroma vektör mağazasını oluşturun
@@ -196,7 +201,47 @@ def get_vectorstore_without_semantic_chunking(question, model, data_directory, e
     #print("Summary vectorstore has been cleared.")
     # En yakın özetlerin işaret ettiği orijinal dosyaları yükleyin
     docs = load_original_documents_from_summary_paths(closest_summary_files)
+    print(f"==========   {len(docs)} DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
     # Orijinal belgelerden bir vektör mağazası ve retriever oluşturun
     vectorstore = Chroma.from_documents(documents=docs, embedding=embedding)
+    print("==========   VECTORSTORE CREATED  ==========")
 
     return vectorstore
+
+def get_hybrid_retriever(question, model, data_directory, embedding):
+    # Özetleri yükleyin
+    summaries = load_summaries(get_specific_directory(question, model, data_directory))
+    # Chroma vektör mağazasını oluşturun
+    summary_vectorstore = create_chroma_vectorstore(summaries, embedding)
+    # Chroma'dan bir retriever oluşturun
+    summary_retriever = summary_vectorstore.as_retriever(search_kwargs={"k": TOP_N})    
+    # En yakın özetleri bulun
+    closest_summary_files = find_closest_summaries_with_chroma(question, summary_retriever, top_n=TOP_N)
+    # Chroma vectorstore'u temizleyin
+    summary_vectorstore.delete_collection()  # Bu tüm vektörleri silecek
+    # En yakın özetlerin işaret ettiği orijinal dosyaları yükleyin
+    docs = load_original_documents_from_summary_paths(closest_summary_files)
+    print(f"==========   DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
+
+    print("==========   SEMANTIC CHUNKING WORKING  ==========")
+    # SEMANTIC CHUNKING
+    text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
+    
+    # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
+    splits = []
+    for doc in docs:
+        split = text_splitter.create_documents([doc.page_content])  # İçeriği küçük parçalara ayır
+        # Orijinal metadata'yı her bir parça için koru
+        for chunk in split:
+            chunk.metadata = doc.metadata  # Metadata’yı koruyarak ekle
+        splits.extend(split)
+    print(f"==========   CHUNKS CREATED: {len(splits)}  ==========")
+
+    # Chunk'lerden bir vektör mağazası oluşturun
+    vectorstore = Chroma.from_documents(documents=splits, embedding=embedding)
+    print("==========   VECTORSTORE CREATED  ==========")
+    semantic_retriever = vectorstore.as_retriever()
+    keyword_retriever = BM25Retriever.from_documents(splits)
+    hybrid_retriever = EnsembleRetriever(retrievers=[keyword_retriever, semantic_retriever], weights=[1-VECTORSTORE_WEIGHT, VECTORSTORE_WEIGHT])
+    print("==========   HYBRID SEARCH FINISHED  ==========")
+    return hybrid_retriever

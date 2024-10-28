@@ -106,7 +106,7 @@ if user_query:
         with st.chat_message("AI"):
             # Get the response, generated queries, and retrieved documents
             response, queries, documents = get_response(user_query, st.session_state.chat_history, st.session_state.question_history)
-
+            print("==========   PROCESS ENDED  ==========")
             # Calculate response time
             response_time = time.time() - start_time
 

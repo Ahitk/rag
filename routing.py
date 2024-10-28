@@ -1,8 +1,9 @@
+import os
+from typing import Literal
 from langchain_core.runnables import RunnableLambda
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.pydantic_v1 import BaseModel, Field
-import os
-from typing import Literal
+
 
 # Data model
 class RouteQuery(BaseModel):
