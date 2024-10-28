@@ -278,23 +278,25 @@ def create_summary(doc_content):
     return chain.invoke({"doc": doc_content})
 
 # Ana klasörün yolu (data klasörünün yolu)
-data_directory = 'data'
-
-# BURASI HER APP CALISTIGINDA TEKRARDAN SUMMARY OLSUTURUYOR
-# CÜNKÜ KOMPLE PY DOSYASINI YÜKLÜYOR VE CALISTIRIYOR.
-# SADECE SUMMARY YAPTIRMAK ISTEDIGINDE CALISTIR.
+data_directory = '/Users/taha/Desktop/rag/data'
 
 def summarize(data_directory): 
-# data klasörü altındaki her bir ana klasör için işlem yapıyoruz
+    # data klasörü altındaki her bir ana klasör için işlem yapıyoruz
     for root, dirs, files in os.walk(data_directory):
-        # root sadece bir üst seviyedeki dizini verir, bu yüzden sadece root içindeki ana klasörlerde işlemi yaparız
+        print("aaaaaa")
         if root == data_directory:
             for folder in dirs:
                 folder_path = os.path.join(data_directory, folder)
                 
-                # _summary.txt dosyasını bu ana klasör içinde oluşturuyoruz (alfabetik olarak en üstte olacak şekilde)
+                # _summary.txt dosyasının yolu
                 summary_file_path = os.path.join(folder_path, '_summary.txt')
                 
+                # Eğer _summary.txt zaten varsa bu klasörü atla
+                if os.path.exists(summary_file_path):
+                    print(f"{folder} klasöründe _summary.txt dosyası zaten mevcut, atlanıyor.")
+                    continue
+                
+                # _summary.txt dosyasını bu ana klasör içinde oluşturuyoruz (alfabetik olarak en üstte olacak şekilde)
                 with open(summary_file_path, 'w') as summary_file:
                     # Bu klasörün altındaki tüm dosyaları listelemek için tekrar os.walk kullanıyoruz
                     for sub_root, sub_dirs, sub_files in os.walk(folder_path):
@@ -307,7 +309,7 @@ def summarize(data_directory):
                                 with open(file_path, 'r', encoding='utf-8') as txt_file:
                                     content = txt_file.read()
                                 
-                                # LangChain chain yapısını kullanarak belgeyi özetliyoruz
+                                # Belgeyi özetliyoruz
                                 summary = create_summary(content)
                                 
                                 # Dosya yolunu ve özetini _summary.txt dosyasına yazıyoruz

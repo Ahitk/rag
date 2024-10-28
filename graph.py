@@ -116,7 +116,7 @@ def transform_query(state):
             "question_history": question_history,
             "documents": documents}
 
-def retrieve(state):
+def retrieve_fusion(state):
     """
     Retrieve documents
 
@@ -142,15 +142,75 @@ def retrieve(state):
     )
 
     # Retrieval
-    # Generate the multiple queries based on user input
-    #multiple_queries = generate_multi_queries.invoke({"question": question, "question_history": question_history})
     retrieval_chain_rag_fusion = generate_multi_queries | retriever.map() | initials.reciprocal_rank_fusion
     fusion_docs = retrieval_chain_rag_fusion.invoke({"question": question, "question_history": question_history})
-    #formatted_docs = initials.format_fusion_docs_with_similarity(fusion_docs, question)
     
     return {"documents": fusion_docs, "question": question, "question_history": question_history}
 
-def grade_documents(state):
+def retrieve_hyde(state):
+    """
+    Retrieve documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, documents, that contains retrieved documents
+    """
+    print("---RETRIEVE---")
+    question = state["question"]
+    question_history = state["question_history"]
+
+    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    retriever = vector_store.as_retriever()
+
+    hyde_text = (prompts.prompt_hyde | initials.model | StrOutputParser())
+    hyde_output = hyde_text.invoke({"question": question, "question_history": question_history})
+    retrieval_chain_hyde = hyde_text | retriever 
+    hyde_docs = retrieval_chain_hyde.invoke({"question": question, "question_history": question_history})
+    return {"documents": hyde_docs, "question": question, "question_history": question_history}
+
+def retrieve_multi(state):
+    """
+    Retrieve documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, documents, that contains retrieved documents
+    """
+    print("---RETRIEVE---")
+    question = state["question"]
+    question_history = state["question_history"]
+
+    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    retriever = vector_store.as_retriever()
+
+    # Generate multiple queries using the multi_query_prompt and model
+    generate_multi_queries = (
+        prompts.multi_query_prompt 
+        | initials.model 
+        | StrOutputParser() 
+        | (lambda x: x.split("\n"))  # Split the generated output into individual queries
+    )
+
+    # Generate the multiple queries based on user input
+    multiple_queries = generate_multi_queries.invoke({"question": question, "question_history": question_history})
+
+    # Now, use the generated queries to retrieve documents
+    if multiple_queries:
+        # Use retriever to fetch documents for each query
+        documents = []
+        for query in multiple_queries:
+            retrieved_docs = retriever.get_relevant_documents(query)
+            documents.append(retrieved_docs)
+
+        # Use the get_unique_union function to ensure unique documents
+        multi_query_docs = initials.get_unique_union(documents)
+    return {"documents": multi_query_docs, "question": question, "question_history": question_history}
+
+def grade_documents_fusion(state):
     print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
     question = state["question"]
     documents = state["documents"]  # fusion_docs burada geçiyor
@@ -175,8 +235,31 @@ def grade_documents(state):
             continue
     return {"documents": filtered_docs, "question": question, "web_search": web_search}
 
+def grade_documents(state):
+    print("---CHECK DOCUMENT RELEVANCE TO QUESTION---")
+    question = state["question"]
+    documents = state["documents"]  # fusion_docs burada geçiyor
+    
+    filtered_docs = []
+    web_search = "No"
+    
+    for idx, document in enumerate(documents, start=1):  # Artık doc_tuple yok, doğrudan document alıyoruz
+        # Document içeriğini değerlendiriyoruz
+        score = retrieval_grader.invoke({"question": question, "document": document.page_content})
+        grade = score.binary_score.strip().lower()  # strip() gereksiz boşlukları kaldırır
+    
+        # "yes", "1", ya da "true" gibi yanıtları uygun olarak değerlendiriyoruz
+        if grade in ["yes", "1", "true", 1]:  
+            print(f"GRADE: Document-{idx} RELEVANT")
+            filtered_docs.append(document)  # yalnızca Document nesnesini ekliyoruz
+        else:
+            print(f"GRADE: Document-{idx} NOT RELEVANT")
+            web_search = "Yes"
+            continue
+    return {"documents": filtered_docs, "question": question, "web_search": web_search}
 
-def generate(state):
+
+def generate_fusion(state):
     """
     Generate answer using RAG on retrieved documents
 
@@ -196,6 +279,75 @@ def generate(state):
 
     with get_openai_callback() as cb:
         generation = fusion_rag_chain.invoke({
+            "context": documents, 
+            "question": question,
+            "chat_history": chat_history
+        }) if documents else "No relevant documents found."
+
+    # Return the updated state with generation
+    return {
+        "documents": documents,
+        "question": question,
+        "generation": generation,
+        "loop_step": loop_step + 1,
+    }
+
+def generate_hyde(state):
+    """
+    Generate answer using RAG on retrieved documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, generation, that contains LLM generation
+    """
+    print("---GENERATE---")
+    question = state["question"]
+    documents = state["documents"]
+    chat_history = state["chat_history"]
+    loop_step = state.get("loop_step", 0)
+
+    hyde_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
+
+    # Use OpenAI callback to track costs and tokens
+    with get_openai_callback() as cb:
+        generation = hyde_rag_chain.invoke({
+            "context": documents, 
+            "question": question,
+            "chat_history": chat_history
+        }) if documents else "No relevant documents found."
+
+    # Return the updated state with generation
+    return {
+        "documents": documents,
+        "question": question,
+        "generation": generation,
+        "loop_step": loop_step + 1,
+    }
+
+def generate_multi(state):
+    """
+    Generate answer using RAG on retrieved documents
+
+    Args:
+        state (dict): The current graph state
+
+    Returns:
+        state (dict): New key added to state, generation, that contains LLM generation
+    """
+    print("---GENERATE---")
+    question = state["question"]
+    documents = state["documents"]
+    chat_history = state["chat_history"]
+    loop_step = state.get("loop_step", 0)
+
+    # Create prompt for final response generation
+    multi_query_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
+
+    # Use OpenAI callback to track costs and tokens
+    with get_openai_callback() as cb:
+        generation = multi_query_rag_chain.invoke({
             "context": documents, 
             "question": question,
             "chat_history": chat_history
@@ -270,7 +422,6 @@ def decide_to_generate(state):
     web_search = state["web_search"]
     filtered_documents = state["documents"]
 
-    print(web_search)
     state["documents"]
     #state["filtered_docs"]
 
@@ -331,14 +482,148 @@ def grade_generation_v_documents_and_question(state):
         return "max retries" 
  
 
-def run_graph(question, chat_history, question_history, documents):
+def run_fusion_graph(question, chat_history, question_history, documents):
     
     workflow = StateGraph(GraphState)
 
     # Define the nodes
-    workflow.add_node("retrieve", retrieve)  # retrieve
+    workflow.add_node("retrieve", retrieve_fusion)  # retrieve
+    workflow.add_node("grade_documents", grade_documents_fusion)  # grade documents
+    workflow.add_node("generate", generate_fusion)  # generatae
+    workflow.add_node("transform_query", transform_query)  # transform_query
+    workflow.add_node("web_search_node", web_search)  # web search
+
+    # Build graph
+    # workflow.set_entry_point("transform_query") bu sekilde de grafik'e baslanabilir, alttakiyle ayni.
+    workflow.add_edge(START, "transform_query")
+    workflow.add_conditional_edges(
+        "transform_query",    
+        route_question,
+        {
+            "websearch": "web_search_node",
+            "vectorstore": "retrieve",
+        },
+    )
+    workflow.add_edge("retrieve", "grade_documents")
+    workflow.add_conditional_edges(
+        "grade_documents",
+        decide_to_generate,
+        {
+            "web_search_node": "web_search_node",
+            "generate": "generate",
+        },
+    )
+    workflow.add_edge("web_search_node", "generate")
+    workflow.add_conditional_edges(
+        "generate",
+        grade_generation_v_documents_and_question,
+        {
+            "not supported": "generate",
+            "useful": END,
+            "not useful": "web_search_node",
+            "max retries": END,
+        },
+    )
+
+    # Compile
+    app = workflow.compile()
+
+    # Run
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "documents": documents}
+    for output in app.stream(inputs):
+        for key, value in output.items():
+            # Node
+            pprint(f"CURRENT GRAPH NODE: '{key}':")
+            # Optional: print full state at each node
+            # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
+        pprint("===========================================================")
+
+    #display(Image(app.get_graph().draw_mermaid_png()))
+    print("---END!---")
+    # Final generation
+    answer = value["generation"]
+    docs = value["documents"]
+    question = value["question"]
+    documents = initials.format_docs(docs, question)
+
+    return answer, documents
+
+
+def run_graph_hyde(question, chat_history, question_history, documents):
+    
+    workflow = StateGraph(GraphState)
+
+    # Define the nodes
+    workflow.add_node("retrieve", retrieve_hyde)  # retrieve
     workflow.add_node("grade_documents", grade_documents)  # grade documents
-    workflow.add_node("generate", generate)  # generatae
+    workflow.add_node("generate", generate_hyde)  # generatae
+    workflow.add_node("transform_query", transform_query)  # transform_query
+    workflow.add_node("web_search_node", web_search)  # web search
+
+    # Build graph
+    # workflow.set_entry_point("transform_query") bu sekilde de grafik'e baslanabilir, alttakiyle ayni.
+    workflow.add_edge(START, "transform_query")
+    workflow.add_conditional_edges(
+        "transform_query",    
+        route_question,
+        {
+            "websearch": "web_search_node",
+            "vectorstore": "retrieve",
+        },
+    )
+    workflow.add_edge("retrieve", "grade_documents")
+    workflow.add_conditional_edges(
+        "grade_documents",
+        decide_to_generate,
+        {
+            "web_search_node": "web_search_node",
+            "generate": "generate",
+        },
+    )
+    workflow.add_edge("web_search_node", "generate")
+    workflow.add_conditional_edges(
+        "generate",
+        grade_generation_v_documents_and_question,
+        {
+            "not supported": "generate",
+            "useful": END,
+            "not useful": "web_search_node",
+            "max retries": END,
+        },
+    )
+
+    # Compile
+    app = workflow.compile()
+
+    # Run
+    inputs = {"question": question, "chat_history": chat_history, "question_history": question_history, "documents": documents}
+    for output in app.stream(inputs):
+        for key, value in output.items():
+            # Node
+            pprint(f"CURRENT GRAPH NODE: '{key}':")
+            # Optional: print full state at each node
+            # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
+        pprint("===========================================================")
+
+    #display(Image(app.get_graph().draw_mermaid_png()))
+    print("---END!---")
+    # Final generation
+    answer = value["generation"]
+    docs = value["documents"]
+    question = value["question"]
+    documents = initials.format_docs(docs, question)
+
+    return answer, documents
+
+
+def run_graph_multi(question, chat_history, question_history, documents):
+    
+    workflow = StateGraph(GraphState)
+
+    # Define the nodes
+    workflow.add_node("retrieve", retrieve_multi)  # retrieve
+    workflow.add_node("grade_documents", grade_documents)  # grade documents
+    workflow.add_node("generate", generate_multi)  # generatae
     workflow.add_node("transform_query", transform_query)  # transform_query
     workflow.add_node("web_search_node", web_search)  # web search
 

@@ -1,6 +1,6 @@
 import time
 import streamlit as st
-import graph_fusion
+import graph
 import chromadb
 from langchain_core.messages import AIMessage, HumanMessage
 from initials import prune_chat_history_if_needed
@@ -49,7 +49,7 @@ if user_query:
                 question_history = st.session_state.question_history
 
                 try:
-                    response, documents = graph_fusion.run_graph(user_query, chat_history, question_history, documents)
+                    response, documents = graph.run_graph_multi(user_query, chat_history, question_history, documents)
 
                     # Move clear_system_cache here to ensure it's called after the response is processed
                     if response:
