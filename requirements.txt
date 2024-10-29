@@ -20,7 +20,6 @@ whisper
 git+https://github.com/openai/whisper.git
 yt-dlp
 moviepy
-ragas
 pydub
 aiohttp
 ragatouille
@@ -41,6 +40,9 @@ unstructured[all-docs]
 selenium
 watchdog
 rank_bm25
+git+https://github.com/explodinggradients/ragas.git
+rouge_score
+nltk
 
 
 

@@ -58,7 +58,7 @@ def load_summaries(data_directory):
                 except IndexError:
                     print(f"Warning: Skipping chunk due to formatting issues in file: {file}")
 
-    return summaries
+    return summaries, data_directory
 
 
 def create_chroma_vectorstore(summaries, embedding):
@@ -150,11 +150,11 @@ def load_original_documents_from_summary_paths(summary_paths):
             print(f"Error loading document from {summary_path}: {e}")  # Debug: Log any other error
     
     return docs
-
+ 
 
 def get_vectorstore(question, model, data_directory, embedding):
     # Özetleri yükleyin
-    summaries = load_summaries(get_specific_directory(question, model, data_directory))
+    summaries, category = load_summaries(get_specific_directory(question, model, data_directory))
     # Chroma vektör mağazasını oluşturun
     summary_vectorstore = create_chroma_vectorstore(summaries, embedding)
     # Chroma'dan bir retriever oluşturun
@@ -172,19 +172,20 @@ def get_vectorstore(question, model, data_directory, embedding):
     text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
     
     # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
-    splits = []
+    chunks = []
     for doc in docs:
         split = text_splitter.create_documents([doc.page_content])  # İçeriği küçük parçalara ayır
         # Orijinal metadata'yı her bir parça için koru
         for chunk in split:
             chunk.metadata = doc.metadata  # Metadata’yı koruyarak ekle
-        splits.extend(split)
-    print(f"==========   CHUNKS CREATED: {len(splits)}  ==========")
+        chunks.extend(split)
+    print(f"==========   CHUNKS CREATED: {len(chunks)}  ==========")
 
     # Chunk'lerden bir vektör mağazası oluşturun
-    vectorstore = Chroma.from_documents(documents=splits, embedding=embedding)
+    vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding)
     print("==========   VECTORSTORE CREATED  ==========")
-    return vectorstore
+    return vectorstore, category
+
 
 ###### ORIGINAL OLD WITHOUT SEMANTIC CHUNKING
 def get_vectorstore_without_chunking(question, model, data_directory, embedding):
@@ -228,20 +229,20 @@ def get_hybrid_retriever(question, model, data_directory, embedding):
     text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
     
     # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
-    splits = []
+    chunks = []
     for doc in docs:
         split = text_splitter.create_documents([doc.page_content])  # İçeriği küçük parçalara ayır
         # Orijinal metadata'yı her bir parça için koru
         for chunk in split:
             chunk.metadata = doc.metadata  # Metadata’yı koruyarak ekle
-        splits.extend(split)
-    print(f"==========   CHUNKS CREATED: {len(splits)}  ==========")
+        chunks.extend(split)
+    print(f"==========   CHUNKS CREATED: {len(chunks)}  ==========")
 
     # Chunk'lerden bir vektör mağazası oluşturun
-    vectorstore = Chroma.from_documents(documents=splits, embedding=embedding)
+    vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding)
     print("==========   VECTORSTORE CREATED  ==========")
     semantic_retriever = vectorstore.as_retriever()
-    keyword_retriever = BM25Retriever.from_documents(splits)
+    keyword_retriever = BM25Retriever.from_documents(chunks)
     hybrid_retriever = EnsembleRetriever(retrievers=[keyword_retriever, semantic_retriever], weights=[1-VECTORSTORE_WEIGHT, VECTORSTORE_WEIGHT])
     print("==========   HYBRID SEARCH FINISHED  ==========")
     return hybrid_retriever
