@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_hybrid_retriever
+from indexing import get_hybrid_semantic_retriever
 import prompts as prompts
 import initials as initials
 
@@ -29,7 +29,7 @@ def get_response(user_input, chat_history, question_history):
         initials.prune_chat_history_if_needed()
 
         # Load hybrid search retrievers
-        retriever = get_hybrid_retriever(user_input, initials.model, initials.data_directory, initials.embedding)
+        retriever = get_hybrid_semantic_retriever(user_input, initials.model, initials.data_directory, initials.embedding)
 
         hyde_docs = (prompts.prompt_hyde | ChatOpenAI(temperature=0) | StrOutputParser())
         hyde_output = hyde_docs.invoke({"question": user_input, "question_history": question_history})

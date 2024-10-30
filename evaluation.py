@@ -87,4 +87,4 @@ def evaluate_result(question, answer, contexts, path):
     results["bleu_score"] = bleu_score
     results["rouge_score"] = rouge_score
 
-    return results
+    return results, dataset

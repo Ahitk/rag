@@ -4,7 +4,7 @@ import streamlit as st
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_vectorstore, get_hybrid_retriever
+from indexing import get_vectorstore, get_hybrid_semantic_retriever
 import prompts as prompts
 import initials as initials
 

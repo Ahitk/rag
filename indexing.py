@@ -151,7 +151,7 @@ def load_original_documents_from_summary_paths(summary_paths):
     
     return docs
  
-
+# DIKKAT! BURADA SEMANTIC CHUNKIG KULLANILIYOR.
 def get_vectorstore(question, model, data_directory, embedding):
     # Özetleri yükleyin
     summaries, category = load_summaries(get_specific_directory(question, model, data_directory))
@@ -168,6 +168,7 @@ def get_vectorstore(question, model, data_directory, embedding):
     print(f"==========   {len(docs)} DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
 
     print("==========   SEMANTIC CHUNKING WORKING  ==========")
+    
     # SEMANTIC CHUNKING
     text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
     
@@ -209,7 +210,7 @@ def get_vectorstore_without_chunking(question, model, data_directory, embedding)
 
     return vectorstore
 
-def get_hybrid_retriever(question, model, data_directory, embedding):
+def get_hybrid_semantic_retriever(question, model, data_directory, embedding):
     # Özetleri yükleyin
     summaries = load_summaries(get_specific_directory(question, model, data_directory))
     # Chroma vektör mağazasını oluşturun
@@ -246,3 +247,41 @@ def get_hybrid_retriever(question, model, data_directory, embedding):
     hybrid_retriever = EnsembleRetriever(retrievers=[keyword_retriever, semantic_retriever], weights=[1-VECTORSTORE_WEIGHT, VECTORSTORE_WEIGHT])
     print("==========   HYBRID SEARCH FINISHED  ==========")
     return hybrid_retriever
+
+# ============================== TEST FUNCTIONS ================================
+
+# DIKKAT! BURADA DIREKT ILGILI DIRECTORY'YI ALIYOR, DIRECTORY ROUTING YOK.
+def get_vectorstore_semantic(question, test_directory, embedding):
+    # Özetleri yükleyin
+    summaries, category = load_summaries(test_directory)
+    # Chroma vektör mağazasını oluşturun
+    summary_vectorstore = create_chroma_vectorstore(summaries, embedding)
+    # Chroma'dan bir retriever oluşturun
+    summary_retriever = summary_vectorstore.as_retriever(search_kwargs={"k": TOP_N})    
+    # En yakın özetleri bulun
+    closest_summary_files = find_closest_summaries_with_chroma(question, summary_retriever, top_n=TOP_N)
+    # Chroma vectorstore'u temizleyin
+    summary_vectorstore.delete_collection()  # Bu tüm vektörleri silecek
+    # En yakın özetlerin işaret ettiği orijinal dosyaları yükleyin
+    docs = load_original_documents_from_summary_paths(closest_summary_files)
+    print(f"==========   {len(docs)} DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
+
+    print("==========   SEMANTIC CHUNKING WORKING  ==========")
+    
+    # SEMANTIC CHUNKING
+    text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
+    
+    # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
+    chunks = []
+    for doc in docs:
+        split = text_splitter.create_documents([doc.page_content])  # İçeriği küçük parçalara ayır
+        # Orijinal metadata'yı her bir parça için koru
+        for chunk in split:
+            chunk.metadata = doc.metadata  # Metadata’yı koruyarak ekle
+        chunks.extend(split)
+    print(f"==========   CHUNKS CREATED: {len(chunks)}  ==========")
+
+    # Chunk'lerden bir vektör mağazası oluşturun
+    vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding)
+    print("==========   VECTORSTORE CREATED  ==========")
+    return vectorstore, category
