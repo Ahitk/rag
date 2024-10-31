@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/mehrere-nuki-schloesser
+
+Question: Kann ich mehrere Nuki Schlösser in der Magenta SmartHome App nutzen?
+Answer: Ja, Sie können einen Nuki Account mit beliebig vielen Schlössern in die Magenta SmartHome App einbinden.Sobald die Nuki Bridge mit der App verbunden ist, werden alle verfügbaren Schlösser angezeigt.Sie können dann gezielt auswählen, welche Schlösser verfügbar sein sollen und welche nicht.
+

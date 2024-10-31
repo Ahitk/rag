@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-funktionen/aenderung-daten
+
+Question: Wie kann ich meine Kontakt- bzw. Accountdaten in der Trassen Defender App ändern?
+Answer: Ihre Firmendaten(Firma, Anschrift, Zuständigkeit etc.) ändern Sie jederzeit in der App über den Menüpunkt "Einstellungen".
+Ihre Kontaktdaten(E-Mail-Adresse, Telefonnummer) hingegen können Sie leider nur über eine Neuregistrierung ändern. In diesem Fall löschen Sie über den Menüpunkt "Einstellungen" Ihren Account unter Eingabe Ihres Passworts. Anschließend können Sie eine Neuregistrierung mit geänderten Kontaktdaten durchführen.
+Bitte beachten Sie, dass im Falle einer Accountlöschung Ihre Accountdaten inklusive Ihrer gemeldeten Schäden unwiderbringlich gelöscht werden.
+Nutzen Sie bitte auchdas Kontaktformular.
+

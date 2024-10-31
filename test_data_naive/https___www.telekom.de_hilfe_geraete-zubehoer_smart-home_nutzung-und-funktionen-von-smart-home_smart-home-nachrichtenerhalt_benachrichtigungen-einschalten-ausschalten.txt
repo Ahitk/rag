@@ -1,0 +1,13 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/smart-home-nachrichtenerhalt/benachrichtigungen-einschalten-ausschalten
+
+Question: Wie schalte ich Benachrichtigungen für Magenta SmartHome ein oder aus?
+Answer: Sie können während der Installation von Magenta SmartHome oder auch nachträglich festlegen, ob Sie Benachrichtigungen auf Ihrem Smartphone oder Tablet erhalten möchten.
+Einrichtung während der InstallationWährend der Installation der Magenta SmartHome App werden Sie gefragt, ob Sie Benachrichtigungen erhalten möchten. Bestätigen Sie dies, damit Sie über die App zu Alarmen, Informationen Ihres Wasser- oder Rauchmelders, Unwetterwarnungen und zum Batterieladestand Nachrichten erhalten.
+Nachträgliche EinrichtungUm die Benachrichtigungen nachträglich zu aktivieren bzw. deaktivieren, öffnen Sie die Magenta SmartHome App und wählen Sie "Mehr > Einstellungen > Nachrichten" aus. Jetzt können Sie die Benachrichtigungen wie gewünscht ein- oder ausschalten.
+
+Wissenswertes zum Erhalt von Benachrichtigungen
+Damit Sie die Nachrichten erhalten, muss die Internetverbindung Ihres Smartphones/Tablets aktiv sein und Sie müssen in der Magenta SmartHome App eingeloggt sein.
+Wurde die Magenta SmartHome App in den Hintergrund verdrängt, erhalten Sie eine Nachricht in der Nachrichtenzeile Ihres Smartphones oder Tablets. Den entsprechenden Ton hierzu können Sie in den Einstellungen Ihres Geräts selbst auswählen.
+Haben Sie Ihre Magenta SmartHome App dagegen geöffnet, sehen Sie die eingetroffene Nachricht direkt auf dem Bildschirm der App. Bei einer Alarmmeldung ändert sich zudem die Hintergrundfarbe des Bildschirms "Mein Zuhause" auf Rot.
+Übrigens: Alle Benachrichtigungen werden immer im Menüpunkt "Nachrichten" abgelegt.
+

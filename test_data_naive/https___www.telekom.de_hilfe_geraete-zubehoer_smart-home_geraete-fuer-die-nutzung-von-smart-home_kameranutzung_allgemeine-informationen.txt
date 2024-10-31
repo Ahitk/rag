@@ -1,0 +1,17 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/kameranutzung/allgemeine-informationen
+
+Question: Wie kann ich in Magenta SmartHome Kameraaufnahmen starten, speichern, ansehen und löschen?
+Answer: Aufnahmen startenIm Alarmfall oder bei erkannter Bewegung startet Ihre Kamera automatisch eine 60-sekündige Aufzeichnung.Sollte die Kameraaufnahme nicht starten, überprüfen Sie bitte, ob in der Kamera eine SD-Card eingesetzt und funktionsbereit ist. Sollte die SD-Karte nicht den Status ‚ready‘ aufweisen, formatieren Sie diese oder tauschen sie aus.
+Aufnahmen ansehenIm Menü "Kamera" der SmartHome App wird Ihnen die Übersicht über alle installierten Kameras angezeigt. Das Kamerabild wird alle 10 Sekunden aktualisiert. Mit einem Klick auf ein Kamerabild schauen Sie live von unterwegs in Ihr Zuhause.
+Aufnahmen speichernKameras mit Aufnahmefunktionen können je nach Kamera-Modell in der MagentaCLOUD oder in der Logitech CLOUD gespeichert werden. Sie können die gespeicherten Aufnahmen dort jederzeit ansehen.
+In Ihrer MagentaCLOUD (https://magentacloud.de) ist der Ordner "smarthome-cameras" für die Kameraaufzeichnungen eingerichtet. Diesen dürfen Sie nicht löschen oder umbenennen.Bitte beachten Sie, dass keine weiteren Kameraaufnahmen gespeichert werden, wenn der Speicherplatz in Ihrer Cloud nicht mehr ausreicht. In der MagentaCLOUD haben Sie 10 GB Inklusiv-Speicher zur Verfügung.
+Aufnahmen löschenIhre Kameraufzeichnungen können Sie in der Magenta SmartHome App unter Einstellungen im Menüpunkt "Kamera" löschen. Aufnahmen von Kameras der Hersteller Bitron Video und D-Link können Sie per Mehrfachauswahl löschen, indem Sie diese zunächst über den Schaltknopf rechts an der Aufnahme auswählen und anschließend oben in der Leiste auf das Papierkorb-Symbol tippen.
+Kamera in das Alarmsystem einbindenBei Alarm startet zweimal direkt hintereinander eine 60-sekündige Aufzeichnung, sofern Sie es im Alarmsystem ausgewählt haben. Die Dateigröße dieser Aufzeichnung beträgt je nach Kompressionsrate 7 - 15 MB.
+Tipps und Hinweise für Kameraaufnahmen
+• Nach geltenden Datenschutzrichtlinien dürfen Kameras nur das eigene Gelände erfassen und nicht das Grundstück des Nachbarn oder öffentliche Straßen und Plätze. Bei Unsicherheiten bzgl. der gesetzlichen Vorgaben empfehlen wir, den Rat eines Anwalts einzuholen.
+• Innenkameras dürfen nur in geschlossenen Räumen verwendet werden, also auch nicht im geschützten Außenbereich, da Witterungseinflüsse diese beschädigen können.
+• Auch Außenkameras sollten möglichst wettergeschützt montiert werden (bspw. unter einem Dachüberstand).
+• Die Kamera sollte außerhalb der Reichweite von Personen montiert werden, um den Sabotageschutz zu erhöhen.
+• Da Reflexionen die Infraroterfassung beeinträchtigen, sollten die Kameras nicht hinter Fensterscheiben montiert werden.
+• Etwas Umgebungslicht verbessert die Aufnahmen der Kameras. Allerdings darf die Kamera nicht direkt auf die Lichtquelle gerichtet werden, da dies die Aufnahmequalität negativ beeinflusst.
+

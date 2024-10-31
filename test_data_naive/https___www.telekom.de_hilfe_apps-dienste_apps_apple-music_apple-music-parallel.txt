@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/apple-music/apple-music-parallel
+
+Question: Mit wie vielen Geräten kann ich Apple Music parallel nutzen?
+Answer: Ihren Apple Music Account (= Ihre Apple ID) können Sie auf bis zu 10 verschiedenen Geräten installieren und nutzen. Allerdings kann immer nur eines davon Musik online abspielen. Sobald die Wiedergabe auf einem zweiten Gerät gestartet wird, stoppt diese auf dem ersten.
+

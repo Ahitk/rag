@@ -1,0 +1,6 @@
+Question:
+Wie werden in der neuen Weboberfläche der DigiBox Smart per Assistant die Einstellungen für den Media-Gate-Berbetrieb konfiguriert?
+
+Answer:
+In diesem Video wird erläutert, wie man den Media-Gate-Betrieb in der neuen Weboberfläche der DigiBox Smart per Assistent konfiguriert. Nach der Anmeldung am System steht der Zugriff auf den Telefonie-Reiter und somit auf den Media-Gate-Betrieb zur Verfügung. Es werden grundsätzliche Einstellungen getätigt und die Voice Over IP-Anschlüsse verwaltet. Es gibt außerdem Assistenten zur Optimierung von Einstellungen, wie z.B. die Quality of Service und Nat für eine Telefonanlage, zur Vorbereitung von Einstellungen für einen Trunk zu einer Enphone-Telefonanlage und für die Einrichtung eines Trunks zu einer SWIX Telefonanlage. Es wird gezeigt, wie das Media-Gate-Betrieb aktiviert oder deaktiviert wird, wie die Landeseinstellungen angepasst und die Einstellungen für das Endgerät gewählt werden. Es folgen Erläuterungen zur Konfiguration einzelner MSN-Rufnummern und Durchwahlanlagen, zu den Möglichkeiten der Anpassung von Authentifizierung und zur Auswahl des ISDN-Ports. Das Video endet mit der Aufforderung, die vorgenommenen Einstellungen sicherzustellen, indem man die Konfiguration speichert.
+

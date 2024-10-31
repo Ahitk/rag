@@ -5,13 +5,17 @@
 import gc
 import glob
 import os
+import random
 from langchain.docstore.document import Document
 from langchain_experimental.text_splitter import SemanticChunker
+from langchain_text_splitters import CharacterTextSplitter
 from langchain.retrievers import EnsembleRetriever
 from langchain_community.retrievers import BM25Retriever
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 #from langchain_community.vectorstores import Chroma
 from langchain_chroma import Chroma
 from routing import get_specific_directory
+
 
 # DenseX
 # Orjnal DenseX, specific_directory'den cekio
@@ -31,6 +35,9 @@ retriever = None
 
 # Çöp toplama işlemi
 gc.collect()
+
+# ============================== DENSE X FUNCTIONS ================================
+
 
 def load_summaries(data_directory):
     """
@@ -250,6 +257,48 @@ def get_hybrid_semantic_retriever(question, model, data_directory, embedding):
 
 # ============================== TEST FUNCTIONS ================================
 
+
+
+
+
+
+# Naive RAG - Semantic Search - Character Splitting
+def get_vectorstore_naive_semantic(test_directory, embedding):
+    # Klasörden tüm txt dosyalarını topla
+
+    all_txt_files = glob(os.path.join(test_directory, "*.txt"))
+    
+    # Eğer 50'den fazla dosya varsa rastgele 50 tanesini seç
+    selected_files = random.sample(all_txt_files, min(50, len(all_txt_files)))
+    
+    # Seçilen dosyaların içeriklerini oku ve birleştir
+    all_texts = []
+    for file_path in selected_files:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            all_texts.append(f.read())
+    
+    # Text splitter ile içerikleri chunk'lara ayır
+    text_splitter = CharacterTextSplitter(
+        separator="\n\n",
+        chunk_size=200,
+        chunk_overlap=30,
+        length_function=len,
+        is_separator_regex=False,
+    )
+    chunks = text_splitter.create_documents(all_texts)
+    
+    # Chunk'lerden bir vektör mağazası oluştur
+    vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding)
+    print("==========   VECTORSTORE CREATED  ==========")
+    
+    # Kategori ismini belirle (directory'nin son kısmı)
+    category = os.path.basename(test_directory.rstrip('/'))
+    
+    return vectorstore, category
+
+
+
+# Advanced RAG	- Semantic Search -	Dense X	- Semantic Splitting - Fusion -	Logical Routing
 # DIKKAT! BURADA DIREKT ILGILI DIRECTORY'YI ALIYOR, DIRECTORY ROUTING YOK.
 def get_vectorstore_semantic(question, test_directory, embedding):
     # Özetleri yükleyin

@@ -24,12 +24,12 @@ TEST_DIRECTORIES:
 "Geräte & Zubehör"
 """
 
-test_directory = '/Users/taha/Desktop/rag/data/Vertrag & Rechnung'
+test_directory = '/Users/taha/Desktop/rag/data/Geräte & Zubehör'
 # Define input CSV path
-input_csv_path = '/Users/taha/Desktop/rag/data/Vertrag & Rechnung/_testset_semantic.csv'  # Input CSV file path
+input_csv_path = '/Users/taha/Desktop/rag/data/Geräte & Zubehör/_testset_semantic.csv'  # Input CSV file path
 
 # Define output CSV path including the filename
-output_csv_path = '/Users/taha/Desktop/rag/data/Vertrag & Rechnung/_evaluation_semantic_fusion.csv'  # Output file will be created here
+output_csv_path = '/Users/taha/Desktop/rag/data/Geräte & Zubehör/_evaluation_semantic_fusion.csv'  # Output file will be created here
 
 # Function to create the output CSV file at the beginning
 def initialize_output_csv(output_path):

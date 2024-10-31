@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/automatische-einrichtung/automatische-einrichtung-telefonie
+
+Question: Was ist die automatische Einrichtung der Telefonie?
+Answer: Die automatische Einrichtung der Telefonie ist ein EasySupport Service für Telekom Kunden. Durch diesen werden alle für Sie reservierten Rufnummern automatisch auf Ihrem Speedport eingerichtet.
+Bereits eingerichtete Rufnummern können dabei überschrieben werden. Außerdem wird der Router auf den Betrieb mit IP-basierter Telefonie eingestellt und die Verbindung ins Internet dauerhaft aktiviert. Alle anderen Einstellungen auf Ihrem Speedport bleiben unverändert.
+Die automatische Einrichtung der IP-basierten Telefonie können Sie direkt überwww.telekom.de/einrichtenaufrufen.
+Diese Möglichkeit steht Ihnen außerdem im Speedport-Service des Telekom Kundencenters Verfügung.
+

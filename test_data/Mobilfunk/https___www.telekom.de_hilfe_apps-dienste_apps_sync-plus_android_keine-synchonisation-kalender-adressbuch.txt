@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/android/keine-synchonisation-kalender-adressbuch
+
+Question: Was kann ich tun, wenn die Synchronisation meines Kalenders bzw. Adressbuchs auf meinem Android-Gerät nicht funktioniert?
+Answer: Sollte die Synchronisation von Ihrem Kalender oder Adressbuch nicht funktionieren, deaktivieren Sie bitte die Akku-Optimierung für die Sync-Plus App in den Einstellungen Ihres Gerätes oder stoßen Sie die Synchronisation in der Sync-Plus App immer manuell an. Android verhindert mit der Akku-Optimierung die Synchronisation mit Sync-Plus.
+

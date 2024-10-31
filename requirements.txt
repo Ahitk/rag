@@ -1,8 +1,11 @@
+# RAGAS OLD VERSION FOR TESTDATA CREATION
+#ragas==0.1.21
+# RAGAS NEW VERSION FOR EVALUATION
+git+https://github.com/explodinggradients/ragas.git
 aiohttp
 beautifulsoup4
 chromadb
 cryptography
-git+https://github.com/explodinggradients/ragas.git
 git+https://github.com/openai/whisper.git
 google-api-python-client
 langchain

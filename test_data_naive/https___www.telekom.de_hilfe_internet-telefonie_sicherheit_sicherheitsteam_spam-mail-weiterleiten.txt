@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/sicherheitsteam/spam-mail-weiterleiten
+
+Question: Wie leite ich aus dem E-Mail Center eine Spam-Mail an das Telekom Sicherheitsteam weiter?
+Answer: Öffnen Sie die betreffende E-Mail und kopieren Sie den Text-Inhalt.
+

@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/sprachsteuerung/alexa-skill-funktionen
+
+Question: Was kann ich mit dem MagentaZuhause Alexa Skill tun?
+Answer: Mit dem MagentaZuhause Alexa Skill können Sie viele kompatible Geräte per Sprache über Ihre Alexa steuern:
+• LED-LampenAn-/Ausschalten, dimmen, Farbe einstellen
+• ZwischensteckerGeräte wie bspw. eine Stehlampe, die Kaffeemaschine, das Radio oder den Ventilator mit einem Sprachbefehl ein- und ausschalten
+• HeizungErhöhung oder Senkung der Temperatur am Thermostat, Abfrage der Raumtemperatur
+• RoutinenSelbst erstellteRoutinenstarten
+

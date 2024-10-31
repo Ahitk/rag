@@ -19,10 +19,9 @@ from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 nltk.download('punkt')
 nltk.download('punkt_tab')
 
-def evaluate_result(question, answer, contexts, path):
+def evaluate_result(question, answer, contexts, input_csv_path):
     # Test verisini belirtilen yoldan yükle
-    csv_path = f"{path}/_testset_semantic.csv"
-    testdata = pd.read_csv(csv_path)
+    testdata = pd.read_csv(input_csv_path)
     
     # Sorunun doğru cevabını bul
     ground_truth_row = testdata[testdata["question"] == question]

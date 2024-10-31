@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/einrichtung/kaskadierung-speedport
+
+Question: Können Speedports kaskadiert geschaltet werden?
+Answer: Häufig ist es gewünscht, mehrere Router hintereinander zu schalten.
+Die verschiedenen Speedport-Modelle der Deutschen Telekom sind nicht kaskadierungsfähig.
+Dies bedeutet, dass die Schaltung eines Routers hinter einem Router der Deutschen Telekom nicht unterstützt wird.
+

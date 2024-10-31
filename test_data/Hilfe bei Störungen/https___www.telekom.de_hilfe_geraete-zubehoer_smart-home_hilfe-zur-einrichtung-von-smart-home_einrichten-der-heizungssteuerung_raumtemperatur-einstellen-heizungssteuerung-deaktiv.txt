@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-der-heizungssteuerung/raumtemperatur-einstellen-heizungssteuerung-deaktiv
+
+Question: Kann ich in Magenta SmartHome meine Raumtemperatur auch einstellen, wenn die Heizungssteuerung deaktiviert wurde?
+Answer: Ja, über die Fernbedienung in der App können Sie weiterhin die Raumtemperatur eines Raumes ändern. Am Heizkörperthermostat selbst lässt sich die Solltemperatur für dieses Gerät ebenfalls einstellen.
+Wenn Sie über die Heizungseinstellungen die Heizungssteuerung für Ihr Zuhause deaktivieren, werden alle Ihre Heizkörperthermostate auf die festgelegte Frostschutztemperatur eingestellt. Ab diesem Zeitpunkt wird kein weiterer Schaltbefehl zur Änderung einer Raumtemperatur mehr von der Heizungssteuerung an die Heizkörperthermostate gesendet.
+Hinweis:Die Funktion "Lüften" ist bei ausgeschalteter Heizungssteuerung ebenfalls deaktiviert.
+

@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/internet-telefonie/tarife-optionen/sicherheitspaket/aktvieren
+
+Question: Wie aktiviere ich das Telekom Sicherheitspaket?
+Answer: Abhängig von der Buchung Ihres Sicherheitspakets über Ihren Festnetz-Anschluss oder Mobilfunk-Vertrag können Sie es so freischalten:
+Ü​​​​​​ber den Festnetz-Anschluss:Laden Sie die Software zum Sicherheitspaket über den Link in Ihrer Eingangsbestätigung, die Sie per E-Mail erhalten haben, herunter. Je nach verwendetem Gerät klicken Sie in der Anmeldemaske von Norton oder Norton 360 App auf "Abonnement einlösen" und "Mit Ihren Service-Provider-Zugangsdaten einloggen". Geben Sie "Telekom" unter "Partnername" ein, klicken Sie auf "Weiter" und bestätigen Sie die Eingabe. Melden Sie sich mit Ihrem Telekom Login an.
+Über den Mobilfunk-Vertrag:Sie erhalten nach der Bestellung des Sicherheitspakets eine SMS mit dem Link zum Download der Norton Software und eine Aktivierungs-PIN. Laden Sie die Software herunter und folgen Sie den Installationsanweisungen. Geben Sie die 13-stellige PIN ein und registrieren Sie sich bei Norton.
+Hinweis:Sofern Sie bereits eine andere Schutzsoftware verwendet haben, deinstallieren Sie diese vor dem neuen Download zum Sicherheitspaket.
+

@@ -15,6 +15,7 @@ deactivate
 #youtube transkriptlerini almak icin bu gerekti, belirtmek gerekebilir
 brew install ffmpeg
 
+# ORJINAL DATA'LAR YANI WEB, YOUTUBE, PDF BUNLAR STORAGE'DAN ÖTÜRÜ CLOUD'TA OLACAK. DRIVE LINKI VER BURDA:
 
 # IMPORTANT NOTE: The version v.0.1.21 of RAGAS has been used to create the test data. 
 # The higher version v.0.2x has a significantly different test data generation structure, which is why v.0.1.21 was preferred.

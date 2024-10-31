@@ -1,0 +1,27 @@
+Here’s a summary of the key details from the document related to the "MagentaMobil Data M" mobile data plan:
+
+### Product Overview
+- **Type:** Mobile data plan (MagentaMobil Data M)
+- **Provider:** Telekom Deutschland GmbH
+- **Marketing Start Date:** January 19, 2021
+
+### Data Transmission Rates
+- **Max Download Speed:** Up to 300 Mbit/s
+- **Max Upload Speed:** Up to 50 Mbit/s
+- **Speed Reduction after 10 GB Usage:**
+  - **Download:** Reduced to 64 kbit/s
+  - **Upload:** Reduced to 16 kbit/s
+
+### Contract Details
+- **Minimum Contract Duration:** 24 months
+- **Cancellation Notice Period:** 1 month after the minimum contract period
+- **Cancellation Options:** Can be canceled at any time after the minimum period with one month’s notice.
+
+### Pricing
+- **Monthly Costs for the Complete Product (excluding hardware costs):**
+  - Without Device: €19.95
+  - With Device: €29.95
+  - With Top Device: €39.95
+  - With Premium Device: €49.95
+
+This plan includes access to internet services and is governed by the provider's general terms and conditions. For additional details, users can refer to the product's service descriptions and price lists on the Telekom website.

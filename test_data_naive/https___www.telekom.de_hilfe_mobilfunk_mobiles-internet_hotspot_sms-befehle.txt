@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/sms-befehle
+
+Question: Wie lauten die SMS-Befehle zur Nutzung von Telekom HotSpot?
+Answer: Um sich einzuloggen, senden Sie eine SMS mit dem Text "OPEN" an die Kurzwahl 9526.
+Möchten Sie sich ausloggen, senden Sie eine SMS mit dem Text "CLOSE" an die Kurzwahl 9526.
+Verbinden Sie sich mit dem WLAN-Netzwerk "SSID Telekom_SIM", ist Ihr Gerät nach erstmaligem Login zukünftig automatisch eingeloggt. Eine erneute Anmeldung ist nicht mehr notwendig.
+

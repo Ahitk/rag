@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/led-symbole-fehlercodes-eurotronic-comet-wifi-heizkoerperthermostats
+
+Question: Was bedeuten die LED-Symbole und Fehlercodes im Gerätedisplay des EUROTRONIC Comet WiFi Heizkörperthermostats?
+Answer: Die LED-Blinksymbole und Fehlercodes zeigen den Status des Heizkörperthermostats an. Dabei ist nicht für jede Meldung ein Handeln erforderlich.
+Wenn das Thermostat aufgrund der baulichen Gegebenheiten auf dem kopfstehend angebracht ist, können Sie die Anzeige des Displays in der MagentaZuhause App drehen, um es bequem ablesen zu können. Gehen Sie dafür in der App zu den Geräte-Einstellungen des Thermostats (Zahnrad-Symbol in der rechten oberen Ecke), tippen Sie auf "Erweiterte Einstellungen" und anschließend auf "Anzeige drehen".
+

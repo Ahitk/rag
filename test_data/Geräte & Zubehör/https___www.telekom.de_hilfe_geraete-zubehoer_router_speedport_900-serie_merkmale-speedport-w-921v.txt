@@ -1,0 +1,19 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/900-serie/merkmale-speedport-w-921v
+
+Question: Was sind die wesentlichen Merkmale des Speedport W 921V?
+Answer: • Optimal geeignet für die Nutzung von MagentaTV der Telekom
+• DSL-Router mit integriertem DSL-Modem (ADSL/2+/VDSL)
+• Telefonieren über Festnetz (Standard- oder Univeranschluss) oder Internet (IP-basierter Anschluss)
+• Vier LAN-Anschlüsse(mit 10/100/1000 Mbit/s)für Entertain und PCs
+• WLAN-Standard IEEE 802.11 a/b/g/n im 2,4 und 5 GHz-Bereich
+• Vereinfachte WLAN-Anbindung von bis zu 32 Computern mit WPS (Wireless Protected Setup)
+• WLAN-Verschlüsselung WPA 2 voreingestellt (WPA und WEP möglich)
+• Hohe Datenübertragungsgeschwindigkeit von maximal 300 Mbit/s (Brutto) per WLAN
+• DECT-CAT-iq Basisstation 2.0
+• Zwei universal codierte TAE-Buchsen für Telefon, Fax und/oder Anrufbeantworter
+• Eine interne ISDN-Buchse zum Anschluss eines ISDN-Telefon oder einer ISDN-Telefonanlage
+• Zwei USB 2.0-Schnittstellen zum Anschluss von Drucker oder externer Festplatte zur gemeinsamen Nutzung im Heimnetzwerk
+• NAS-Funktionalität für Synchronisation, Datenaustausch und Datensicherung im Heimnetzwerk
+• EasySupport: Automatische Konfiguration und Aktualisierung der Firmware sowie Fernunterstützung an DSL-Anschlüssen der Telekom möglich
+• Wandmontage möglich
+

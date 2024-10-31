@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/eq-3-Homematic-Zwischenstecker-der-1-Generation/td-p/6970410/jump-to/first-unread-message
+Subject: eq-3 Homematic Zwischenstecker der 1. Generation
+Content: Ich möchte einen alten eq-3 Homematic Zwischenstecker der 1. Generation in die aktuelle ZuHause App integrieren. Das Gerät wird bei der automatischen Suche aber nicht gefunden. Der Hersteller EQ-3 ist beim "Schritt-für-Schritt"-Assistenten nicht aufgeführt.Hat jemand dies schon einmal erfolgreich durchgeführt?
+
+Accepted Solutions:
+- @UlHa1972schrieb:Hat jemand dies schon einmal erfolgreich durchgeführt?Geht meines Wissens wenn dann nur über den Umweg aufwww.qivicon.com (dortdann rechts oben einloggen)Vorraussetzung allerdings ist auch eine Homebase, an einem Speedport geht das nicht
+- @UlHa1972schrieb:Hat jemand dies schon einmal erfolgreich durchgeführt?Geht meines Wissens wenn dann nur über den Umweg aufwww.qivicon.com (dortdann rechts oben einloggen)Vorraussetzung allerdings ist auch eine Homebase, an einem Speedport geht das nicht

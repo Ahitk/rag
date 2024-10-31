@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Sonstiges/TypeError-I-checkVisibility-is-not-a-function/td-p/6971020/jump-to/first-unread-message
+Subject: TypeError - I.checkVisibility is not a function
+Content: Hallo,wenn ich meinen Prepaid-Vertrag über das Kundencenter aufladen möchte, bekomme ich seit Umstellung auf das neue Kundencenter die Fehlermeldung "TypeError - I.checkVisibility is not a function (in I.checkVisiblity(); 'I.checkVisibility is undefined)"Siehe angehängen Screenshot.Das passiert sowohl in Safari am iPhone als auch in der "MeinMagenta"-App. Einzig am PC kann ich mein Guthaben aufladen, weil ich dort die Möglichkeit "zum alten Kundencenter wechseln" habe. Darin funktioniert es. Sobald das alte Kundencenter mal ganz entfernt wird, werde ich mein Guthaben nicht mehr aufladen können.Ich wollte darum fragen, wann das mal repariert wird.
+
+Accepted Solutions:
+- Hallo Justina,unter dem oben angegeben Link funktioniert der Aufladeprozess!Beim Start der App kam allerdings die Aufforderung, sie vorher upzudaten. Nach dem Update sah sie komplett anders aus.Ich vermute, dass der Fehler dann zusammen mit dem Update behoben wurde.vielen Dank für die Hilfe!
+- Hallo Justina,unter dem oben angegeben Link funktioniert der Aufladeprozess!Beim Start der App kam allerdings die Aufforderung, sie vorher upzudaten. Nach dem Update sah sie komplett anders aus.Ich vermute, dass der Fehler dann zusammen mit dem Update behoben wurde.vielen Dank für die Hilfe!
