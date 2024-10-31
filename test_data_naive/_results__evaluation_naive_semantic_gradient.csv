@@ -1,0 +1,2 @@
+Token Count,Total Cost (USD),Completion Tokens,Number of Retrieved documents,Response time,answer_relevancy,context_precision,context_recall,faithfulness,BleuScore,RougeScore
+528,0.00012,95,4.0,185.51,0.8640,0.5639,0.7500,0.3748,0.0536,0.1797

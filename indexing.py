@@ -177,7 +177,7 @@ def get_vectorstore(question, model, data_directory, embedding):
     print("==========   SEMANTIC CHUNKING WORKING  ==========")
     
     # SEMANTIC CHUNKING
-    text_splitter = SemanticChunker(embedding, number_of_chunks=MAX_CHUNK_NUMBER)
+    text_splitter = SemanticChunker(embedding)
     
     # Her bir orijinal belgeyi daha küçük parçalara bölün ve hepsini bir listeye ekleyin
     chunks = []
@@ -193,6 +193,32 @@ def get_vectorstore(question, model, data_directory, embedding):
     vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding)
     print("==========   VECTORSTORE CREATED  ==========")
     return vectorstore, category
+
+
+#============================== FOR TEST PURPOSES ONLY =====================================================
+def get_vectorstore_semantic_chunking_no_summary(test_directory, embedding):
+    
+    all_txt_files = glob.glob(os.path.join(test_directory, "*.txt"))
+
+    # Seçilen dosyaların içeriklerini oku ve birleştir
+    all_texts = []
+    for file_path in all_txt_files:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            all_texts.append(f.read())
+
+    print("==========   SEMANTIC CHUNKING WORKING  ==========")
+    
+    # SEMANTIC CHUNKING
+    text_splitter = SemanticChunker(embedding)
+    chunks = text_splitter.create_documents(all_texts)
+
+    print(f"==========   CHUNKS CREATED: {len(chunks)}  ==========")
+
+    # Chunk'lerden bir vektör mağazası oluşturun
+    vectorstore = Chroma.from_documents(documents=chunks, embedding=embedding)
+    print("==========   VECTORSTORE CREATED  ==========")
+    return vectorstore
+#============================== FOR TEST PURPOSES ONLY =====================================================
 
 
 ###### ORIGINAL OLD WITHOUT SEMANTIC CHUNKING

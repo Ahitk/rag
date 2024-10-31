@@ -11,7 +11,7 @@ from langchain_community.callbacks import get_openai_callback
 from typing_extensions import TypedDict
 from typing import List, Annotated
 from pprint import pprint
-from indexing import get_vectorstore
+from indexing import get_vectorstore, get_vectorstore_semantic_chunking_no_summary
 import routing as routing
 import initials as initials
 import prompts as prompts
@@ -136,6 +136,9 @@ def retrieve_naive(state):
     documents = retriever.get_relevant_documents(question)
     return {"documents": documents, "question": question, "question_history": question_history}
 
+
+
+#================= DIKKAT: ORJINAL FONKSIYONU TEST AMACLI DEGISTIRDIM VE KULLANDIM: vector_store = get_vectorstore() comment'de==============================
 def retrieve_fusion(state):
     """
     Retrieve documents
@@ -151,6 +154,12 @@ def retrieve_fusion(state):
     question_history = state["question_history"]
 
     vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    
+    #============================== FOR TEST PURPOSES ONLY =====================================================
+    #test_directory = '/Users/taha/Desktop/rag/test_data_naive'
+    #vector_store = get_vectorstore_semantic_chunking_no_summary(test_directory, initials.embedding)  
+    #============================== FOR TEST PURPOSES ONLY =====================================================
+
     retriever = vector_store.as_retriever()
 
     # Generate multiple queries using the multi_query_prompt and model
