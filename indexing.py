@@ -25,176 +25,199 @@ retriever = None
 # Çöp toplama işlemi
 gc.collect()
 
-# ============================== DENSE X FUNCTIONS ================================
+# DENSE X 
 
 # ================================ USE FILE NAME ==================================
 
-def parse_summary_files(summary_directory):
+# Constants
+SUMMARY_FILENAME_PATTERN = '**/_summary.txt'
+RETRIEVAL_TOP_N = 30  # Number of closest documents to retrieve
+
+def extract_summaries_from_files(summary_dir):
     """
-    Parses _summary.txt files in the specified directory, extracting file names and their summaries.
+    Extracts summaries from _summary.txt files in the specified directory, using only file names.
     Returns a dictionary where keys are file names and values are summaries.
     """
-    # Locate all _summary.txt files in the given directory
-    summary_file_paths = glob.glob(os.path.join(summary_directory, SUMMARY_FILE_PATTERN), recursive=True)
-    summary_data = {}
-    
-    # Process each summary file
+    summary_file_paths = glob.glob(os.path.join(summary_dir, SUMMARY_FILENAME_PATTERN), recursive=True)
+    file_summary_map = {}
+
     for summary_file in summary_file_paths:
         with open(summary_file, 'r') as f:
             content = f.read()
-        
+
         # Split content into chunks using "=== Chunk ===" delimiter
         chunks = content.split("=== Chunk ===")
         for chunk in chunks:
-            # Check if chunk has both file name and summary
             if "File name:" in chunk and "File summary:" in chunk:
                 try:
-                    lines = chunk.split('\n')
-                    file_name_line = [line for line in lines if "File name:" in line]
-                    summary_line = [line for line in lines if "File summary:" in line]
-
-                    # Extract file name and summary text if both exist
-                    if file_name_line and summary_line:
-                        file_name = file_name_line[0].split("File name:")[1].strip()
-                        summary_text = summary_line[0].split("File summary:")[1].strip()
-                        summary_data[file_name] = summary_text
-                except IndexError:
+                    # Extract file name and summary
+                    file_name_line = next(line for line in chunk.split('\n') if "File name:" in line)
+                    summary_line = next(line for line in chunk.split('\n') if "File summary:" in line)
+                    
+                    file_name = file_name_line.split("File name:")[1].strip()
+                    summary_text = summary_line.split("File summary:")[1].strip()
+                    file_summary_map[file_name] = summary_text
+                except StopIteration:
                     print(f"Warning: Skipping chunk due to formatting issues in file: {summary_file}")
 
-    return summary_data, summary_directory
+    return file_summary_map
 
 
-def build_vector_store_from_summaries(summary_data, embedding_model):
+def initialize_summary_vectorstore(file_summaries, embedding_model):
     """
-    Creates a Chroma vector store from provided summaries using the given embedding model.
-    Each Document object in the vector store includes the summary text and metadata with file name.
+    Initializes a Chroma vector store from provided summaries using the embedding model.
+    Each Document object in the vector store includes only the summary text.
     """
-    documents = []
-    summaries_text = list(summary_data.values())
-    file_names = list(summary_data.keys())
-    
-    # Generate embeddings for each summary in batch
-    summary_embeddings = embedding_model.embed_documents(summaries_text)
-    
-    # Create Document objects with file name metadata
-    for i, summary in enumerate(summaries_text):
-        doc = Document(page_content=summary, metadata={'source': file_names[i]})
-        documents.append(doc)
-    
-    # Create a Chroma vector store from the list of documents
-    summary_vector_store = Chroma.from_documents(documents=documents, embedding=embedding_model)
+    summary_documents = [Document(page_content=summary) for summary in file_summaries.values()]
+
+    # Create a Chroma vector store from the list of summary documents
+    summary_vector_store = Chroma.from_documents(documents=summary_documents, embedding=embedding_model)
     return summary_vector_store
 
 
-def retrieve_relevant_summaries(question, vector_retriever, top_n=TOP_N):
+def retrieve_closest_filenames(user_question, summary_retriever, summary_map, top_n=RETRIEVAL_TOP_N):
     """
-    Retrieves the closest summaries based on the user's question using the Chroma retriever.
-    Ensures that only unique file names are returned. If there aren't enough unique results,
-    it keeps searching until it finds `top_n` unique results, up to a maximum of 5 iterations.
+    Finds the closest summaries based on the user's question using the vector retriever.
+    Ensures that only unique file names are returned.
     """
-    unique_files = []
+    retrieved_filenames = []
     seen_files = set()
-    retry_count = 0  # Limit retries to avoid infinite loops
+    retries = 0
 
-    while len(unique_files) < top_n and retry_count < 5:
-        # Obtain relevant documents from retriever
-        results = vector_retriever.invoke(question)
+    while len(retrieved_filenames) < top_n and retries < 5:
+        results = summary_retriever.invoke(user_question)
+        
+        if results is None:
+            print(f"No results retrieved for question: {user_question}")
+            break
 
         for result in results:
-            file_name = result.metadata['source']
+            summary_content = result.page_content
+            file_name = next((name for name, summary in summary_map.items() if summary == summary_content), None)
             
-            # Only add unique file names
-            if file_name not in seen_files:
-                unique_files.append(file_name)
+            if file_name and file_name not in seen_files:
+                retrieved_filenames.append(file_name)
                 seen_files.add(file_name)
             
-            # Stop if we have enough unique results
-            if len(unique_files) >= top_n:
+            if len(retrieved_filenames) >= top_n:
                 break
-        
-        retry_count += 1
 
-    print(f"==========   NUMBER OF DOCUMENTS RETRIEVED: {len(unique_files)}   ==========")
+        retries += 1
 
-    # Warn if fewer than desired unique results were found
-    if len(unique_files) < top_n:
-        print(f"Warning: Only {len(unique_files)} unique results were found after {retry_count} iterations.")
+    print(f"========== NUMBER OF DOCUMENTS RETRIEVED: {len(retrieved_filenames)} ==========")
+    if len(retrieved_filenames) < top_n:
+        print(f"Warning: Only {len(retrieved_filenames)} unique results were found after {retries} iterations.")
 
-    return unique_files
+    return retrieved_filenames
 
 
-def load_documents_by_name(file_names, document_directory):
+def load_original_docs_by_filenames(file_names, doc_directory):
     """
-    Loads original documents based on a list of file names and a directory path.
-    Returns a list of Document objects with content and source metadata.
+    Loads original .txt documents based on a list of file names within a specified directory.
+    Returns a list of Document objects with content.
     """
-    documents = []
+    loaded_documents = []
     for file_name in file_names:
-        # Construct the full path for each file in the specified directory
-        file_path = os.path.join(document_directory, file_name)
+        # Construct the file path based on the file name and doc directory
+        file_path = next((os.path.join(root, file_name) for root, _, files in os.walk(doc_directory) if file_name in files), None)
         
-        if not os.path.exists(file_path):
+        if file_path and os.path.exists(file_path):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                loaded_documents.append(Document(page_content=content))
+            except Exception as e:
+                print(f"Error loading document from {file_name}: {e}")
+        else:
             print(f"Original document not found for file: {file_name}")
-            continue
-        
-        try:
-            with open(file_path, 'r') as f:
-                content = f.read()
-            documents.append(Document(page_content=content, metadata={'source': file_name}))
-        except FileNotFoundError:
-            print(f"Original document not found for file: {file_name}")
-        except Exception as e:
-            print(f"Error loading document from {file_name}: {e}")
-    
-    return documents
+
+    return loaded_documents
 
 
-def generate_vector_store_with_chunking(question, model, data_directory, embedding_model):
+def generate_final_vectorstore_with_chunks(user_question, doc_directory, embedding_model):
     """
-    Generates a Chroma vector store by loading summaries, finding relevant summaries using Chroma retriever,
-    retrieving original documents, and applying semantic chunking to the content for better retrieval performance.
+    Generates a Chroma vector store by loading summaries, retrieving relevant summaries,
+    loading original documents, and applying semantic chunking for enhanced retrieval.
     """
-    # Load summaries based on the question and model specifics
-    #summary_data, category = parse_summary_files(get_specific_directory(question, model, data_directory))
-    summary_data, category = parse_summary_files(data_directory)
+    # Load summaries from _summary.txt files
+    file_summaries = extract_summaries_from_files(doc_directory)
     
-    # Build a Chroma vector store from summaries
-    summary_vector_store = build_vector_store_from_summaries(summary_data, embedding_model)
+    # Create a Chroma vector store from the summaries
+    summary_vectorstore = initialize_summary_vectorstore(file_summaries, embedding_model)
     
-    # Create a retriever from the Chroma vector store
-    vector_retriever = summary_vector_store.as_retriever(search_kwargs={"k": TOP_N})
+    # Create a retriever from the summary vector store
+    summary_retriever = summary_vectorstore.as_retriever(search_kwargs={"k": RETRIEVAL_TOP_N})
     
-    # Retrieve the most relevant summaries
-    closest_files = retrieve_relevant_summaries(question, vector_retriever, top_n=TOP_N)
+    # Retrieve the closest summaries and get corresponding file names
+    closest_file_names = retrieve_closest_filenames(user_question, summary_retriever, file_summaries, top_n=RETRIEVAL_TOP_N)
     
-    # Clear the summary vector store to free up memory
-    summary_vector_store.delete_collection()
+    # Clear the summary vector store after retrieval
+    summary_vectorstore.delete_collection()
     
-    # Load the original documents referenced in the closest summaries
-    documents = load_documents_by_name(closest_files, data_directory)
-    print(f"==========   {len(documents)} DOCUMENTS SUCCESSFULLY LOADED FROM DATA  ==========")
+    # Load the original documents using the retrieved file names
+    original_documents = load_original_docs_by_filenames(closest_file_names, doc_directory)
+    print(f"========== {len(original_documents)} DOCUMENTS SUCCESSFULLY LOADED ==========")
 
-    print("==========   SEMANTIC CHUNKING WORKING  ==========")
+    print("========== SEMANTIC CHUNKING IN PROGRESS ==========")
     
-    # Apply semantic chunking to the loaded documents for better retrieval granularity
-    text_splitter = SemanticChunker(embedding_model)
+    # Apply semantic chunking to split the documents for better retrieval granularity
+    semantic_splitter = SemanticChunker(embedding_model)
+    document_chunks = []
+    for doc in original_documents:
+        split_chunks = semantic_splitter.create_documents([doc.page_content])
+        document_chunks.extend(split_chunks)
+    print(f"========== TOTAL CHUNKS CREATED: {len(document_chunks)} ==========")
+
+    # Create a final vector store from the document chunks
+    final_chunked_vectorstore = Chroma.from_documents(documents=document_chunks, embedding=embedding_model)
+    print("========== FINAL VECTOR STORE WITH CHUNKS CREATED ==========")
     
-    # Chunk each document and store in a list
-    chunks = []
-    for doc in documents:
-        split_chunks = text_splitter.create_documents([doc.page_content])  # Break document into smaller chunks
-        for chunk in split_chunks:
-            chunk.metadata = doc.metadata  # Preserve metadata in each chunk
-        chunks.extend(split_chunks)
-    print(f"==========   CHUNKS CREATED: {len(chunks)}  ==========")
+    return final_chunked_vectorstore
 
-    # Create a vector store from the chunks
-    chunked_vector_store = Chroma.from_documents(documents=chunks, embedding=embedding_model)
-    print("==========   VECTOR STORE CREATED  ==========")
+def generate_final_vectorstore_with_character_splitter(user_question, doc_directory, embedding_model):
+    """
+    Generates a Chroma vector store by loading summaries, retrieving relevant summaries,
+    loading original documents, and applying semantic chunking for enhanced retrieval.
+    """
+    # Load summaries from _summary.txt files
+    file_summaries = extract_summaries_from_files(doc_directory)
     
-    return chunked_vector_store
+    # Create a Chroma vector store from the summaries
+    summary_vectorstore = initialize_summary_vectorstore(file_summaries, embedding_model)
+    
+    # Create a retriever from the summary vector store
+    summary_retriever = summary_vectorstore.as_retriever(search_kwargs={"k": RETRIEVAL_TOP_N})
+    
+    # Retrieve the closest summaries and get corresponding file names
+    closest_file_names = retrieve_closest_filenames(user_question, summary_retriever, file_summaries, top_n=RETRIEVAL_TOP_N)
+    
+    # Clear the summary vector store after retrieval
+    summary_vectorstore.delete_collection()
+    
+    # Load the original documents using the retrieved file names
+    original_documents = load_original_docs_by_filenames(closest_file_names, doc_directory)
+    print(f"========== {len(original_documents)} DOCUMENTS SUCCESSFULLY LOADED ==========")
 
+    print("========== CHARACTER SPLITTING IN PROGRESS ==========")
+    
+    # Character splitting without separator
+    text_splitter = CharacterTextSplitter(
+        separator='',
+        chunk_size=500,
+        chunk_overlap=50,
+    )
+    
+    document_chunks = []
+    for doc in original_documents:
+        split_chunks = text_splitter.create_documents([doc.page_content])
+        document_chunks.extend(split_chunks)
+    print(f"========== TOTAL CHUNKS CREATED: {len(document_chunks)} ==========")
 
+    # Create a final vector store from the document chunks
+    final_chunked_vectorstore = Chroma.from_documents(documents=document_chunks, embedding=embedding_model)
+    print("========== FINAL VECTOR STORE WITH CHUNKS CREATED ==========")
+    
+    return final_chunked_vectorstore
 
 #================================== USE FILE PATH =====================================
 
