@@ -1,0 +1,16 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/warnmeldung-aufruf-konfigurationsseite
+
+Question: Warum erhalte ich eine Zertifikats-Warnmeldung beim Aufruf der Konfigurations-Seite?
+Answer: Zertifikatsfehler beim Aufruf der Speedport-Konfigurationsoberfläche
+In der Vergangenheit wurde ein spezielles Sicherheitszertifikat in die unten aufgeführten Speedports zur besseren Zugriffssicherung während der Passwort-Eingabe über eine kabellose Verbindung im Heimnetz (WLAN) eingebaut.
+Für die Eingabe über kabelgebundene Anbindung hat das Zertifikat keine Relevanz. Mit Verbesserung der WLAN-Verschlüsselung ist dieses Zerfifikat nicht mehr notwendig. Das bedeutet, es gab und gibt hier keine Gefährdung der Sicherheit.Aktuellere Speedports (z. B. Speedport W 724V) arbeiten mittlerweile nicht mehr mit diesen Zertifikaten.
+Beim Aufruf der Speedport-Konfigurationsoberfläche über "speedport.ip"oder "http://192.168.2.1" erscheint seit dem 20.12.2014 bei den unten aufgeführten Speedport-Typen eine Meldung, dass ein Problem mit dem Sicherheits-Zertifikat der Webseite besteht. Der Hinweis lautet: "Speedport.ip verwendet ein ungültiges Sicherheitszertifikat."
+Die Meldung besagt lediglich, dass die Gültigkeit des Sicherheitszertifikates dieser Seite abgelaufen ist (Zertifikat war bis zum 20.12.2014 zeitlich begrenzt und wird nicht mehr benötigt).
+Ab dem 20.12.2014 sind folgende Geräte betroffen:
+Um die Konfigurationsoberfläche dennoch nutzen zu können, kann diese Meldung übergangen werden.
+
+• Speedport W 723V Typ A
+• Speedport W 723V Typ B
+• Speedport W 921V
+• Speedport W 921 Fiber
+

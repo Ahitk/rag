@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/anschluss-nicht-erreichbar
-
-Question: Warum kann ich auf meinem Festnetz-Anschluss nicht mehr angerufen werden?
-Answer: Wenn Sie über Ihr Festnetz-Telefon nicht mehr erreichbar sind und auch nicht nach außen telefonieren können, kann das an Ihrer Leitung, Ihrem Router oder am Telefon selbst liegen. Zur Fehlerbehebung führen Sie bitte die folgenden Schritte durch:
-Internet-Verbindung prüfenTesten Sie zuerst, ob Sie ins Internet kommen, z. B. indem Sie über Ihren Browser eine Webseite aufrufen. Funktioniert das problemlos, ist zumindest Ihre Leitung in Ordnung. Klappt das nicht, nutzen Sie unsereHilfe bei Störungen.
-Router prüfenTrennen Sie Ihren Router für ca. 5 Minuten vom Strom und schalten Sie ihn danach wieder ein. Dadurch wird die Verbindung zu unserem Netz neu aufgebaut und Probleme mit der Telefonie sind in den meisten Fällen behoben.
-Telefon prüfenWenn Sie ein zweites Festnetz-Telefon besitzen, stecken Sie dieses bitte in die entsprechende Buchse am Router und testen Sie die Telefonie. So können Sie einen Defekt Ihres Geräts ausschließen.
-Falls alle diese Schritte das Problem nicht lösen, dann führen Sie bitte unsereLeitungsprüfungdurch.
-

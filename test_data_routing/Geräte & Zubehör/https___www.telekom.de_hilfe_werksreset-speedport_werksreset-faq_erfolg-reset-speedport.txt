@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/erfolg-reset-speedport
+
+Question: Woran erkenne ich, dass das Zurücksetzen auf Werkseinstellungen und die Einrichtung funktioniert hat?
+Answer: Sie erkennen das erfolgreiche Zurücksetzen, wenn die Leuchtanzeigen „Status“ und „Link“ dauerhaft leuchten (Beispiel Speedport Smart 3). An anderen Geräten leuchtet z. B. die „Online“-LED.Bitte beachten Sie, dass es bis zu 10 Minuten nach Start des Zurücksetzens dauern kann, bis Ihr Router wieder betriebsbereit ist.
+

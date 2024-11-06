@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/Rollladensteuerung-bei-Sonnenuntergang-o-F/td-p/6977280/jump-to/first-unread-message
+Subject: Rollladensteuerung bei Sonnenuntergang o. F.
+Content: Meine Rollladen gehen bei Sonnenuntergang nicht mehr runter. Was mache ich falsch? Habe ich einen Denkfehler? Siehe Foto.
+
+Accepted Solutions:
+- @Dee22, ich denke auch, es liegt am Zeitintervall. Stell mal als Ende Sonnenuntergang + 1 Minute ein.
+- @Dee22, ich denke auch, es liegt am Zeitintervall. Stell mal als Ende Sonnenuntergang + 1 Minute ein.

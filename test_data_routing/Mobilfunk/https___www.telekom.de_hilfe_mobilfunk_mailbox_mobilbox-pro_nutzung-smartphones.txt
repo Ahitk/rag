@@ -1,0 +1,7 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mailbox/mobilbox-pro/nutzung-smartphones
+
+Question: Mit welchen Smartphones kann ich die Mobilbox Pro nutzen?
+Answer: Auf allen Smartphones, die aktuell von der Telekom vertrieben werden (Ausnahme: Apple-Geräte) ist Mobilbox Pro bereits für Sie eingerichtet.
+Auf Android Geräten finden Sie Ihre Mobilbox Pro Nachrichten in der Voicemail App. Ist Voicemail auf Ihrem Android Smartphone noch nicht vorinstalliert, können Sie dieApp aus dem Google Play Store herunterladen.
+Aktivieren Sie den Service, indem Sie eine kostenlose SMS mit dem Text "MBP" an die Kurzwahl 3011 senden.
+

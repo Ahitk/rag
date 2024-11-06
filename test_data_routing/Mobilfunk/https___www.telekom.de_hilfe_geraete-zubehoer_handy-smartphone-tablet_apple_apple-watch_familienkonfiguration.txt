@@ -1,0 +1,23 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/apple-watch/familienkonfiguration
+
+Question: Welche Vorteile bietet die neue Familienkonfiguration?
+Answer: Durch die Einführung der neuen Familienkonfiguration und optimierten Funktionen für Kinder und ältere Menschen kann die Apple Watch nun auch über das iPhone eines Elternteils eingerichtet werden. So können Kinder über Anrufe und Nachrichten mit ihrer Familie und ihren Freunden in Verbindung bleiben.
+
+Question: Was sind die Vorraussetzungen für die Nutzung?
+Answer: Voraussetzungen für die Nutzung der Apple Watch Familienkonfiguration sind:
+Wenn Sie beides haben, können Sie mit der Einrichtung Ihres Familienmitglieds über die Watch App auf Ihrem iPhone beginnen.
+• ein iPhone 6s oder neuer mit iOS 14 und
+• eine Cellular Variante der Apple Watch ab Series 4 oder SE mit watchOS7.
+
+Question: Welche Funktionen hat die neue Familienkonfiguration?
+Answer: Die Familienkonfiguration ermöglicht es der ganzen Familie, von den wichtigen Gesundheits- und Sicherheitsfunktionen der Apple Watch zu profitieren. Die Nutzung von Karten, Siri, Alarme und des App Stores sorgen für mehr Unabhängigkeit, ohne dass ein iPhone benötigt wird.
+Funktionen:
+• Telefon- und FaceTime-Audioanrufe tätigen
+• Senden und Empfangen von Nachrichten und E-Mails
+• Nachverfolgung von Zeitplänen und Familienereignissen im Kalender
+• vom iPhone synchronisierte Fotoalben ansehen
+• Standortanzeige und Notruf SOS
+• Lieblingssongs auf Apple Music hören (benötigt Bluetooth-Kopfhörer/Lautsprecher)
+• Siri um Antworten auf Fragen oder Sprachübersetzungen bitten
+• individuelle Memojis und vieles mehr
+

@@ -1,6 +1,0 @@
-Question:
-Basierend auf dem Transkript, könnte eine relevante Frage auf Deutsch lauten: "Könntest du mir bitte erklären, wie man die WLAN-Teilen-Funktion in der Magenta-App benutzt?"
-
-Answer:
-Schöne Treffpunkt hier. Jemand hat nach dem WLAN-Passwort gefragt, konnte aber den Zettel dafür nicht finden. Ein anderer hat vorgeschlagen, das WLAN-Passwort einfach über die WLAN-Teilenfunktion des Handys weiterzugeben, insbesondere wenn der Nutzer ein iPhone besitzt. Dies kann durch die Magenta-App erreicht werden, indem man zu "Zuhause" geht und dann auf "WLAN-Teilen" klickt. Die Person, die das Passwort gesucht hatte, bedankte sich und freut sich darauf, diese Funktion später auszuprobieren. Es wurde jedoch angemerkt, dass es eine Stunde dauerte, um einen QR-Code zu generieren.
-

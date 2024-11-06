@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/allgemein/iphone-aktivierung
+
+Question: Wie erfolgt die Aktivierung des iPhone?
+Answer: Für die Aktivierung des iPhone benötigen Sie die aktuelle iTunes Version auf einem PC oder Mac, einen iTunes-Account sowie Internetanschluss.Die iTunes-Software erhalten Sie unterwww.apple.com/de/itunes. Anschließend verbinden Sie Ihr Gerät mit dem Computer und starten die Aktivierung.
+

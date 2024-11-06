@@ -1,0 +1,10 @@
+Source URL: https://www.telekom.de/hilfe/tv/inhalte/rtlplus/kompatible-geraete
+
+Question: Über welche Geräte kann ich RTL+ schauen?
+Answer: Die RTL+ App können Sie über folgende Geräte nutzen:
+• MagentaTV One, MagentaTV Stick, MagentaTV Box, Media Receiver 401/201 und Media Receiver 601 Sat
+• Smartphone/Tablet (Android/iOS)
+• Google Chromecast
+• Amazon Fire TV und Apple TV
+• Smart TVs von Samsung (ab Baujahr 2017) und Android TV von Sony und Philips (ab Android OS Version 7)
+

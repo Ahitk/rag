@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/smart-home-und-philips-hue/philips-hue-bridge-erste-generation-weitere-nutzung
+
+Question: Kann ich weiterhin meine Philips Hue Bridge der ersten Generation für Magenta SmartHome verwenden?
+Answer: Zum 30. April 2020 endet der Support seitens Philips für die Hue Bridge V1 (runde Version).
+Sollten Sie diese bereits nutzen, kann sie zum gegenwärtigen Zeitpunkt auch weiterhin für Magenta SmartHome verwendet werden. Das Anlernen neuer Hue Leuchten ist ebenfalls zunächst noch möglich.
+Weil aber gerade internetfähige Geräte kontinuierlich weiterentwickelt werden, ist davon auszugehen, dass die Hue Bridge V1 mittelfristig nicht mehr mit Ihrem SmartHome-System kompatibel sein wird.
+Wir empfehlen deshalb, nur noch das Nachfolgemodell der Hue Bridge (eckige Version) für Magenta SmartHome zu nutzen.
+

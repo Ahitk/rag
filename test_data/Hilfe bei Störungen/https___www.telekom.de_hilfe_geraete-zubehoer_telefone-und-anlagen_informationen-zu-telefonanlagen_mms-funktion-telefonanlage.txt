@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/informationen-zu-telefonanlagen/mms-funktion-telefonanlage
-
-Question: Warum funktioniert MMS mit meinem Telefon/ meiner Telefonanlage nicht mehr?
-Answer: Der Dienst "MMS im Festnetz" wurde zum 31.12.2008 eingestellt.
-Deshalb können Sie mit Ihrem MMS-fähigen Telefon keine MMS mehr verschicken oder direkt empfangen.
-Sie können aber weiterhin MMS abrufen, die an Ihrem Anschluss eingehen:Sobald eine MMS an Ihrem Anschluss eingeht, erhalten Sie eine Sprachnachricht mit einer PIN.
-• Rufen Sie die Seite für den Abruf Ihrer MMS auf.
-• Geben Sie Ihre Rufnummer und die in der Sprachnachricht mitgeteilte PIN ein, um die MMS abzurufen.
-

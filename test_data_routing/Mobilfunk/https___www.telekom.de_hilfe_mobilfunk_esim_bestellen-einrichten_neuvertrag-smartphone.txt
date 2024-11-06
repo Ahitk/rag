@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/bestellen-einrichten/neuvertrag-smartphone
+
+Question: Warum habe ich keine SIM-Karte oder eSIM-Aktivierungscode zu meinem neuen Smartphone erhalten?
+Answer: Wenn Sie einen neuen MagentaMobil Vertrag mit Smartphone abgeschlossen haben, wird Ihr Gerät automatisch über "eSIM direct" mit Ihrem Mobilfunk-Profil verknüpft.
+Sie erhalten deshalb weder SIM-Karte noch eSIM QR-Code. Sobald das neue Smartphone eingerichtet ist und eine WLAN-Verbindung hergestellt ist, lädt sich das eSIM-Profil automatisch herunter.
+

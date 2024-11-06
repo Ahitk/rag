@@ -1,0 +1,195 @@
+The image contains information about the "Digitalisierungsbox BASIC," specifically for manual configuration with a "MagentaZuhause Regio" connection. Here’s a summary of the relevant details:
+
+- **Product**: Digitalisierungsbox BASIC
+- **Configuration Type**: Manual configuration
+- **Connection Type**: MagentaZuhause Regio
+- **Contact Information**: A hotline number is provided for assistance (0800 33 06807).
+- **Branding**: The product is associated with Telekom and features the Zyxel logo.
+
+For users needing help with setup or configuration, the hotline can provide support.
+The image provides instructions for setting up the "Digitalisierungsbox BASIC," a telecommunications device. Here’s a summary of the key information:
+
+### Setup Requirements
+- **Initial Setup**: Ensure all necessary connections are established before proceeding.
+- **Reference to Manual**: Consult the section on IP-based connections (Voice over IP) on page 8 of the accompanying quick start guide for detailed cabling instructions.
+
+### Important Notes
+- **Existing Connections**: If the Digitalisierungsbox BASIC is already connected to an existing setup or if initial settings have been made, reset the device to factory settings before configuring it for "MagentaZuhause Regio."
+- **Factory Reset Instructions**: For instructions on how to restore factory settings, refer to the chapter on "Delivery Condition" on page 15 of the quick start guide.
+
+### Visual Elements
+- The image also highlights the position of the reset button on the back of the device.
+
+This guide emphasizes the importance of following the outlined procedures to ensure a successful setup.
+The image provides instructions for accessing and configuring the "Digitalisierungsbox BASIC" (Digitalization Box BASIC) for telecommunication devices. Here’s a summary of the relevant information:
+
+### Accessing the User Interface:
+1. **Device Compatibility**: You can configure the Digitalisierungsbox BASIC using any device (e.g., computer, tablet) with an internet browser.
+  
+2. **Access URL**: To open the user interface, enter either:
+   - `http://speedport.ip`
+   - or the IP address `192.168.2.1` in the browser's address bar.
+
+### Login Credentials:
+- In the default state, use the following credentials to log in:
+  - **Username**: Found on the device label.
+  - **Password**: Also located on the device label.
+  
+### Device Details:
+- The device information is displayed on a label typically found on the back of the device, which includes:
+  - **Model Name**: Digitalisierungsbox BASIC
+  - **Serial Number**
+  - **Configuration URL**: `http://speedport.ip`
+  - **Default Username and Password**
+
+### WLAN Information:
+- The wireless network details (SSID) are also listed:
+  - SSID for the 2.4 GHz network: ZYXEL-001
+  - SSID for the 5 GHz network: ZYXEL-001-5G
+  - **WLAN Password**: Displayed on the label.
+
+### Instructions for Use:
+- After entering the username and password, click on the login button (Anmelden) to access the configuration options.
+
+This information will assist users in setting up and accessing their Digitalisierungsbox BASIC easily.
+The image contains instructions for setting up a telecommunications device, specifically a digitalization box. Here’s a summary of the relevant information:
+
+### Starting the Setup Assistant
+
+1. **Automatic Opening**: After performing a factory reset, the setup assistant opens automatically.
+2. **Manual Launch**: If it does not start automatically, access it from the main menu on the left side of the interface.
+
+### Overview of Steps
+
+- The setup assistant will provide an overview of the steps required to set up your device, which include:
+  - **Start of the Setup Assistant**
+  - **Internet Configuration**
+  - **Telephony Configuration**
+  - **Summary**
+
+### Instructions for Configuration
+
+- On the initial page, no input is required; simply click the **"Weiter" (Next)** button to proceed.
+- On the following page (Step 2), you will need to:
+  - **Uncheck** the box labeled **"Automatische Konfiguration aktivieren" (Activate Automatic Configuration)** if you prefer to set up internet and telephony data manually.
+  - Confirm your choice by clicking **"Weiter" (Next)**.
+
+This process is aimed at helping users manually configure their telecommunication devices post-reset if they do not want to rely on the automatic settings.
+The image contains instructions for configuring internet access for a Telekom device, specifically the "Digitalisierungsbox BASIC." Here’s a summary of the relevant information:
+
+### Steps to Enter Internet Access Data
+
+1. **Provider Selection**:
+   - Choose "Telekom Zuhause Start" as the provider.
+
+2. **Entering Access Data**:
+   - **Username**: In the "Zugangsname" field, enter your internet username (example: `13370815`).
+   - **Password**: Enter your contract password in both the "Passwort" and "Passwordbestätigung" fields.
+
+3. **Proceed**:
+   - Click the "Weiter" button to continue.
+
+### Additional Information:
+- The setup is part of Step 3 in the configuration process for the internet connection.
+- There may be a return button for going back or options to skip if necessary.
+
+This step is crucial for finalizing the internet connection setup for the device.
+The image provides instructions for configuring telecommunication access data, specifically for VoIP (Voice over Internet Protocol) setup. Here’s a summary of the key details:
+
+### Instructions for Configuring Telephony Access Data:
+
+1. **Step 4: Configuration of Telephony**
+   - Select the option **"Sonstiger Anbieter"** (Other Provider) as your VoIP provider.
+   - Enter **tel.zuhause.de** as the account domain.
+
+2. **VoIP Phone Numbers Section:**
+   - You need to provide at least one phone number associated with your Magenta Zuhause regional connection (including area code).
+   - The format for the authentication name is:
+     - **rufnummer@zuhause.start.de** (e.g., 035937133708515@zuhause.start.de)
+   
+3. **Password Entry:**
+   - Enter your contract password, which is the same as your Internet password mentioned in **Step 5**.
+
+### Additional Notes:
+- You can assign up to 10 phone numbers.
+- The system will automatically assign available ISDN interfaces based on your configuration type (MSN-based IP telephony may be used for specific setups).
+- Users can add new phone numbers once the setup is complete.
+
+This information is useful for anyone setting up telecommunication devices related to VoIP services under the specified provider.
+The image provides instructions on how to set up additional phone numbers for a telecommunication product. Here’s a summary of the relevant information:
+
+### Instructions for Setting Up Additional Phone Numbers:
+
+1. **Adding a New Number**:
+   - Click on "Neue Rufnummer hinzufügen" (Add New Number) to start adding more numbers for your connection.
+
+2. **Steps to Follow**:
+   - Follow the steps outlined on page 6 for each additional phone number you wish to set up.
+
+3. **Entering the Phone Numbers**:
+   - After inputting all desired phone numbers, click the "Weiter" (Next) button to proceed.
+
+4. **VoIP Configuration**:
+   - You can receive up to 10 phone numbers from your VoIP service provider.
+   - Ensure to specify the service provider and required information such as:
+     - Provider Name
+     - Account Domain
+     - Type of VoIP Number (e.g., MSN-based IP telephony)
+     - Authentication Number 
+     - Password (optional)
+
+5. **WLAN Configuration**:
+   - Following the phone number setup, you have the option to configure WLAN settings according to your preferences or skip this step.
+
+This summary outlines the main actions and considerations for setting up additional phone numbers in a telecommunications system.
+The image contains instructions and information regarding the setup of a "Digitalisierungsbox BASIC" related to a MagentaZuhause Regio connection. Here’s a summary of the relevant details:
+
+### Summary and Instructions:
+
+- **Completion of Setup**: The installation of your MagentaZuhause Regio connection is completed, providing an overview of the setup.
+
+- **Finalization**: To finalize the setup, click on the button labeled **Übernehmen** ("Take over"). This action will complete the installation and direct you to the overview page.
+
+- **Further Configurations**: 
+  - If you wish to make additional settings on your Digitalisierungsbox BASIC, please refer to the quick start guide or the comprehensive manual available in the main menu under the respective section.
+
+### Key Information in the Overview:
+- **Connection Summary**:
+  - Connection details are summarized, with a recommendation to verify and correct any provided information before confirmation.
+  
+- **Connection Status**:
+  - The connection was not carried out successfully.
+  - Automatic configuration with your provider has not been activated.
+
+- **Internet Access Data**:
+  - **Access Name**: 13370815@mzregio.de
+  - **Phone Number**: 035797 133708515
+
+- **WLAN Information**:
+  - **Frequency Bands**: 
+    - **2.4 GHz**: Enabled
+      - SSID: ZYXEL-180
+      - Encryption: WPA2
+    - **5 GHz**: Enabled
+      - SSID: ZYXEL-180-5G
+      - Encryption: WPA2
+
+This information provides essential guidance for ensuring proper configuration and troubleshooting in case of issues.
+The image contains troubleshooting instructions for setting up telecommunications devices, specifically the "Digitalisierungsbox BASIC." Here’s a summary of the important points:
+
+1. **Initial Checks**: 
+   - Ensure all LAN cables are connected properly.
+   - Confirm that the Digitalisierungsbox BASIC is plugged into a power source.
+   - Verify that the WLAN is activated on all relevant devices.
+   - Make sure that the correct WLAN key is being used.
+
+2. **Data Entry**:
+   - Check that all necessary data (such as usernames, passwords, and phone numbers) is entered fully and correctly.
+
+3. **If Issues Persist**:
+   - If everything seems correct but the device still doesn’t function, reset the Digitalisierungsbox BASIC to factory settings and attempt the setup again.
+
+4. **Contact Information**:
+   - For further assistance, contact the MagentaZuhause Regio hotline at 0800 33 06807.
+
+The instructions emphasize methodical checks to resolve any setup issues.

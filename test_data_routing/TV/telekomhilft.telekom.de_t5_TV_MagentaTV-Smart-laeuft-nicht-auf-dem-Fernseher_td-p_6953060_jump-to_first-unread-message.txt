@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/TV/MagentaTV-Smart-laeuft-nicht-auf-dem-Fernseher/td-p/6953060/jump-to/first-unread-message
+Subject: MagentaTV Smart läuft nicht auf dem Fernseher
+Content: Ein Bekannter hat einen MagentaTV Smart-Vertrag abgeschlossen. Er hat nur diesen Vertrag (kein Telefon oder Internet)Beim Versuch Fernsehen auf dem Smart-TV zu übertragen, nach dem Login über Smartphone, kommt die Meldung, dass er einen Vertrag abschliessen soll. Oder, alternativ, die Hotline (08003301000) anrufen soll.😅Die 1000 geht nicht, da hier, zwingend, eine Rufnummer der Telekom gebraucht wird.Was kann man hier machen????
+
+Accepted Solutions:
+- @Thomsen1900nimmst du bei der MTV App auf dem TV den QR Code? Ist man dann auf dem verwendeten Smartphone eventuell schon mit anderen Daten automatisch eingeloggt? Versuch das mal anstatt dem QR Code mit einem PC/Laptop über die Seitewww.telekom.de/tv-login. Gib da dann den auf TV angezeigten Code ein und meldet sich mit den Zugangsdaten an.Für telefonische Unterstützung kannst Du Dich auch an 0800 544 6060 wenden
+- @Thomsen1900nimmst du bei der MTV App auf dem TV den QR Code? Ist man dann auf dem verwendeten Smartphone eventuell schon mit anderen Daten automatisch eingeloggt? Versuch das mal anstatt dem QR Code mit einem PC/Laptop über die Seitewww.telekom.de/tv-login. Gib da dann den auf TV angezeigten Code ein und meldet sich mit den Zugangsdaten an.Für telefonische Unterstützung kannst Du Dich auch an 0800 544 6060 wenden

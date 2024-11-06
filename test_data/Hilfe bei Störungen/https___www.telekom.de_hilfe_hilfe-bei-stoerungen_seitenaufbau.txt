@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/hilfe-bei-stoerungen/seitenaufbau
-
-Question: Warum ist der Seitenaufbau so langsam?
-Answer: Es gibt verschiedene Ursachen und entsprechende Lösungen, wenn Internet-Seiten langsam geladen werden. Dies sind die häufigsten:
-Cache des Browsers ist vollLöschen Sie den Zwischenspeicher (Cache) Ihres Internet-Browsers. Sie finden diese Funktion abhängig vom genutzten Browser in den Einstellungen.
-Technische Probleme des GerätsGenerell kann ein Neustart aller verwendeten Geräte (z. B. Router, Smartphone, Laptop/PC) eine Vielzahl von Problemen beheben. Stellen Sie sicher, dass die Firmware bzw. das Betriebssystem der Geräte und der verwendete Browser auf dem aktuellsten Stand sind.
-Probleme mit der VerbindungUm ausschließen zu können, dass eine Leitungsstörung vorliegt, schalten Sie das WLAN einmal aus und rufen Sie die Seite über das Mobilfunk-Netz erneut auf. Bauen sich die Internet-Seiten jetzt wie gewohnt schnell auf, könnte eine Leitungsstörung die Ursache sein. Führen Sie in dem Fall eineLeitungsprüfungdurch.
-Sollte die Leitungsprüfung keine Auffälligkeiten aufweisen, könnte die Störquelle in Ihrem Heimnetz liegen. In diesem Falle empfehlen wir Ihnen unseren Heimnetz-Check über dieMeinMagenta App. Wählen Sie Ihren Vertrag aus und klicken anschließend unten auf "Heimnetz-Check". Damit können Sie Ihr Netzwerk Zuhause prüfen und bekommen direkt Tipps zur Verbesserung.
-

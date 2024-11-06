@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/passwort-unbekannt
-
-Question: Was kann ich tun, wenn ich mein Passwort für das E-Mail Center nicht kenne?
-Answer: Das Passwort für den E-Mail Center-Zugang ist das gleiche wie für Ihren Telekom Login. Sie haben Ihren Telekom Login vergessen? Über diesen Link können Sie dasPasswort "Wiederherstellen".
-

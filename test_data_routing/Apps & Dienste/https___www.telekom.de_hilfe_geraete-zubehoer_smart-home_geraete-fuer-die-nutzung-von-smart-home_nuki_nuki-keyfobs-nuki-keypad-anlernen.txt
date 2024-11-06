@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/nuki-keyfobs-nuki-keypad-anlernen
+
+Question: Können auch die Nuki Keyfobs und das Nuki Keypad direkt an Magenta SmartHome angelernt werden?
+Answer: Nein, die Geräte funktionieren nur direkt mit dem Nuki Smart Lock.
+Wird das Nuki Schloss aber über ein Keypad oder einen Keyfob (Bluetooth-Türöffner) bedient, so wird der Statusübergang an Magenta SmartHome gemeldet und angezeigt.Dadurch können sowohl Keypad als auch Keyfob als Auslöser in Regeln benutzt werden, wie zum Beispiel:
+WENN aufgeschlossen von Keyfob, DANN…
+WENN zugeschlossen von Keypad Code "123456", DANN…
+

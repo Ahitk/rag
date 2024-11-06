@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/MagentaCLOUD/MagentaCloud-Wo-kann-ich-einen-Bug-melden/td-p/6968360/jump-to/first-unread-message
+Subject: MagentaCloud - Wo kann ich einen Bug melden?
+Content: MagentaCloud - Wo kann icheinen Bug melden?Öffne ich die MagentaCloud über einen Browser ist es nicht möglich Dateien zu löschen, da die Funktion mir den Button Favoriten gleichzeitg markiert wird.
+
+Accepted Solutions:
+- okay, war derCache, sehr interessant.Danke für die Hilfe!
+- CookiesundCachebereits einmal geleert?
+- CookiesundCachebereits einmal geleert?
+- okay, war derCache, sehr interessant.Danke für die Hilfe!

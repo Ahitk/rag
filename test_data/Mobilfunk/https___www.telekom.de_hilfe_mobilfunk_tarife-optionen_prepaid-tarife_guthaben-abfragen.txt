@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/prepaid-tarife/guthaben-abfragen
-
-Question: Wie kann ich mein aktuelles Prepaid-Guthaben abfragen?
-Answer: Über folgende Wege können Sie einsehen, wie hoch das aktuelle Guthaben Ihrer Prepaid-Karte ist:
-• In derMein Magenta App
-• ImKundencenter
-• Per Steuercode (über die Tastenkombination *100#)
-• Telefonisch (über die Kurzwahl 2000)
-

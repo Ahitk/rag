@@ -1,0 +1,13 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/das-alarmsytem-von-smart-home/was-ist-der-haushueter
+
+Question: Was ist der Haushüter bei Magenta SmartHome?
+Answer: Sie nutzen SmartHome, befinden sich im Urlaub und zu Hause soll es aussehen als wären Sie daheim? Der Haushüter kümmert sich um die Sicherheit Ihres Zuhauses während Ihrer Abwesenheit.Mit SmartHome können Sie morgens die Rollläden hochfahren und nachts wieder herunterlassen oder abends Lichter im Haus einschalten. So ist immer was los und niemand glaubt, das Haus sei leer.
+Wie kann ich den Haushüter nutzen?Über Ihre Magenta SmartHome App nehmen Sie die Verwaltung des Haushüters vor. In den Einstellungen des Haushüters (Zahnrad) wählen Sie Ihre Geräte aus, mit denen der Haushüter Ihre Anwesenheit simuliert.
+
+Wie funktioniert der Haushüter?Schalten Sie Ihre Magenta SmartHome App auf abwesend, ist Ihr Haushüter aktiv.
+Dieser schaltet von Ihnen gewählte Geräte in einem oder mehreren Räumen in unregelmäßigen Abständen ein oder aus. Die Anwesenheitssimulation durch den Haushüter ist dabei in mehrere Tagesabschnitte unterteilt:
+MORGENS, MITTAGS, ABENDS, NACHTS.
+
+Wenn ein Simulationszeitpunkt verstrichen ist, wird der nächste angezeigt.
+Was passiert, wenn eine andere Aktion aktiv ist?Für den Fall, dass der Haushüter eine Schaltung vornehmen möchte, in dem Moment, wenn der Alarm aktiviert wird, wird die Schaltung der Lampe in den Status der letzten bekannten Farbe aktiviert und das Signal des Alarmsystems überlagert.
+

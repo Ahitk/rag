@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/puls-tablet/das-telekom-login-auf-dem-puls-tablet
-
-Question: Wie kann ich das Telekom Login auf dem Puls-Tablet einrichten oder löschen?
-Answer: Bitte gehen Sie für die Einrichtung in das Kundencenter Mobilfunk: Login/Registrierung Kundencenter Mobilfunk.Folgen Sie dann der Menüführung.
-Telekom Login auf dem Puls-Tablet löschen:Wenn Sie das Telekom Login nicht mehr nutzen möchten, können Sie es jederzeit aus dem Android Account Manager entfernen.Diesen finden Sie, wenn Sie auf dem Puls-Tablet diesem Weg folgen:
-

@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Smart-4-VPN-Client-aus-LAN-nicht-erreichbar/td-p/6971527/jump-to/first-unread-message
+Subject: Speedport Smart 4 - VPN Client aus LAN nicht erreichbar
+Content: Hallo in die Runde,ich kann erfolgreich mit meinem PC eine VPN-Verbindung zum Speedport Smart 4 aufbauen und im LAN agieren. Leider funktioniert der Weg zurück nicht. Wenn ich mit einem Gerät aus dem LAN auf den PC zugreifen will, der viaVPNverbunden ist, ist dieser nicht erreichbar. Nicht mal ein Ping ist möglich. Die IP-Adresse vom PC, der viaVPNverbunden ist, wird mir im Speedport in der Netzwerkübersicht auch nur ausgegraut angezeigt. Sind noch spezielle Konfigurationen im Speedport oder VPN-Client notwendig, um den Zugriff in diese Richtung zu ermöglichen? Die Suchfunktion hat mir bedauerlicherweise keine passenden Ergebnisse geliefert.Besten Dank schon mal.VGMax
+
+Accepted Solutions:
+- @MightyMaxOk, habe ich verstanden.Ändert aber nichts an der Tatsache, daß der "umgekehrte" Weg (Zugriff auf den Client) mit dem Smart4 nicht funktioniert.Hilft dir jetzt nicht weiter, aber mit meiner DB und einem ShrewSoft Client funktioniert das.
+- @MightyMaxOk, habe ich verstanden.Ändert aber nichts an der Tatsache, daß der "umgekehrte" Weg (Zugriff auf den Client) mit dem Smart4 nicht funktioniert.Hilft dir jetzt nicht weiter, aber mit meiner DB und einem ShrewSoft Client funktioniert das.

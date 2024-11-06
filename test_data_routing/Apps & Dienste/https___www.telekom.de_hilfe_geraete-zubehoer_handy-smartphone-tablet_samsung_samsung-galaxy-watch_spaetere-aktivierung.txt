@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/samsung/samsung-galaxy-watch/spaetere-aktivierung
+
+Question: Kann ich die Mobilfunkfunktion auch noch später aktivieren?
+Answer: Ja. Sie können die Mobilfunkfunktion einerseits direkt während des ersten Kopplungsprozesses zwischen der Watch und Ihrem Smartphone aktivieren.
+Wenn Sie die Mobilfunkfunktion erstspäteraktivieren möchten, können Sie das jederzeit mit der Samsung Galaxy Wearable App (Android) oder Samsung Galaxy Watch App (iOS) auf Ihrem Smartphone tun.
+

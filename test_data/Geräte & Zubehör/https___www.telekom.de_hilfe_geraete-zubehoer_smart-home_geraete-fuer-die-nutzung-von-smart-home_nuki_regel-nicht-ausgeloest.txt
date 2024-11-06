@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/regel-nicht-ausgeloest
-
-Question: Warum wird meine Regel in Magenta SmartHome nicht ausgelöst, wenn ich "Tür öffnen" über die Nuki App nutze?
-Answer: Eine Regel wird nur ausgelöst, wenn sich der Status in Magenta SmartHome ändert. Auch bei Verwendung der Nuki App für das Öffnen der Tür wird der Status "aufgeschlossen" gemeldet. Wird die Regel trotzdem nicht ausgeführt, so war die Tür bereits aufgeschlossen, so dass sich der Status in SmartHome nicht mehr geändert hat.
-Um sicherzugehen, dass eine Tür nicht versehentlich aufgeschlossen ist, können Sie in der Nuki App die AutoLock-Funktion aktivieren. Dadurch wird die Tür nach einer kurzen Wartezeit immer automatisch abgeschlossen. Sperrt AutoLock Ihre Tür ab, wird auch der Statusübergang von auf- zu abgeschlossen an SmartHome gemeldet. Das nächste "Tür öffnen" löst Ihre Regel dann wieder aus, weil sich der Status erneut in "aufgeschlossen" ändert.
-Tipp: Die Wartezeit für die AutoLock-Funktion können Sie selbst in der Nuki App einstellen. Hierfür ist ein Zeitraum zwischen 30 Sekunden und 30 Minuten möglich.
-

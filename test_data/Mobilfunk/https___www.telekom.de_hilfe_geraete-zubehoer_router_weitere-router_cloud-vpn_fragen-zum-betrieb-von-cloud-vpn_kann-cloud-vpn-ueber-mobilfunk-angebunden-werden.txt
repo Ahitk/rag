@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/kann-cloud-vpn-ueber-mobilfunk-angebunden-werden
-
-Question: Kann Cloud VPN über Mobilfunk angebunden werden?
-Answer: iPhones und iPads können über das Feature "Remote Access" eingebunden werden.
-Aktuell unterstützt  werden sie über den im iOS implementierten Cisco "Any Connect Client".
-Die Anbindung von Unternehmens-Standorten z. B. per LTE-Modem, wird momentan von Cloud VPN nicht unterstützt.
-

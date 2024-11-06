@@ -1,0 +1,18 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/kameranutzung/welches-passwort-bei-konfiguration-der-kamera
+
+Question: Welches Passwort muss ich für die Konfiguration der Kamera eingeben?
+Answer: Im Rahmen des Magenta SmartHome Einrichtungsassistenten wird das Administrator-Passwort der Kamerageprüft.Das Administrator-Passwort wird verwendet, um beispielsweise auf das Web-Interface der Kamera oder auf den Videostream zuzugreifen. Sollte die Kamera kein solches Passwort haben oder ein einfaches Standardpasswort wie zum Beispiel "admin" oder"1234" verwenden, dann wird im Einrichtungsassistenten das Setzen einessicheren Passwortes gefordert. Dies ist üblicherweise der Fall, wenn die Kamera im Werkszustand ist.Hinweis: Im Werkszustand ist bei derD-Link DCS-2132L,D-Link DCS-2330L,DCS-2670LundDCS-2530Lkein Passwort gesetzt.
+Verbinden Sie die Kamera über "Geräte hinzufügen" mit Ihrem SmartHome und vergeben Sie sich ein Passwort. Dieses Passwort verwenden Sie anschließend für die Einstellungen oder Konfiguration Ihrer Kamera.
+Was passiert, wenn die Abfrage eines Passwortes während der Ersteinrichtung via Magenta SmartHome App erscheint?In diesem Falle wurde das Administrator-Passwort bereits von "kein Passwort" auf ein vom Nutzer neu vergebenes Passwort geändert. Die Kamera befindet sich nicht mehr im Werkszustand. Der Einrichtungsassistent der Magenta Smart Home App wird jetzt, anders als im oben beschriebenen Fall, die Eingabe des Administrator-Passwortes fordern. Hier muss nun genau das Passwort eingeben werden, welches auch im Web-Interface benutzt wird.Wie kann es dazu kommen, dass bei einer Kamera das Passwort bereits verändert wurde?
+Sie möchten Einstellungen in der Kamerakonfiguration über den WEB-Browser vornehmen und benötigen das Passwort?Die Benutzerkennung derD-Link Kamerasieht im Auslieferungszustand standardmäßig so aus:
+Die Benutzerkennung für eineBitron Video Kamerasieht im Auslieferungszustand standardmäßig so aus:
+Vergeben Sie nach der ersten Anmeldung über die Eingabe der IP-Adresse der Kamera in der URL-Zeile des Browsers ein Passwort. Dieses nutzen Sie auch für die Verbindung Ihrer Kamera im SmartHome-System.
+• Sie haben sich bereits via Web-Interface (192.168.X.X) bei der Kamera angemeldet. Das Web-Interface von D-Link ist so aufgebaut, dass beim ersten Login der Nutzer dazu aufgefordert wird, ein sicheres Administrator-Passwort zu vergeben.
+• Sie haben bereits die myDLink App benutzt und wurden dort aufgefordert das Administrator-Passwort zu ändern.
+• Die Kamera war bereits bei Magenta SmartHome angemeldet und ist schon einmal via Einrichtungsassistent eingerichtet. In diesem Fall wurde das Passwort durch die Magenta SmartHome App/Qivicon geändert.
+• Das Gerät ist kein Neugerät und die Kamera befindet sich nicht im Werkszustand.
+• Nutzername: admin
+• Passwort: Feld leer lassen
+• Benutzername: admin
+• Passwort: admin
+

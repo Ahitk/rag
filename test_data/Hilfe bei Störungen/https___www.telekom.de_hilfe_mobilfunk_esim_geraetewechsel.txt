@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/geraetewechsel
-
-Question: Wie kann ich mein neues Gerät mit der eSIM-Übertragung einrichten?
-Answer: Schalten Sie beide Geräte ein und verbinden diese mit Ihrem WLAN.
-

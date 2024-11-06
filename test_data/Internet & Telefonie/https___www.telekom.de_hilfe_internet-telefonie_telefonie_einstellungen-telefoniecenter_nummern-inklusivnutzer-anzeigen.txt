@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/nummern-inklusivnutzer-anzeigen
-
-Question: Wo finde ich im Telefoniecenter die Rufnummer, die einem Inklusivnutzer zugeordnet ist?
-Answer: Melden Sie sich mit Ihrem Telekom Login als Hauptnutzer imTelefoniecenteran. Wenn Sie oben rechts auf "Nutzer" klicken, werden Ihnen die Inklusivnutzer angezeigt. Per Klick auf den gewünschten Nutzer erscheinen die zugeordneten Rufnummern.
-

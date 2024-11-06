@@ -1,6 +1,0 @@
-Question:
-Was sind die Voraussetzungen für die Einrichtung einer Client-to-Site VPN Verbindung mit Hilfe des Bintex Secure IPsack Clients?
-
-Answer:
-In diesem Digitalisierungspox 2 Video wird die Einrichtung einer Client-to-Site VPN Verbindung mittels des Bintex Secure IPsack Clients auf Windows Betriebssystemen erläutert. Für eine erfolgreiche Einrichtung benötigt der Internetanschluss eine öffentliche IPv4-Adresse. Entweder eine statische oder eine dynamische IP-Adresse ist möglich. Nach Erfüllung der Voraussetzungen kann die VPN-Konfiguration beginnen, einschließlich der ID und Passworteingabe. Zusätzlich wird ein IP-Adressbereich angegeben, der nicht schon verwendet wird. Nach Abschluss dieser Schritte wird eine Konfigurationsdatei für den Bintex-Cure IP-Sackline erstellt und die öffentliche Gateware-Adresse der Digitalisierungssbox eingetragen. Anschließend wird die Konfigurationsdatei exportiert und gespeichert. Der VPN-Client von Bintex ist erhältlich und kann einfach heruntergeladen und installiert werden. Sobald die Software installiert und der PC neu gestartet ist, wird das neue VPN-Profil importiert und die VPN-Verbindung aktiviert. Die erfolgreiche Verbindung wird auch in der Digitalisierung-Box 2 angezeigt. Weitere Einstellungen sind nicht erforderlich.
-

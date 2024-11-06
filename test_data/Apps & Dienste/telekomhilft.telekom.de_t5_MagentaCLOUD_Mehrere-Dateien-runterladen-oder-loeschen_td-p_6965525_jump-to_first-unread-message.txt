@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/MagentaCLOUD/Mehrere-Dateien-runterladen-oder-loeschen/td-p/6965525/jump-to/first-unread-message
-Subject: Mehrere Dateien runterladen oder löschen
-Content: Moin zusammen,ich würde innerhalb der MagentaCloud gerne mehrere Dateien auf einmal runterladen und löschen.Leider finde ich diese Möglichkeit nicht, einzeln geht es, aber mehrere auf einmal nicht.Des weiteren steht bei mir neben dem Mülleimer-Symbol "Zu Favoriten hinzufügen", siehe Screenshot, Text passt, aber der Mülleimer nicht. Ich will löschen und keine Favoriten markieren.Jemand Tipps?Danke!Gruß Finntroll
-
-Accepted Solutions:
-- Lag am Browser, auf zweitem Rechner kein Problem mit Chrome ...
-- Lag am Browser, auf zweitem Rechner kein Problem mit Chrome ...

@@ -1,6 +1,0 @@
-Question:
-Haben Sie Schwierigkeiten mit Ihrer Internetverbindung und benötigen Hilfe, um eine Störung über die Magenta-App zu melden?
-
-Answer:
-"Haben Sie Probleme mit Ihrer Internetverbindung? Keine Sorge, Sie können ganz einfach eine Störung melden. Nutzen Sie dazu diesen Link oder die Mein Magenta-App. Loggen Sie sich mit Ihren Telekom-Daten ein und navigieren Sie zum Servicebereich. Wählen Sie über den Button 'Internet zu Hause' die ersten drei Schritte. In den meisten Fällen sollte dies das Problem beheben. Falls nicht, haben Sie die Möglichkeit, über die App eine Störung zu melden."
-

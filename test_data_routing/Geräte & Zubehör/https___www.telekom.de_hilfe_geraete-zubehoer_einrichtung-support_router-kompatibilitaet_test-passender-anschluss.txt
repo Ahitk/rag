@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/router-kompatibilitaet/test-passender-anschluss
+
+Question: Welcher Router passt zu welchem Anschluss?
+Answer: Hier können Sie prüfen, ob Ihr Router mit unseren Anschlüssen und Tarifen kompatibel ist. Den Modellnamen finden Sie auf der Rück- oder Unterseite Ihres Geräts.
+

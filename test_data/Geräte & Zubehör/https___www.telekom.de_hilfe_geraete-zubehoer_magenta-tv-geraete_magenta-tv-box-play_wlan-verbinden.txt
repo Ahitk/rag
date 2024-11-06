@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/wlan-verbinden
-
-Question: Wie verbinde ich meine MagentaTV Box (PLAY) mit dem WLAN?
-Answer: Drücken Sie die "+"-Taste (rechte Taste) auf der Vorderseite Ihrer MagentaTV Box (PLAY). Bei einigen Geräten muss die Taste zweimal oder länger gedrückt werden. Welche das betrifft, sehen Sie in unserem Ratgeber "MagentaTV Box (PLAY) WLAN-Probleme" im Bereich:Besonderheiten "WPS"-Taste bei einigen Routern.
-

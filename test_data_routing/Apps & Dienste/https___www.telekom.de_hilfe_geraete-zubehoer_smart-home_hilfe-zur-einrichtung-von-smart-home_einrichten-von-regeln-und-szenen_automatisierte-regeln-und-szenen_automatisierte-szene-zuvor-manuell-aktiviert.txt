@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-von-regeln-und-szenen/automatisierte-regeln-und-szenen/automatisierte-szene-zuvor-manuell-aktiviert
+
+Question: Was passiert, wenn eine automatisierte Szene zuvor bereits manuell aktiviert wurde?
+Answer: Nichts, denn die Szene ist bereits aktiv.
+Alle geschalteten Geräte bleiben in ihrem Schaltzustand, es findet die in der Szene festgelegte Verarbeitung am Szenenende statt.
+

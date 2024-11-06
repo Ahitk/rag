@@ -23,7 +23,7 @@ TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 MAX_TOKENS = 8192
 
 model = ChatOpenAI(model="gpt-4o-mini", api_key=OPENAI_API_KEY, max_tokens=MAX_TOKENS)
-embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
+embedding = OpenAIEmbeddings(model="text-embedding-3-large", api_key=OPENAI_API_KEY)
 
 # Available OpenAI models
 models = {
@@ -278,7 +278,6 @@ def create_summary(doc_content):
     return chain.invoke({"doc": doc_content})
 
 # Ana klasörün yolu (data klasörünün yolu)
-data_directory = '/Users/taha/Desktop/rag/data'
 
 def summarize(data_directory): 
     # data klasörü altındaki her bir ana klasör için işlem yapıyoruz
@@ -314,5 +313,46 @@ def summarize(data_directory):
                                 
                                 # Dosya yolunu ve özetini _summary.txt dosyasına yazıyoruz
                                 summary_file.write(f"\n=== Chunk ===\n[File path: {file_path}\nFile summary: {summary}]\n")
+                
+                print(f"{folder} klasörüne _summary.txt dosyası yazıldı.")
+
+                import os
+
+
+
+
+def summarize_with_filename(data_directory): 
+    # data klasörü altındaki her bir ana klasör için işlem yapıyoruz
+    for root, dirs, files in os.walk(data_directory):
+        if root == data_directory:
+            for folder in dirs:
+                folder_path = os.path.join(data_directory, folder)
+                
+                # _summary.txt dosyasının yolu
+                summary_file_path = os.path.join(folder_path, '_summary.txt')
+                
+                # Eğer _summary.txt zaten varsa bu klasörü atla
+                if os.path.exists(summary_file_path):
+                    print(f"{folder} klasöründe _summary.txt dosyası zaten mevcut, atlanıyor.")
+                    continue
+                
+                # _summary.txt dosyasını bu ana klasör içinde oluşturuyoruz
+                with open(summary_file_path, 'w') as summary_file:
+                    # Bu klasörün altındaki tüm dosyaları listelemek için tekrar os.walk kullanıyoruz
+                    for sub_root, sub_dirs, sub_files in os.walk(folder_path):
+                        for file_name in sub_files:
+                            if file_name != '_summary.txt' and file_name.endswith('.txt'):
+                                # Her txt dosyasının tam yolunu alıyoruz
+                                file_path = os.path.join(sub_root, file_name)
+                                
+                                # Dosyanın içeriğini okuyoruz
+                                with open(file_path, 'r', encoding='utf-8') as txt_file:
+                                    content = txt_file.read()
+                                
+                                # Belgeyi özetliyoruz
+                                summary = create_summary(content)
+                                
+                                # Dosya adını ve özetini _summary.txt dosyasına yazıyoruz
+                                summary_file.write(f"\n=== Chunk ===\n[File name: {file_name}\nFile summary: {summary}]\n")
                 
                 print(f"{folder} klasörüne _summary.txt dosyası yazıldı.")

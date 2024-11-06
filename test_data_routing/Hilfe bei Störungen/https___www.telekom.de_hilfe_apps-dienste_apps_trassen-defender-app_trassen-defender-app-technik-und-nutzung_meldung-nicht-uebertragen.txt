@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-technik-und-nutzung/meldung-nicht-uebertragen
+
+Question: Warum wird meine Störungsmeldung nicht übertragen?
+Answer: Das Versenden von Schadensmeldungen über die Trassen Defender App funktioniert nur bei bestehender Internetverbindung.Die App versucht, eine Stunde Ihre Meldung abzusetzen. Ist dies innerhalb dieses Zeitfensters nicht möglich, wechselt der Status der Schadensmeldung endgültig in "Fehlgeschlagen".
+Wenden Sie sich in diesem Fall bitte an dieHotline.
+

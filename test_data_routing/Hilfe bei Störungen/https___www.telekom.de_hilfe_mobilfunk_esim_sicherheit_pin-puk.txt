@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/sicherheit/pin-puk
+
+Question: Wo finde ich PIN und PUK meiner eSIM?
+Answer: Die eSIM selbst hat weder PIN noch PUK. Die Daten erhalten Sie erst, wenn Sie Ihrer eSIM ein eSIM-Profil zugewiesen haben. Beim postalischen Versand eines eSIM-Profils (auch Zugangsprofil genannt), erhalten Sie die PIN und den PUK in einem separaten Brief.
+Wenn Sie das eSIM-Profil per Download angefordert haben oder Sie den Brief nicht mehr finden, steht Ihnen der PUK im Kundencenter zur Verfügung.
+

@@ -1,0 +1,22 @@
+The document provides information about the "MagentaMobil XL Flex Young" mobile telecommunications plan from Telekom Deutschland GmbH. Here are the key details:
+
+### Product Overview
+- **Product Name**: MagentaMobil XL Flex Young
+- **Included Services**: Mobile connection for calls, SMS, and internet access.
+
+### Data Transfer Rates
+- **Download Speed**: Up to 300 MBit/s
+- **Upload Speed**: Up to 50 MBit/s
+- *Note*: These rates apply to domestic data traffic.
+
+### Contract Information
+- **Contract Duration**: No minimum contract duration.
+- **Cancellation Notice**: One month notice period required for cancellation.
+
+### Pricing
+- **Monthly Fee**: €74.95 (excluding hardware one-time fee).
+
+### Additional Links
+- More details on services and terms can be found on the Telekom website.
+
+This summary emphasizes the core features of the mobile plan, including speeds, pricing, and contract terms.

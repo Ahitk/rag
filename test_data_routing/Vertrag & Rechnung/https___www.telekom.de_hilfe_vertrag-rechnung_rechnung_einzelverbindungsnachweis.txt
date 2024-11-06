@@ -1,0 +1,8 @@
+Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/einzelverbindungsnachweis
+
+Question: Wo finde ich den Einzelverbindungsnachweis?
+Answer: Nachdem Sie Ihre Rechnung erhalten haben, können Sie innerhalb von 80 Tagen Ihren Einzelverbindungsnachweis (EVN) für Festnetz- und Mobilfunk-Anrufe im Kundencenter oder in der MeinMagenta App einsehen, herunterladen oder drucken.
+Hinweis:Flatrate-Verbindungen und Verbindungen zu bestimmten geschützten Organisationen (z. B. soziale Beratungsstellen) sind im EVN nicht aufgelistet.
+• KundencenterRechnung & Zahlung > Alle anzeigen > Klick auf den Pfeil des entsprechenden Vertrages > Ihre Rechnungen > Einzelverbindungsnachweis (PDF)
+• MeinMagenta AppZahlungen > Klick auf die Kachel des entsprechenden Vertrages > Ihre Dokumente
+

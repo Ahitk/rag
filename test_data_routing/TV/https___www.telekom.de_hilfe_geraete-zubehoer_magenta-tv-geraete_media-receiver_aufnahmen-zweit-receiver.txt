@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/media-receiver/aufnahmen-zweit-receiver
+
+Question: Warum kann ich mit dem MagentaTV Zweit-Receiver nicht auf meine Aufnahmen zugreifen?
+Answer: Wenn der Energie-Sparmodus auf Ihrem Haupt-Receiver aktiviert ist, können Sie über das Zweitgerät nicht auf die Aufnahmen zugreifen. Um den Energie-Sparmodus auf Ihrem Haupt-Gerät zu deaktivieren, gehen Sie je nach Modell wie folgt vor:
+Media Receiver 400:Menü > Einstellungen > Dieses Gerät > Stromsparmodus > Stand-by-Modus
+Media Receiver 401:Menü > Einstellungen > Media Receiver > Stromsparmodus > Stand-by oder Ruhezustand
+Hinweis:Wenn Sie einen Media Receiver 401 haben und einen Media Receiver 400/200 als Zweit-Gerät nutzen, ist der Zugriff auf die Aufnahmen des Media Receiver 401 nicht möglich.
+Media Receiver 601 SAT:Menü > Einstellungen > Geräte & System > Stromsparmodus > Stand-by oder Ruhezustand
+

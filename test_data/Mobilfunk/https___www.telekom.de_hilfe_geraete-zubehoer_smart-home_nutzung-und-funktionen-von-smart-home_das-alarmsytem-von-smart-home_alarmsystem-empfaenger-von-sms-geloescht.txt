@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/das-alarmsytem-von-smart-home/alarmsystem-empfaenger-von-sms-geloescht
-
-Question: Was bedeutet es, dass eine von mir eingegebene Mobilfunkrufnummer als Empfänger von SMS Benachrichtigungen im Alarmsystem gelöscht wurde?
-Answer: Das Smart Home System sieht vor, dass Alarmmeldungen als SMS Benachrichtigungen an bis zu drei Mobilfunknummern geschickt werden können. Bereits während der Eingabe werden diese überprüft, später findet eine tägliche Validierung statt. Bei nicht erfolgreichem Test wird die entsprechende Mobilfunknummer gelöscht und Sie erhalten eine Benachrichtigung hierüber.
-

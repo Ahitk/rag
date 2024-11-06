@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/informationen-zu-unseren-aktuellen-telefonen/gap-standard
-
-Question: Was ist der "GAP Standard"?
-Answer: GAP (Generic Access Profile) ist eine Technik in schnurlosen Telefonen, die es erlaubt, Telefone verschiedener Hersteller beliebig miteinander zu kombinieren.
-Telefone, die den "GAP Standard" unterstützen, lassen sich in jede GAP-kompatible Basis einbuchen.
-Hinweis!Am Sinus A 602 Touch können Sie lediglich Geräte der Sinus 602 Serie anmelden.
-Es kann generell nicht zugesichert werden, dass bei einer Kombination verschiedener Geräte, mit Ausnahme der Telefonie, sämtliche weitere Dienste funktionieren.
-

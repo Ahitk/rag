@@ -1,0 +1,12 @@
+Question:
+Wie kann man die Kalenderfunktion in der Digitalisierung Spox konfigurieren?
+
+Answer:
+In diesem Video wird demonstriert, wie man die Kalenderfunktion in der Digitalisierungsbox Premium konfiguriert. Zuerst wird das Einrichten der Tages- und Nachtfunktion erläutert. Diese Schaltung greift global und ihre Varianten werden in der umfassenden Konfiguration festgelegt. Sie dient dazu, den Betrieb des Systems zu spezifischen Tageszeiten zu steuern, z.B. indem Anrufe außerhalb der Geschäftszeiten an einen Nachtbetrieb umgeleitet werden. Individuelle Kalender können demgegenüber spezifisch für einzelne Dienste oder Abteilungen konfiguriert werden.
+
+Die Konfiguration der Tages- und Nachtfunktion beinhaltet die Festlegung von Umschaltzeiten für jeden einzelnen Tag. Feiertage können als Ausnahmen hinzugefügt werden. Das System ermöglicht Übernahme der Einstellungen auf andere Tage für eine effiziente Konfiguration. Die Konfiguration der Tages- und Nachtfunktion wird mit einem Klick auf "Ok" abgeschlossen.
+
+Dann wird erklärt, wie man spezielle Kalender erstellt und diese mit Teams verbindet. Dies geschieht durch das Festlegen von Umschaltzeiten für unterschiedliche Tage und eventuell das Berücksichtigen von Feiertagen. Ein spezifischer Kalender wird dann innerhalb eines Teams aktiviert, welches zuvor eigene Varianteinstellungen erhalten hat. Zum Schluss wird die Konfiguration gespeichert.
+
+Zusammenfassend zeigt das Video, wie man in der Digitalisierungsbox Premium die Tages- und Nachtfunktion sowie individuelle Kalender konfiguriert und ein Team mit einem solchen Kalender verknüpft.
+

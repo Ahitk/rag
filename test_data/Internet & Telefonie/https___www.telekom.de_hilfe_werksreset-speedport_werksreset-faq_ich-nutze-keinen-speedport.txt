@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/ich-nutze-keinen-speedport
-
-Question: Ich nutze keinen Speedport. Wie führe ich das Zurücksetzen auf Werkseinstellungen durch?
-Answer: Hier finden Sie die Übersicht aller Anleitungen, die wir Ihnen zur Verfügung stellen:
-Zur Auswahl der Anleitung
-Weitere Hilfen finden Sie in der Bedienungsanleitung Ihres Routers.
-

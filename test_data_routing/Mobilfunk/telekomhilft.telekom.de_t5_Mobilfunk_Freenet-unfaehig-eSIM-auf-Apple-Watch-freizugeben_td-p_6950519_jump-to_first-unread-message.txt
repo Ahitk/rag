@@ -1,0 +1,9 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Freenet-unfaehig-eSIM-auf-Apple-Watch-freizugeben/td-p/6950519/jump-to/first-unread-message
+Subject: Freenet unfähig, eSIM auf Apple Watch freizugeben
+Content: Hallo zusammen,leider bin ich bei Freenet Kunde.Ich habe seit Freitag (20.09.) das iPhone 16 pro und eine Apple Watch Ultra 2.bei meinem Vertrag (Telekom Netz) wurde eine esim hinzugefügt, welche auf der Watch aktiviert werden soll.leider funktioniert das nicht. Trotz zig Anrufe beim Kundenservice komme ich hier auch nicht weiter. Je nach Mitsrbeiter ist entweder die Telekom schuld oder ich oder die Geräte.Das Prozedere ist folgendes:watch App -> Mobilfunk -> Mobilfunk konfigurieren -> warten…dieses Fenster (siehe Anhang) schließt sich einfach nach einer Minute wieder ohne Erfolg.Lösungsversuche:zurücksetzen beider Geräte und neuer Versuch ohne backupGleiches mit backupZurücksetzen der NetzwerkeinstellungenCachevon Safari leerenGeräte aus und einschaltenetc.alles ohne Erfolg.nun hoffe ich hier eine zielführende Lösung zu finden, da Freenet offensichtlich unfähig ist.viele GrüßeAlex
+
+Accepted Solutions:
+- Grüße@AChristlBitte an Freenet wenden, denn da hast du deinen Vertrag.Somit hat keinTeamieZugriff auf deine Daten um dir helfen zu können.
+- @AChristlschrieb:nun hoffe ich hier eine zielführende Lösung zu finden, da Freenet offensichtlich unfähig ist.Wechsle zur Telekom
+- @AChristlschrieb:nun hoffe ich hier eine zielführende Lösung zu finden, da Freenet offensichtlich unfähig ist.Wechsle zur Telekom
+- Grüße@AChristlBitte an Freenet wenden, denn da hast du deinen Vertrag.Somit hat keinTeamieZugriff auf deine Daten um dir helfen zu können.

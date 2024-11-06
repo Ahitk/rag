@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-stick/funktionen-fernbedienung
-
-Question: Welche Funktionen haben die Tasten der MagentaTV Stick Fernbedienung?
-Answer: Ihr MagentaTV Stick empfängt die Signale der Fernbedienung über Bluetooth. Sie können Ihren MagentaTV Stick mit der Fernbedienung aus jeder beliebigen Richtung steuern. Die Reichweite der Fernbedienung beträgt etwa acht Meter.
-Die einzelnen Funktionen Ihrer Fernbedienung erfahren Sie, indem Sie auf die entsprechende Taste klicken:
-

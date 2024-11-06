@@ -1,0 +1,16 @@
+Question:
+Was sollen Sie tun, wenn die Deckt 150 Basisstation nicht in der Digitalisierung Spox angezeigt wird?
+
+Answer:
+Willkommen zu unserer Anleitung zur Anmeldung der L-Mac Decks 150 IP Basisstation am System. Zunächst muss die Basisstation ans System angeschlossen sein, bevor die Konfiguration beginnt. Melde dich dann bei der Digitalisierungssbox an und gehe auf Telefonie und Telefone verwalten. 
+
+Sollte die Decks 150 Basisstation nicht angezeigt werden, folge diesen Schritten: Überprüfe, ob die Basisstation an eine Stromversorgung angeschlossen ist und mit dem lokalen Netzwerk verbunden ist. Stelle sicher, dass sie per DHCP eine IP-Adresse bezogen hat und eine IP-Verbindung besteht. Falls die Basisstation bereits konfiguriert wurde, setze sie bitte zurück.
+
+Ist die Basisstation verfügbar, kannst du mit den weiteren Konfigurationsschritten fortsetzen. Gebe dem Systemtelefon einen Namen und lege eine interne Rufnummer an. Du kannst auch weitere Mobiltelefone hinzufügen, indem du neue Rufnummern auswählst und diese Nummern änderst und beschreibst.
+
+Um Mobiltelefone an der Basisstation anzumelden, drücke die Paging-Taste für 3 Sekunden und gehe auf das Menü "Anmeldung" des Mobilteils. Der Systempin beträgt standardmäßig 4x0. Wiederhole diesen Vorgang für alle Geräte, die du anmelden möchtest.
+
+Zusätzliche Einstellungen sind nicht erforderlich, es sei denn, du verwendest einen MSN-Anschluss anstelle eines Telekom SipTrunk-Anschlusses. In diesem Fall musst du die Rufnummernverteilung vornehmen. 
+
+Um die Konfiguration zu speichern, klicke auf "Konfiguration speichern" und bestätige mit OK. Nun sollten das Mobilteil und die Basisstation registriert sein und keine weiteren Einstellungen erforderlich sein.
+

@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Sky-One-und-Sky-Replay-lassen-sich-nicht-abspielen/td-p/6951470/jump-to/first-unread-message
-Subject: Sky One und Sky Replay lassen sich nicht abspielen
-Content: Wie die Überschrift schon sagt gibt es seit gestern Abend? das Problem, dass Sky One und Sky Replay sich nicht mehr abspielen lassen.Wird der Sender aufgerufen, so gibts ein Standbild ohne Ton, dass sich nach 5sek aktualisiert und dann kommt auch rechts oben schon der Infokasten, dass der Inhalt aktuell nicht abgespielt werden kann. Man soll es später nocheinmal versuchen.Fehlercode: 051171Bleibt man auf dem Sender/Standbild kann es sein, dass das Bild sich nach 30sek kurz aktualisiert, aber das wars auch schon.Receiver: MagentaTV One 2. GenerationFirmware: v12.8.6390_20240606SW Version: 3.147.5433Abo: Wow Film & Serie sowie Premium Option by Telekom
-
-Accepted Solutions:
-- Das Problem wurde behoben. Sky One und Sky Replay laufen nun auch mit Dolby Audio ohne Störung.
-- Fehler wurde behoben.
-- Fehler wurde behoben.
-- Das Problem wurde behoben. Sky One und Sky Replay laufen nun auch mit Dolby Audio ohne Störung.

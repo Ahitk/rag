@@ -1,0 +1,24 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/verbindungsqualitaet-mit-powerlan-verbessern
+
+Question: Wie kann ich bei Netzwerkadaptern für die Steckdose (Powerline) die Verbindungsqualität verbessern?
+Answer: Powerline-Adapter können Daten durch Ihr Hausstromnetz transportieren. Doch selbst modernste Powerline-Technik bietet keine Garantie für gleichbleibende, hohe Datenraten. Je nach Situation kann eine schnelle, stabile Verbindung auch ausbleiben.
+Wann ist Powerline als Ersatz fürs Netzwerkkabel gut geeignet?Dies ist abhängig von Ihrem Hausstromnetz, da der Datentransfer bei Powerline von Steckdose zu Steckdose erfolgt.Hier die wichtigsten Voraussetzungen für einen Verbindungsaufbau:
+​So sorgen Sie für eine möglichst gute und sichere Powerline-Verbindung
+Powerline-Modelle mit integrierter Steckdose bieten Ihnen weitere Optionen:
+Kann Powerline die Leistung eines DSL- oder LTE-Zugangs voll ausschöpfen?In einem geeigneten Hausstromnetz funktioniert dies mit aktuellen Powerline-Modellen. Als Faustregel gilt: Je höher der Maximaldurchsatz laut Datenblatt, um so mehr kann das jeweilige Adapter-System aus den Betriebsbedingungen machen.
+Ihr Powerline erreicht nicht die versprochene DatenrateDie technischen Daten eines Powerline-Modells nennen als erzielbaren Datendurchsatz den Bruttowert unter Idealbedingungen.Daher kann die von Ihnen tatsächlich nutzbare Übertragungsrate erheblich niedriger sein. Die folgenden Faktoren spielen eine Rolle:
+Beim Fernsehen mit MagentaTV kommt es seit der Verbindung über Powerline zu StandbildernWenn die Verbindungsqualität zwischen den Powerline-Adaptern gut ist und das Fernsehbild dennoch stets nach ca. 10 Sekunden einfriert, beherrscht Ihr Adapter-Modell sehr wahrscheinlich nicht das erforderliche Einspeisungsverfahren ("Multicast").
+Bestimmte Multimedia-Inhalte lassen sich nicht über Powerline abspielenPrüfen Sie, ob Ihr Modell diese Multimedia-Anwendung unterstützt und ob der Hersteller ein Firmware-Update anbietet.
+Die Powerline-Verbindung wird über Tage oder Wochen hinweg immer schlechter.Bei schleichendem Leistungsverlust nehmen Sie die Adapter kurz aus der Steckdose. Wenn dies nicht hilft, setzen Sie die Powerline-Adapter in die Werkseinstellungen zurück. Moderne Powerline-Adapter sperren automatisch bestimmte Frequenzbänder, wenn darauf zu starke Störsignale auftreten. Nicht immer werden diese Bereiche automatisch freigegeben, sobald die Störung verschwunden ist.
+
+Wünschen Sie Unterstützung direkt an Ihrem PC?Wir bieten Ihnen schnelle Hilfe per Telefon:Exklusive Beratung mit dem Digital Home Service
+• Betrieb der Powerline-Adapter im selben Hauptstromkreis
+• Falls nötig, Phasenkopplung (z. B. am Haussicherungskasten)
+• Fachgerechte Ausführung der Hauselektrik nach aktuellem Standard
+• Ersetzen Sie den voreingestellten Sicherheitsschlüssel.
+• Stecken Sie die Powerline-Adapter direkt in eine Wandsteckdose.
+• Geeignet ausgestattete Adapter filtern mögliche Störsignale der angeschlossenen Geräte.
+• Betreiben Sie jedes Gerät, das Sie über Powerline vernetzen wollen, an der Steckdose des Adapters.
+• Wie gut ist Ihr Hausstromnetz für den Einsatz von Powerline geeignet?
+• Wie stark wird die Powerline-Verbindung durch Fremdsignale gestört?
+

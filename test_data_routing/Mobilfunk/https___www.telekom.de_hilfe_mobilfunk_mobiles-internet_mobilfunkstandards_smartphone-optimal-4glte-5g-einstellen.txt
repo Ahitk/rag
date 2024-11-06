@@ -1,0 +1,27 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/mobilfunkstandards/smartphone-optimal-4glte-5g-einstellen
+
+Question: Smartphone LTE-fähig?
+Answer: Sie möchten überprüfen, ob Ihr Smartphone LTE-fähig ist?Jetzt testen
+
+Question: Nutzen Sie schon die vollen Möglichkeiten unseres Mobilfunknetzes?
+Answer: Jedes Handy besitzt eine, vom Hersteller vergebene 15-stellige internationale Seriennummer. Diese Nummer wird als IMEI-Nummer bezeichnet.
+
+Question: Sie möchten überprüfen, ob Ihr Smartphone LTE-fähig ist?
+Answer: Rufen Sie Ihre IMEI über folgenden Schritt auf:
+
+Question: Ist die SIM Karte 4G/LTE- bzw. 5G-fähig?
+Answer: So gut wie alle SIM-Karten der Telekom sind 4G/LTE- bzw. 5G-fähig.
+Eine Ausnahme stellen die älteren Karten dar. Hier handelt es sich um alte SIM-Karten, welche lediglich im 2G-Netz funktionieren. Grund hierfür ist, dass die Karten die im LTE-Netz genutzten Authentifizierungsprotokolle nicht unterstützen.
+Um das LTE-Netz nutzen zu können, muss die SIM-Karte ausgetauscht werden. Ansonsten fällt die Karte zurück in das 2G-Netz. Es handelt sich hierbei um Karten, die älter als 15 Jahre sind und bis 2004 ausgegeben worden sind. Wir bieten betroffenen Kunden natürlich den kostenlosen Austausch der Karten an.
+
+Hinweis: Auf der SIM-Karte sind die Kennungen i.d.R. hinter der Kartennummer aufgelasert (Beispiel Abbildung: P2).
+Wir informieren Sie rechtzeitig, wenn Sie eine neue SIM-Karte brauchen.Wenn Sie nicht warten möchten:
+
+Question: Wie stelle ich an meinem Smartphone das 4G/LTE- bzw. 5G-Netz und Voice over LTE (VoLTE) ein?
+Answer: Sie haben schon ein aktuelles Smartphone und sehen in der Statuszeile am oberen Rand des Displays die Bezeichnung "LTE" oder "4G"?Gratulation, alles in Ordnung, Sie müssen nichts weiter tun.
+Wir empfehlen Ihnen allerdings eine kurze Überprüfung, ob in Ihrem Telefon auch schon die Sprachübertragung über LTE (VoLTE, Voice over LTE) aktiviert ist. So erleben Sie auch die beste Sprachqualität.
+Wie kann ich VoLTE einschalten?
+Sie sehen kein 4G oder LTE in der Statusanzeige,nutzen jedoch ein 4G/LTE-fähiges Smartphone und bekommen nur "2G" oder "E" oder "Edge" in dessen Statuszeile angezeigt?Wenn die Anzeige von "2G", "E" oder "Edge" nur an bestimmten Orten erfolgt, Sie aber an anderen Orten "LTE" bzw. "4G" in der Anzeige sehen, müssen Sie nichts weiter tun. In diesem Fall sind Sie in einer Gegend mit reiner "2G"-AbdeckungSie sehen auch bei Ortswechsel z. B. zwischen Wohnung, Arbeitsplatz und Innenstadtkernnie"LTE" bzw. "4G" in der Statuszeile?Überprüfen Sie zunächst, ob Ihr Telefon so eingestellt ist, dass es das 4G/LTE Netz nutzen kann.
+Bei einigen Smartphones lassen sich manuelle Einstellungen der Sprach- und Datenübertragung vornehmen. Mit der gerätespezifischen Anleitung können Sie ganz einfach überprüfen, ob LTE und VoLTE eingeschaltet ist.
+Im Hilfecenter der Telekom finden Sie ebenfalls kurze Anleitungen zur Aktivierung für die gängigsten Smartphone-Modelle:Wie kann ich LTE einschalten?Wie kann ich VoLTE einschalten?
+

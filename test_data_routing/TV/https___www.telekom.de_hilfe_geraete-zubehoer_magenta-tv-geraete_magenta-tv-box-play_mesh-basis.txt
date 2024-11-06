@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/mesh-basis
+
+Question: Wie kann ich meine MagentaTV Box (PLAY) als Mesh-Basis einrichten?
+Answer: Sie können Ihre MagentaTV Box manuell als Mesh-Basis einrichten, wenn z. B. Ihr Router diese Funktion nicht unterstützt.
+In diesem Ratgeber zeigen wir Ihnen, wie Sie die erforderlichen Daten für die Einrichtung erhalten, was Sie beachten sollten und wie die MagentaTV Box eingerichtet wird.
+

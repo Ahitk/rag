@@ -1,0 +1,12 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/automatische-einrichtung/was-ist-die-automatische-einrichtung
+
+Question: Was ist die automatische Einrichtung?
+Answer: EasySupport macht das Einrichten Ihres Speedport Routers einfach. Mit der automatischen Einrichtung wird Ihr Gerät über das Netz der Telekom automatisch für den Internetzugang und Telefonie eingerichtet.
+In folgenden Fällen können Sie die automatische Einrichtung nutzen:
+Voraussetzungen für die automatische Einrichtung:
+Weitere Links:
+• Ihr Speedport wurde auf die Werkseinstellungen zurückgestellt oder noch nicht manuell eingerichtet.
+• Ihr Internetanschluss ist bereits freigeschaltet. (Freischaltungsdatum ist der Bereitstellungstermin, der in Ihrer Auftragsbestätigung der Telekom vermerkt ist).
+• Ihre persönlichen Zugangsdaten von der Telekom liegen vor. (Diese finden Sie in dem vertraulichen Schreiben und benötigen Sie zum Starten der automatischen Einrichtung.)
+• Wie kann ich die "Automatische Einrichtung" nutzen?
+

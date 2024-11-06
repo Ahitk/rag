@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Hotspot-Probleme-mit-Iphone-16-pro-Max-mit-IoS-18/td-p/6949996/jump-to/first-unread-message
-Subject: Hotspot Probleme mit Iphone 16 pro Max mit IoS 18
-Content: Mit meinem neuen  iPhone 16 pro Max mit IOS 18 ist es nicht mehr möglich einen Hotspot mit anderen Geräten aufzubauen. Laut Apple ist das Problem bekannt und es wird daran gearbeitet.
-
-Accepted Solutions:
-- Das ist eine Info für alle die das gleiche Problem haben. Ihr müsst also nicht stundenlang an eurem Telefon herumfummeln und alle möglichen Einstellungen durchprobieren. Es soll in den nächsten Tagen ein Update kommen.
-- Das ist eine Info für alle die das gleiche Problem haben. Ihr müsst also nicht stundenlang an eurem Telefon herumfummeln und alle möglichen Einstellungen durchprobieren. Es soll in den nächsten Tagen ein Update kommen.

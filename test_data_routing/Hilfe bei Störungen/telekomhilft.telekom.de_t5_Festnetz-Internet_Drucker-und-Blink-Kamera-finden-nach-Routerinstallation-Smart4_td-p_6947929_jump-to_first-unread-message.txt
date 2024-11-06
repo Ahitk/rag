@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Drucker-und-Blink-Kamera-finden-nach-Routerinstallation-Smart4/td-p/6947929/jump-to/first-unread-message
+Subject: Drucker und Blink Kamera finden nach Routerinstallation Smart4 Typ A keine SSID
+Content: Nach einem Austausch und Neuinstallation des Routers Smart 4  konnten die meisten Geräte problemlos wieder mit WLAN verbunden werden.Die Kamera von Blink sowie ein Epson Drucker XP-640 finden seither dieSSIDnicht und können somit nicht mit dem WLANverbunden werden.In der Verschlüsselung habe ich dem Frequenzband 2,4 GHZ  (Übertragungsmodus 802.11b/g/n) einen anderen Namen zugeteilt, als  für 5 GHZ.Drucker und Kamera sind nur für 2,4 GHZ ausgerichtet. Trotzdem erscheint  in den Netzwerkeinstellungen keine passendeSSID.Auch die VerbindungsanwendungWPSzwischen Router  und Drucker funktioniert nicht - keine Netzwerkverbindung.Beide Geräte stehen maximal 3 m auseinander.Ich brauche hier eine passende Lösung.
+
+Accepted Solutions:
+- Vielen Dank für all die Hilfe. Es funktioniert alles.SSIDfür 2,4 GHZ ist nunmehr zu sehen. Was habe ich geändert:1. Jeweils  verschiedeneSSIDNamen für 2,4 und 5 GHZ2. bei 2,4 GHD Kanal 113. Kanalbreite auf 20alles gespeichert und Router  Neustart.FUNZT
+- Vielen Dank für all die Hilfe. Es funktioniert alles.SSIDfür 2,4 GHZ ist nunmehr zu sehen. Was habe ich geändert:1. Jeweils  verschiedeneSSIDNamen für 2,4 und 5 GHZ2. bei 2,4 GHD Kanal 113. Kanalbreite auf 20alles gespeichert und Router  Neustart.FUNZT

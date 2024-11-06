@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Kein-Empfang-vom-Festnetz-zum-IPhone/td-p/6980190/jump-to/first-unread-message
+Subject: Kein Empfang vom Festnetz zum IPhone
+Content: Einen schönen Abend,mein Problem ist das ich vom Festnetz zu Hause,keinen Empfang am IPhone habe.Es heißt immer ,der Empfänger ist momentan nicht erreichbar.Von Handy zu Handy kein Problem.Komischerweise funktioniert es bei meiner Frau vom Festnetz ohne Probleme die auch ein IPhone benutzt.Alle Einstellungen schon überprüft,sind identisch zu meinem Handy.Alles andere funktioniert nur eben nicht von meinem Festnetz.Vielleicht könnt ihr mir einen Tip geben.Grüße ,Manni .
+
+Accepted Solutions:
+- Grüße@M-M.PlabstAuch die Nummer richtig gewählt?Oder hast du bei deinem Festnetz gerade eine Portierung gemacht bzw beim iPhone?Denn das sind die eigentlichen Symptome dafür.Was aber auch sein kann, das du im iPhone Nummern blockierst.Entweder deine eigene Rufnummer vom Festnetz oder gar Anrufer ohne Rufnummernermittlung.Siehe:https://support.apple.com/de-de/111104
+- Grüße@M-M.PlabstAuch die Nummer richtig gewählt?Oder hast du bei deinem Festnetz gerade eine Portierung gemacht bzw beim iPhone?Denn das sind die eigentlichen Symptome dafür.Was aber auch sein kann, das du im iPhone Nummern blockierst.Entweder deine eigene Rufnummer vom Festnetz oder gar Anrufer ohne Rufnummernermittlung.Siehe:https://support.apple.com/de-de/111104

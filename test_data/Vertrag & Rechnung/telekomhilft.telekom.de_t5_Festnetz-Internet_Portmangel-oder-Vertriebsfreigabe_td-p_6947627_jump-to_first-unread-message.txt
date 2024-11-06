@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Portmangel-oder-Vertriebsfreigabe/td-p/6947627/jump-to/first-unread-message
-Subject: Portmangel oder Vertriebsfreigabe?
-Content: Wie kann man sich für freie Ports auf eine Warteliste setzen lassen?Haben aktuell 50MBit, Verfügbarkeitsprüfung ergibt auch nur 50MBit, allerdings sagte ein Techniker man könne einen weiteren Port dazunehmen und dann ginge 100MBit. Aber die Hotline-MA kennen/können das nicht.
-
-Accepted Solutions:
-- @cirbyschrieb:Wie kann man sich für freie Ports auf eine Warteliste setzen lassen?Gar nicht, es gibt keine Warteliste.Viele GrüßeThomas
-- Es gibt keine Warteliste.Aber ein Port der 50 kann, kann auch immer 100Du wohnst einfach zu weit weg. Mit fehlenden freien Ports hat das nichts zu  tun.
-- Es gibt keine Warteliste.Aber ein Port der 50 kann, kann auch immer 100Du wohnst einfach zu weit weg. Mit fehlenden freien Ports hat das nichts zu  tun.
-- @cirbyschrieb:Wie kann man sich für freie Ports auf eine Warteliste setzen lassen?Gar nicht, es gibt keine Warteliste.Viele GrüßeThomas

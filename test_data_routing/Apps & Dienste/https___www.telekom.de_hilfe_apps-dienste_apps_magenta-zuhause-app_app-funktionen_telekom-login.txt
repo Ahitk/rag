@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/app-funktionen/telekom-login
+
+Question: Benötige ich für die Nutzung der MagentaZuhause App einen Telekom Login?
+Answer: Für die Anmeldung in der MagentaZuhause App ist ein eigener Telekom Login erforderlich. Dies gilt auch, wenn Sie zu einem anderen Haushalt und dessen MagentaZuhause App als weiterer Nutzer*in eingeladen werden.
+Der Telekom Login ermöglicht Ihnen Zugang zu allen Telekom Diensten, unabhängig davon, ob Sie bereits einen Mobilfunk- oder Festnetz-Vertrag der Telekom besitzen.
+

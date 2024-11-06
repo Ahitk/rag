@@ -1,0 +1,27 @@
+### Produktinformationen: MagentaMobil M Flex (Mobilfunk)
+
+#### Allgemeine Beschreibung
+- **Produkt:** MagentaMobil M Flex
+- **Verfügbarkeit:** Vermarktung seit 01.08.2024
+- **Anbieter:** Telekom Deutschland GmbH
+
+#### Datenübertragungsraten
+- **Maximalwerte:** 
+  - Download: 300 MBit/s
+  - Upload: 50 MBit/s
+- **Reduzierte Geschwindigkeit:** (ab einem Verbrauch von 40 GB)
+  - Download: 64 kBit/s
+  - Upload: 16 kBit/s
+- *Datenübertragungen beziehen sich auf inländischen Datenverkehr.
+
+#### Produktinformationen
+- **Vertragslaufzeiten:**
+  - Keine Mindestvertragslaufzeit
+  - Kündigungsfrist: ein Monat
+- **Monatliches Entgelt:** 
+  - 49,95 EUR (zzgl. einmaliger Preis für Hardware)
+
+#### Weitere Hinweise
+- Für detaillierte Informationen zu buchbaren Leistungen und Preisen verweisen Sie auf die Webseite: [www.telekom.de](http://www.telekom.de) (allgemeine Geschäftsbedingungen).
+
+Diese Zusammenfassung gibt einen Überblick über das Produkt und einige der wichtigsten Details, die für potenzielle Nutzer von Interesse sein könnten.

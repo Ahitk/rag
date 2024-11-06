@@ -1,0 +1,5 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/anzahl-telefonnummern-alarmfall
+
+Question: Wie viele Telefonnummern kann ich angeben, an die im Alarmfall eine SMS verschickt wird?
+Answer: Es können maximal 3 Mobilfunknummern angegeben werden. An all diese Nummern wird im Alarmfall gleichzeitig eine SMS versendet.
+

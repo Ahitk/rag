@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/kameranutzung/kamera-hinzufuegen
-
-Question: Wie lerne ich eine D-Link-Kamera an das System an?
-Answer: Führen Sie alle Schritte des Anlernprozesses so durch wie Sie Ihnen unter der Funktion "Geräte hinzufügen" in der Magenta SmartHome App im Menü "Einstellungen" vorgegeben werden. Alternativ können Sie auch die Funktion "Geräte hinzufügen" unter QIVICON.COM > Einstellungen verwenden.Sie sollten hierzu die Konfigurationsdaten Ihres WLAN-Routers wie SSID und Netzwerkschlüssel parat haben.
-

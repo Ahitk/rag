@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Sonstiges/Zugangsdaten-Kundencenter-Magenta-App-aendern-bei/td-p/6942143/jump-to/first-unread-message
+Subject: Zugangsdaten Kundencenter/Magenta-App ändern bei Vertragsübernahme unter gleicher Kundennummer
+Content: Guten Abend,meine Mutter hat den Telekomvertrag übernommen, der bis zu seinem Tod auf meinen Vater gelaufen ist. Wir haben im Telekom-Shop vor Ort alle möglichen Umstellungen durchführen lassen (u.a. Rechnungs-E-Mail, Kontakt-E-Mail etc.). Beim Log-In im Kundencenter ist mir jetzt aufgefallen, dass der Zugang trotz Änderung der Kundendaten noch unter dem alten Benutzernamen meines Vaters läuft (ok, Vertrag wurde samt Kundennummer übernommen). D.h. aber auch, dass für eine mögliche Passwortänderung immer noch die alte Handynummer, E-Mailadresse und Sicherheitsfragen meines Vaters hinterlegt sind.  Wüssten wir diese Daten nicht zufällig und hätten noch Zugriff, könnten wir nicht in den eigenen Vertrag bzw. das eigene Kundenkonto schauen, und auch keine Passwortänderung durchführen. Da ich Handynummer und E-Mail meines Vaters sehr bald abmelden möchte, wäre ich für Hilfe dankbar, wie man diese Benutzerdaten geändert bekommt.Oder hätte uns der Berater doch einen neuen Vertrag mit neuer Kundennummer geben müssen? (Mindestvertragslaufzeit war fast abgelaufen).LG, floyd
+
+Accepted Solutions:
+- https://account.idm.telekom.com/account-manager/
+- https://account.idm.telekom.com/account-manager/

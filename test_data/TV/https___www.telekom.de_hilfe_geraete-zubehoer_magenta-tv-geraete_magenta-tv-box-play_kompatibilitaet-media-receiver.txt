@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/kompatibilitaet-media-receiver
-
-Question: Mit welchen Media Receivern ist die MagentaTV Box (PLAY) kompatibel?
-Answer: Die MagentaTV Box und die MagentaTV Box Play sind kompatibel mit dem Media Receiver 401 (Typ B) und dem Media Receiver 201.
-Gut zu wissen:Die Wechselfestplatte des Media Receivers 401 Typ B kann in die MagentaTV Box (die MagentaTV Box Play besitzt keine Festplatte) eingesetzt werden, um die bisherigen Aufnahmen und die Senderliste weiter zu verwenden. Auch die umgekehrte Richtung ist möglich.So funktioniert der Festplattentausch.
-Hinweis:Mit dem Media Receiver Typ A ist das leider nicht möglich.
-

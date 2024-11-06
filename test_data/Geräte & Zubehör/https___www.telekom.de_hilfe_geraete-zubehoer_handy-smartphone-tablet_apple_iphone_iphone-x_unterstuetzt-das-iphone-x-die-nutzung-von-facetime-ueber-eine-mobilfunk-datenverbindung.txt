@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/iphone/iphone-x/unterstuetzt-das-iphone-x-die-nutzung-von-facetime-ueber-eine-mobilfunk-datenverbindung
-
-Question: Unterstützt das iPhone X die Nutzung von Facetime über eine Mobilfunk-Datenverbindung?
-Answer: Ja. Facetime wird vom iPhone X unterstützt.
-

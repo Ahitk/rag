@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Smart-4-mit-devolo-Dlan-1200/td-p/6980034/jump-to/first-unread-message
-Subject: Smart 4 mit devolo Dlan 1200
-Content: Hallo,mein Router Smart 3 war defekt und ich habe nun einen Smart 4 bekommen. Funktioniert eigentlich auch alles. Nur meindLANfindet keine Verbindung. ( blinkt immer rot ). Es hat unter dem alten Router tadellos geklappt. Muss ich eventuell in den Einstellungen beim Router irgendwo nen Haken setzten ?Develo Cockpit zeigt sie auch nicht an.Danke
-
-Accepted Solutions:
-- Vielen Dank für eure Mühen. Ich habe mich nun doch für die Wlan home entschieden und hab mir gerade beim Expert so ein Gerät gekauft. Funktioniert gut . Ich hatte sorgen das es für das OG reicht. Vielleicht haben die Adapter auch nen Schlag bekommen, bei dem Kurzschluss wo auch der Router kaputt ging. Kommen jetzt erst mal in den Schrank.Thema kann von mir aus zugruss
-- Grüße@fam-schoppeWenn du kein Glasfaser als tarif hast, dann raus mit devolodLAN1200 (Stromlos).Diese stören das DSL von dir und deinen Nachbarn.Ansonsten setze auf Mesh.https://www.telekom.de/festnetz/heimvernetzung/mesh-technologie
-- Grüße@fam-schoppeWenn du kein Glasfaser als tarif hast, dann raus mit devolodLAN1200 (Stromlos).Diese stören das DSL von dir und deinen Nachbarn.Ansonsten setze auf Mesh.https://www.telekom.de/festnetz/heimvernetzung/mesh-technologie
-- Vielen Dank für eure Mühen. Ich habe mich nun doch für die Wlan home entschieden und hab mir gerade beim Expert so ein Gerät gekauft. Funktioniert gut . Ich hatte sorgen das es für das OG reicht. Vielleicht haben die Adapter auch nen Schlag bekommen, bei dem Kurzschluss wo auch der Router kaputt ging. Kommen jetzt erst mal in den Schrank.Thema kann von mir aus zugruss

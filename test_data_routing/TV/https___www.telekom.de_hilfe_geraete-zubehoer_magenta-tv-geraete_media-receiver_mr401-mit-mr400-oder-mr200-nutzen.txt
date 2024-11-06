@@ -1,0 +1,9 @@
+Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/media-receiver/mr401-mit-mr400-oder-mr200-nutzen
+
+Question: Kann ich meinen alten Media Receiver 400 oder 200 als Zweit-Receiver am Media Receiver 401 nutzen?
+Answer: Ja, Sie können die Media Receiver 400 und 200 als Zweitgerät an einem Media Receiver 401 weiter nutzen.
+Bitte beachten:Durch die Kombination alter und neuer Geräte funktionieren folgende Features nicht.
+• Timeshift (zeitversetztes Fernsehen), Pause, Restart
+• Aufnahmen des Haupt-Receivers ansehen
+• Aufnahmen programmieren
+

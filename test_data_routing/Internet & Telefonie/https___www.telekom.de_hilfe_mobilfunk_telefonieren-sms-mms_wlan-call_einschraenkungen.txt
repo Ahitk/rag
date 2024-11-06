@@ -1,0 +1,6 @@
+Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/einschraenkungen
+
+Question: Gibt es Einschränkungen bei der Nutzung von WLAN Call?
+Answer: Bei der Nutzung von WLAN Call ist das Versenden von USSD-Codes nicht möglich. Zum Beispiel *135# zur Abfrage Ihrer Mobilfunknummer. Bitte nutzen Sie immer das Mobilfunknetz für USSD-Codes.
+Hinweis:Notrufe zur 110 und 112 sind über WLAN Call jederzeit möglich.
+

@@ -1,0 +1,53 @@
+Source URL: https://www.telekom.de/unterwegs/esim
+
+Question: Welche Geräte unterstützen eSIM?
+Answer: Der fest verbaute SIM-Chip ist eine innovative Lösung für die mobile Kommunikation und wird die klassische Variante bald komplett ersetzen. Aktuelle Mobilfunk-Geräte sind bereits mit der embedded SIM ausgestattet und bieten Ihnen damit Flexibilität und Unabhängigkeit. Bei den Mobilfunk-Geräten von Apple finden Sie die moderne SIM-Lösung beispielsweise bereits seit 2018.
+Viele Smartphones besitzen eine sogenannte Dual-SIM-Funktion. Mit dieser nutzen Sie zwei SIM-Karten parallel in einem Gerät, zum einen die herkömmliche SIM-Karte, zum anderen eine eSIM. Das ist besonders praktisch, wenn Sie auf Ihrem Gerät sowohl privat als auch dienstlich erreichbar sein möchten. Buchen Sie dazu beispielsweise einfach Ihren privaten Mobilfunkvertrag mit einer eSIM und lassen sich das eSIM-Profil via eSIM direct sofort auf Ihrem Dienstgerät bereitstellen oder nutzen Sie für die Bereitstellung einen QR-Code, den Sie einfach mit der Kamera Ihres Smartphones erfassen. Ob dienstlich oder privat - jetzt geht kein Anruf mehr verloren.
+Sie möchten auch mal ohne Smartphone unterwegs telefonieren, Nachrichten schreiben, Musik streamen und vieles mehr? Das ermöglicht Ihnen eine Smartwatch mit eSIM. Buchen Sie dazu idealerweise auf Ihrem Mobilfunkvertrag eine MultiSIM und wählen Sie als SIM-Typ eSIM aus. Nach der Bereitstellung des eSIM-Profils auf Ihrer Watch können Sie mit Ihrer Smartwatch Funktionen wie Telefonie und Internet entsprechend Ihres Mobilfunktarifs nutzen und sind sowohl auf Ihrem Smartphone und Ihrer Smartwatch unter der gleichen Rufnummer erreichbar.
+
+Question: Welche Vorteile hat eine eSIM?
+Answer: Die eSIM hat gegenüber den klassischen SIM-Karten-Formaten viele Vorteile:
+Schnell und sofort einsatzbereit
+Das sogenannte eSIM-Profil, welches Ihrem Mobilfunk-Vertrag zugeordnet ist, wird digital auf Ihr Mobilfunk-Gerät übertragen. Anders als bisher ist eine gewöhnliche SIM-Karte nicht mehr notwendig. Sie müssen also nicht mehr darauf warten, dass Ihnen die SIM-Karte per Post zugeschickt wird und können Ihr eSIM-Profil überall und zu jeder Zeit zu Ihrem Mobilfunk-Vertrag für Ihr eSIM-Gerät anfordern. Dies gilt auch, wenn Sie ein neues Handy kaufen, aber Ihren bestehendenHandyvertragbehalten möchten.
+Klein und innovativ
+Eine embedded SIM benötigt in den Endgeräten weniger Platz als eine herkömmliche SIM-Karte. Dadurch können Hersteller die Endgeräte immer kompakter gestalten und haben mehr Platz für das Wesentliche.
+Immer passend
+Machen Sie sich keine Gedanken mehr um das richtige SIM-Karten-Format. Lästiges Umstecken oder Herausbrechen der Karte gehören der Vergangenheit an. Das eSIM-Profil für Ihre eSIM passt immer.
+Nachhaltig und umweltschonend
+Die Informationen Ihres eSIM-Profils werden auf die eSIM in Ihrem Gerät übertragen. Da das eSIM-Profil, welches auf die eSIM in Ihrem Gerät übertragen wird, keine physische Karte mehr ist, fällt kein Plastik und keine Verpackung an. Außerdem werden keine Ressourcen für die Lieferung verbraucht.
+
+Question: Was sind eSIM-Profil, EID und QR-Code?
+Answer: Damit die eSIM Ihres Smartphones mit Ihrem Mobilfunkvertrag im Mobilfunknetz genutzt werden kann, müssen entsprechende Daten auf die eSIM übertragen werden. Diese Daten werden als eSIM-Profil bezeichnet. Ein eSIM-Profil wird Ihnen bei der Buchung eines Vertrages oder Beauftragung eines SIM-Tausches online imKundencenteroder telefonisch über unsere Hotline unter0800 33 02202bereitgestellt.
+Jeder eSIM-Chip besitzt eine eigene Identifikationsnummer, die EID. Damit ein eSIM-Profil auch direkt auf Ihr Mobilfunkgerät gesendet werden kann, benötigt man diese eindeutige Nummer als eindeutige Adresse. Sie finden diese auf der Verpackung des Gerätes und bei den Geräteinformationen im Menü „Einstellungen“ Ihres Mobilfunkgeräts.
+Mit der Hilfe eines QR-Codes ist es möglich, ein eSIM-Profil bereitzustellen, welches noch nicht mit einem Mobilfunkgerät verknüpft ist. Erst durch das Scannen des QR-Codes mit der Kamera Ihres gewünschten Mobilfunkgeräts erfolgt die Bereitstellung des eSIM-Profils auf dem Gerät.
+
+Question: Was ist eine Prepaid eSIM?
+Answer: Wie sieht eine eSIM aus?
+Die eSIM ist ein fest im Gerät verbauter Computer-Chip, auf den der Mobilfunkanbieter über eine verschlüsselte IP-Verbindung das sogenannte eSIM-Profil auf Ihr Gerät überträgt. Das eSIM-Profil ist mit Ihrem Mobilfunkvertrag verknüpft und enthält alle notwendigen Daten, damit Sie sich mit dem Mobilfunknetz verbinden können. Sie ist mit ungefähr 6 x 5 mm noch kleiner als eine Nano-SIM.
+Was kostet die eSIM?
+In Ihrem eSIM-fähigen Mobilfunkgerät ist die eSIM fest verbaut und somit kostenfrei. Für Ihr eSIM-fähiges Gerät können Sie Ihre konventionelle SIM-Karte auf Wunsch kostenlos gegen ein eSIM-Profil tauschen.
+Wie bekomme ich ein eSIM-Profil bei der Telekom?
+Wenn Sie schon Kunde bei uns sind und statt einer normalen SIM-Karte eine eSIM möchten, können Sie einfach einen SIM-Tausch beantragen. Entsprechende Informationen finden Sie in unsererHilfe. Dort erfahren Sie, wie Sie einen neuen SIM-Typ auswählen. Wenn Sie einen neuen Vertrag abschließen möchten, wählen Sie bei Vertragsabschluss aus, dass Sie ein eSIM-Profil benötigen.
+Wie aktiviere ich eine eSIM?
+Dafür gibt es drei Szenarien:Sie haben einen neuen Mobilfunkvertrag mit Mobilfunkgerät abgeschlossen: In diesem Fall erfolgt die Aktivierung mit der Zustellung des Gerätes automatisch und das eSIM-Profil wird direkt auf Ihr Gerät geschickt (eSIM direct). Sollten Sie einen QR-Code erhalten haben, müssen Sie diesen nur noch mit der Kamera Ihres Gerätes scannen.Sie haben ein neues Mobilfunkgerät im Rahmen einer Vertragsverlängerung erhalten: In diesem Fall müssen Sie den QR-Code im beigelegten Brief „Zugangsprofil“ zunächst für Ihren Mobilfunkvertrag aktivieren, bevor das eSIM-Profil auf Ihr neues Gerät geladen und genutzt werden kann. Dies erledigen Sie einfach selber auf der Internet-Seite für dieTelekom eSIModer telefonisch via Kundenservice unter0800 33 02202.Sie haben einen SIM-Tausch durchgeführt oder einen Zusatzvertrag abgeschlossen und als SIM-Typ „eSIM“ gewählt: In diesem Fall bekommen Sie Ihr neues eSIM-Profil als QR-Code online im Kundencenter bereitgestellt. Scannen Sie einfach den angezeigten QR-Code mit der Kamera Ihres Mobilfunkgerätes, um Ihr eSIM-Profil zu laden und dann direkt nutzen zu können.
+Was genau ist der Aktivierungscode für eine eSIM?
+Der Aktivierungscode ist ein QR-Code. Sie erhalten diesen, wenn Sie ein eSIM-Profil bestellen. Den Aktivierungscode benötigen Sie, um die eSIM Ihres Gerätes zu aktivieren.
+Wie bekomme ich eine MultiSIM als eSIM?
+Nachdem Sie sich im Kundencenter eingeloggt haben, müssen Sie nach der Vertragsauswahl den Reiter „Meine SIM-Karten“ auswählen. Jetzt wird Ihnen auch angeboten, eine MultiSIM zu bestellen. Wählen Sie dieses Angebot aus. In der Bestellzusammenfassung können Sie dann den SIM-Typ anpassen und ein eSIM-Profil sowie das gewünschte Bereitstellungsverfahren auswählen.
+Kann ich ein eSIM-Profil auch ohne Code aktivieren?
+Ja, das ist möglich. Über unser Kundencenter können Sie die EID Ihres Gerätes eingeben. Innerhalb weniger Minuten wird Ihr eSIM-Profil nun freigeschaltet. Folgen Sie anschließend den Anweisungen Ihres Endgerätes. Diese Möglichkeit ist vor allem für Geräte gedacht, die keine Kamera besitzen.
+Was kann ich tun, wenn ich mein eSIM-Profil aus Versehen gelöscht habe?
+In diesem Fall benötigen Sie ein neues eSIM-Profil von uns. Hierzu kontaktieren Sie am besten unseren Kundenservice und beauftragen einen SIM-Tausch. Alternativ führen Sie diesen selbst im TelekomKundencenterdurch. Bitte beachten Sie aber, dass Sie dort für die erforderliche 2-Faktor Authentifizierung eine weitere funktionierende SIM (z.B. MultiSIM od. Zusatzvertrag) für den Empfang einer mTAN benötigen.
+Kann ich den QR-Code zur Aktivierung meiner eSIM mehrmals nutzen?
+Nein, den QR-Code können Sie nur einmal verwenden. Wenn Sie Ihre SIM auf einem anderen Endgerät nutzen möchten, benötigen Sie einen neuen QR-Code.
+Mit welchem Tarif kann ich eine eSIM nutzen?
+Sie benötigen keinen speziellen Tarif für eine eSIM. Auf Wunsch ist diese in allen Tarifen der Telekom verfügbar.
+Wie aktiviere ich die eSIM auf meiner Apple Watch?
+Dafür benötigen Sie eine MultiSIM . Mit dieser sind Sie auf IhrerApple Watchunter der gleichen Rufnummer erreichbar wie auf Ihrem iPhone und profitieren von allen Vorteilen Ihres Mobilfunkvertrags. Für die Einrichtung der eSIM bzw. der MultiSIM auf Ihrer Apple Watch folgen Sie bittedieser Anleitung.
+Ich habe eine (physische) SIM-Karte zugeschickt bekommen, möchte aber eine eSIM aktivieren. Geht das?
+Ja, das geht. Nutzen Sie einfach unseren kostenlosen Service für IhrenKartentausch. Sie müssen dann einen Wechsel Ihres SIM-Kartentyps durchführen und ein eSIM-Profil anfordern. Dies können Sie sich durch die Eingabe der EID direkt auf das Gerät schicken oder Sie fordern einen QR-Code an, welcher online im Kundencenter angezeigt oder per Post zugeschickt wird.
+Wie lösche ich mein eSIM-Profil?
+Informationen dazu finden Sie in der Bedienungsanleitung Ihres Mobilfunkgerätes.
+Kann ich meine Rufnummer mit einer Prepaid eSIM mitnehmen?
+Möchten Sie von einer physischen SIM-Karte zu einer Prepaid eSIM wechseln, können Sie Ihre Rufnummer behalten. Wählen Sie dazu einfach die Rufnummern-Mitnahme bei der Buchung aus. Auch wenn Sie von einem anderen Anbieter zur Telekom wechseln, ist die Mitnahme Ihrer Rufnummer kostenfrei.
+

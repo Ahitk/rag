@@ -1,0 +1,29 @@
+Here’s a summary of the relevant information from the document related to the "MagentaMobil S Young" mobile telecommunications product:
+
+### Product Overview:
+- **Type**: Mobile phone connection for telephony, SMS, and internet access.
+- **Launch Date**: 06.09.2019.
+
+### Data Transfer Rates:
+- **Download Speed**: Up to 300 MBit/s.
+- **Upload Speed**: Up to 50 MBit/s.
+- **Reduced Speeds**: If data usage exceeds 20 GB, speeds are reduced to 64 KBit/s for downloads and 16 KBit/s for uploads.
+
+### Contract Information:
+- **Minimum Contract Duration**: 24 months.
+- **Notice Period for Cancellation**: 1 month.
+- **Cancellation**: Can be done any time after the minimum duration with a notice period of one month.
+
+### Pricing:
+- **Monthly Costs**:
+  - Without Smartphone: €29.95
+  - With Smartphone: €39.95
+  - With Top Smartphone: €49.95
+  - With Premium Smartphone: €59.95
+  - With Premium-Plus Smartphone: €69.95
+
+### Important Notes:
+- Prices exclude one-time hardware costs.
+- Detailed terms and conditions can be found at [Telekom's official site](http://www.telekom.de).
+
+This summary includes the most critical aspects of the telecommunications product, focusing on its features, pricing, contract terms, and data specifications.

@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/adressbuch-gruppe
-
-Question: Wie kann ich im E-Mail Center eine Gruppe im Adressbuch anlegen?
-Answer: Um eine Gruppe imE-Mail Centeranzulegen, klicken Sie erst auf "Adressbuch" und in der Zeile "Meine Gruppen" auf das "+". Nun können Sie einen Namen für die Gruppe wählen.
-Gehen Sie auf "Alle Kontakte" und ziehen per Drag & Drop die gewünschten Kontakte in die neue Gruppe. Das geht einzeln je Kontakt oder über die Mehrfachauswahl (Häkchen vor den Eintrag setzen).
-Hinweis:Beim Löschen einzelner Kontakte aus der Gruppe erfolgt eine Abfrage, ob der Kontakt nur aus der Gruppe oder komplett aus dem Adressbuch gelöscht werden soll.
-

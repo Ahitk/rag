@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/geraete-zentralen-funkstandards/funkstandards
-
-Question: Welche Funkstandards kann ich in der MagentaZuhause App nutzen?
-Answer: Die MagentaZuhause App unterstützt WLAN/IP-Geräte sowie die Funkstandards DECT, ZigBee, Homematic IP und Schellenberg. Bei den Funkstandards ist zu beachten, dass für diese Geräte eine SmartHome-fähige Zentrale erforderlich ist.
-Wenn ein Telekom Speedport Router als Zentrale verwendet wird, muss dieser um den jeweiligen USB-Funkstick ergänzt werden. Sollen mehrere Funksticks an den Router angeschlossen werden, empfehlen wir einen sog. ‚aktiven‘ USB-Hub mit eigener Stromversorgung über ein Netzteil.
-

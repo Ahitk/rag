@@ -1,0 +1,7 @@
+Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/Homematic-IP-Fensterkontakt-magnetisch/td-p/6951866/jump-to/first-unread-message
+Subject: Homematic IP Fensterkontakt magnetisch
+Content: HmIP-SWDM-2HomeBASE 2Habe im smart home shop obige Fensterkontakte gekauft. Werden vom System nicht erkannt.  Sind die Kontakte nicht kompatibel, wenn nicht warum werden diese im Shop angeboten?
+
+Accepted Solutions:
+- @frank-birnbachschrieb:Sind die Kontakte nicht kompatibel, wenn nicht warum werden diese im Shop angeboten?Die werden im Shop als nicht kompatibel angegebenhttps://www.smarthome.de/geraete/homematic-ip-smart-home-fenster-und-tuerkontakt-mit-magnet-weissIn MagentaZuhause könntest du über den Umweg mit dem HomematicIP AccessPoint den Kontakt nutzen
+- @frank-birnbachschrieb:Sind die Kontakte nicht kompatibel, wenn nicht warum werden diese im Shop angeboten?Die werden im Shop als nicht kompatibel angegebenhttps://www.smarthome.de/geraete/homematic-ip-smart-home-fenster-und-tuerkontakt-mit-magnet-weissIn MagentaZuhause könntest du über den Umweg mit dem HomematicIP AccessPoint den Kontakt nutzen

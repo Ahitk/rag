@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/anmeldung
-
-Question: Mit welchen Daten melde ich mich in der MagentaZuhause App an?
-Answer: Um die Funktionen der MagentaZuhause App nutzen zu können, melden Sie sich mit Ihrem Telekom Login an.
-Gut zu wissen:Sie brauchen den Telekom Login nicht nur, wenn Sie die App selbst für Ihr Zuhause verwenden wollen, sondern auch wenn Sie als Familienmitglied innerhalb der App zu einem Haushalt hinzugefügt werden.
-

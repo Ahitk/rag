@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/wissenswertes/multisim-telefonieren
-
-Question: Kann ich mit der MultiSIM gleichzeitig telefonieren?
-Answer: Wenn ein Anruf eingeht und Sie sich bereits in einem Telefongespräch befinden, ist die Rufannahme eines weiteren Gesprächs nicht möglich. Das Gleiche gilt für ein parallel abgehendes Gespräch in VoLTE. Auch die MultiSIMs untereinander können nicht miteinander telefonieren.
-
