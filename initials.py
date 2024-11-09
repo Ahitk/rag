@@ -9,162 +9,98 @@ from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 
-# Define the directory containing the rag data
+# === Configuration Section ===
+
+# Directory containing RAG data
 data_directory = "/Users/taha/Desktop/rag/data"
 
-# Load API Keys from environment variables
-load_dotenv()  # Load environment variables from a .env file
+# Load environment variables (e.g., API keys) from a .env file
+load_dotenv()
 
 # Retrieve API keys from environment variables
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # OpenAI API Key
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")  # Tavily API Key
 
-# Token limit
+# Define maximum token limit for language models
 MAX_TOKENS = 8192
 
+# Initialize the GPT model and embeddings
 model = ChatOpenAI(model="gpt-4o-mini", api_key=OPENAI_API_KEY, max_tokens=MAX_TOKENS)
-embedding = OpenAIEmbeddings(model="text-embedding-3-large", api_key=OPENAI_API_KEY)
+embedding = OpenAIEmbeddings(api_key=OPENAI_API_KEY)
+#embedding = OpenAIEmbeddings(model="text-embedding-3-large", api_key=OPENAI_API_KEY)
 
-# Available OpenAI models
+# Available OpenAI models dictionary for selection
 models = {
     "GPT-4o mini: Affordable and intelligent small model for fast, lightweight tasks": "gpt-4o-mini",
     "GPT-4o: High-intelligence flagship model for complex, multi-step tasks": "gpt-4o",
     "GPT-4: The previous set of high-intelligence model": "gpt-4",
     "GPT-3.5 Turbo: A fast, inexpensive model for simple tasks": "gpt-3.5-turbo-0125",
+    "o1-preview: reasoning model designed to solve hard problems across domains": "o1-preview",
+    "o1-mini: faster and cheaper reasoning model particularly good at coding, math, and science": "o1-mini",
 }
 
+# === Utility Functions ===
 
-
-# Function to prune chat history to stay within token limit
 def prune_chat_history_if_needed():
+    """
+    Ensures the chat history stays within the token limit by pruning older entries.
+    """
     total_token_count = sum([len(m.content.split()) for m in st.session_state.chat_history])
     while total_token_count > MAX_TOKENS:
         st.session_state.chat_history.pop(0)
         total_token_count = sum([len(m.content.split()) for m in st.session_state.chat_history])
-  
 
-# Calculate cosine similarity between two vectors
+
 def cosine_similarity(vec1, vec2):
     """
     Computes the cosine similarity between two vectors.
-    
     Parameters:
-    - vec1 (np.ndarray): The first vector.
-    - vec2 (np.ndarray): The second vector.
-    
+        - vec1, vec2: Numpy arrays representing vector embeddings.
     Returns:
-    - float: The cosine similarity between vec1 and vec2.
+        - float: Cosine similarity value.
     """
     dot_product = np.dot(vec1, vec2)
     norm_vec1 = np.linalg.norm(vec1)
     norm_vec2 = np.linalg.norm(vec2)
     return dot_product / (norm_vec1 * norm_vec2) if (norm_vec1 and norm_vec2) else 0.0
 
-## Multi-Query: Format streamlit output text
-def format_docs(docs, question):
+# metadata not included
+def format_documents(docs, question):
     """
-    Formats the retrieved documents with their source and cosine similarity score, sorted by similarity.
-
-    This function takes a list of documents and formats them to include the source of each document,
-    its cosine similarity to the query embedding, and presents them in a numbered format.
-
-    Args:
-        docs (list): A list of documents retrieved from the database.
-        question (str): The question to which the documents are relevant.
-
+    Formats retrieved documents, sorting by cosine similarity, and includes unique documents.
+    Parameters:
+        - docs: List of document objects.
+        - question: Query question for context.
     Returns:
-        str: A formatted string of documents including source, similarity score, and content.
+        - str: Formatted string of documents and similarity scores.
     """
-    # Initialize a set to track unique sources
-    unique_sources = set()
+    unique_docs = set()
     formatted_docs = []
     question_embedding = embedding.embed_query(question)
-
-    # Collect documents with their similarity scores
     doc_with_similarity = []
 
     for doc in docs:
-        # Retrieve the source of the document from its metadata, or set to "Web" if metadata is missing
-        source = doc.metadata.get("source", "Web")  # "No source" durumunda "Web" olarak atanıyor
-        
-        # Check if the source is unique, add only unique sources
-        if source not in unique_sources:
-            unique_sources.add(source)
-            # Compute the embedding of the document's content
+        content_hash = hash(doc.page_content.strip())  # Doküman içeriğini benzersiz bir şekilde temsil eden hash
+        if content_hash not in unique_docs:
+            unique_docs.add(content_hash)  # Tekrar eden dokümanları engellemek için hash'i set'e ekle
             document_embedding = embedding.embed_query(doc.page_content)
-            # Calculate cosine similarity between the query and document embeddings
             similarity = cosine_similarity(question_embedding, document_embedding)
-            # Add document, similarity, source, and content to the list
-            doc_with_similarity.append((doc, similarity, source))
+            doc_with_similarity.append((doc, similarity))
 
-    # Sort documents by cosine similarity in descending order
+    # Similarity'e göre sırala (azalan)
     doc_with_similarity.sort(key=lambda x: x[1], reverse=True)
 
-    # Format documents
-    for i, (doc, similarity, source) in enumerate(doc_with_similarity, start=1):
-        # Use a placeholder message if the document content is empty
+    # Formatlama işlemi
+    for i, (doc, similarity) in enumerate(doc_with_similarity, start=1):
         content = doc.page_content.strip() or "This document content is empty."
-        # Format the document's source, similarity score, and content
         formatted_docs.append(
-            f"**{i}. Document:**\n\n"  # Document title in bold with numbering
+            f"**{i}. Document:**\n\n"
             f"Cosine Similarity: {similarity * 100:.0f}%\n\n"
-            f"Source file: {source}\n\n"
             f"Context:\n\n{content}\n"
         )
 
     return "\n\n".join(formatted_docs)
 
-def format_docs_old(docs, question):
-    """
-    Formats the retrieved documents with their source and cosine similarity score, sorted by similarity.
-
-    This function takes a list of documents and formats them to include the source of each document,
-    its cosine similarity to the query embedding, and presents them in a numbered format.
-
-    Args:
-        docs (list): A list of documents retrieved from the database.
-
-    Returns:
-        list: A list of formatted strings containing the source, similarity score, and content of each document.
-    """
-    # Initialize a set to track unique sources
-    unique_sources = set()
-    formatted_docs = []
-    question_embedding = embedding.embed_query(question)
-
-    # Collect documents with their similarity scores
-    doc_with_similarity = []
-
-    for doc in docs:
-        # Retrieve the source of the document from its metadata
-        source = doc.metadata.get("source")
-        
-        # Check if the source is unique
-        if source and source not in unique_sources:
-            unique_sources.add(source)
-            # Compute the embedding of the document's content
-            document_embedding = embedding.embed_query(doc.page_content)
-            # Calculate cosine similarity between the query and document embeddings
-            similarity = cosine_similarity(question_embedding, document_embedding)
-            # Add document, similarity, source, and content to the list
-            doc_with_similarity.append((doc, similarity, source))
-
-    # Sort documents by cosine similarity in descending order
-    doc_with_similarity.sort(key=lambda x: x[1], reverse=True)
-
-    # Format documents
-    for i, (doc, similarity, source) in enumerate(doc_with_similarity, 1):
-        # Use a placeholder message if the document content is empty
-        content = doc.page_content.strip() or "This document content is empty."
-        # Format the document's source, similarity score, and content
-        formatted_docs.append(
-            f"**{i}. Document:** \n\n"  # Document title in bold
-            f"Cosine Similarity: {similarity * 100:.0f}%\n\n"
-            f"Source file: {source}\n\n"
-            f"Context:\n\n{content}\n"
-        )
-
-    return f"\n\n".join(formatted_docs)
 
 # RAG-Fusion: Function to format fusion_docs as a readable string with similarity scores
 def format_fusion_docs_with_similarity(fusion_docs, question):
@@ -186,7 +122,7 @@ def format_fusion_docs_with_similarity(fusion_docs, question):
     for i, (doc, score) in enumerate(fusion_docs, start=1):
         doc_embedding = embedding.embed_query(doc.page_content)
         similarity = cosine_similarity(question_embedding, doc_embedding)
-        source = doc.metadata.get("source", "No source")
+        #source = doc.metadata.get("source", "No source")
         content = doc.page_content
 
         # Append the formatted document string
@@ -194,12 +130,11 @@ def format_fusion_docs_with_similarity(fusion_docs, question):
             f"**{i}. Document:** \n\n"  # Document title in bold with numbering
             f"Fusion Score: {score:.2f}\n\n"
             f"Cosine Similarity: {similarity * 100:.0f}%\n\n"
-            f"Source file: {source}\n\n"
+            #f"Source file: {source}\n\n"
             f"Context:\n\n{content}\n"
         )
 
     return "\n".join(formatted_docs)
-
 
 # Multi-Query: Retrieve and return unique documents
 def get_unique_union(documents):
@@ -248,111 +183,128 @@ def reciprocal_rank_fusion(results: list[list], k=60):
     return reranked_results
 
 
-# Tokenizer
-def num_tokens_from_string(string: str, encoding_name: str) -> int:
-    """Returns the number of tokens in a text string."""
-    encoding = tiktoken.get_encoding(encoding_name)
-    num_tokens = len(encoding.encode(string))
-    return num_tokens
+# === Dense X summary Functions ===
 
-def get_token_count(docs, question, prompt, chat_history):
-    """
-    Calculate and return token counts for the prompt, question, retrieved documents, and total.
-    """
-    # Calculate token counts for different components
-    prompt_tokens = num_tokens_from_string(prompt.format(context="dummy", question=question, chat_history=chat_history), "cl100k_base")
-    question_tokens = num_tokens_from_string(question, "cl100k_base")
-    docs_tokens = sum([num_tokens_from_string(doc.page_content, "cl100k_base") for doc in docs])
-    
-    # Total token count including prompt, question, and documents
-    total_tokens = prompt_tokens + question_tokens + docs_tokens
-    
-    return question_tokens, docs_tokens, prompt_tokens, total_tokens
-
-# Özetleme zincirini oluşturma
 def create_summary(doc_content):
+    """
+    Summarizes document content in German while preserving its semantic meaning.
+    Parameters:
+        - doc_content: Text content of the document.
+    Returns:
+        - str: Summarized text.
+    """
     summary_template = ChatPromptTemplate.from_template(
-        "Summarize the following document in German in a way that captures its semantic meaning most accurately.\n\n{doc}"
+        "Summarize the following document in German in a way that captures its semantic meaning most accurately, structured as minimal, self-contained units of meaning, and expressed in just one sentence.\n\n{doc}"
     )
     chain = summary_template | model | StrOutputParser()
     return chain.invoke({"doc": doc_content})
 
-# Ana klasörün yolu (data klasörünün yolu)
 
-def summarize(data_directory): 
-    # data klasörü altındaki her bir ana klasör için işlem yapıyoruz
+def summarize(data_directory):
+    """
+    Summarizes all text documents in the specified directory and stores the results in a file named '_summary.txt' 
+    within each folder.
+
+    Parameters:
+        - data_directory (str): Path to the directory containing folders of text documents.
+    """
+    # Traverse the directory tree starting from the root directory.
     for root, dirs, files in os.walk(data_directory):
-        print("aaaaaa")
+        # Check if the current level corresponds to the root of the specified directory.
         if root == data_directory:
+            # Iterate over all subfolders in the root directory.
             for folder in dirs:
+                # Define the path to the current folder.
                 folder_path = os.path.join(data_directory, folder)
                 
-                # _summary.txt dosyasının yolu
+                # Define the path to the summary file to be created within this folder.
                 summary_file_path = os.path.join(folder_path, '_summary.txt')
                 
-                # Eğer _summary.txt zaten varsa bu klasörü atla
+                # Skip the folder if the summary file already exists.
                 if os.path.exists(summary_file_path):
-                    print(f"{folder} klasöründe _summary.txt dosyası zaten mevcut, atlanıyor.")
                     continue
                 
-                # _summary.txt dosyasını bu ana klasör içinde oluşturuyoruz (alfabetik olarak en üstte olacak şekilde)
+                # Open the summary file in write mode.
                 with open(summary_file_path, 'w') as summary_file:
-                    # Bu klasörün altındaki tüm dosyaları listelemek için tekrar os.walk kullanıyoruz
-                    for sub_root, sub_dirs, sub_files in os.walk(folder_path):
+                    # Walk through the current folder and its subfolders.
+                    for sub_root, _, sub_files in os.walk(folder_path):
+                        # Process each file in the current folder/subfolder.
                         for file_name in sub_files:
+                            # Exclude the summary file itself and ensure the file has a '.txt' extension.
                             if file_name != '_summary.txt' and file_name.endswith('.txt'):
-                                # Her txt dosyasının tam yolunu alıyoruz
+                                # Construct the full file path.
                                 file_path = os.path.join(sub_root, file_name)
                                 
-                                # Dosyanın içeriğini okuyoruz
+                                # Open and read the content of the text file.
                                 with open(file_path, 'r', encoding='utf-8') as txt_file:
                                     content = txt_file.read()
                                 
-                                # Belgeyi özetliyoruz
+                                # Generate a summary of the file content using the `create_summary` function.
                                 summary = create_summary(content)
                                 
-                                # Dosya yolunu ve özetini _summary.txt dosyasına yazıyoruz
-                                summary_file.write(f"\n=== Chunk ===\n[File path: {file_path}\nFile summary: {summary}]\n")
-                
-                print(f"{folder} klasörüne _summary.txt dosyası yazıldı.")
+                                # Write the summary to the summary file, including the file path for reference.
+                                summary_file.write(
+                                    f"\n=== Chunk ===\n[File path: {file_path}\nFile summary: {summary}]\n"
+                                )
 
-                import os
-
-
-
+import os
 
 def summarize_with_filename(data_directory): 
-    # data klasörü altındaki her bir ana klasör için işlem yapıyoruz
+    """
+    Function to generate summary files (_summary.txt) for all .txt files 
+    inside subdirectories of the given data directory.
+
+    Args:
+        data_directory (str): Path to the main data directory.
+
+    Functionality:
+    - Iterates through all subdirectories of the data directory.
+    - Creates a '_summary.txt' file in each subdirectory.
+    - If '_summary.txt' already exists, the subdirectory is skipped.
+    - Reads the content of all .txt files (excluding '_summary.txt') in the subdirectory.
+    - Summarizes the content using the `create_summary` function.
+    - Writes the summary into '_summary.txt' along with the file names.
+    """
+
+    # Traverse the directory tree starting from data_directory
     for root, dirs, files in os.walk(data_directory):
+        # Process only the top-level subdirectories
         if root == data_directory:
             for folder in dirs:
+                # Construct the full path of the current subdirectory
                 folder_path = os.path.join(data_directory, folder)
                 
-                # _summary.txt dosyasının yolu
+                # Define the path for the '_summary.txt' file in the subdirectory
                 summary_file_path = os.path.join(folder_path, '_summary.txt')
                 
-                # Eğer _summary.txt zaten varsa bu klasörü atla
+                # Skip subdirectory if '_summary.txt' already exists
                 if os.path.exists(summary_file_path):
-                    print(f"{folder} klasöründe _summary.txt dosyası zaten mevcut, atlanıyor.")
+                    print(f"{folder} folder already contains _summary.txt, skipping.")
                     continue
                 
-                # _summary.txt dosyasını bu ana klasör içinde oluşturuyoruz
+                # Create and open '_summary.txt' file for writing in the subdirectory
                 with open(summary_file_path, 'w') as summary_file:
-                    # Bu klasörün altındaki tüm dosyaları listelemek için tekrar os.walk kullanıyoruz
+                    # Traverse the current subdirectory and its subdirectories
                     for sub_root, sub_dirs, sub_files in os.walk(folder_path):
                         for file_name in sub_files:
+                            # Skip '_summary.txt' and non-txt files
                             if file_name != '_summary.txt' and file_name.endswith('.txt'):
-                                # Her txt dosyasının tam yolunu alıyoruz
+                                # Construct the full path of the current .txt file
                                 file_path = os.path.join(sub_root, file_name)
                                 
-                                # Dosyanın içeriğini okuyoruz
+                                # Read the content of the .txt file
                                 with open(file_path, 'r', encoding='utf-8') as txt_file:
                                     content = txt_file.read()
                                 
-                                # Belgeyi özetliyoruz
+                                # Summarize the content using the `create_summary` function
                                 summary = create_summary(content)
                                 
-                                # Dosya adını ve özetini _summary.txt dosyasına yazıyoruz
-                                summary_file.write(f"\n=== Chunk ===\n[File name: {file_name}\nFile summary: {summary}]\n")
+                                # Write the file name and its summary to '_summary.txt'
+                                summary_file.write(
+                                    f"\n=== Chunk ===\n"
+                                    f"[File name: {file_name}\n"
+                                    f"File summary: {summary}]\n"
+                                )
                 
-                print(f"{folder} klasörüne _summary.txt dosyası yazıldı.")
+                # Indicate completion of '_summary.txt' creation for the current folder
+                print(f"_summary.txt has been written for the folder: {folder}")

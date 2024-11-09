@@ -1,97 +1,106 @@
 from langchain_core.prompts import ChatPromptTemplate, FewShotChatMessagePromptTemplate
 
-## Main prompt: telekom assistant
+## ===================================== GENERATION ========================================== 
+# Main prompt for the Telekom IT support chatbot
 telekom_template = """
-You are a friendly and helpful support chatbot designed for question-answering tasks related to telekom.de support, assisting both Telekom customers and employees. 
+You are a friendly and helpful IT support chatbot designed for question-answering tasks related to telekom.de support, assisting Telekom IT support representatives.
 
-Ensure that your responses are contextually appropriate for the ongoing chat. Use the provided context and conversation history to answer questions, always responding in the language in which the question was asked. 
+Ensure that your responses are contextually appropriate for the ongoing chat. 
+Use the provided context and conversation history to answer questions, always responding in the language in which the question was asked.
 
-If you do not know the answer or if the context lacks necessary information, politely inform the user that you cannot assist with their query and redirect them to visit www.telekom.de/hilfe for further support.
+If you do not know the answer or if the context lacks necessary information, 
+politely inform the user that you cannot assist with their query and redirect them to visit www.telekom.de/hilfe for further support.
+
+If the question is technical, provide sufficient detail to assist Telekom IT Support staff.
+
 Question: {question}
 Context: {context}
 Conversation history: {chat_history}
 Answer:
 """
+
+# Create a prompt template from the above-defined string
+# This will be used to dynamically format the chatbot's prompt
 prompt_telekom = ChatPromptTemplate.from_template(telekom_template)
 
 
-## Main prompt: =========== DENEME =========
-main_template = """
-You are a friendly and helpful IT support chatbot assistant designed for question-answering tasks related to telekom.de support, providing assistance to Telekom IT Support employees and experts.
 
-Use the provided context  to answer the questions. Always respond in the language in which the question was asked.
+## CRAG and Self-RAG: Transform query
+# This section defines a prompt structure for rewriting user questions to improve context and clarity.
 
-If you don't know the answer or if the provided documents do not contain the necessary information, simply state that you cannot assist with this query and kindly redirect the user to visit www.telekom.de/hilfe for further support.
-
-If the response is technical, provide sufficient detail to assist Telekom IT Support staff.
-
-Question: {question}
-Context: {context}
-Answer:
+# SYSTEM: Defines the role of the re-writer and specifies the goals for rephrasing questions.
+re_write_chat_system = """
+You are a question re-writer that converts an input question into a more effective version optimized for context search and web search. 
+The input question is a query directed to a telecom customer support chatbot. 
+Analyze the input question to understand the underlying semantic intent or meaning. 
+When rephrasing the question, consider the context to ensure clarity and comprehensiveness, including references to the user's previous questions. 
+The rewritten question should accurately reflect the user's intent. 
+Use specific terms instead of pronouns found in the input question, and include all relevant terms from both the input question and the question history. 
+Do not merge the input question with the question history; instead, strengthen the input question alone. 
+Always rewrite the question in the same language as the original.
 """
-main_prompt = ChatPromptTemplate.from_template(main_template)
 
-
-#yedek main prompt:
-'''
-## Main prompt: telekom assistant
-telekom_template = """You are an assistant for question-answering tasks for telekom.de help, providing answers to Telekom customers or potential customers. 
-Use the following pieces of retrieved context to answer the question. 
-If you don't know the answer or if the provided documents do not contain relevant information, simply say that unfortunately, you cannot assist with this question and please visit www.telekom.de/hilfe for further assistance. 
-Use up to four sentences and keep the answer concise.
-Question: {question}
-Context: {context}
-Answer:
+# SYSTEM (Alternate): A shorter variation of the re-writer instructions for other contexts.
+re_write_system = """
+You are a question re-writer that converts an input question into a better version optimized for context search and web search. 
+Always re-write the question in the same language as the original question. Look at the input and try to reason about the underlying semantic intent or meaning.
 """
-prompt_telekom = ChatPromptTemplate.from_template(telekom_template)'''
 
-# Question router prompt 
-router_instructions = """You are an expert at routing a user question to a vectorstore or web search.
-The vectorstore contains documents related to agents, prompt engineering, and adversarial attacks.                                    
-Use the vectorstore for questions on these topics. For all else, use web-search."""
-
-
-## CRAG and Self-RAG: retrieval grader
-system = """You are an evaluator assessing whether a retrieved document contains information useful for answering a user's question. \n
-    Your task is to determine if the document includes relevant information that could potentially answer the question. \n
-    The goal is to filter out completely irrelevant documents. \n
-    Respond with a binary answer: either 'yes' or 'no'. \n
-    If the document contains keywords or information that might relate to the question, respond with 'yes'. \n
-    If the document is irrelevant to the question, respond with 'no'."""
-    
-grade_prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", system),
-        ("human", "Retrieved document: \n\n {document} \n\n User question: {question}"),
-    ]
-)
-
-## CRAG and Self-RAG: re_write prompt
-re_write_chat_system = """You are a question re-writer that converts an input question into a more effective version optimized for context search and web search. \n
-    The input question is a query directed to a telecom customer support chatbot. \n
-    Analyze the input question to understand the underlying semantic intent or meaning. \n
-    When rephrasing the question, consider the context to ensure clarity and comprehensiveness, including references to the user's previous questions. \n
-    The rewritten question should accurately reflect the user's intent. \n
-    Use specific terms instead of pronouns found in the input question, and include all relevant terms from both the input question and the question history. \n
-    Do not merge the input question with the question history; instead, strengthen the input question alone. \n
-    Always rewrite the question in the same language as the original."""
-re_write_system = """You are a question re-writer that converts an input question into a better version optimized for context search and web search.\n 
-     Always re-write question in the same language as the original question. Look at the input and try to reason about the underlying semantic intent or meaning."""
+# ChatPromptTemplate for the re-write functionality
+# This structure creates a reusable template for dynamic interaction with the re-writer.
 re_write_prompt = ChatPromptTemplate.from_messages(
     [
+        # Defining the system's behavior (predefined set of instructions).
         ("system", re_write_chat_system),
+        # Example input for the re-writer, with placeholders for dynamic values.
         (
-            "human", "The input question given to the chat: \n\n {question} \n\n The question history: {question_history} \n\n"
+            "human", 
+            "The input question given to the chat: \n\n {question} \n\n The question history: {question_history} \n\n"
         ),
     ]
 )
 
-## CRAG and Self-RAG: hallucination grader prompt
+## CRAG and Self-RAG: Retrieval grader
+# This section defines the logic for evaluating whether a retrieved document is relevant
+# to a user's query. The evaluator works on a binary decision: 'yes' (relevant) or 'no' (not relevant).
+
+# SYSTEM: Defines the evaluator's role and decision-making process.
+system = """
+You are an evaluator assessing whether a retrieved document contains information useful for answering a user's question. 
+Your task is to determine if the document includes relevant information that could potentially answer the question. 
+The goal is to filter out completely irrelevant documents. 
+Respond with a binary answer: either 'yes' or 'no'. 
+If the document contains keywords or information that might relate to the question, respond with 'yes'. 
+If the document is irrelevant to the question, respond with 'no'.
+"""
+
+# ChatPromptTemplate for the retrieval grader
+# This structure creates a reusable template for interacting with the evaluator.
+grade_prompt = ChatPromptTemplate.from_messages(
+    [
+        # Defining the system's behavior (predefined set of instructions).
+        ("system", system),
+        # Example input for the evaluator, using placeholders for dynamic values.
+        ("human", "Retrieved document: \n\n {document} \n\n User question: {question}"),
+    ]
+)
+
+## CRAG and Self-RAG: Hallucination Grader Prompt
+# System message for hallucination grading
+# The system message provides instructions to the LLM (Language Model) for assessing whether its generated response 
+# is grounded in or supported by a provided set of facts. The response is evaluated on a binary scale: 
+# 'yes' (grounded in the facts) or 'no' (not grounded in the facts).
 system_hallucination = """You are a grader assessing whether an LLM generation is grounded in / supported by a set of retrieved facts. \n 
      Give a binary score 'yes' or 'no'. 'Yes' means that the answer is grounded in / supported by the set of facts."""
+
+# Define a prompt template for hallucination assessment
+# This template structures the interaction with the LLM by specifying how the input facts and the generated 
+# output should be presented for grading.
 hallucination_prompt = ChatPromptTemplate.from_messages(
     [
+        # System instruction for the grader
         ("system", system_hallucination),
+        # Human input: Provides the set of facts and the generation to be evaluated
         ("human", "Set of facts: \n\n {documents} \n\n LLM generation: {generation}"),
     ]
 )
@@ -107,8 +116,12 @@ answer_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
+# ROUTING: Question router prompt 
+router_instructions = """You are an expert at routing a user question to a vectorstore or web search.
+The vectorstore contains documents related to agents, prompt engineering, and adversarial attacks.                                    
+Use the vectorstore for questions on these topics. For all else, use web-search."""
 
-
+## ===================================== RETRIEVAL ========================================== 
 
 ## Multi-Query: Template for Generating Alternative Questions
 
@@ -127,22 +140,6 @@ Question history: {question_history}
 multi_query_prompt = ChatPromptTemplate.from_template(multi_query_template)
 
 
-
-
-# Multi-Query yedek
-
-multi_template = """You are an AI language model assistant. Your task is to generate five 
-different versions of the given user question to retrieve relevant documents from a vector 
-database. By generating multiple perspectives on the user question, your goal is to help
-the user overcome some of the limitations of the distance-based similarity search. 
-Provide these alternative questions separated by newlines. Always respond in the language in which the question was asked.
-Original question: {question}"""
-# Create a prompt template for generating multiple queries of the user's question
-multi_prompt = ChatPromptTemplate.from_template(multi_query_template)
-
-
-
-
 ## RAG-Fusion: template for generating multiple search queries based on a single input query.
 fusion_template = """You are a helpful assistant that generates multiple search queries based on a single input query. \n
 Generate multiple search queries related to: {question} \n
@@ -151,6 +148,7 @@ Output (4 queries):"""
 prompt_rag_fusion = ChatPromptTemplate.from_template(fusion_template)
 
 ## Step Back
+
 # Few Shot Examples
 few_shot_examples = [
     {
@@ -208,23 +206,11 @@ Keep your answers concise (up to four sentences), but if the response is technic
 # Conversation History: {chat_history}
 # Answer:
 """
-#yedek prompt
-'''# Stepback response prompt template
-response_prompt_template = """You are an expert in generating comprehensive responses based on available information. 
-I am going to ask you a question. Your response should be consistent and coherent with the provided context, 
-which includes both the current and prior questions in the conversation history. If the context is irrelevant, feel free to ignore it.
-Use both normal and step-back contexts when applicable to provide the most accurate answer.
-# Normal Context: {normal_context}
-# Step-Back Context: {step_back_context}
-# Original Question: {question}
-# Question History: {question_history}
-# Answer:
-"""'''
+
 stepback_response_prompt = ChatPromptTemplate.from_template(stepback_response_prompt_template)
 
+
 ## HyDE: Document Generation
-# This section is responsible for creating professional and customer-focused content
-# for a major telecommunications provider based on a given question.
 
 # Define a template for generating content.
 # The template specifies that the content should be brief, clear, and informative.
@@ -237,41 +223,3 @@ text:"""
 # Create a prompt template using the defined template.
 # This template will be used to generate content for a given question.
 prompt_hyde = ChatPromptTemplate.from_template(hyde_content_template)
-
-## Sub-questions prompt template
-subquestions_template = """You are a helpful assistant tasked with generating several sub-questions related to the input question. \n
-Your objective is to break the main question down into smaller sub-problems or sub-questions that can be addressed individually. \n
-Generate multiple relevant search queries based on the main question, question history, and chat history: {question}, {question_history}, {chat_history}. \n
-Output (3 queries):"""
-prompt_subquestions = ChatPromptTemplate.from_template(subquestions_template)
-
-## Decomposition answer recursion with chat history
-decomposition_template = """Here is the question you need to answer:
-
-\n --- \n {question} \n --- \n
-
-Here is any available background question + answer pairs:
-
-\n --- \n {q_a_pairs} \n --- \n
-
-Here is the chat history that may provide additional context:
-
-\n --- \n {chat_history} \n --- \n
-
-Here is additional context relevant to the question: 
-
-\n --- \n {context} \n --- \n
-
-Use the above context, any background Q&A pairs, and chat history to answer the question: \n {question}
-"""
-decomposition_prompt = ChatPromptTemplate.from_template(decomposition_template)
-
-# Decomposition individual answer prompt
-decomposition_individual_template = """Here is a set of Q+A pairs:
-
-{decomposition_individual_context}
-
-Use these to synthesize an answer to the question: {question}
-"""
-
-decomposition_individual_prompt = ChatPromptTemplate.from_template(decomposition_individual_template)

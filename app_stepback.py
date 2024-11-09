@@ -6,7 +6,7 @@ from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_vectorstore
+from indexing import get_vectorstore, generate_vectorstore_semantic_chunking
 import prompts as prompts
 import initials as initials
 
@@ -30,22 +30,22 @@ def get_response(user_input, chat_history, question_history):
         initials.prune_chat_history_if_needed()
 
         # Load vector store and retriever
-        vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
+        vector_store = generate_vectorstore_semantic_chunking(user_input, initials.model, initials.data_directory, initials.embedding)
         retriever = vector_store.as_retriever()
 
         # Generate step-back queries
         generate_stepback_question = prompts.step_back_prompt | initials.model | StrOutputParser()
         step_back_question = generate_stepback_question.invoke({"question": user_input, "question_history": question_history })
 
-        docs = initials.format_docs(retriever.invoke(user_input), user_input)
-        stepback_docs = initials.format_docs(retriever.invoke(step_back_question), user_input)
+        docs = initials.format_documents(retriever.invoke(user_input), user_input)
+        stepback_docs = initials.format_documents(retriever.invoke(step_back_question), user_input)
 
         step_back_chain = (
         {
             "chat_history": lambda x: x["chat_history"],
-            "normal_context": lambda x: initials.format_docs(retriever.invoke(x["question"]), (x["question"]) ),
+            "normal_context": lambda x: initials.format_documents(retriever.invoke(x["question"]), (x["question"]) ),
             "question": lambda x: x["question"],
-            "step_back_context": lambda x: initials.format_docs(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
+            "step_back_context": lambda x: initials.format_documents(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
             "question_history": lambda x: x["question_history"],
         }
         | prompts.stepback_response_prompt

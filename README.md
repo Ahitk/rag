@@ -12,6 +12,13 @@ MacOS: source venv/bin/activate
 
 deactivate
 
+# STREAMLIT APP SELECTION
+# App that got best evaluation score is selected to run.
+
+# Retrieve API keys from environment variables
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # OpenAI API Key
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")  # Tavily API Key
+
 #youtube transkriptlerini almak icin bu gerekti, belirtmek gerekebilir
 brew install ffmpeg
 

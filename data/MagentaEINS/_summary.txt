@@ -1,367 +1,288 @@
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_TV_Magenta-One-2-vorzeitig-zurueckschicken-Gratisjahr_td-p_6957035_jump-to_first-unread-message.txt
-File summary: In dem Dokument fragt ein Nutzer, der im November 2023 die Magenta One als Testperson für ein Jahr kostenlos erhalten hat, ob er das Gerät vorzeitig zurückgeben kann, da er in den nächsten vier Wochen im Ausland sein wird. Die Rückgabeseite informiert ihn, dass die Mindestdauer noch nicht erreicht sei und Gebühren anfallen würden. Er möchte wissen, ob trotzdem Kosten anfallen. Die Antworten der Community bestätigen, dass keine Gebühren anfallen, da das Gerät kostenlos war und somit kein Schaden für die Telekom entsteht. Es wird empfohlen, die Rücksendung durchzuführen und den Hinweis zu ignorieren.]
+[File name: telekomhilft.telekom.de_t5_TV_Magenta-One-2-vorzeitig-zurueckschicken-Gratisjahr_td-p_6957035_jump-to_first-unread-message.txt
+File summary: Ein Nutzer möchte das Magenta One 2, das er im Rahmen eines einjährigen Gratisabos erhalten hat, vorzeitig zurücksenden, fragt nach möglichen Gebühren trotz des kostenlosen Angebots und erhält die Bestätigung, dass keine Kosten anfallen, da für die Telekom kein Schaden entsteht.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_vorteil-aktivierung.txt
-File summary: Der MagentaEINS Vorteil wird aktiv, sobald Sie in der Auftragsbestätigung das genaue Datum finden, ab dem Ihre neue Option freigeschaltet wird.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_vorteil-aktivierung.txt
+File summary: Der MagentaEINS Vorteil ist aktiv, wenn das genaue Aktivierungsdatum in der Auftragsbestätigung angegeben ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Wow-Verguenstigung-entfaellt-bei-Tarifwechsel_td-p_6948541_jump-to_first-unread-message.txt
-File summary: Der Benutzer Dirk hat auf einen neuen Glasfasertarif gewechselt und dabei die WOW-Vergünstigung, die er zuvor in Anspruch genommen hatte, verloren. Er hatte ursprünglich einen Tarif mit 6 Monaten kostenlos und 6 Monaten für 7,98 Euro abgeschlossen. Dirk ist enttäuscht, da ihm bei einer vorherigen Anfrage an die Hotline gesagt wurde, dass die Vergünstigung unabhängig vom Tarifwechsel weiterhin gelten würde. Er sucht nach einer Lösung, da die Hotline ihm nicht weiterhelfen konnte. Die Antworten von Belana bestätigen, dass er eine Gutschrift erhalten wird, und bieten an, bei weiteren Fragen zur Verfügung zu stehen.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Wow-Verguenstigung-entfaellt-bei-Tarifwechsel_td-p_6948541_jump-to_first-unread-message.txt
+File summary: Dirk hat beim Wechsel zu einem neuen Glasfasertarif festgestellt, dass die zuvor zugesicherte WOW-Vergünstigung entfällt, und bittet um Korrektur, da die Hotline ihm zuvor etwas anderes mitgeteilt hatte.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Happy-hour_td-p_6958636_jump-to_first-unread-message.txt
-File summary: In einem Telekom-Forum fragt ein Nutzer, warum die "Happy Hour" in der App nicht angezeigt wird und erhält keine Unterstützung vom telefonischen Kundenservice. Die Antwort von einem Telekom-Mitarbeiter erklärt, dass der MagentaEINS Vorteil "Happy Hour" nur für die Tarife Magenta Mobil Basic bis Magenta Mobil M gilt. Der Magenta Mobil L Tarif hingegen bietet unbegrenztes Datenvolumen, das jedoch in der EU durch die Fair Use Policy auf 93 GB begrenzt wird. Der Mitarbeiter weist darauf hin, dass in Deutschland nur die Tarife bis Magenta Mobil M Anspruch auf die Happy Hour haben und verweist auf die Telekom-Website für weitere Informationen.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Happy-hour_td-p_6958636_jump-to_first-unread-message.txt
+File summary: Die Happy Hour der Telekom ist nur für die Tarife Magenta Mobil Basic bis M verfügbar, während der Magenta Mobil L stattdessen unbegrenztes Datenvolumen bietet, das jedoch außerhalb Deutschlands durch die Fair Use Policy auf 93 GB begrenzt ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Anderung-des-Hauptvertrags-inkl-Ubertragung-der-Pluskarten_td-p_6972318_jump-to_first-unread-message.txt
-File summary: Der Nutzer Nico hat seinen Mobilfunkvertrag (Magenta Mobil L + Magenta Eins Vorteil) im April 2024 in die monatliche Zahlweise umgestellt und sucht nach Angeboten zur Vertragsverlängerung, hat jedoch nichts Passendes gefunden. Kürzlich hat er einen neuen Vertrag für ein iPhone 16 Pro Max ohne Vertragsverlängerung abgeschlossen und möchte nun seinen alten Vertrag sowie alle vier Pluskarten auf diesen neuen Vertrag übertragen. Er wünscht sich, dass der alte Vertrag als Pluskarte für nur 10 € monatlich geführt wird und als Flextarif konfiguriert ist, ohne an einen 24-Monats-Vertrag gebunden zu sein. Außerdem würde er gerne den neuen Vertrag wieder mit dem Magenta Eins Vorteil verknüpfen. Die Forumsteilnehmer haben ihm Unterstützung angeboten und die gewünschten Änderungen wurden bereits vorgenommen.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Anderung-des-Hauptvertrags-inkl-Ubertragung-der-Pluskarten_td-p_6972318_jump-to_first-unread-message.txt
+File summary: Nico möchte seinen alten Mobilfunkvertrag und vier Pluskarten zu einem neuen Vertrag mit iPhone 16 Pro Max überführen, um nur 10€ monatlich zu zahlen, und bittet um Unterstützung, dass der Vertrag als Flextarif hinterlegt wird und er nicht an eine 24-monatige Bindung gebunden ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil.txt
-File summary: Der MagentaEINS Prepaid-Vorteil umfasst ein zusätzliches monatliches Datenvolumen von 1 GB.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil.txt
+File summary: Der MagentaEINS Prepaid-Vorteil bietet monatlich zusätzlich 1 GB Datenvolumen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Datenroaming-Italien-Monatswechsel_td-p_6957709_jump-to_first-unread-message.txt
-File summary: Der Benutzer Hans fragt in einem Forum nach den Bedingungen für Datenroaming in Italien, während er mit seiner Frau im Urlaub ist. Er hat zwei mobile Datenrouter mit jeweils einer PlusKarte flex und möchte wissen, ob das Internetvolumen von 93 Gigabyte pro Monat oder pro Aufenthalt gilt und wie es sich bei der Nutzung von MultiSim verhält. Die Antworten bestätigen, dass das Datenvolumen pro Monat gilt, sodass er nach dem erneuten Monatswechsel wieder vollen Zugriff hat. Zudem wird erklärt, dass das Volumen für den gesamten Vertrag gilt, unabhängig davon, ob es durch die Haupt-SIM oder die MultiSim verbraucht wird.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Datenroaming-Italien-Monatswechsel_td-p_6957709_jump-to_first-unread-message.txt
+File summary: Hans fragt, ob das Internetvolumen von 93 Gigabyte für seine mobile Datenrouter in Italien pro Monat oder pro Aufenthalt gilt und wie sich dies auf MultiSim auswirkt, woraufhin bestätigt wird, dass es pro Monat gilt und das Volumen unabhängig von der verwendeten SIM-Karte für den Vertrag zählt.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_TV_Qualitaet-von-Sky-ueber-WOW-und-Magenta-2-0_td-p_6976407_jump-to_first-unread-message.txt
-File summary: In einem Forum wird diskutiert, dass die Bildqualität der Sky-Sender über Magenta 2.0/WOW im Vergleich zu Magenta 1 erheblich schlechter ist, da sie höchstens in HD angeboten wird. Ein Nutzer fragt nach Erfahrungen, bevor er mehr Geld für eine geringere Qualität ausgibt. Die Diskussion umfasst auch die Problematik von Zeitversatz bei Live-Übertragungen. Mehrere Nutzer kommen zu dem Schluss, dass Sky-Nutzer Magenta 2.0 meiden sollten, es sei denn, Sky wird über den Sky Receiver empfangen, da die Qualität dann unabhängig von der Magenta-Version ist.]
+[File name: telekomhilft.telekom.de_t5_TV_Qualitaet-von-Sky-ueber-WOW-und-Magenta-2-0_td-p_6976407_jump-to_first-unread-message.txt
+File summary: Die Qualität der Sky-Sender über Magenta 2.0/WOW ist deutlich schlechter als bei Magenta 1, und Nutzer raten davon ab, Magenta 2.0 zu wählen, insbesondere wegen des Zeitversatzes bei Live-Sport.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Mobile-Happy-Hour-wird-nicht-angezeigt_td-p_6964300_jump-to_first-unread-message.txt
-File summary: Ein Benutzer hat ein Problem mit der Anzeige seiner Mobile Happy Hour in der App trotz eines MagentaEINS Vertrages. Die Antwort von einem Nutzer erklärt, dass der Mobilfunkvertrag älter als der 01.08.2024 ist, was bedeutet, dass der Benutzer nicht berechtigt ist, an der Happy Hour teilzunehmen. Diese Regelung gilt nur für Verträge, die ab dem 01.08.2024 abgeschlossen wurden.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Mobile-Happy-Hour-wird-nicht-angezeigt_td-p_6964300_jump-to_first-unread-message.txt
+File summary: Der Nutzer hat einen MagentaEINS-Vertrag, jedoch wird die Mobile Happy Hour in der App nicht angezeigt, da der Vertrag älter als der 01.08.2024 ist und somit keine Berechtigung für die Happy Hour besteht.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Family-Card-Start-1-Gen-soll-Magenta-Mobil-S-DTAG-werden_td-p_6954353_jump-to_first-unread-message.txt
-File summary: Zusammenfassung: Der Nutzer hat das Problem, dass seine Family Card Start in einen Magenta Mobil S Vertrag umgewandelt werden soll. Gleichzeitig soll dieser Vertrag die Hauptkarte werden, die von seinem Sohn genutzt wird. Der Sohn möchte den Vertrag übernehmen, aber der Vertragsübernahmeprozess funktioniert nicht, da zuvor ein Tarifwechsel zu Standardkonditionen erforderlich ist. Der Nutzer sucht nach Informationen zu diesem Tarifwechsel. Es wird empfohlen, dies über interne Kanäle zu klären.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Family-Card-Start-1-Gen-soll-Magenta-Mobil-S-DTAG-werden_td-p_6954353_jump-to_first-unread-message.txt
+File summary: Der Nutzer möchte seine Family Card Start in einen Magenta Mobil S DTAG umwandeln und die Vertragübernahme durch seinen Sohn durchführen, stößt jedoch auf Schwierigkeiten, da ein Tarifwechsel in Standardkonditionen erforderlich ist, für den er keine Informationen finden konnte.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil-gutaben.txt
-File summary: Um den MagentaEINS Prepaid-Vorteil zu erhalten, müssen Sie zunächst ausreichend Prepaid-Guthaben aufladen, um den Grundpreis abzudecken. Erst nachdem dies geschehen ist, steht Ihnen das zusätzliche Datenvolumen des MagentaEINS Prepaid-Vorteils zur Verfügung.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil-gutaben.txt
+File summary: Um den MagentaEINS Prepaid-Vorteil zu erhalten, müssen Sie mindestens so viel Prepaid-Guthaben aufladen, dass es für die Zahlung Ihres Grundpreises ausreicht, bevor das zusätzliche Datenvolumen aktiviert wird.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Keine-quot-HappyHour-quot-auswaehlbar_td-p_6961748_jump-to_first-unread-message.txt
-File summary: Der Benutzer meldet ein Problem mit der Auswahl der "HappyHour" in der MeinMagenta App, obwohl er einen aktuellen Vertrag und den MagentaEins-Vorteil hat. Trotz Deinstallation der App ist die Funktion nicht verfügbar. Er sucht nach kompetenter Hilfe für dieses Problem. In den akzeptierten Lösungen wird erwähnt, dass eine Tarifumstellung erfolgreich durchgeführt wurde und der Benutzer auf weitere Nachrichten zur Anzeige in der App wartet.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Keine-quot-HappyHour-quot-auswaehlbar_td-p_6961748_jump-to_first-unread-message.txt
+File summary: Der Nutzer hat seit dem 9.9.24 einen Vertrag mit MagentaEins-Vorteil und MagentaMobile S 5. Gen, kann jedoch die "HappyHour" in der MeinMagenta-App trotz Deinstallation nicht auswählen und sucht daher kompetente Unterstützung.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_eSim-MultiSim-Fuer-iPad_td-p_6969665_jump-to_first-unread-message.txt
-File summary: Die Diskussion handelt von einem Benutzer, der eine MultiSIM für sein iPad bestellt hat, aber Schwierigkeiten hat, im Kundenportal den QR-Code für die Einrichtung des weiteren Profils zu finden. In den akzeptierten Lösungen bedankt sich ein Benutzer namens Lilia für ein hilfreiches Telefonat, in dem das Kartenformat angepasst wurde. Sie bietet an, bei weiteren Fragen oder Problemen zur Verfügung zu stehen.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_eSim-MultiSim-Fuer-iPad_td-p_6969665_jump-to_first-unread-message.txt
+File summary: Der Nutzer hat im Kundencenter eine MultiSim für sein iPad bestellt, kann jedoch nicht auf den QR-Code zugreifen, um das Profil einzurichten.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil-voraussetzung.txt
-File summary: Um den MagentaEINS Prepaid-Vorteil zu erhalten, müssen Sie einen Prepaid-Tarif ab MagentaMobil Prepaid M sowie einen MagentaZuhause Festnetz-Tarif haben.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil-voraussetzung.txt
+File summary: Um den MagentaEINS Prepaid-Vorteil zu erhalten, sind ein Prepaid-Tarif ab MagentaMobil Prepaid M und ein MagentaZuhause Festnetz-Tarif erforderlich.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_MagentaCLOUD_Speichervolumen-kann-nicht-erhoeht-werden_td-p_6956726_jump-to_first-unread-message.txt
-File summary: Bernhard Feiten möchte sein Speichervolumen in der Magenta Cloud erhöhen, benötigt jedoch zunächst die Kündigung seines aktuellen Vertrags (Magenta Cloud M). Nach der Kündigung erhält er die Mitteilung, dass eine Buchung erst nach Ablauf der Vertragslaufzeit möglich ist, was für ihn unpraktisch ist, da er das größere Volumen sofort benötigt. Er sucht Hilfe bei der Erhöhung des Speichervolumens. 
+[File name: telekomhilft.telekom.de_t5_MagentaCLOUD_Speichervolumen-kann-nicht-erhoeht-werden_td-p_6956726_jump-to_first-unread-message.txt
+File summary: Bernhard Feiten möchte sein Magenta Cloud-Speichervolumen erhöhen, hat jedoch nach der Kündigung seines aktuellen Vertrags erfahren, dass die Buchung der neuen Option erst nach Ablauf der Vertragszeit möglich ist, und bittet um Unterstützung, da er das größere Volumen sofort benötigt.]
 
-In der Antwort wird Bernhard erklärt, dass er korrekt gehandelt hat, indem er die vorherige Option gekündigt und die neue gebucht hat. Es wird darauf hingewiesen, dass die Daten nach der Kündigung für 60 Tage auf den Servern bleiben und er die Magenta Cloud in diesem Zeitraum wieder buchen kann, ohne den Zugriff auf seine Dateien zu verlieren.]
-
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Magenta-EINS-Vorteil-obwohl-Festnetzvertrag-auf-anderen-Namen_td-p_6960234_jump-to_first-unread-message.txt
-File summary: Die Anfrage betrifft den Magenta EINS Vorteil des Mobilfunkanbieters Telekom, während der Festnetzvertrag auf den Namen des Ehemanns läuft. Die Fragestellerin plant, wieder zur Telekom zu wechseln und möchte wissen, ob sie den Vorteil trotzdem erhält. Die Antwort bestätigt, dass der Vorteil gewährt wird, solange die Adresse übereinstimmt, und erklärt, wie die Verbindung zwischen Festnetz- und Mobilfunkvertrag hergestellt werden kann. Zudem wird mitgeteilt, dass aktuell keine Aktionen für Plus Karten angeboten werden. Abschließend wird erwähnt, dass es möglich ist, einen abweichenden Vertragspartner anzugeben.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Magenta-EINS-Vorteil-obwohl-Festnetzvertrag-auf-anderen-Namen_td-p_6960234_jump-to_first-unread-message.txt
+File summary: Der Magenta EINS Vorteil kann auch dann erhalten werden, wenn der Festnetzanschluss auf den Namen des Ehemanns läuft, solange die Adresse übereinstimmt, während für die Plus Karte derzeit keine Aktionen verfügbar sind, aber eine Rufnummernportierung von einem anderen Namen möglich ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Telekom-Tarif-Kombibundle-mit-TV_td-p_6963817_jump-to_first-unread-message.txt
-File summary: Der Benutzer fragt, ob es bei der Telekom Kombinationsmöglichkeiten für einen Handy-Kombitarif mit TV gibt, der auch einen Rabatt von 5 Euro pro Monat bietet und die Option, den Magenta Mobil L Tarif von 80 GB auf unbegrenzt aufzustocken. Auf der Telekom-Website fand er nur den MagentaEINS Tarif, der einen Festnetzvertrag erfordert, den er nicht hat, da er nur MagentaTV Megastream nutzt. Er möchte wissen, ob die Kombitarife mit dem Rabatt auch für Cashback bis zu 600 Euro berechtigt sind, da er nicht möchte, dass sich herausstellt, dass er am Ende mehr zahlen muss.
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Telekom-Tarif-Kombibundle-mit-TV_td-p_6963817_jump-to_first-unread-message.txt
+File summary: Der Nutzer fragt nach Kombitarifen der Telekom für einen Handyvertrag mit TV, insbesondere ob es eine Möglichkeit gibt, den Magenta Mobil L Tarif ohne Festnetzanschluss zu kombinieren und ob die 5-Euro-Rabattaktion auch für Cashback bis zu 600 Euro gilt, während die Antwort bestätigt, dass der Magenta EINS Vorteil an einen Festnetzanschluss gebunden ist und die Cashback-Aktion unabhängig davon ist.]
 
-Die Antwort von Telekom-Mitarbeitern bestätigt, dass der MagentaEINS Vorteil nur mit einem Festnetzanschluss verfügbar ist und dass die Cashback-Aktion für Mobilfunkneuverträge unabhängig davon ist.]
-
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Umstieg-von-Magenta-XL-zu-Magenta-XL-Premium-mit-Pluskarten_td-p_6963632_jump-to_first-unread-message.txt
-File summary: Der Benutzer überlegt, von dem Tarif Magenta XL mit Pluskarten auf den Magenta XL Premium Tarif umzusteigen und hat Fragen zu den Pluskarten im EU-Ausland, dem Kontingent sowie der Multi-SIM-Nutzung im Hauptvertrag. Die Vorteile des Magenta Mobil XL Premium Tarifs umfassen unbegrenztes Datenvolumen im Inland und in der EU, 93 GB für neue Pluskarten, zwei inklusive Multi-SIM-Karten mit der Möglichkeit, bis zu fünf weitere für jeweils 30 € zu buchen, sowie eine Telefon-Flatrate in die EU, Schweiz, Türkei, USA und Kanada. Zudem gibt es einen Rabatt von 10 €, wenn ein Festnetzanschluss bei der Telekom vorhanden ist. Der Tarif ist zwar kostspielig, bietet jedoch hohen Komfort, besonders für Nutzer, die häufig im Ausland sind.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Umstieg-von-Magenta-XL-zu-Magenta-XL-Premium-mit-Pluskarten_td-p_6963632_jump-to_first-unread-message.txt
+File summary: Der Umstieg von Magenta XL zu Magenta XL Premium bietet unbegrenzte Daten im Inland und EU, 93 GB für neue Pluskarten, zwei inkludierte Multi-SIM-Karten mit der Möglichkeit, bis zu fünf weitere für 30€ pro Karte zu buchen, eine Telefon-Flatrate in die EU und zusätzliche Rabatte bei bestehendem Festnetzanschluss, wodurch der Tarif trotz hoher Kosten einen komfortablen Service für Vielreisende darstellt.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_MagentaCLOUD_Ich-kann-nicht-mein-Cloud-offnen-Was-schreiben-in-quot-Username_td-p_6984171_jump-to_first-unread-message.txt
-File summary: Der Benutzer hat Schwierigkeiten, auf seine Cloud zuzugreifen und fragt, was er in die Felder „Username“ und „Passwort“ eingeben soll. Die akzeptierten Lösungen empfehlen, im Feld „Username“ den selbst festgelegten Namen und im Feld „Passwort“ das selbst festgelegte Passwort einzugeben.]
+[File name: telekomhilft.telekom.de_t5_MagentaCLOUD_Ich-kann-nicht-mein-Cloud-offnen-Was-schreiben-in-quot-Username_td-p_6984171_jump-to_first-unread-message.txt
+File summary: Der Benutzer kann nicht auf die Cloud zugreifen und fragt, was in die Felder "Username" und "Passwort" einzutragen ist, woraufhin die Lösung lautet, den festgelegten Benutzernamen und das festgelegte Passwort einzugeben.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Happy-hour-in-neue-Generation-wechseln_td-p_6954229_jump-to_first-unread-message.txt
-File summary: Der Nutzer hat Magenta 1 mit Mobilfunk und Partner- bzw. Pluskarten, deren Verträge verlängert wurden, kann jedoch keine Happy Hour freischalten. Dies könnte daran liegen, dass weiterhin die 5. Generation angezeigt wird. Die Frage stellt sich, ob mit der Vertragsverlängerung nicht automatisch auf die neueste Generation gewechselt wird. Die akzeptierten Lösungen schlagen vor, dass der Nutzer den Tarifwechsel im Kundencenter selbst vornehmen kann, ohne dass sich die Laufzeit des Mobilfunks ändert.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Happy-hour-in-neue-Generation-wechseln_td-p_6954229_jump-to_first-unread-message.txt
+File summary: Der Nutzer hat Magenta 1 mit Mobilfunk und fragt, warum er keine Happy Hour freischalten kann, obwohl seine Verträge verlängert wurden, und erhält die Lösung, dass er den Tarifwechsel im Kundencenter vornehmen kann, ohne die Laufzeit des Mobilfunkvertrags zu verändern.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Prepaid-S-von-allen-Verbesserungen-Ausgeschlossen_td-p_6944247_jump-to_first-unread-message.txt
-File summary: In dem Dokument wird darauf hingewiesen, dass alle Prepaid-Tarife der Telekom kürzlich verbessert wurden, indem mehr Datenvolumen und die Möglichkeit zur Übertragung ungenutzter Daten in den nächsten Abrechnungszeitraum eingeführt wurden. Allerdings bleibt der Tarif Prepaid S von diesen Verbesserungen ausgeschlossen und bietet weiterhin nur 1 GB Datenvolumen. Zudem ist er vom MagentaEINS Prepaid-Vorteil ausgeschlossen. Die Frage bleibt, warum dieser Tarif von den Neuerungen nicht profitiert. In den akzeptierten Lösungen wird auf einen Wechsel zu einem anderen Tarif, dem MagentaMobil Prepaid Basic, hingewiesen und es werden Tipps zur Änderung des APN gegeben, um ungewollte Aktivierungen zu vermeiden.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Prepaid-S-von-allen-Verbesserungen-Ausgeschlossen_td-p_6944247_jump-to_first-unread-message.txt
+File summary: Der Prepaid Tarif S bleibt von allen Verbesserungen ausgeschlossen, während andere Prepaid Tarife von erhöhtem Datenvolumen und der Übertragung ungenutzter Daten profitieren, was Fragen zur Benachteiligung des Prepaid S aufwirft.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_TV_Rechnung_td-p_6976529_jump-to_first-unread-message.txt
-File summary: Die Rechnung für Oktober 2024 ist falsch, da der Benutzer BigTV zum 12. Oktober 2024 gekündigt hat und dies auch bestätigt wurde. Es handelt sich nicht um eine Mobilfunkrechnung, sondern um ein Zusatzprodukt von MagentaTV. Der Benutzer sollte die nächste Rechnung abwarten, da dort zu viel gezahlte Gebühren erstattet werden.]
+[File name: telekomhilft.telekom.de_t5_TV_Rechnung_td-p_6976529_jump-to_first-unread-message.txt
+File summary: Die Rechnung für Oktober 2024 ist falsch, da das Zusatzprodukt bigtv zum 12.10.2024 gekündigt wurde und eine Bestätigung vorliegt; es wird empfohlen, die nächste Rechnung abzuwarten, um eine Erstattung zu erhalten.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_vorteil-unbegrenztes-datenvolumen.txt
-File summary: Mit dem MagentaMobil L und L Young Tarif erhalten Kunden unbegrenztes Datenvolumen als Vorteil von MagentaEINS. Dies gilt auch für die dazugehörigen PlusKarten. Bei einem Tarifwechsel kann die Freischaltung dieses Vorteils 2 bis 3 Tage dauern.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_vorteil-unbegrenztes-datenvolumen.txt
+File summary: Mit dem MagentaMobil L und L Young Tarif erhalten Sie als MagentaEINS Vorteil unbegrenztes Datenvolumen, einschließlich der zugehörigen PlusKarten, wobei die Freischaltung bei einem Tarifwechsel 2-3 Tage dauern kann.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Umschreibung-einer-Mail-Adresse-auf-einen-anderen-DSL-Vertrag_td-p_6959877_jump-to_first-unread-message.txt
-File summary: Die Zahnärztin, die ihre Praxis zum Jahresende aufgibt, benötigt Unterstützung bei der Umstellung ihrer Telekom-Dienste. Sie möchte zwei E-Mail-Adressen, die an ihren Telekom-Zugang gebunden sind, auf ihren privaten Vertrag übertragen. Außerdem möchte sie ihren Mobilfunkvertrag, der derzeit mit dem Festnetzanschluss der Praxis verbunden ist, ab dem 1. Januar auf ihren Privatanschluss umlegen. Die empfohlenen Schritte umfassen die Nutzung der Website www.telekom.de/mail-umziehen für den E-Mail-Umzug und gegebenenfalls einen Anruf bei der Hotline, um die Legitimierung durchzuführen und den Umzug in die Wege zu leiten.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Umschreibung-einer-Mail-Adresse-auf-einen-anderen-DSL-Vertrag_td-p_6959877_jump-to_first-unread-message.txt
+File summary: Eine Zahnärztin möchte ihre E-Mail-Adressen von ihrem geschäftlichen Telekom-Zugang auf ihren privaten Vertrag umschreiben und zusätzlich ihren Mobilfunkvertrag, der mit dem Festnetzanschluss verbunden ist, ab dem 1. Januar auf den Privatanschluss übertragen, wobei der Umzug der E-Mail über die Webseite der Telekom beauftragt werden kann, was jedoch möglicherweise eine telefonische Legitimation erfordert.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_pausieren-eines-Vertrages-wegen-laengerer-Abwesenheit_td-p_6973396_jump-to_first-unread-message.txt
-File summary: Der Benutzer möchte seinen MagentaZuhause XL-Vertrag aufgrund einer längeren Abwesenheit pausieren, um Kosten zu sparen, ohne die Vertragslaufzeit zu verlieren. Er erkundigt sich, ob das Pausieren des Vertrags und einzelner Elemente wie Festnetz, Internet und TV möglich ist. Die Antwort von Experten bestätigt jedoch, dass eine Stilllegung des Festnetz-Vertrags nicht möglich ist.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_pausieren-eines-Vertrages-wegen-laengerer-Abwesenheit_td-p_6973396_jump-to_first-unread-message.txt
+File summary: Ein Nutzer fragt, ob er seinen MagentaZuhause XL Vertrag während seiner längeren Abwesenheit pausieren kann, um Kosten zu sparen, und erkundigt sich dabei nach den Möglichkeiten zur Pausierung einzelner Vertragselemente wie Festnetz, Internet und TV, erhält jedoch die Antwort, dass eine Stilllegung des Festnetz-Vertrags nicht möglich ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_vorteil-beauftragen.txt
-File summary: Um MagentaEINS zu beauftragen, können Sie die bereitgestellte Anleitung nutzen, um den Vorteil für Ihre bestehenden Verträge selbst freizuschalten oder Ihr MagentaEINS Paket direkt zu konfigurieren. Die Anleitung führt Sie Schritt für Schritt durch den Bestellprozess.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_vorteil-beauftragen.txt
+File summary: Sie können den MagentaEINS Vorteil selbst aktivieren oder Ihr MagentaEINS Paket konfigurieren, indem Sie unserer Schritt-für-Schritt-Anleitung folgen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Sonstiges_Alten-Login-kann-nicht-geloescht-werden_td-p_6940715_jump-to_first-unread-message.txt
-File summary: Das Dokument behandelt das Problem eines Nutzers, der seinen alten Telekom-Login (Kundennummer) löschen möchte, nachdem er seinen Magenta TV-Vertrag gekündigt hat. Der Nutzer hat bereits Kontakt zum Support aufgenommen, der ihm einen Link zur Löschung gesendet hat. Allerdings findet der Nutzer die erforderlichen Optionen zur Löschung nicht im Kundencenter. Die Lösung, die ihm angeboten wird, besagt, dass der Login erst 180 Tage nach der Kündigung des Produkts vollständig gelöscht werden kann. Der Nutzer wird gebeten, bis Dezember zu warten, bevor er den Löschvorgang selbst durchführen kann.]
+[File name: telekomhilft.telekom.de_t5_Sonstiges_Alten-Login-kann-nicht-geloescht-werden_td-p_6940715_jump-to_first-unread-message.txt
+File summary: Der Benutzer möchte seinen alten Telekom-Login löschen, da er keinen aktiven Vertrag mehr hat, erhielt jedoch die Information, dass dies erst 180 Tage nach der Kündigung des Produkts möglich ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_mobilfunk_tarife-optionen_smartphone-tarife_magenta-mobil-eins-zusatzkarten.txt
-File summary: Ja, Sie können zu Ihrem bestehenden MagentaMobil EINS Tarif weitere Telekom Zusatzkarten hinzufügen.]
+[File name: https___www.telekom.de_hilfe_mobilfunk_tarife-optionen_smartphone-tarife_magenta-mobil-eins-zusatzkarten.txt
+File summary: Ja, es ist möglich, zu einem bestehenden MagentaMobil EINS Tarif zusätzliche Telekom Zusatzkarten hinzuzufügen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_treuebonus-kuendigung.txt
-File summary: Wenn Sie Ihren Festnetz-Vertrag kündigen, bleibt der MagentaEINS Treuebonus erhalten und wird weiterhin auf Ihrem Mobilfunk-Vertrag angerechnet. Allerdings entfallen alle zusätzlichen MagentaEINS Vorteile Ihres MagentaMobil Vertrages mit dem Ende des Festnetz-Anschlusses.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_treuebonus-kuendigung.txt
+File summary: Wenn der Festnetz-Vertrag gekündigt wird, verfällt der MagentaEINS Treuebonus nicht, sondern wird weiterhin auf dem Mobilfunk-Vertrag verrechnet, während alle zusätzlichen Vorteile des MagentaEINS-Angebots mit dem Ende des Festnetz-Vertrags entfallen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_unterwegs_magenta-mobil.txt
-File summary: Die Telekom bietet Mobilfunkkunden die Möglichkeit, von MagentaEINS zu profitieren, indem sie Mobilfunk und Festnetz inklusive Internet kombinieren. Dadurch können Kunden monatlich 5 € sparen, täglich mindestens eine Stunde unbegrenzt surfen und kostenlos vom Festnetz in alle deutschen Mobilfunknetze telefonieren. Festnetzkunden, die attraktive Preise für Haupt- und Zusatzkarten wünschen, können sich per E-Mail an die Telekom erinnern lassen, um ihre Rufnummer bis zu 4 Monate vor Vertragsende zum neuen Anbieter mitzunehmen. Außerdem bietet die Telekom attraktive Smartphones im Rahmen der MagentaMobil Tarife an, darunter das Xiaomi 14T Pro und 14T zu einem einmaligen Preis von 1 €.]
+[File name: https___www.telekom.de_unterwegs_magenta-mobil.txt
+File summary: Die Telekom empfiehlt MagentaEINS für Mobilfunkkunden, um monatlich 5 € zu sparen und von Vorteilen wie unbegrenztem Surfen und Telefonflatrate zu profitieren, während Festnetzkunden die Möglichkeit haben, ihre Rufnummer vor Vertragsende mitzunehmen und attraktive Tarife für Haupt- und Zusatzkarten zu nutzen, und potenzielle Neukunden spezielle Angebote mit Top-Smartphones im MagentaMobil Tarif erhalten können.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_magenta-eins_mobile-happy-hour.txt
-File summary: Die Mobile Happy Hour der Telekom ermöglicht es Mobilfunk-Kunden, täglich für 60 Minuten unbegrenzt zu surfen. Dieses Angebot gilt für Haupt- und Pluskarten und ist nur für Telekom-Kunden mit MagentaEINS Vorteil in der aktuellen Tarifgeneration verfügbar. Kunden, die zusätzlich zu ihrem MagentaZuhause Tarif TV gebucht haben, können sogar zwei Mobile Happy Hours pro Tag nutzen. Auch junge Kunden unter 28 Jahren profitieren von speziellen Young-Tarifen. Die Buchung erfolgt bequem über die MeinMagenta App, und die Nutzung kann täglich von 00:00 bis 23:59 erfolgen. Eine Verlängerung der Happy Hour ist nicht möglich, und sie kann nicht unterbrochen werden. Die Mobile Happy Hour gilt auch in der EU, UK und der Schweiz. Die Restlaufzeit kann in der App eingesehen werden.]
+[File name: https___www.telekom.de_magenta-eins_mobile-happy-hour.txt
+File summary: Die Mobile Happy Hour ermöglicht Telekom Mobilfunk-Kunden mit MagentaEINS Vorteil, täglich 60 Minuten unbegrenzt zu surfen, ist über die MeinMagenta App buchbar und gilt auch im EU-Ausland, wobei Kunden mit zusätzlichen MagentaZuhause und TV-Tarifen bis zu zwei Stunden täglich erhalten können.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Ich-moechte-meine-Hauptkarte-Mobilfunk-inkl-Magenta1-Vorteil-und_td-p_6942473_jump-to_first-unread-message.txt
-File summary: Die Diskussion dreht sich um die Verlängerung eines Mobilfunkvertrags, inklusive des MagentaEINS Vorteils und zwei MM Plus Karten. Eine Lösung beinhaltet die Umstellung des Sohnes auf den Young Tarif, wodurch er für 14,95 € im Monat 60 GB Datenvolumen erhält. Außerdem wird der Hauptvertrag auf den neuesten Tarif verlängert, wobei ein Grundpreisnachlass über 24 Monate gewährt wird. Die monatlichen Kosten reduzieren sich insgesamt, nachdem die Änderungen vorgenommen wurden. Der Austausch zwischen den Beteiligten zeigt eine freundliche und hilfsbereite Kommunikation.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Ich-moechte-meine-Hauptkarte-Mobilfunk-inkl-Magenta1-Vorteil-und_td-p_6942473_jump-to_first-unread-message.txt
+File summary: Tanja Feller möchte ihre Hauptkarte im Mobilfunk, inklusive Magenta1 Vorteil und zwei MM Plus Karten, verlängern und erhält dazu verschiedene Angebote und Informationen über Tarifänderungen für ihren Sohn.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Falsche-Hausnummer-fuer-Festnetz-hinterlegt-daher-keine-Buchung_td-p_6957150_jump-to_first-unread-message.txt
-File summary: Ein Kunde hat festgestellt, dass nach der Verlängerung seines Mobilfunkvertrags die MagentaEINS-Option nicht mehr verfügbar ist. Er hat sowohl einen Festnetz- als auch einen Mobilfunkanschluss seit 2010 bei der Telekom. Die Überprüfung seiner Daten zeigt, dass für den Mobilfunkvertrag die korrekte Hausnummer (#16) hinterlegt ist, während für den Festnetzanschluss eine veraltete Hausnummer (#146) aus DDR-Zeiten eingetragen ist. Der Kunde vermutet, dass die unterschiedlichen Hausnummern die Buchung der MagentaEINS-Option verhindern. Er bittet um Unterstützung bei der Aktualisierung seiner Daten, da er keinen eigenen Zugang zur Anpassung hat. 
-
-In der Lösung wurde die Hausnummer auf #16 geändert, wodurch die MagentaEINS-Option wieder aktiviert wurde.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Falsche-Hausnummer-fuer-Festnetz-hinterlegt-daher-keine-Buchung_td-p_6957150_jump-to_first-unread-message.txt
+File summary: Der Nutzer hat festgestellt, dass die MagentaEINS-Option nach der Verlängerung seines Mobilfunkvertrags aufgrund einer falschen, veralteten Hausnummer für seinen Festnetzanschluss nicht mehr verfügbar ist und bittet um Hilfe zur Korrektur seiner Daten, was schließlich zur Aktivierung des Vorteils führt.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_prepaid-vertrag-wechseln.txt
-File summary: Wenn Sie von einem MagentaEINS Prepaid-Vertrag in einen Mobilfunk-Vertrag mit Laufzeit wechseln, verlieren Sie Ihren MagentaEINS Prepaid-Vorteil.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_prepaid-vertrag-wechseln.txt
+File summary: Beim Wechsel zu einem Mobilfunk-Vertrag mit Laufzeit verlieren Sie Ihren MagentaEINS Prepaid-Vorteil.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_vorteil-voraussetzung.txt
-File summary: Um den MagentaEINS Vorteil zu erhalten, müssen Sie einen MagentaMobil Tarif sowie einen Festnetz-Tarif ab MagentaZuhause XS besitzen. CombiCards, CombiCards Data, Family Cards, PlusKarten, reine Telefontarife, MagentaZuhause Start und Tarife der Marke congstar sind nicht berechtigt.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_vorteil-voraussetzung.txt
+File summary: Für den MagentaEINS Vorteil sind ein MagentaMobil Tarif und ein Festnetz-Tarif ab MagentaZuhause XS erforderlich, während CombiCards, Family Cards, reine Telefontarife, MagentaZuhause Start und congstar-Tarife nicht berechtigt sind.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_treuebonus-auszahlung.txt
-File summary: Der MagentaEINS Treuebonus kann nicht in bar ausgezahlt werden. Stattdessen wird er Ihrem Mobilfunk-Rechnungskonto gutgeschrieben und verrechnet, bis er vollständig genutzt ist.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_treuebonus-auszahlung.txt
+File summary: Der MagentaEINS Treuebonus kann nicht ausgezahlt werden, sondern wird auf der Mobilfunk-Rechnung gutgeschrieben und bis zur vollständigen Verrechnung verwendet.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Aktueller-Tarif-MagentaMobil-EINS_td-p_6978717_jump-to_first-unread-message.txt
-File summary: Die Nutzerin beschreibt den Mobilfunk-Tarif "MagentaMobil EINS FLEX", den ihre Tochter seit dem 17.12.2021 nutzt und für den sie 35,05 € zahlt, obwohl der Tarif eigentlich 80 € kostet. Sie erhält Rabatte, die bis 2026 gelten. Zudem hat ihre Tochter zusätzliche Pluskarten. In einer E-Mail wird gefragt, wie sie mehr Datenvolumen als Unlimited erhalten kann. Bei einem Tarifwechsel würde der Rabatt wegfallen, und sie müsste mindestens in den MagentaMobil L wechseln. Da sie ein neues iPhone möchte, stellt sich die Frage, ob sie den Tarif einfach verlängern kann oder ob ein Wechsel zu einem anderen Tarif notwendig ist. Die Antworten von Nutzern weisen darauf hin, dass die E-Mail Werbung ist und der Tarif bald nicht mehr verfügbar sein könnte. Daher wird geraten, den aktuellen Vertrag so lange wie möglich zu nutzen und keine Änderungen vorzunehmen.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Aktueller-Tarif-MagentaMobil-EINS_td-p_6978717_jump-to_first-unread-message.txt
+File summary: Die Nutzerin beschreibt den Mobilfunk-Tarif "MagentaMobil EINS FLEX" ihrer Tochter, der seit 17.12.2021 besteht und durch Rabatte von insgesamt 49,95 € deutlich günstiger ist als der reguläre Preis, und fragt sich, ob ein Tarifwechsel notwendig ist, um ein neues iPhone zu erhalten, während andere Nutzer sie darauf hinweisen, dass die erhaltene E-Mail eine Werbemail ist und eine Vertragsänderung aufgrund der Einstellung des Vertriebs nicht empfehlenswert ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Komme-ich-wirklich-aus-meinen-Special-M-Vertrag-vorzeitig-raus_td-p_6944733_jump-to_first-unread-message.txt
-File summary: Der Benutzer fragt, ob er vorzeitig aus seinem Special M Vertrag bei der Telekom herauskommen kann, nachdem er von einem Kundenberater informiert wurde, dass die Mindestlaufzeit bereits abgelaufen ist. Er hat den Vertrag im letzten Jahr verlängert, ist jedoch unzufrieden mit dem begrenzten Datenvolumen und zieht einen Wechsel zu einem besseren Prepaid Tarif in Betracht. In den Antworten wird bestätigt, dass der Wechsel zu einem Prepaid L Tarif erfolgreich vermerkt wurde und der Benutzer kontaktiert werden soll, falls sich am MagentaEINS Vorteil etwas ändert.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Komme-ich-wirklich-aus-meinen-Special-M-Vertrag-vorzeitig-raus_td-p_6944733_jump-to_first-unread-message.txt
+File summary: Der Kunde fragt, ob er vorzeitig aus seinem Special M Vertrag aussteigen kann, da die Mindestlaufzeit abgelaufen ist, und erkundigt sich nach einem Wechsel zu einem besseren Prepaid Tarif, was ihm von einem Telekom-Mitarbeiter während eines freundlichen Telefonats bestätigt wurde.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Umstellung-MagentaZuhause-Regio-quot-manuell-quot_td-p_6969278_jump-to_first-unread-message.txt
-File summary: In dem Dokument beschreibt ein Nutzer die Umstellung auf den MagentaZuhause Regio Tarif. Am Morgen der Umstellung funktionierte das Telefon nicht, während das Internet weiterhin verfügbar war. Nach der Rückkehr von der Arbeit befolgte der Nutzer die Anweisungen in einer SMS zur manuellen Umstellung der FritzBox, die sich hauptsächlich auf die Telefonie konzentrierten. Der Nutzer fragt sich, ob es korrekt ist, dass der Internetzugang als "Telekom DSL-Anschluss" angezeigt wird und die Zugangsdaten den Benutzernamen @mzregio.de enthalten, da das Internet einwandfrei funktionierte. Eine empfohlene Lösung ist, die Regio Hotline unter 0800 3306807 anzurufen, um weitere Informationen zu erhalten.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Umstellung-MagentaZuhause-Regio-quot-manuell-quot_td-p_6969278_jump-to_first-unread-message.txt
+File summary: Der Nutzer berichtet von Schwierigkeiten bei der Umstellung auf MagentaZuhause Regio, wobei das Telefon nicht funktionierte, das Internet jedoch stabil blieb, und fragt, ob die Angaben zur Internetverbindung korrekt sind, während er zur Klärung die Regio Hotline kontaktiert.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_magenta-eins_kombipaket.txt
-File summary: Das Kombipaket von Telekom umfasst einen Vertrag für Mobilfunk sowie einen für Festnetz und Internet. Es bietet unbegrenztes Datenvolumen für die Hauptkarte bei den Tarifen MagentaMobil L und XL, wobei jede Zusatzkarte das gleiche Datenvolumen nutzt. Nutzer erhalten täglich eine Stunde unbegrenztes Datenvolumen in allen Mobilfunktarifen; bei Kombination mit Festnetz und MagentaTV sind es sogar zwei Stunden. Zudem gibt es eine Festnetzflat in alle deutschen Festnetz- und Mobilfunknetze sowie eine Allnet-Flat für Mobilfunk in alle deutschen Netze (außer bei MagentaMobil Prepaid S). Die Verträge haben eine Laufzeit von 24 Monaten und bei Kombination mit Festnetz gibt es einen monatlichen Preisvorteil von 5 € für die Mobilfunktarife S-XL.]
+[File name: https___www.telekom.de_magenta-eins_kombipaket.txt
+File summary: Das Kombipaket für Handy, Festnetz und Internet umfasst je einen Vertrag für Mobilfunk und Festnetz mit Internet, unbegrenztes Datenvolumen für die Hauptkarte bei den Tarifen MagentaMobil L und XL, eine Stunde unbegrenztes Datenvolumen pro Tag in allen Mobilfunktarifen sowie zwei Stunden bei Kombination mit MagentaTV, eine Flatrate vom Festnetz in alle deutschen Netze, eine Allnet-Flatrate vom Mobilfunk in alle deutschen Netze (außer Prepaid S), eine Mindestlaufzeit von 24 Monaten und einen monatlichen Preisvorteil von 5 € für die Mobilfunktarife S-XL im Festnetz-Bundle.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_unterwegs_for-friends_magenta-eins.txt
-File summary: Die Voraussetzungen für MagentaEINS for Friends sind, dass der Kunde sowohl einen Mobilfunk-Laufzeitvertrag mit einem monatlichen Grundpreis von mindestens 25,46 € besitzt, der nach dem 22.05.2013 abgeschlossen wurde, als auch einen IP-Breitband-Vertrag mit einem monatlichen Grundpreis ab 25,46 €, der nach dem 01.06.2015 abgeschlossen wurde. Beide Verträge müssen auf die gleiche Kundenanschrift laufen.]
+[File name: https___www.telekom.de_unterwegs_for-friends_magenta-eins.txt
+File summary: Für MagentaEINS for Friends müssen Kunden einen Mobilfunk-Laufzeitvertrag mit einem Grundpreis ab 25,46 € und einen IP-Breitband-Vertrag ebenfalls ab 25,46 € besitzen, wobei beide Verträge ab bestimmten Daten abgeschlossen und an derselben Adresse geführt werden müssen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/pdf_kurzbedienungsanleitung-magenta-tv-box.txt
-File summary: Das Bild gibt einen Überblick über "Magenta TV" und hebt dessen Funktionen sowie Nutzungshinweise hervor. Hier ist eine Zusammenfassung der wichtigsten Punkte:
-
-1. **Fernsehen ohne Startzeiten**:
-   - **Funktionen**: Enthält Optionen wie "Neustart" und "7 Tage Replay", die es den Zuschauern ermöglichen, Sendungen unabhängig von traditionellen Sendezeiten zu sehen.
-
-2. **Einfache Nutzung**:
-   - Benutzer können Inhalte, die sie interessieren, leicht finden, mit einer breiten Auswahl an Serien und Filmen in der "Megathek".
-
-3. **Unterhaltung überall**:
-   - Der Dienst ist über die MagentaTV-App zugänglich, die das Ansehen auf mehreren Geräten ermöglicht und den Nutzern Flexibilität bietet.
-
-4. **Zielgruppe**:
-   - Die Informationen richten sich speziell an Nutzer der Magenta TV-Box.
+[File name: pdf_kurzbedienungsanleitung-magenta-tv-box.txt
+File summary: Das Dokument bietet eine umfassende Übersicht über "Magenta TV," einschließlich Funktionen wie "Restart" und "7-Tage Replay," die es Nutzern ermöglichen, Sendungen ohne feste Sendezeiten zu schauen, sowie die einfache Navigation durch eine breite Auswahl an Serien und Filmen in der "Megathek," und informiert darüber, dass die MagentaTV-App Zugriff auf Inhalte auf verschiedenen Geräten ermöglicht, wobei alle Informationen speziell auf die Nutzer der Magenta TV Box ausgerichtet sind.]
 
-Insgesamt fördert das Bild die Bequemlichkeit und Vielseitigkeit von Magenta TV, was es für Nutzer, die nach On-Demand-Inhalten und mobilem Zugriff suchen, attraktiv macht. 
-
-Zusätzlich enthält das Bild einen Inhaltsverzeichnis für ein Benutzerhandbuch zu MagentaTV, das verschiedene Funktionen und Einstellungen umreißt. Wichtige Abschnitte sind unter anderem die Fernbedienung, das Fernsehen, zusätzliche Funktionen und Einstellungen sowie wichtige Hinweise zur kontinuierlichen Weiterentwicklung des Dienstes. Die Benutzer werden auf relevante Webseiten verwiesen, um aktuelle Anleitungen und Senderlisten zu erhalten.]
-
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil-tarife.txt
-File summary: Der MagentaEINS Prepaid-Vorteil gilt für die aktuellen MagentaMobil Prepaid-Tarife, die ab dem Tarif MagentaMobil Prepaid M verfügbar sind.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_prepaid-vorteil-tarife.txt
+File summary: Der MagentaEINS Prepaid-Vorteil gilt für die aktuellen MagentaMobil Prepaid-Tarife ab dem MagentaMobil Prepaid M.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_vertrag-rechnung_vertrag_aenderung_stilllegung.txt
-File summary: **Zusammenfassung:**
-
-Um einen Mobilfunk-Vertrag bei der Telekom vorübergehend stilllegen zu lassen, können Sie dies kostenpflichtig für maximal 6 Monate tun. Die Vertragslaufzeit wird danach fortgesetzt und um den Zeitraum der Stilllegung verlängert. Während der Stilllegung entfallen die auf den Vertrag bezogenen Leistungen, einschließlich der Vorteile bei MagentaEINS. Für die Stilllegung müssen Sie den Kundenservice kontaktieren.
+[File name: https___www.telekom.de_hilfe_vertrag-rechnung_vertrag_aenderung_stilllegung.txt
+File summary: Sie können Ihren Mobilfunk-Vertrag für bis zu 6 Monate kostenpflichtig stilllegen, wobei sich die Vertragslaufzeit entsprechend verlängert und bei einem Festnetz-Vertrag keine Stilllegung möglich ist, sondern nur eine Voll- oder Teilsperre angeboten wird; nach Ablauf der Kündigungsfrist kann der Anschluss ohne Mindestvertragslaufzeit gekündigt und später wieder angemeldet werden, wobei die alte Nummer möglicherweise nicht mehr verfügbar ist.]
 
-Eine Stilllegung des Festnetz-Vertrags ist nicht möglich. Bei Verträgen mit Mindestlaufzeit können Sie eine Voll- oder Teilsperre beantragen. Bei Verträgen ohne Mindestlaufzeit haben Sie die Möglichkeit, nach der Kündigungsfrist zu kündigen und zu einem späteren Zeitpunkt wieder anzumelden, wobei die alte Telefonnummer möglicherweise nicht mehr verfügbar ist.]
-
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_treuebonus-tarifwechsel.txt
-File summary: Wenn Sie Ihren Mobilfunk-Tarif wechseln, bleibt der MagentaEINS Treuebonus bestehen und wird in den neuen Tarif integriert. Beachten Sie, dass eventuelle Wechselgebühren ebenfalls mit dem Treuebonus verrechnet werden.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_treuebonus-tarifwechsel.txt
+File summary: Beim Wechsel des Mobilfunk-Tarifs bleibt der MagentaEINS Treuebonus bestehen und wird mit dem neuen Tarif verrechnet, wobei eventuell anfallende Wechselgebühren ebenfalls mit dem Treuebonus verrechnet werden.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_internet-telefonie_internet_ausbau-verfuegbarkeit_bandbreite-pruefen.txt
-File summary: Um zu überprüfen, welche Internetgeschwindigkeit und Technik an Ihrer Adresse verfügbar ist, können Sie verschiedene Verfügbarkeitschecks nutzen. Diese umfassen die Prüfung der Verfügbarkeit von Glasfaser, DSL/VDSL, MagentaZuhause mit Hybrid 5G/LTE sowie MagentaZuhause Regio. Für jede dieser Anschlusstechniken stehen separate Tests zur Verfügung.]
+[File name: https___www.telekom.de_hilfe_internet-telefonie_internet_ausbau-verfuegbarkeit_bandbreite-pruefen.txt
+File summary: Sie können die Verfügbarkeit und Geschwindigkeit von Internetanschlüssen wie Glasfaser, DSL/VDSL, MagentaZuhause mit Hybrid 5G/LTE und MagentaZuhause Regio an Ihrer Adresse überprüfen, indem Sie die entsprechenden Verfügbarkeitschecks auf der Webseite nutzen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Magenta-1-Vorteil_td-p_6972618_jump-to_first-unread-message.txt
-File summary: Benjamin fragt, ob sich der MagentaEins Vorteil von 10 Euro auf 5 Euro reduziert hat, da er einen alten Vertrag hat, der den höheren Vorteil bietet, weil er auch Festnetzkunde ist. In den aktuellen Mobilvertragsangeboten wird jedoch nur ein Vorteil von 5 Euro erwähnt. Die Antworten bestätigen, dass der Vorteil tatsächlich auf 5 Euro gesenkt wurde, wenn man in die aktuelle Tarifgeneration wechselt. Zudem gibt es kein doppeltes Datenvolumen mehr, aber die Möglichkeit, täglich eine Stunde unlimitiertes Datenvolumen zu buchen, und mit MagentaTV sogar zwei Stunden.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Magenta-1-Vorteil_td-p_6972618_jump-to_first-unread-message.txt
+File summary: Der MagentaEins Vorteil hat sich von 10 Euro auf 5 Euro reduziert, wenn man in die aktuelle Tarifgeneration wechselt, und es gibt kein doppeltes Datenvolumen mehr, stattdessen 1 Stunde unlimitiert, die täglich einmal gebucht werden kann, mit MagentaTV sogar zweimal.]
 
 === Chunk ===
-[File path: data/MagentaEINS/youtube_Die neuen MagentaMobil Angebote für alle, die Familie sind - MagentaEins Vorteil.txt
-File summary: Mit dem Magenta 1 Vorteil der Telekom können sowohl Einzelkunden als auch Familien monatlich 5 Euro auf die Haupt-Mobilfunkkarte sparen, wenn sie sowohl Mobilfunk- als auch Festnetz-Kunde sind. Es können Familienmitglieder und Freunde in den Vertrag aufgenommen werden, wobei die ersten und weiteren Magenta-Mobil-Plus-Karten jeweils 19,95 Euro kosten. Je mehr Personen teilnehmen, desto günstiger wird es insgesamt. Weitere Vorteile sind die Verdopplung des Datenvolumens für alle Karten und zusätzliche Serviceleistungen wie eine kostenlose Festnetz-zu-Mobilfunk-Flatrate sowie ein kostenloser Handy-Ersatz innerhalb von 48 Stunden. Insgesamt machen die neuen Magenta-Mobil-Tarife und der Magenta 1 Vorteil das Telekom-Netz preiswerter und bieten ein besseres 5G-Erlebnis.]
+[File name: youtube_Die neuen MagentaMobil Angebote für alle, die Familie sind - MagentaEins Vorteil.txt
+File summary: Mit dem Magenta 1 Vorteil der Telekom sparen Kunden monatlich 5 Euro auf ihre Haupt-Mobilfunk-Karte, profitieren von günstigeren Preisen für zusätzliche Karten, verdoppeln ihr Datenvolumen und erhalten exklusive Servicevorteile.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_MagentaCLOUD_Namensaenderung_td-p_6973199_jump-to_first-unread-message.txt
-File summary: Ein Benutzer der MagentaCloud möchte seinen Namen in den Kontoinformationen ändern, hat jedoch Schwierigkeiten dabei und bittet um Hilfe. Die Lösung besteht darin, dass Änderungen der persönlichen Angaben online über eine bestimmte Webseite vorgenommen werden können.]
+[File name: telekomhilft.telekom.de_t5_MagentaCLOUD_Namensaenderung_td-p_6973199_jump-to_first-unread-message.txt
+File summary: Ein Nutzer der Magenta Cloud möchte seinen Namen in den Kontoinformationen ändern, hat jedoch Schwierigkeiten dabei und bittet um Hilfe, während die akzeptierte Lösung einen Link zur Online-Änderung persönlicher Angaben bereitstellt.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_STING-Ticket-Vorverkauf-Magenta-Moments_td-p_6951171_jump-to_first-unread-message.txt
-File summary: Ein Benutzer berichtet, dass er versucht hat, STING-Tickets für ein Konzert in Kiel über Magenta Moments zu kaufen, dies jedoch nicht funktioniert hat und fragt, ob die Tickets bereits ausverkauft sind. Timo antwortet, dass seine Aussage sich nur auf die Magenta Moments bezieht und er keine Informationen über andere Verkaufsstellen hat.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_STING-Ticket-Vorverkauf-Magenta-Moments_td-p_6951171_jump-to_first-unread-message.txt
+File summary: Ein Nutzer versucht, STING-Tickets für Kiel über Magenta Moments zu kaufen, hat jedoch Schwierigkeiten und fragt sich, ob die Tickets bereits ausverkauft sind.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_tv_inhalte_magenta-sport_kuendigung.txt
-File summary: Um Ihr MagentaSport Abo zu kündigen, können Sie dies selbst im Kundencenter tun. Die Vorgehensweise hängt davon ab, ob Sie einen Telekom Festnetz- oder Mobilfunkvertrag haben oder ob Sie ohne Vertrag sind. Eine Kündigung ist zum Ablauf der Mindestvertragslaufzeit möglich: nach einem Monat für das Monatsabo oder nach 12 Monaten für das Jahresabo. Die Schritte zum Kündigen sind wie folgt:
-
-- **Mit Telekom Festnetz-Vertrag**: Einloggen im Kundencenter, zu „Verträge“ gehen, den entsprechenden Festnetz-Vertrag auswählen, zu „Tarifoptionen“ und dann „MagentaSport“ klicken, um die Kündigung vorzunehmen.
-  
-- **Mit Telekom Mobilfunk-Vertrag**: Einloggen im Kundencenter, zu „Verträge“ gehen, den Mobilfunk-Vertrag auswählen, „Meine Partnerdienste“ aufrufen und dort „MagentaSport“ kündigen.
-
-- **Ohne Telekom Vertrag**: Einloggen im Kundencenter, zu „MagentaSport Abo“ navigieren und die Kündigung im Bereich „Vertragsstatus“ vornehmen. 
-
-Für detaillierte Informationen können Sie die Leistungsbeschreibung einsehen.]
+[File name: https___www.telekom.de_hilfe_tv_inhalte_magenta-sport_kuendigung.txt
+File summary: Sie können Ihr MagentaSport Abo im Kundencenter kündigen, wobei die Vorgehensweise je nach Art des Abonnements (Monats- oder Jahresabo) und ob Sie einen Telekom Vertrag haben, variiert.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_TV_Angebot-zur-Umstellung-auf-Magenta-One_td-p_6961254_jump-to_first-unread-message.txt
-File summary: Der Benutzer berichtet, dass er von einem Telekom-Mitarbeiter kontaktiert wurde, um eine Vertragsumstellung auf Magenta One anzubieten. Dabei soll der Internetanschluss von VDSL 50 auf 100 erhöht werden, und er benötigt ein Mietgerät, da seine aktuellen TV-Geräte nicht mit der neuen TV-App kompatibel sind. Der Benutzer hat zwei Mietgeräte (401 und 201) und weitere 401-Geräte in Nutzung. Er plant, das 401 zurückzusenden, während er das 201 behalten kann. Nach eigener Recherche hat er die Umstellung widerrufen, da er versteht, dass alte Geräte mit der neuen Plattform nicht mehr funktionieren werden. Er fragt, ob dies korrekt ist und wann die alte Plattform abgeschaltet wird, da dies bereits die zweite Zwangsumstellung für ihn wäre, was den Erwerb neuer Geräte erforderlich macht. Es gibt bisher keinen Termin für die Abschaltung der alten Plattform.]
+[File name: telekomhilft.telekom.de_t5_TV_Angebot-zur-Umstellung-auf-Magenta-One_td-p_6961254_jump-to_first-unread-message.txt
+File summary: Ein Telekom-Kunde berichtet von einem Anruf bezüglich einer Vertragsumstellung auf Magenta One, bei der sein Internetanschluss auf VDSL 100 erhöht und eine Mietgeräteänderung vorgenommen werden soll, jedoch befürchtet er, dass seine aktuellen TV-Geräte nicht mehr kompatibel sind, was ihn dazu veranlasst, die Umstellung zu widerrufen und nach dem Abschalttermin der alten Plattform zu fragen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Zwei-unterschiedliche-Vertraege-zusammen-legen_td-p_6949394_jump-to_first-unread-message.txt
-File summary: In dem Dokument wird eine Anfrage zur Verwaltung von zwei unterschiedlichen GF-Verträgen unter einem Account gestellt. Der erste Vertrag gehört dem Anfragenden, der zweite Vertrag ist auf die Schwiegermutter mit einer anderen Anschrift registriert. Der Anfragende möchte dies aus Gründen des Alters (nahezu 100 Jahre) vereinfachen. Die Antwort besagt, dass es möglich ist, die Verträge unter einem Telekom-Login zu verwalten, solange beide Verträge unter derselben Kundennummer laufen. Bei unterschiedlichen Kundennummern ist dies jedoch nicht möglich.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Zwei-unterschiedliche-Vertraege-zusammen-legen_td-p_6949394_jump-to_first-unread-message.txt
+File summary: Der Nutzer möchte zwei unterschiedliche GF-Verträge, einen eigenen und einen seiner Schwiegermutter, unter einem Account verwalten, wobei die Telekom bestätigt, dass dies nur möglich ist, wenn beide Verträge unter derselben Kundennummer laufen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Mobil-prepaid-Mahnung_td-p_6974931_jump-to_first-unread-message.txt
-File summary: Der Nutzer hat eine Mobil Prepaid-SIM-Karte online bestellt, aktiviert und mit 10,00 € Guthaben für einen Monat genutzt. Er erhielt jedoch eine Mahnung über 9,95 €, die angeblich nicht bezahlt wurde. Ein Telefonat mit der Telekom bestätigte, dass der Betrag von seinem Guthaben abgebucht wurde und nur noch 5 Cent Restguthaben angezeigt werden. Der Nutzer erhielt eine zweite Mahnung mit Inkassoandrohung und fragt sich, warum zweimal 9,95 € für die SIM-Karte berechnet wurden, da ihm ein Mitarbeiter mitteilte, dass für Prepaidkarten keine Rechnungen ausgestellt werden. Der Nutzer, der auch Festnetzkunde ist und Magenta One nutzt, äußert seine Enttäuschung über den Kundenservice und die inkompetente Unterstützung. 
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Mobil-prepaid-Mahnung_td-p_6974931_jump-to_first-unread-message.txt
+File summary: Die Nutzerin hat eine Mobil prepaid SIM-Karte bestellt, aufgeladen und genutzt, erhielt jedoch eine Mahnung über eine angeblich unbezahlte Rechnung von 9,95 €, obwohl ihr Guthaben bereits abgebucht wurde, und ist enttäuscht über den mangelhaften Kundenservice der Telekom sowie über die Verwirrung bezüglich der Abrechnung für Prepaidkarten.]
 
-In den akzeptierten Lösungen wird angedeutet, dass ein Missverständnis bezüglich der Zahlung an Alphacom vorliegt und das Thema somit erledigt ist.]
-
 === Chunk ===
-[File path: data/MagentaEINS/pdf_MagentaTV_2.0.txt
-File summary: Das Dokument bietet eine Übersicht über die verfügbaren Fernsehsender im Rahmen des „Magenta TV 2.0“-Angebots, die ab dem 12. August 2024 verfügbar sind. 
-
-### Verfügbare Sender:
-
-#### **HD-Sender**
-- Unter den HD-Sendern sind beispielsweise:
-  - Das Erste
-  - ZDF
-  - RTL
-  - ProSieben
-  - Arte
-  - ServusTV Motorsport
-
-#### **SD-Sender**
-- Es gibt auch eine Liste von SD-Sendern, die neben ihren HD-Gegenstücken aufgeführt sind. Einige Sender sind möglicherweise nur in Standardauflösung verfügbar, abhängig vom Abonnement.
-
-### Zusätzliche Informationen
-- Die Verfügbarkeit der Sender kann je nach Abonnementstyp variieren, und es wird empfohlen, die Einstellungen anzupassen, um ein optimales Seherlebnis zu gewährleisten.
-- Es wird darauf hingewiesen, dass die Informationen ab dem 12. August 2024 gültig sind und Nutzer ihre Abonnements überprüfen sollten, um zu sehen, auf welche Sender sie zugreifen können.
-
-### TV-Pakete
-Das Dokument enthält auch Informationen zu verschiedenen TV-Paketen, die unterschiedliche Sender in HD und SD umfassen. Die Pakete richten sich an verschiedene Zielgruppen, darunter Familien, Film- und Doku-Enthusiasten. Preise für die Pakete variieren, und es gibt keine Mindestvertragslaufzeit.
-
-Insgesamt bietet das Dokument einen umfassenden Überblick über die Sender, Pakete und deren Formate im „Magenta TV 2.0“-Angebot.]
+[File name: pdf_MagentaTV_2.0.txt
+File summary: Die Übersicht der "Magenta TV 2.0"-Sender, gültig ab dem 12. August 2024, umfasst sowohl HD- als auch SD-Kanäle und bietet verschiedene Pakete an, darunter Familien-, Film- und Doku-Pakete, mit Preisen ab 2,95 Euro pro Monat, wobei einige Sender nur in bestimmten Abonnements verfügbar sind und die Nutzer ihre Einstellungen für Audio und Untertitel anpassen sollten.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_TV_Magenta-one_td-p_6961349_jump-to_first-unread-message.txt
-File summary: Frank äußert seinen Unmut über die Werbung, die er bei Magenta One sehen muss, und fragt, ob er zu seinem alten Magenta zurückkehren kann, da er noch alte Receiver hat. Die Antwort darauf ist, dass die Werbung von den Rechteinhabern vorgeschrieben ist und ein Zurück zu den alten Bedingungen nicht mehr möglich ist, es sei denn, er könnte noch widerrufen.]
+[File name: telekomhilft.telekom.de_t5_TV_Magenta-one_td-p_6961349_jump-to_first-unread-message.txt
+File summary: Der Nutzer Frank beschwert sich über unerwünschte Werbung im Magenta One-Service und fragt, ob er zu einem früheren Magenta-Angebot zurückkehren kann, erhält jedoch die Antwort, dass dies nicht möglich ist und die Werbung von den Rechteinhabern bestimmt wird.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_magenta-eins.txt
-File summary: **Zusammenfassung auf Deutsch:**
+[File name: https___www.telekom.de_magenta-eins.txt
+File summary: MagentaEINS kann mit verschiedenen Tarifen wie Datentarifen, CombiCards, Family Cards und weiteren gebucht werden, und auf der Rechnung wird der Vorteil als "MagentaEINS Vorteil" aufgeführt, der eine Flatrate in alle deutschen Mobilfunknetze bietet, wobei die Aktivierung über eine SMS und der monatliche Rabatt auf der Mobilfunk-Rechnung sichtbar sind.]
 
-Für die Buchung von MagentaEINS müssen folgende Voraussetzungen erfüllt sein: Datentarife, CombiCards, Family Cards, PlusKarten, Community Cards, reine Telefonietarife, Zuhause Kabel, MagentaZuhause Start und Tarife der Marke congstar. 
-
-Auf der Rechnung wird der MagentaEINS Vorteil unterschiedlich ausgewiesen: 
-- Auf der Festnetz-Rechnung erscheint er als "MagentaEINS Vorteil" und beinhaltet eine Flatrate in alle deutschen Mobilfunknetze. In der Auftragsbestätigung wird das Aktivierungsdatum der "Festnetz zu Mobil Flat" mitgeteilt. Im Tarif MagentaZuhause XL ist dieser Vorteil bereits enthalten.
-- Auf der Mobilfunk-Rechnung wird der Vorteil ebenfalls als "MagentaEINS Vorteil" angezeigt. Sobald der Vorteil aktiviert ist, erhalten Kunden eine SMS und der monatliche Rabatt wird in der Rechnung sichtbar. Im ersten Monat wird der Rabatt anteilig gewährt.]
-
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_MagentaCLOUD_MagentaCLOUD-S_td-p_6974205_jump-to_first-unread-message.txt
-File summary: Die Anfrage von Horst betrifft, ob die Buchung von MagentaCLOUD S eine Vertragsverlängerung zur Folge hat oder den bestehenden Vertrag beeinflusst. Die Antwort bestätigt, dass die MagentaCLOUD eine Zubuchoption ist und die Vertragslaufzeit des Hauptvertrags für Festnetz nicht verändert wird.]
+[File name: telekomhilft.telekom.de_t5_MagentaCLOUD_MagentaCLOUD-S_td-p_6974205_jump-to_first-unread-message.txt
+File summary: Die Buchung von MagentaCLOUD S ist eine Zubuchoption, die die Vertragslaufzeit des bestehenden Festnetz-Hauptvertrags nicht verändert.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Verschiedene-Telekom-Logins-miteinander-verknuepfen-und_td-p_6965201_jump-to_first-unread-message.txt
-File summary: Der Benutzer hat drei verschiedene Telekom-Logins und möchte diese miteinander verknüpfen und synchronisieren. Die Logins umfassen ein T-Online-E-Mail-Konto, ein Telekom-Kundencenter-Login, das mit einem alten Festnetzvertrag verbunden ist, und ein neues Kundencenter-Login für einen neuen Festnetzvertrag. Der Benutzer möchte sicherstellen, dass die T-Online-E-Mail-Adresse weiterhin genutzt werden kann. In den akzeptierten Lösungen wird erklärt, dass das E-Mail-Postfach auf die neue Zugangsnummer übertragen wurde, sodass nun alles über einen Zugang verwaltet werden kann. Es wird auch darauf hingewiesen, dass die alte Verknüpfung gelöscht werden muss, um eine neue Verbindung herzustellen.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Verschiedene-Telekom-Logins-miteinander-verknuepfen-und_td-p_6965201_jump-to_first-unread-message.txt
+File summary: Der Nutzer hat drei Telekom-Logins und sucht Hilfe, um diese zu synchronisieren und insbesondere seine T-Online-Email-Adresse mit dem neuesten Login zu verknüpfen, während die Unterstützerin vorschlägt, die alte Verknüpfung zu löschen, um eine neue Verbindung herzustellen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Migration-congstar-vertrag-nummer-in-telekom-magenta-1-Vertrag_td-p_6947545_jump-to_first-unread-message.txt
-File summary: Zusammenfassung: Der Dokument behandelt die Übertragung eines Congstar-Vertrags oder einer Telefonnummer in einen Telekom Magenta 1 Vertrag. Um dies effizient zu gestalten, sollte der Nutzer bei der Auswahl eines Mobilfunkvertrags bei der Telekom die Option zur Rufnummernmitnahme wählen und gegebenenfalls ein Opt-in bei Congstar aktivieren. Zudem kann der MagentaEins-Vorteil sowohl bei der Vertragsauswahl als auch nachträglich hinzugefügt werden, nachdem der neue Mobilfunkvertrag aktiviert ist. Weitere Informationen sind auf den bereitgestellten Links zu finden.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Migration-congstar-vertrag-nummer-in-telekom-magenta-1-Vertrag_td-p_6947545_jump-to_first-unread-message.txt
+File summary: Um einen Congstar Vertrag oder eine Rufnummer in einen Telekom Magenta 1 Vertrag zu migrieren, wählt man einen gewünschten Mobilfunkvertrag bei der Telekom, aktiviert die Rufnummernmitnahme und kann dabei optional den MagentaEins Vorteil wählen, der auch nachträglich hinzugefügt werden kann, sobald der neue Vertrag aktiv ist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Anbieter-Wechsel-da-kein-Vernuenftiges-Angebot-zur_td-p_6957169_jump-to_first-unread-message.txt
-File summary: Der Nutzer hat seit etwa 10 Jahren einen DSL-Anschluss und seit 15 Jahren einen Mobilvertrag bei der Telekom, zusätzlich mit zwei Zusatzkarten für seine Eltern. Er ist unzufrieden mit den aktuellen Vertragsverlängerungsangeboten und stellt fest, dass die Werbeangebote der Telekom für Neukunden deutlich besser sind. Der Nutzer möchte nicht seine Verträge kündigen, um ein besseres Angebot zu erhalten, und erwägt einen Wechsel zu Vodafone oder anderen Anbietern, die ähnliche Preise, aber bessere Konditionen bieten. Er fragt sich, ob es Möglichkeiten gibt, ohne Kündigung ein vernünftiges Angebot als Bestandskunde zu bekommen, da er mit den bisherigen Leistungen der Telekom grundsätzlich zufrieden ist. Die Antworten des Supports bestätigen, dass keine abweichenden Angebote für ihn gemacht werden können.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Anbieter-Wechsel-da-kein-Vernuenftiges-Angebot-zur_td-p_6957169_jump-to_first-unread-message.txt
+File summary: Der Kunde, der seit über 10 Jahren Telekom-Dienste nutzt, ist unzufrieden mit den aktuellen Vertragsverlängerungsangeboten und überlegt, zu einem anderen Anbieter zu wechseln, da ihm gesagt wurde, er müsse zuerst kündigen, um ein besseres Angebot zu erhalten, und fragt nach Möglichkeiten, als Bestandskunde ohne Kündigung ein vernünftiges Angebot zu bekommen.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_MagentaCLOUD_magentacloud-buchen_td-p_6959121_jump-to_first-unread-message.txt
-File summary: In einem Forum fragte ein Nutzer, wie er die MagentaCloud zu seinem bestehenden Telekom-Vertrag hinzufügen kann, da er beim Buchungsversuch immer auf eine Zahlungsmethode mit Kreditkarte geleitet wird. Er möchte die Kosten für die MagentaCloud zusammen mit seinem monatlichen Vertrag abgebucht bekommen und fragt, ob er dafür eine Kreditkarte benötigt. Ein anderer Nutzer antwortete, dass die größeren kostenpflichtigen Versionen der MagentaCloud entweder zu einem Festnetz-Vertrag oder zu einem unabhängigen Telekom-Login hinzugefügt werden können. Bei einem Festnetz-Vertrag erfolgt die Abrechnung über das Bankkonto, während beim unabhängigen Login nur Kreditkarte oder PayPal verfügbar sind. Eine weitere Option sei der Zugang zu Telekom-Diensten, bei dem die Abrechnung ebenfalls über ein Bankkonto läuft.]
+[File name: telekomhilft.telekom.de_t5_MagentaCLOUD_magentacloud-buchen_td-p_6959121_jump-to_first-unread-message.txt
+File summary: Ein Nutzer fragt in der Telekom-Community, wie er die MagentaCloud zu seinem bestehenden Telekom-Vertrag hinzufügen kann, ohne eine Kreditkarte zu benötigen, und erhält die Information, dass die Buchung entweder über einen Festnetz-Vertrag oder ein unabhängiges Telekom-Login möglich ist, wobei im letzteren Fall nur Kreditkarte oder PayPal akzeptiert werden.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_festnetz.txt
-File summary: Festnetz bezeichnet einen leitungsgebundenen Telefonanschluss, der es ermöglicht, von zu Hause aus zu telefonieren. Das deutsche Festnetz umfasst alle solchen Anschlüsse in Deutschland, die dank moderner DSL-Technologie auch Internetdienste unterstützen. Internet-Telefonie ist möglich, indem Gespräche digitalisiert und als Datenpakete übertragen werden. Für die Nutzung ist ein IP-fähiger Router erforderlich.
-
-Die Telekom bietet verschiedene Festnetz-Tarife an, darunter eine Festnetz-Flatrate für unbegrenztes Telefonieren ins deutsche Festnetz und spezielle Tarife für Wenigtelefonierer. Zudem gibt es DSL-Tarife mit Internetzugang, die automatisch einen Festnetzanschluss und eine eigene Rufnummer beinhalten. Junge Kunden unter 28 Jahren können von speziellen Young-Tarifen profitieren, und auch Geschäftskunden finden passende Angebote.
+[File name: https___www.telekom.de_festnetz.txt
+File summary: Das Festnetz ist ein leitungsgebundener Telefonanschluss, der in Deutschland alle Festnetzanschlüsse umfasst, und ermöglicht durch moderne DSL-Technologie auch Internetnutzung sowie Internet-Telefonie, während die Telekom verschiedene Tarife anbietet, die Festnetztelefonie und DSL-Verbindungen kombinieren, wobei ein Festnetzanschluss immer in den DSL-Tarifen enthalten ist.]
 
-Ein DSL-Vertrag der Telekom beinhaltet stets einen Festnetzanschluss. Es ist nicht möglich, DSL-Tarife ohne Festnetzanschluss zu wählen, da dieser immer in den Tarifen integriert ist. Mit MagentaEINS können Kunden zudem Festnetzangebote mit Mobilfunktarifen kombinieren, um zusätzliche Vorteile zu nutzen.]
-
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Festnetz-Internet_Magenta-One-Hauptmenue-wird-nicht-geladen_td-p_6967690_jump-to_first-unread-message.txt
-File summary: Das Dokument beschreibt ein Problem mit der Magenta One, bei dem das Hauptmenü nicht geladen wird. Der Benutzer fragt sich, ob es möglicherweise eine Störung gibt oder ob er der Einzige mit diesem Problem ist. Es wurden Lösungen akzeptiert, wonach das Problem behoben sein sollte und das Hauptmenü wieder funktionieren sollte.]
+[File name: telekomhilft.telekom.de_t5_Festnetz-Internet_Magenta-One-Hauptmenue-wird-nicht-geladen_td-p_6967690_jump-to_first-unread-message.txt
+File summary: Der Benutzer hat ein Problem mit der Magenta One, da das Hauptmenü nicht geladen wird, und fragt sich, ob eine Störung vorliegt oder ob er der Einzige mit diesem Problem ist, während die akzeptierten Lösungen darauf hinweisen, dass es wieder funktionieren sollte.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_MagentaCLOUD_MagentaCloud-Wo-kann-ich-einen-Bug-melden_td-p_6968360_jump-to_first-unread-message.txt
-File summary: Die Diskussion im Dokument behandelt ein Problem mit der MagentaCloud, bei dem Nutzer Schwierigkeiten haben, Dateien über den Browser zu löschen, da der Lösch-Button gleichzeitig den Favoriten-Button markiert. Es werden Lösungsvorschläge diskutiert, darunter das Leeren von Cookies und Cache, was schließlich als Ursache für das Problem identifiziert wird. Nutzer zeigen sich dankbar für die Hilfe und bestätigen, dass das Leeren des Cache das Problem behoben hat.]
+[File name: telekomhilft.telekom.de_t5_MagentaCLOUD_MagentaCloud-Wo-kann-ich-einen-Bug-melden_td-p_6968360_jump-to_first-unread-message.txt
+File summary: In der MagentaCloud kann ein Bug gemeldet werden, da beim Öffnen im Browser die Funktion zum Löschen von Dateien nicht funktioniert und stattdessen der Favoriten-Button markiert wird, wobei vorgeschlagen wird, Cookies und Cache zu leeren.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_MagentaEins-Vorteile-ueber-Check24_td-p_6962503_jump-to_first-unread-message.txt
-File summary: Der Benutzer fragt, ob er die vollen Vorteile von MagentaEins, einschließlich einer Ermäßigung von 5 € und unbegrenztem Datenvolumen bei MagentaMobile, erhält, wenn er einen Vertrag über Check24 abschließt, obwohl er bereits einen DSL-Vertrag bei der Telekom hat. Es wird bestätigt, dass er Zugriff auf diese Vorteile hat.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_MagentaEins-Vorteile-ueber-Check24_td-p_6962503_jump-to_first-unread-message.txt
+File summary: Der Nutzer fragt, ob er die vollen MagentaEins Vorteile, einschließlich einer 5€ Ermäßigung und unbegrenztem Datenvolumen bei MagentaMobile, erhält, wenn er einen Vertrag über Check24 abschließt, während er bereits einen DSL-Vertrag bei der Telekom hat, und die Antwort bestätigt, dass er Zugriff darauf hat.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_TV_Magenta-One-Abschalten-bei-Inaktivitaet_td-p_6964897_jump-to_first-unread-message.txt
-File summary: Der Benutzer fragt, ob es eine Möglichkeit gibt, Magenta One und den angeschlossenen Fernseher nach einer bestimmten Zeit der Inaktivität auszuschalten, da er gehört hat, dass dies erst nach 240 Minuten geschieht, was ihm zu lang ist. Er erkundigt sich auch nach einer möglichen Android-App für diese Funktion. Die akzeptierte Antwort erklärt, dass das System nach 4 Stunden Inaktivität zur Startseite wechselt und dann die Bildschirmschoner-Einstellungen aktiv werden. Es gibt keine anderen Einstellungen oder Apps, die diese Funktion anbieten.]
+[File name: telekomhilft.telekom.de_t5_TV_Magenta-One-Abschalten-bei-Inaktivitaet_td-p_6964897_jump-to_first-unread-message.txt
+File summary: Es gibt keine Möglichkeit, Magenta One und den verbundenen Fernseher manuell nach einer kürzeren Zeit als 240 Minuten Inaktivität abzuschalten; nach 4 Stunden wird lediglich zur Startseite gewechselt und der Bildschirmschoner aktiviert.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_vorteil-mehrfach.txt
-File summary: Der MagentaEINS Vorteil kann nur einmal für einen Mobilfunk-Hauptvertrag und einen Festnetz-Vertrag genutzt werden. Allerdings ist es möglich, den MagentaMobil Vertrag mit Zusatzkarten zu erweitern und den Vorteil auf diesen zusätzlichen Karten anzuwenden.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_vorteil-mehrfach.txt
+File summary: Der MagentaEINS Vorteil kann nur einmal für einen Mobilfunk-Hauptvertrag und einen Festnetz-Vertrag genutzt werden, jedoch ist eine Erweiterung des MagentaMobil Vertrags mit Zusatzkarten möglich, wodurch der Vorteil auf mehreren Karten genutzt werden kann.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Mobilfunk-Anschlussinhaber-wechseln-ohne-Verlust-der_td-p_6969905_jump-to_first-unread-message.txt
-File summary: In einem Forum schildert Tobias sein Problem, dass seine verstorbene Frau der Vertragspartner für ihren Mobilfunkvertrag war und er nun als Angehöriger die Verträge auf seinen Namen umschreiben möchte, ohne die Rufnummern der Flexkarten zu verlieren. Er hat Schwierigkeiten, Unterstützung zu erhalten, da ein Telekom-Shop ihm mitteilte, dass die Nummern bei einer Kündigung entfallen würden. Ein Anruf bei der Hotline brachte ihn einen Schritt weiter, aber das Kündigungsformular bot kein Feld für die Hauptnummer. Er hat Bedenken, dass die Nummern schnell deaktiviert werden könnten. In einer Antwort wird ihm mitgeteilt, dass es gelungen ist, alle Verträge auf seinen Namen umzuschreiben und dass alle Verträge nun unbegrenztes Datenvolumen haben, was ihm Freude bereitet.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Mobilfunk-Anschlussinhaber-wechseln-ohne-Verlust-der_td-p_6969905_jump-to_first-unread-message.txt
+File summary: Tobias möchte nach dem Tod seiner Frau den Mobilfunkvertrag auf seinen Namen umschreiben und die Rufnummern der Flexkarten behalten, hat jedoch Schwierigkeiten mit dem Kündigungsformular und der Sorge um eine mögliche Deaktivierung der Nummern, hat aber schließlich die Bestätigung erhalten, dass alle Verträge jetzt auf seinen Namen laufen und er unbegrenztes Datenvolumen hat.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_unterwegs_for-friends.txt
-File summary: Die Telekom bietet für bestehende Mobilfunkkunden die Möglichkeit, ihren Vertrag bis zu 6 Monate vor Ablauf zu verlängern, auch mit einem neuen Gerät. Mit einem speziellen for Friends Code kann der Vertrag in einen for Friends Tarif umgestellt werden, was eine Ersparnis von 30 % bedeutet. Neukunden müssen bestimmte Voraussetzungen erfüllen, darunter der Erhalt eines Aktionscodes von einem Telekom-Mitarbeiter. Bestehende Telekom Mobilfunk-Kunden können ebenfalls in einen for Friends Tarif wechseln, wenn sie sich im Kundencenter einloggen und die entsprechenden Kriterien erfüllen, wie die Vertragslaufzeit und den Erhalt eines Aktionscodes. 
-
-For Friends Kunden können ihre Verträge online verlängern, um weiterhin von den Vorteilen zu profitieren. Um die Gültigkeit ihres Codes zu überprüfen oder einen neuen zu beantragen, sollten sie sich an ihren Telekom-Mitarbeiter wenden. Für das MagentaEINS-Angebot ist ein IP-basierter Festnetzanschluss und ein Mobilfunktarif erforderlich, beide müssen auf die gleiche Adresse laufen. Auch neue PlusKarten Angebote sind nur für bestehende Telekom MagentaMobil for Friends Kunden verfügbar, und ein Wechsel in die neuesten Tarife ist bei der nächsten Vertragsverlängerung möglich. Rabatte auf PlusKarten werden jedoch nicht für for Friends Kunden angeboten.]
+[File name: https___www.telekom.de_unterwegs_for-friends.txt
+File summary: Die Telekom bietet bestehenden Kunden die Möglichkeit, ihren Vertrag bis zu 6 Monate vor Vertragsende zu verlängern oder in einen for Friends Tarif zu wechseln, wobei Neukunden die Voraussetzungen erfüllen müssen, um einen for Friends Tarif zu bestellen, und für die Nutzung von Vorteilen wie Rabatten oder Zusatzkarten spezifische Bedingungen gelten, während die Gültigkeit des for Friends Codes durch einen Telekom Mitarbeiter überprüft werden kann.]
 
 === Chunk ===
-[File path: data/MagentaEINS/telekomhilft.telekom.de_t5_Mobilfunk_Tarif-wechseln-nach-14-Monaten-von-Mobil-Tarif-XS-5-Gen-mit_td-p_6982965_jump-to_first-unread-message.txt
-File summary: Der Nutzer möchte nach 14 Monaten von seinem Mobil Tarif XS 5 Gen. mit Magenta Eins auf den Magenta Mobil Prepaid XL Tarif wechseln und dabei seine Rufnummer behalten. Er erkundigt sich, ob dies möglich ist und ob Gebühren anfallen. Die Antwort besagt, dass ein Wechsel erst nach Ablauf der 24-monatigen Mindestvertragslaufzeit möglich ist und dass dieser gebührenfrei ist.]
+[File name: telekomhilft.telekom.de_t5_Mobilfunk_Tarif-wechseln-nach-14-Monaten-von-Mobil-Tarif-XS-5-Gen-mit_td-p_6982965_jump-to_first-unread-message.txt
+File summary: Ein Wechsel vom Mobil Tarif XS 5 Gen. mit Magenta Eins auf den Magenta Mobil Prepaid XL Tarif ist nach 14 Monaten nicht möglich, da der aktuelle Vertrag eine Mindestlaufzeit von 24 Monaten hat, aber der Wechsel wäre gebührenfrei nach Ablauf dieser Frist.]
 
 === Chunk ===
-[File path: data/MagentaEINS/https___www.telekom.de_hilfe_magenta-eins_vorteil-beschreibung.txt
-File summary: Mit MagentaEINS profitieren Sie von einer Kombination aus Festnetz, Internet, TV und Mobilfunk bei der Telekom. Je nach Vertragsbeginn erwarten Sie folgende Vorteile: 
-
-- Kostenlose Telefonate vom Festnetz in alle deutschen Mobilfunknetze.
-- Mobile Happy Hour: Bei den neuen Tarifen MagentaMobil Basic bis M, die seit dem 1. August 2024 verfügbar sind, können Sie täglich eine Stunde unbegrenzt surfen oder zwei Stunden, wenn MagentaTV Teil Ihres Festnetzanschlusses ist. Diese Funktion lässt sich einfach über die MeinMagenta App aktivieren.
-- Unbegrenztes Datenvolumen für die Tarife MagentaMobil L und L Young (seit dem 6. September 2019).
-- Doppeltes Datenvolumen für alle Young Tarife (ab dem 6. September 2019).
-- Monatliche Rabatte im Mobilfunkbereich für die Tarife MagentaMobil S bis XL (seit dem 6. September 2019).
-
-Zusammengefasst bietet MagentaEINS zahlreiche Vorteile, die sowohl die Mobilfunk- als auch Festnetz-Nutzung betreffen.]
+[File name: https___www.telekom.de_hilfe_magenta-eins_vorteil-beschreibung.txt
+File summary: MagentaEINS bietet Vorteile wie eine Flatrate für Festnetztelefonate in alle deutschen Mobilfunknetze, die Mobile Happy Hour für unbegrenztes Surfen, unbegrenztes Datenvolumen für bestimmte Tarife, doppeltes Datenvolumen für Young Tarife sowie einen monatlichen Preisvorteil im Mobilfunk.]

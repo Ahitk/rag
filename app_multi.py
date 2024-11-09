@@ -6,7 +6,7 @@ from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_vectorstore
+from indexing import get_vectorstore, generate_vectorstore_semantic_chunking
 import prompts as prompts
 import initials as initials
 
@@ -30,7 +30,7 @@ def get_response(user_input, chat_history, question_history):
         initials.prune_chat_history_if_needed()
 
         # Load vector store and retriever
-        vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
+        vector_store = generate_vectorstore_semantic_chunking(user_input, initials.model, initials.data_directory, initials.embedding)
         retriever = vector_store.as_retriever()
 
         # Generate multiple queries using the multi_query_prompt and model
@@ -49,7 +49,7 @@ def get_response(user_input, chat_history, question_history):
             # Use retriever to fetch documents for each query
             documents = []
             for query in multiple_queries:
-                retrieved_docs = retriever.get_relevant_documents(query)
+                retrieved_docs = retriever.invoke(query)
                 documents.append(retrieved_docs)
 
             # Use the get_unique_union function to ensure unique documents
@@ -71,7 +71,7 @@ def get_response(user_input, chat_history, question_history):
         st.session_state.total_cost += cb.total_cost
 
         # Return both the response, the generated multiple queries, and the retrieved documents
-        return response, multiple_queries, initials.format_docs(multi_query_docs, user_input)
+        return response, multiple_queries, initials.format_documents(multi_query_docs, user_input)
 
     except FileNotFoundError:
         st.error("Documents could not be loaded. Please check the data directory path.")

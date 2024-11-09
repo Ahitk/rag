@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_vectorstore
+from indexing import get_vectorstore, generate_vectorstore_semantic_chunking
 import prompts as prompts
 import initials as initials
 
@@ -29,14 +29,15 @@ def get_response(user_input, chat_history, question_history):
         initials.prune_chat_history_if_needed()
 
         # Load vector store and retriever
-        vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
+        vector_store = generate_vectorstore_semantic_chunking(user_input, initials.model, initials.data_directory, initials.embedding)
         retriever = vector_store.as_retriever()
 
         hyde_docs = (prompts.prompt_hyde | ChatOpenAI(temperature=0) | StrOutputParser())
         hyde_output = hyde_docs.invoke({"question": user_input, "question_history": question_history})
         retrieval_chain_hyde = hyde_docs | retriever 
         retrieved_docs = retrieval_chain_hyde.invoke({"question": user_input, "question_history": question_history})
-        formatted_docs = initials.format_docs(retrieved_docs, user_input)
+        print("RETRIEVED DOCS:", retrieved_docs)
+        formatted_docs = initials.format_documents(retrieved_docs, user_input)
         hyde_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
 
         # Use OpenAI callback to track costs and tokens

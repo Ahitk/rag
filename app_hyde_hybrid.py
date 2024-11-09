@@ -35,7 +35,7 @@ def get_response(user_input, chat_history, question_history):
         hyde_output = hyde_docs.invoke({"question": user_input, "question_history": question_history})
         retrieval_chain_hyde = hyde_docs | retriever 
         retrieved_docs = retrieval_chain_hyde.invoke({"question": user_input, "question_history": question_history})
-        formatted_docs = initials.format_docs(retrieved_docs, user_input)
+        formatted_docs = initials.format_documents(retrieved_docs, user_input)
         hyde_rag_chain = (prompts.prompt_telekom | initials.model | StrOutputParser())
 
         # Use OpenAI callback to track costs and tokens

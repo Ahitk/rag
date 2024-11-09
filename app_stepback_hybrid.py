@@ -36,15 +36,15 @@ def get_response(user_input, chat_history, question_history):
         generate_stepback_question = prompts.step_back_prompt | initials.model | StrOutputParser()
         step_back_question = generate_stepback_question.invoke({"question": user_input, "question_history": question_history })
 
-        docs = initials.format_docs(retriever.invoke(user_input), user_input)
-        stepback_docs = initials.format_docs(retriever.invoke(step_back_question), user_input)
+        docs = initials.format_documents(retriever.invoke(user_input), user_input)
+        stepback_docs = initials.format_documents(retriever.invoke(step_back_question), user_input)
 
         step_back_chain = (
         {
             "chat_history": lambda x: x["chat_history"],
-            "normal_context": lambda x: initials.format_docs(retriever.invoke(x["question"]), (x["question"]) ),
+            "normal_context": lambda x: initials.format_documents(retriever.invoke(x["question"]), (x["question"]) ),
             "question": lambda x: x["question"],
-            "step_back_context": lambda x: initials.format_docs(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
+            "step_back_context": lambda x: initials.format_documents(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
             "question_history": lambda x: x["question_history"],
         }
         | prompts.stepback_response_prompt

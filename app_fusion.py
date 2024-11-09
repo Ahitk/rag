@@ -4,7 +4,7 @@ import streamlit as st
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
-from indexing import get_vectorstore, get_hybrid_semantic_retriever
+from indexing import generate_vectorstore_semantic_chunking, generate_vectorstore
 import prompts as prompts
 import initials as initials
 
@@ -28,7 +28,7 @@ def get_response(user_input, chat_history, question_history):
         initials.prune_chat_history_if_needed()
 
         # Load vector store and retriever
-        vector_store = get_vectorstore(user_input, initials.model, initials.data_directory, initials.embedding)
+        vector_store = generate_vectorstore_semantic_chunking(user_input, initials.model, initials.data_directory, initials.embedding)
         retriever = vector_store.as_retriever()
         
         # Generate multiple queries using the multi_query_prompt and model

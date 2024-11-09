@@ -70,7 +70,7 @@ def get_response(user_input, chat_history, question_history):
         st.session_state.total_cost += cb.total_cost
 
         # Return both the response, the generated multiple queries, and the retrieved documents
-        return response, multiple_queries, initials.format_docs(multi_query_docs, user_input)
+        return response, multiple_queries, initials.format_documents(multi_query_docs, user_input)
 
     except FileNotFoundError:
         st.error("Documents could not be loaded. Please check the data directory path.")

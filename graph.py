@@ -11,7 +11,7 @@ from langchain_community.callbacks import get_openai_callback
 from typing_extensions import TypedDict
 from typing import List, Annotated
 from pprint import pprint
-from indexing import get_vectorstore, get_vectorstore_semantic_chunking_no_summary
+from indexing import generate_vectorstore_semantic_chunking
 import routing as routing
 import initials as initials
 import prompts as prompts
@@ -129,7 +129,7 @@ def retrieve_naive(state):
     question = state["question"]
     question_history = state["question_history"]
 
-    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    vector_store = generate_vectorstore_semantic_chunking(question, initials.model, initials.data_directory, initials.embedding)
     retriever = vector_store.as_retriever()
 
     # Retrieval
@@ -153,7 +153,7 @@ def retrieve_fusion(state):
     question = state["question"]
     question_history = state["question_history"]
 
-    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    vector_store = generate_vectorstore_semantic_chunking(question, initials.model, initials.data_directory, initials.embedding)
     
     #============================== FOR TEST PURPOSES ONLY =====================================================
     #test_directory = '/Users/taha/Desktop/rag/test_data_naive'
@@ -190,7 +190,7 @@ def retrieve_hyde(state):
     question = state["question"]
     question_history = state["question_history"]
 
-    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    vector_store = generate_vectorstore_semantic_chunking(question, initials.model, initials.data_directory, initials.embedding)
     retriever = vector_store.as_retriever()
 
     hyde_text = (prompts.prompt_hyde | initials.model | StrOutputParser())
@@ -213,7 +213,7 @@ def retrieve_multi(state):
     question = state["question"]
     question_history = state["question_history"]
 
-    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    vector_store = generate_vectorstore_semantic_chunking(question, initials.model, initials.data_directory, initials.embedding)
     retriever = vector_store.as_retriever()
 
     # Generate multiple queries using the multi_query_prompt and model
@@ -432,7 +432,7 @@ def generate_stepback(state):
     chat_history = state["chat_history"]
     loop_step = state.get("loop_step", 0)
 
-    vector_store = get_vectorstore(question, initials.model, initials.data_directory, initials.embedding)
+    vector_store = generate_vectorstore_semantic_chunking(question, initials.model, initials.data_directory, initials.embedding)
     retriever = vector_store.as_retriever()
     # Generate step-back queries
     generate_stepback_question = prompts.step_back_prompt | initials.model | StrOutputParser()
@@ -443,9 +443,9 @@ def generate_stepback(state):
     step_back_chain = (
         {
             "chat_history": lambda x: x["chat_history"],
-            "normal_context": lambda x: initials.format_docs(retriever.invoke(x["question"]), (x["question"]) ),
+            "normal_context": lambda x: initials.format_documents(retriever.invoke(x["question"]), (x["question"]) ),
             "question": lambda x: x["question"],
-            "step_back_context": lambda x: initials.format_docs(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
+            "step_back_context": lambda x: initials.format_documents(retriever.invoke(x["step_back_question"]), (x["step_back_question"])),
         }
         | prompts.stepback_response_prompt
         | initials.model
@@ -648,7 +648,7 @@ def run_fusion_graph(question, chat_history, question_history, documents):
     answer = value["generation"]
     docs = value["documents"]
     question = value["question"]
-    documents = initials.format_docs(docs, question)
+    documents = initials.format_documents(docs, question)
 
     return answer, documents
 
@@ -715,7 +715,7 @@ def run_graph_hyde(question, chat_history, question_history, documents):
     answer = value["generation"]
     docs = value["documents"]
     question = value["question"]
-    documents = initials.format_docs(docs, question)
+    documents = initials.format_documents(docs, question)
 
     return answer, documents
 
@@ -782,7 +782,7 @@ def run_graph_multi(question, chat_history, question_history, documents):
     answer = value["generation"]
     docs = value["documents"]
     question = value["question"]
-    documents = initials.format_docs(docs, question)
+    documents = initials.format_documents(docs, question)
 
     return answer, documents
 
@@ -830,7 +830,7 @@ def run_graph_stepback(question, chat_history, question_history, documents):
     answer = value["generation"]
     docs = value["documents"]
     question = value["question"]
-    documents = initials.format_docs(docs, question)
+    documents = initials.format_documents(docs, question)
 
     return answer, documents
 
@@ -896,6 +896,6 @@ def run_graph_naive(question, chat_history, question_history, documents):
     answer = value["generation"]
     docs = value["documents"]
     question = value["question"]
-    documents = initials.format_docs(docs, question)
+    documents = initials.format_documents(docs, question)
 
     return answer, documents
