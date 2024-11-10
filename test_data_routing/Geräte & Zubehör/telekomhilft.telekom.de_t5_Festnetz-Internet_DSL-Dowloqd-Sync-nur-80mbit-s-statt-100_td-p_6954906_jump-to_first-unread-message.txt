@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/DSL-Dowloqd-Sync-nur-80mbit-s-statt-100/td-p/6954906/jump-to/first-unread-message
-Subject: DSL Dowloqd/Sync nur 80mbit/s statt 100
-Content: Hallo zusammen,könnte mir vielleicht jemand von der Telekom-Technik helfen? Ich hatte zuhause ein Verkabelungsproblem (Abzweigung) das dazu geführt hat, dass meine Fritzbox 7490 nur mit 80 statt 100mbit synchronisiert hat.  Es wurde ein neues Kabel vom Hausanschluss direkt an dieTAEDose gezogen (Cat7 Kabel). Der sync ist weiterhin bei 80mbit. Das liegt vermutlich daran das der  „ASSIA/DLM“ Lauf noch nicht neu für meinen Anschluss gelaufen ist. Kann man das manuell beschleunigen bzw. neu starten?Danke sehr und GrußNico
-
-Accepted Solutions:
-- Update: Techniker war da. Er hat den Hausanschluss auf eine andere Leitung gelegt (es gab 2). Sync jetzt mit 116mbit/s down und 46mbit/s up. Da kann man nicht meckern! Jetzt paar Tage beobachten.Vielen Dank nochmal an alle Helfer und Tippgeber.
-- Update: Techniker war da. Er hat den Hausanschluss auf eine andere Leitung gelegt (es gab 2). Sync jetzt mit 116mbit/s down und 46mbit/s up. Da kann man nicht meckern! Jetzt paar Tage beobachten.Vielen Dank nochmal an alle Helfer und Tippgeber.

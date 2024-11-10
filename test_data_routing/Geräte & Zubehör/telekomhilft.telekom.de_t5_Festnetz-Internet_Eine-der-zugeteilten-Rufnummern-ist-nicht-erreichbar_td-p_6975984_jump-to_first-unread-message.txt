@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Eine-der-zugeteilten-Rufnummern-ist-nicht-erreichbar/td-p/6975984/jump-to/first-unread-message
-Subject: Eine der zugeteilten Rufnummern ist nicht erreichbar
-Content: Hallo,eine unserer fünf zugeteilten Telefonnummern ist seit gestern nicht erreichbarIch habe unsere FRITZ!Box schon 2 x  neu gestartet.Anrufe gehen raus, können aber nicht empfangen werden.Woran könnte es liegen?
-
-Accepted Solutions:
-- Ganz liebe Dank für die ausführlich Beschreibung🙏.Auch wenn es heute, wie von Geisterhand gelöst, wieder funktioniert, werde ich mir alle Punkte noch genau angucken.LG
-- Ganz liebe Dank für die ausführlich Beschreibung🙏.Auch wenn es heute, wie von Geisterhand gelöst, wieder funktioniert, werde ich mir alle Punkte noch genau angucken.LG

@@ -1,6 +1,0 @@
-Question:
-Hallo Markus, kann ich die optimale Geschwindigkeit meines Routers auf eurer Webseite, telekom.de-Slayer-Shilfe, überprüfen, indem ich mein Router-Modell eingebe?
-
-Answer:
-Hey Markus fragt nach dem Unterbau für ihren Anschluss. Die Antwort lautet, dass jeder Router benutzt werden kann, der gerade zu Hause vorhanden ist, da es hierfür keine spezifischen Vorgaben gibt. Es wird jedoch empfohlen, darauf zu achten, dass der Router die optimale Geschwindigkeit für den jeweiligen Anschluss erreicht. Überprüfen lässt sich dies, indem das Router-Modell auf der Telekom.de-Slayer-Shilfe Webseite eingegeben wird, die daraufhin die Geschwindigkeiten anzeigt, welche der Router erreichen kann, und für welchen Tarif er geeignet ist.
-

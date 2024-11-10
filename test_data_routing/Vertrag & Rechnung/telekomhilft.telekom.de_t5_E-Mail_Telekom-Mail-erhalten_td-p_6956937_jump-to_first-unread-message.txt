@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Telekom-Mail-erhalten/td-p/6956937/jump-to/first-unread-message
-Subject: Telekom Mail erhalten
-Content: Ist diese EMail von der Telekom oder eine Fake Mail ?
-
-Accepted Solutions:
-- Es gibt zwar ein Treueprogramm. Aber diese Mail ist Phishing. Sieht man an dem schlechten Deutsch und der fehlenden persönlichen Anrede.
-- @roswithaernst: Das ist vermutlich eine Fake Mail. Wenn Du auf einem Desktop PC mit der Maus über den Klick-Link fährst, wird Dir sicherlich unten links ein Link eingeblendet, der nicht zur Telekom gehört. In der Telekom Mail App musst Du "lange" den Link berühren, dann wird Dir auch der Link angezeigt.Gruß Ulrich
-- @roswithaernst: Das ist vermutlich eine Fake Mail. Wenn Du auf einem Desktop PC mit der Maus über den Klick-Link fährst, wird Dir sicherlich unten links ein Link eingeblendet, der nicht zur Telekom gehört. In der Telekom Mail App musst Du "lange" den Link berühren, dann wird Dir auch der Link angezeigt.Gruß Ulrich
-- Es gibt zwar ein Treueprogramm. Aber diese Mail ist Phishing. Sieht man an dem schlechten Deutsch und der fehlenden persönlichen Anrede.

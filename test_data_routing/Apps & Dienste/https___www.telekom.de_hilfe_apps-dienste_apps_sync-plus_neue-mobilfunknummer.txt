@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/neue-mobilfunknummer
-
-Question: Werden meine E-Mails, Kontakte und Termine noch über Sync-Plus synchronisiert, wenn ich eine neue Handy-Nummer bekomme?
-Answer: Durch den Wechsel Ihrer Mobilfunk-Rufnummer werden Ihre Synchronisations-Einstellungen nicht verändert. Behalten Sie Ihr Gerät weiterhin, bleiben durch die Verbindung mit Ihrem E-Mail-Konto "@magenta.de" bzw. "@t-online.de" Ihre E-Mails, das Adressbuch und Ihr Kalender stets aktuell.
-

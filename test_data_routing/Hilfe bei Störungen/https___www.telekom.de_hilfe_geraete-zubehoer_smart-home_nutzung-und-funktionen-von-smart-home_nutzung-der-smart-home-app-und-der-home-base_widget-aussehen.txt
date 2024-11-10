@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/widget-aussehen
-
-Question: Welche Funktion bietet das Widget der Magenta SmartHome App?
-Answer: Mit dem Magenta SmartHome Widget können Sie Funktionen der App nutzen, ohne dass sie geöffnet werden muss.
-Das Widget können Sie auf einem Android und iOS-Smartphone nutzen. Unddiese Funktionen können Sie ausführen:
-• Lassen Sie sich Ihren Magenta SmartHome Status anzeigen. Sie können auch zwischen "Zuhause" und "Abwesend" umschalten. Wenn Sie auf "Abwesend" schalten, wird das Alarmsystem und der Haushüter aktiviert. "Zuhause" deaktiviert diese wieder.
-• Auch Ihre als "Favoriten" gespeicherten Szenen können Sie sich anzeigen lassen, aktivieren oder abschalten.
-

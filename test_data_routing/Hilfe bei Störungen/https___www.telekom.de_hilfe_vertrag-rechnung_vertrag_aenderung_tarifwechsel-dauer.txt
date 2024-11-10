@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/aenderung/tarifwechsel-dauer
-
-Question: Wann kann ich meinen neuen Tarif nach einem Tarifwechsel nutzen?
-Answer: Ab wann Sie Ihren neuen Tarif nutzen können, entnehmen Sie aus
-Hinweis: Sobald der Auftrag abgeschlossen ist und der neue Tarif aktiv ist, wird dieser auf der Startseite Ihres Kundencenters oder der MeinMagenta App angezeigt und kann direkt genutzt werden.
-• der Auftragsbestätigung,
-• demKundencenterunter Mein Profil > Profil verwalten > Weitere Services > Auftragsstatus,
-• oder derMeinMagenta Appunter Service > Aufträge.
-

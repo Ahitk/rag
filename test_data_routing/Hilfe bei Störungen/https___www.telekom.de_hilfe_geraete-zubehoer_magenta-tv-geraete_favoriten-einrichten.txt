@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/favoriten-einrichten
-
-Question: Wie richte ich mir die Sender als Favoriten bei MagentaTV ein?
-Answer: Die Favoritenliste können Sie über die Senderverwaltung in den Einstellungen in Ihrem MagentaTV Gerät oder in der MagentaTV App wie folgt erstellen:
-• Über ein MagentaTV GerätMagentaTV One & MagentaTV StickHaus-Taste > Menü > Einstellungen > MagentaTV-Einstellungen > Senderverwaltung > gewünschten Sender über die OK-Taste mit dem Herz-Symbol auswählen > BestätigenMagentaTV Box (PLAY) & Media Receivern 401, 201 oder 601Haus-Taste > Einstellungen > Aufnahmen & Sender > Senderlisten > Sender verwalten > gewünschten Sender über die OK-Taste mit dem Herz-Symbol auswählen > Bestätige
-• Über die MagentaTV AppMeins (rechts unten auf dem Startbildschirm) > Einstellungen > Senderverwaltung > Herz-Symbol beim gewünschten Sender auswählen > speichern
-

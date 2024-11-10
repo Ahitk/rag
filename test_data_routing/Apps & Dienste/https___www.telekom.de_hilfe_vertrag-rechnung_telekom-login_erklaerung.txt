@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/erklaerung
-
-Question: Was ist der Telekom Login?
-Answer: Der Telekom Login, bestehend aus Benutzername und Passwort, ermöglicht Ihnen den Zugang zu den Telekom Diensten. Sie erhalten Zugriff auf dasKundencenter, in welchem Sie Rechnungen, Tarife, Optionen, persönliche Daten und vieles mehr einsehen und verwalten können. Mit dem Telekom Login können Sie auch dieMeinMagenta App, dasE-Mail Center, dieMagentaCLOUDund weitere Dienste nutzen.
-Wenn Ihre E-Mail-Adresse, Telekom Mobilfunk-Nummer oder Zugangsnummer noch keinem Telekom Login zugeordnet ist, können Sie das Login selbst anlegen. Falls Sie Ihre Anmeldedaten vergessen haben, stehen Ihnenalternative Anmeldeoptionenzur Verfügung.
-

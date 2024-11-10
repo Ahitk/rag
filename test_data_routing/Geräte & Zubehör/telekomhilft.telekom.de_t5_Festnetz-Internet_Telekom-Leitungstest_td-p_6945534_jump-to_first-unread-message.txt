@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Telekom-Leitungstest/td-p/6945534/jump-to/first-unread-message
-Subject: Telekom Leitungstest
-Content: Alle Jahre wieder...Wegen temporär seit zwei Tagen auftauchender mangelhafter Leistung im Download ( 0,6 bis 7,2 Mbps) habe ich heute mehrfach versucht eine von der Telekom online angebotenen online Leitungstest durchzuführen.Das Ergebnis war erschütternd.https://www.telekom.de/hilfe/hilfe-bei-stoerungen/leitungspruefung?execution268328=e2s1Nach ein paar Sekunden eines Zeitablaufindikators, sprich Pfeilchen hin und her, sollte eine Webseite mit einem Ergebnis erscheinen.Statt dessen bekam ich die Fehlermeldung:   HTTP Status 400 – Bad RequestAuch nach mehrmaligem Versuch in verwschiedenen zeitlichen AbständenHat jemand ne Idee?
-
-Accepted Solutions:
-- Alles Okay danke leute für die rasche Reaktion, aber diesmal lag der Fehler offenbar bei mir.Meine Verbindung Computer LAN  >  Accesspoint > W-LAN > W-LAN Accesspoint > Router war am ersten Anschluss gestört...Ich habe den Netzstecker gezogen, etwas gewartet und wieder in Betrieb genommen, danach lief alles wieder wie geschmiert.
-- Alles Okay danke leute für die rasche Reaktion, aber diesmal lag der Fehler offenbar bei mir.Meine Verbindung Computer LAN  >  Accesspoint > W-LAN > W-LAN Accesspoint > Router war am ersten Anschluss gestört...Ich habe den Netzstecker gezogen, etwas gewartet und wieder in Betrieb genommen, danach lief alles wieder wie geschmiert.

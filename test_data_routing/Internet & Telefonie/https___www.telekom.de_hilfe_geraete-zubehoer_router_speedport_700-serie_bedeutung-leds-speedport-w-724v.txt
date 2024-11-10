@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/700-serie/bedeutung-leds-speedport-w-724v
-
-Question: Welche Bedeutung haben die LEDs an der Vorderseite des Speedport W 724V?
-Answer: Gut zu wissen:Die unteren drei Leuchtanzeigen sind gleichzeitig Tasten, mit denen entsprechende Funktionen aktiviert, bzw. deaktiviert werden können.
-
-Die Leuchtanzeigen (LEDs) an Ihrem Speedport W 724V haben folgende Bedeutung:
-

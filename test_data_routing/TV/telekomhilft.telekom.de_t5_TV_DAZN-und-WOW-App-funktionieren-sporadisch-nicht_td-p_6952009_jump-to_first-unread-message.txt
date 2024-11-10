@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/DAZN-und-WOW-App-funktionieren-sporadisch-nicht/td-p/6952009/jump-to/first-unread-message
-Subject: DAZN- und WOW-App funktionieren sporadisch nicht
-Content: Guten Tag,ich wähle eine Veranstaltung aus und habe dann einen schwarzen Bildschirm, dem ich nur durch Ab- und Anschalten meiner TV- Box entrinnen kann.Vorab danke für die Unterstützung!GrußTK
-
-Accepted Solutions:
-- Das war´s!!!Ich habe bei "Black Screen" den HDMI-Port am TV gewechselt => läuft.Zurück zum alten Port => läuft.Mann muss nicht alles verstehen.Das Problem war ja immer erst nach Auswahl eines Spiels und auch nur sporadisch - nicht immer.Egal.Danke!!!GrußThomas
-- Das war´s!!!Ich habe bei "Black Screen" den HDMI-Port am TV gewechselt => läuft.Zurück zum alten Port => läuft.Mann muss nicht alles verstehen.Das Problem war ja immer erst nach Auswahl eines Spiels und auch nur sporadisch - nicht immer.Egal.Danke!!!GrußThomas

@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/abwesenheitsnotiz
-
-Question: Wie kann ich eine Abwesenheitsnotiz im E-Mail Center einrichten?
-Answer: Zu den Einstellungen imE-Mail Centergelangen Sie wie folgt:
-Zahnrad > Alle Einstellungen anzeigen > E-Mail Optionen > Abwesenheitsnotiz
-Hier können Sie die Abwesenheitsnotiz ein- und ausschalten, den Text der Notiz selbst verfassen und den genauen Zeitraum einstellen, in dem die Abwesenheitsnotiz versendet wird.
-

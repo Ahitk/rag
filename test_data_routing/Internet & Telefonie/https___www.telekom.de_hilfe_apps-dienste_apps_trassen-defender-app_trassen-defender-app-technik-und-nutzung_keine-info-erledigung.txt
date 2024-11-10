@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-technik-und-nutzung/keine-info-erledigung
-
-Question: Wie erfahre ich, wann der gemeldete Schaden behoben worden ist?
-Answer: Wenn der Schaden behoben ist, ändert sich der Status der Meldung in der Trassen Defender App von "In Bearbeitung" auf "Abgeschlossen".
-

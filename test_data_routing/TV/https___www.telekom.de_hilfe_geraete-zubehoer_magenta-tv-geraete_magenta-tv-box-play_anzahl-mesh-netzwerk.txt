@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/magenta-tv-box-play/anzahl-mesh-netzwerk
-
-Question: Wie viele MagentaTV Boxen kann ich in einem Mesh-Netzwerk betreiben?
-Answer: Grundsätzlich können Sie maximal bis zu vier MagentaTV Boxen in einem Mesh-Netzwerk einsetzen. Beachten Sie dabei aber, dass auch das Mesh-Netzwerk selbst auf eine maximale Anzahl an Geräten begrenzt ist:
-Bei Einsatz eines Speedport Smart 3, Smart 4 (Plus) oder Speedport Pro
-Der Router übernimmt die Rolle der Mesh-Basis und es können bis zu fünf Mesh-Geräte – also auch eine Mischung aus Speed Home WiFi und MagentaTV Box – verwendet werden.
-Bei Einsatz mit älteren Routern oder Routern anderer Hersteller
-Es können insgesamt bis zu sechs Mesh-Geräte – also auch eine Mischung aus Speed Home WiFi und MagentaTV Box – verwendet werden. Eines dieser sechs Geräte übernimmt dann die Rolle der Mesh-Basis und muss dazu per LAN-Verbindung dauerhaft an den Router angeschlossen sein.
-

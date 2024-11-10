@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/begruessung
-
-Question: Was ist die Begrüßung?
-Answer: Die Begrüßung ist die Ansage, die Ihre Anrufer hören, wenn sie Ihre Sprachbox bzw. Mobilbox Pro erreichen. Als Standardeinstellung ist die Begrüßung mit Ansage der Rufnummer ausgewählt. Im Menü "Begrüßung" können Sie aber auch eine Begrüßung mit Ansage des Namens oder eine selbst aufgesprochene persönliche Begrüßung aufnehmen und einstellen.
-Bei der Voicemail App für iOS können Sie derzeit für Mobilbox Pro die Begrüßung für Ihre Anrufer erstellen oder nach Ihren Bedürfnissen anpassen, indem Sie die 3311 von Ihrem Smartphone aus anrufen und dem Sprachmenü der Box folgen.
-

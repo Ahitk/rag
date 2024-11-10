@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedhome-WLAN-untereinander-verbinden/td-p/6959085/jump-to/first-unread-message
-Subject: Speedhome WLAN untereinander verbinden
-Content: Hallo,ich habe den Speedport 4 und habe dort bereits ein Speedhome WLAN verbunden.Da dieser eine Etage höher steht, wollte ich beide Speedhome "untereinander" verbinden. Ist dies überhaupt möglich bzw. macht das Sinn? Wenn ja woran sehe ich ob beide Speedhomes miteinander verbunden sind ?Danke für die HilfeBeste Grüße
-
-Accepted Solutions:
-- Hallo@seb.keHier gibt es einen tollen Bericht über eine optimale Einrichtung deines Mesh Systemshttps://telekomhilft.telekom.de/t5/Blog/Mesh-Ah-ah-Savior-of-the-WLAN/ba-p/5772507Viele GrüßeMarcel
-- Hallo@seb.keHier gibt es einen tollen Bericht über eine optimale Einrichtung deines Mesh Systemshttps://telekomhilft.telekom.de/t5/Blog/Mesh-Ah-ah-Savior-of-the-WLAN/ba-p/5772507Viele GrüßeMarcel

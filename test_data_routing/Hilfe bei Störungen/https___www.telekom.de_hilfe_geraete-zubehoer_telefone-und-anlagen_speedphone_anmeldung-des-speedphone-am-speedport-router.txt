@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/speedphone/anmeldung-des-speedphone-am-speedport-router
-
-Question: Ich habe Probleme beim Anmelden des Speedphone am Speedport Router. Was kann die Ursache sein?
-Answer: Voraussetzung für den optimalen Betrieb des Speedphone am Speedport Router, ist die aktuelle Firmware des Speedport. Bitte prüfen Sie, ob Sie die neueste Firmware Version auf Ihrem Router benutzen.
-Sie können max. 5 schnurlose Telefone anmelden.
-Bitte melden Sie zunächst alle Telefone ab- und wieder neu an.
-

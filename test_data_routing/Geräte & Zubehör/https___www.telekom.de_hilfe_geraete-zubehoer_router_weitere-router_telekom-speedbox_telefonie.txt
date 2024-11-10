@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/telefonie
-
-Question: Kann ich über die Speedbox auch telefonieren?
-Answer: Die Telefonie über die SIM-Karte in der Speedbox funktioniert nicht, da Sie die Speedbox nur mit einem reinen Datentarif nutzen können.
-Gut zu wissen:Die Internet-Telefonie über Voice over IP (VoIP), z. B. mit Skype, WhatsApp Sprach- und Videoanrufe oder FaceTime ist möglich.
-

@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/media-receiver/manuelles-update
-
-Question: Wie kann ich ein manuelles Update an meinem Media Receiver durchführen?
-Answer: Stellen Sie sicher, dass Ihr Media Receiver eine Internet-Verbindung hat.
-

@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedport-Smart-4-5-G-mit-einem-Unifi-Dream-Router-sollte-Hybrid/td-p/6963423/jump-to/first-unread-message
-Subject: Speedport Smart 4 + 5 G mit einem Unifi Dream ( Router ) sollte Hybrid mit verwenden ?
-Content: Speedport Smart 4 + 5 G mit einem Unifi Dream ( Router ) dahinter geschalten .... Leider kann der Unifi nicht den Hybrid (LTE) erkennen bzw . dazu verwenden .... Gibt es es eine Möglichkeit Einstellung ? Damit der Unifi den Bedarf ( Datenvolumen ) an den Speedport weitergibt
-
-Accepted Solutions:
-- @Hardy0071Nein, das funktioniert so nicht. Hybrid ist nur mit dem Smart 4 möglich. Und ein Smart4 im Modem-Modus kann 5G/LTE nicht nutzen.Kannst deine UDM da nur kaskadieren, mit allen Nachteilen hinter einem Speedport.
-- @Hardy0071Nein, das funktioniert so nicht. Hybrid ist nur mit dem Smart 4 möglich. Und ein Smart4 im Modem-Modus kann 5G/LTE nicht nutzen.Kannst deine UDM da nur kaskadieren, mit allen Nachteilen hinter einem Speedport.

@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/kontakte-termine-e-mails
-
-Question: Wie kann ich meine Kontakte, Termine und E-Mails mit anderen Geräten synchronisieren?
-Answer: MitSync-Plushaben Sie die Möglichkeit, Ihre Kontakte, Termine und E-Mails synchron zu halten. Alle Änderungen werden automatisch auf allen anderen Geräten (Smartphone, Tablet, PC) und imE-Mail Centerübernommen.
-

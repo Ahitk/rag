@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/esim/bestellen-einrichten/kosten
-
-Question: Was kostet die eSIM?
-Answer: Die eSIM und die Aktivierung der eSIM sind kostenfrei.
-Lediglich die Kosten des Mobilfunk-Tarifs, der über die eSIM genutzt wird oder wenn Sie die eSIM als MultiSIM nutzen, werden abgerechnet wie bei einer "klassischen" SIM-Karte auch.
-

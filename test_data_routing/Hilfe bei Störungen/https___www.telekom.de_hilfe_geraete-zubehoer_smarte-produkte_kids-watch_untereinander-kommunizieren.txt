@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smarte-produkte/kids-watch/untereinander-kommunizieren
-
-Question: Können Kids Watches auch untereinander kommunizieren?
-Answer: Ja, Ihr Kind kann mit allen Kontakten über die XPLORA X5/X6 Play eSIM Kids Watch telefonieren, wenn deren Kids Watch Mobilfunk-Nummer als Kontakt eingespeichert ist. Das funktioniert auch unabhängig vom Netzbetreiber.
-Hinweis:Sprachnachrichten und Emojis können aber nur zwischen der Eltern-App und der Kids Watch versendet werden.
-

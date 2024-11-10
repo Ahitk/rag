@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Den-eigenen-Anschluss-anpingen/td-p/6956025/jump-to/first-unread-message
-Subject: Den eigenen Anschluss anpingen
-Content: Hallo!Ein Freund kann meinen Festnetzanschluss nicht anpingen, es kommt keine Antwort. Umgekehrt geht es aber. Mein Internet funktioniert tadellos, ich habe DSL und einen Router von der Telekom. Meine IP-Adresse fängt mit 91 an. Woran könnte das liegen?Herzliche GrüßeBerti
-
-Accepted Solutions:
-- @Berti244schrieb:Woran könnte das liegen?Sollte es sich um einen Speedport handeln, dem sind Pings aus dem Internet egal und werden auch nicht beantwortet.
-- @Berti244schrieb:Woran könnte das liegen?Sollte es sich um einen Speedport handeln, dem sind Pings aus dem Internet egal und werden auch nicht beantwortet.

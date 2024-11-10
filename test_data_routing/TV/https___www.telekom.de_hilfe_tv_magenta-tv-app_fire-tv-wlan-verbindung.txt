@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/tv/magenta-tv-app/fire-tv-wlan-verbindung
-
-Question: Wie kann ich die WLAN-Verbindung zu meinem Amazon Fire TV Gerät verbessern, wenn ich damit MagentaTV streamen möchte?
-Answer: Wenn Sie mit der MagentaTV App über Ihren Amazon Fire TV Stick oder Cube fernsehen möchten und die Bild- und Tonqualität nicht zufriedenstellend ist, stellen Sie die Verbindung auf das 5-GHz-Frequenzband Ihres WLANs um.
-Um Ihr Amazon Fire TV Gerät damit verbinden können, ändern Sie die WLAN-Einstellung Ihres Routers. Wählen Sie in den Sendeeinstellungen das 5-GHz-Frequenzband aus und stellen die automatische Kanalwahl auf die Kanäle "36, 40, 44, 48" um.
-

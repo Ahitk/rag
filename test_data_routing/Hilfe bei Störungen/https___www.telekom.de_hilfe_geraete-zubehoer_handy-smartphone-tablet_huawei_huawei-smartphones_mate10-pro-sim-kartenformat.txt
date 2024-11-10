@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei/huawei-smartphones/mate10-pro-sim-kartenformat
-
-Question: Welches SIM-Kartenformat benötigt das HUAWEI Mate10 Pro?
-Answer: Sie brauchen eine NanoSIM-Karte (4FF).
-Informieren Sie sich über die verschiedenen SIM-Karten-Formate.
-

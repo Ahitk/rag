@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/aktoren-und-sensoren/angebot-aktoren-und-sensoren-fuer-smart-home
-
-Question: Welche Geräte werden zurzeit für Magenta SmartHome angeboten?
-Answer: In unserem Shop finden Siealle für Magenta SmartHome erhältlichen Geräte.
-In derKompatibilitätsübersichtfinden Sie alle Geräte, die Sie über die Magenta SmartHome App steuern können.
-Weitere Tipps finden Sie auch unterSmartHome Hilfeund in derTelekom hilft Community
-

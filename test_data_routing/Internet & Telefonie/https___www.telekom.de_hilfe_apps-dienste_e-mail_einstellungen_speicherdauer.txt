@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/einstellungen/speicherdauer
-
-Question: Wie lange werden meine E-Mails gespeichert?
-Answer: Die Speicherdauer ist variabel von 3 Tagen bis unbegrenzt änderbar. Die Einstellungen imE-Mail Centernehmen Sie wie folgt vor:
-Zahnrad > Alle Einstellungen anzeigen > Speicher > Speicherdauer
-Hier können Sie die gewünschte Aufbewahrungszeit für jeden Ordner individuell anpassen.
-

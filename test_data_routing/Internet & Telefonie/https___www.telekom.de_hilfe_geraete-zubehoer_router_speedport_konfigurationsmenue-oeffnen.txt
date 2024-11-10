@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/konfigurationsmenue-oeffnen
-
-Question: Wie gelange ich zu den Einstellungen meines Speedport Routers?
-Answer: Verbinden Sie Ihren Laptop oder PC mit dem Speedport über ein Netzwerk-Kabel (gelbe LAN-Buchse) oder per WLAN.
-

@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/SMS-an-Festnetz-verhindern-oder-umleiten/td-p/6969620/jump-to/first-unread-message
-Subject: SMS an Festnetz verhindern oder umleiten
-Content: Guten Morgen!Gibt es eine Möglichkeit, SMS an meine Festnetznummer generell zurückzuweisen oder umzuleiten?Hintergrund: Ich erhalte öfter SMS, die der Versender nicht an meine Mobilnummer schickt, sondern versehentlich an das Festnetz. Diese wird dann zwar vorgelesen, da aber meistens ein AB / Sprachbox vorgeschaltet ist, erhalte ich den Text nur teilweise.Am liebsten wäre mir, wenn der Versender eine Fehlermeldung erhält und damit seinen Irrtum bemerkt. Alternative wäre die Umleitung an meine Mobilnummer, allerdings nachtürlich nur die SMS und nicht die Anrufe.Kann mir jemand helfen?Gruß, ruby
-
-Accepted Solutions:
-- Mir wäre nicht bekannt dass man so was blockieren kann und umleiten geht auch nichtIst es denn immer das selbe Thema und weißt du wer der Verursacher ist? Wenn ja könntest du ihn einfach mal informieren dass er da was korrigieren soll
-- Mir wäre nicht bekannt dass man so was blockieren kann und umleiten geht auch nichtIst es denn immer das selbe Thema und weißt du wer der Verursacher ist? Wenn ja könntest du ihn einfach mal informieren dass er da was korrigieren soll

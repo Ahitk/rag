@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/nuki/nuki-bridge-immer-notwendig
-
-Question: Brauche ich für das Nuki Türschloss in Magenta SmartHome auch die Nuki Bridge?
-Answer: Wenn Sie ein oder mehrere Nuki Türschlösser über Magenta SmartHome steuern möchten, ist die Nuki Bridge zwingend erforderlich. Zudem hat die Bridge auch den Vorteil, dass das Nuki Smart Lock per App aus der Ferne gesteuert und verwaltet werden kann. Dadurch sind die Vergabe von Zutrittsberechtigungen und sogar ein Auf- bzw. Zuschließen von unterwegs möglich.
-An einer Bridge können bis zu fünf Nuki Türschlösser betrieben werden. Wichtig ist dabei, dass sich jedes Türschloss in Bluetooth-Reichweite zur Bridge befindet und eine gute Verbindung zwischen den Geräten besteht.
-

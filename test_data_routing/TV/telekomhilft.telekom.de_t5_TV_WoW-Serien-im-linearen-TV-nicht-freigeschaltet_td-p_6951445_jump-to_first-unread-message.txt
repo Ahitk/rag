@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/WoW-Serien-im-linearen-TV-nicht-freigeschaltet/td-p/6951445/jump-to/first-unread-message
-Subject: WoW Serien im linearen TV nicht freigeschaltet
-Content: Ich hab ein merkwüriges Phänomen bzgl. linearen Seriensendern von Wow.Nach meinem Wechsel zu Magenta 2.0 musste ich Wow nach eigenem Fehler erst kündigen und dann mit Premium neu abschliessen. Danach waren die Filmesender zwar freigeschaltet, aber ich konnte weder Serien sehen noch mich bei Wow einloggen. Nach telefonischem Kontakt mit Telekom am Montag konnte zwar das Einloggen gelöst werden, allerdings sind die Seriensender Wow linear weiter gesperrt - "sie müssen erst die Serien buchen" (was ich ja habe)Wolfgang H
-
-Accepted Solutions:
-- @Hawo1976,ich habe nun die Rückmeldung bekommen, dass der WOW-Bestand datenbankseitig bereinigt wurde. Probieren Sie den Zugriff auf die linearen Kanäle bitte einmal aus.Geben Sie hier anschließend kurz Bescheid, ob jetzt alles so funktioniert, wie es soll.Viele GrüßeJürgen
-- @Hawo1976,ich habe nun die Rückmeldung bekommen, dass der WOW-Bestand datenbankseitig bereinigt wurde. Probieren Sie den Zugriff auf die linearen Kanäle bitte einmal aus.Geben Sie hier anschließend kurz Bescheid, ob jetzt alles so funktioniert, wie es soll.Viele GrüßeJürgen

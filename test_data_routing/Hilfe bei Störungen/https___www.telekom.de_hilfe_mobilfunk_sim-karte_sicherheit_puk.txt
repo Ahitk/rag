@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/sim-karte/sicherheit/puk
-
-Question: Wo finde ich den PUK meiner SIM-Karte?
-Answer: Den PUK Ihrer SIM-Karte finden Sie zum einen in dem Schreiben, mit dem Sie Ihre SIM-Karte erhalten haben und zum anderen können Sie den PUK im Kundencenter auslesen.
-

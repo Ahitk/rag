@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/pc-fax-empfangen
-
-Question: Wie kann ich Faxe mit PC-Fax empfangen?
-Answer: Sobald ein Fax an Ihre PC-Faxnummer gesendet wird, wird diese Nachricht in Ihrem Posteingang wie eine klassische E-Mail mit dem Absender "T-Online fax" angezeigt.
-

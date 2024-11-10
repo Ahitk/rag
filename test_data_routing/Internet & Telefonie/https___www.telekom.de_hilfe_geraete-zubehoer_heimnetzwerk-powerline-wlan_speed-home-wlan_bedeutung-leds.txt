@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-wlan/bedeutung-leds
-
-Question: Was bedeuten die LEDs am Speed Home WLAN?
-Answer: Jede Leuchtanzeige am Speed Home WLAN hat eine bestimmte Bedeutung, je nachdem, ob die Leuchtanzeige leuchtet oder blinkt.
-Sie zeigen Ihnen immer den Betriebsstatus und helfen Ihnen bei der Fehlersuche.
-

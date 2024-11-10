@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/hilfe-bei-stoerungen/meldung-automatische-konfiguration/anleitung-manuelle-konfiguration-speedport
-
-Question: Wie funktioniert die manuelle Konfiguration an meinem Speedport Router?
-Answer: Wenn dieautomatische Konfigurationbzw. Einrichtung Ihres Speedport Routers nicht funktioniert hat, zeigen wir Ihnen in unserer Schritt für Schritt Anleitung wie Sie Ihren Internetzugang und die Telefonie manuell einrichten können.
-Tipp:Sie können auch dieMeinMagenta Appfür die Einrichtung Ihres Anschlusses verwenden.
-

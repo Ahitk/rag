@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/tv/pins-altersnachweis/erwachsenen-pin-uebertragen
-
-Question: Kann ich meine Erwachsenen-PIN auf einen anderen Telekom Login übertragen?
-Answer: Die Übertragung der Erwachsenen-PIN auf einen anderen Telekom Login oder auf eine andere Person ist nicht möglich.
-

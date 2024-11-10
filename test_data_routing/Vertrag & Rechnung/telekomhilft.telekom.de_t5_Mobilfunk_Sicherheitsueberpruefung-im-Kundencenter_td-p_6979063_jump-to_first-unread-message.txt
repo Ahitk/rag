@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Sicherheitsueberpruefung-im-Kundencenter/td-p/6979063/jump-to/first-unread-message
-Subject: Sicherheitsüberprüfung im Kundencenter
-Content: Moin zusammen,zu dem Thema nichts Genaues gefunden. Wollte mal nachhaken.Bei einigen Aktionen im Account muss man ja eine Sicherheitsprüfung/Verifizierung der Identität per Code an das Handy durchlaufen.Das Blöde bei mir: Seit ich meine neueste SIM aktiv habe, werden für die Sicherheitsprüfung nur noch die Nummer der neuesten SIM sowie eine andere Nummer einer Pluskarte zur Bestätigung angeboten.Kann ich das irgendwie ändern? Eigentlich würde ich davon ausgehen, dass man immer auch einen Code an die Nummer des Hauptvertrags senden kann, oder zumindest die Wahl hat, das so zu hinterlegen... Möchte bei zukünftigen Änderungen nicht immer die Datensim aus dem Gerät nehmen, nur um SMS zu empfangen, bzw. bei der Hotline anrufen (zwar nett und hilfsbereit - aber ca. 20 Min Wartezeit auch am Abend ist halt naja).GrüßeSimon
-
-Accepted Solutions:
-- Moin zusammen, ich im Kundencenter in den persönlichen Daten -> Kontakteinstellungen meine Hauptrufnummer hinterlegt, und die wird jetzt auch (wieder) zur Auswahl für die Sicherheitsüberprüfung angezeigt. Für mich hat sich das Anliegen gelöst ^^Liebe GrüßeSimon
-- Moin zusammen, ich im Kundencenter in den persönlichen Daten -> Kontakteinstellungen meine Hauptrufnummer hinterlegt, und die wird jetzt auch (wieder) zur Auswahl für die Sicherheitsüberprüfung angezeigt. Für mich hat sich das Anliegen gelöst ^^Liebe GrüßeSimon

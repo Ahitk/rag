@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/kosten-option
-
-Question: Fällt für Option VoLTE und WLAN Call ein monatlicher Grundpreis an?
-Answer: Nein, die Mobilfunk Tarif-Option "VoLTE und WLAN Call" ist kostenlos. Gebühren fallen nur an, wenn Sie über WLAN Call telefonieren oder Nachrichten senden und Ihr Mobilfunk-Tarif das nicht abdeckt.
-

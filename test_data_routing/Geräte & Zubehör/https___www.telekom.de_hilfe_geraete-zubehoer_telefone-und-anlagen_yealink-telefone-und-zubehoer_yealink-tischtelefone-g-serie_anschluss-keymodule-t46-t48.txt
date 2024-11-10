@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/yealink-telefone-und-zubehoer/yealink-tischtelefone-g-serie/anschluss-keymodule-t46-t48
-
-Question: Wie viele Keymodule kann ich am T46 oder T48 anschließen?
-Answer: Nutzen Sie das Telefon über "Power over Ethernet" (POE) können Sie bis zu zwei Erweiterungsmodule nutzen.
-Möchten Sie bis zu sechs Erweiterungsmodule nutzen, benötigen Sie für das Telefon und zwei Module ein 230V-Netzteil. Für jedes weitere Erweiterungmodul brauchen Sie jeweils ein 230V-Netzteil.
-Gut zu wissen:Die Telekom liefert immer das Netzteil mit.
-

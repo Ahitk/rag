@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Kein-Magenta-ueber-das-MacBook-Pro-und-Streaming-ueber-das-iPhone/td-p/6959764/jump-to/first-unread-message
-Subject: Kein Magenta über das MacBook Pro und Streaming über das iPhone
-Content: Moin zusammen,ich komme aktuell nicht weiter. Aktuell bin ich in einer Klinik und möchte dort mein iPhone als HotSpot nutzen um dann mein Magenta TV über das MacBook Pro zu sehen.Ging tatsächlich am Montag Abend, gestern Abend fingen Probleme an und nun kann ich am MacBook Pro kein Magnet TV  mehr sehen. Der rote Kreis dreht sich, das war es dann auch.Auf dem iPhone kann ich hingegen Magenta TV sehen.iPhone 13 mini, iOS 18.0MacBook Pro 2020 macOS Sequoia 15.0Vielen DankAndreas
-
-Accepted Solutions:
-- Vielen Dank,ich habe den Fehler wohl gefunden.Da ich Funkamateur bin habe ich auch noch einen Hotspot für Digitalfunk.Die scheinen sich beide behindert zu haben, muss dazu nun den Hotspot DMR abschalten um den Hotspot für das Fernsehen zu nutzen.VGAndreas
-- Vielen Dank,ich habe den Fehler wohl gefunden.Da ich Funkamateur bin habe ich auch noch einen Hotspot für Digitalfunk.Die scheinen sich beide behindert zu haben, muss dazu nun den Hotspot DMR abschalten um den Hotspot für das Fernsehen zu nutzen.VGAndreas

@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/D-Link-DSC8302-Kamera-kann-nicht-in-Smarthome-App-integriert/td-p/6957613/jump-to/first-unread-message
-Subject: D-Link DSC8302 Kamera kann nicht in Smarthome App integriert werden
-Content: HomeBase 2, kein IP,!Unter der D-Link App funktioniert die Kamera einwandfrei, auch in der MagentaZuhause App funktioniert die Kamera einwandfrei.Wenn ich sie jedoch in der Smart-Home App als neues Gerät hinzufügen will, bricht er immer an der gleichen Stelle "Kein Bluetooth" ab, obwohl alles offen ist. Alle Hinweise wie Reset, Smartphone neu starten, Zentrale neu starten funktioniert  bringen nichts. I
-
-Accepted Solutions:
-- Als Ergänzung zu@Micha-KrauseBeitrag/Screenshots, danke dafür.👍🏼Der vollständige Link zur Lösung:https://telekomhilft.telekom.de/t5/Smart-Home/Kamera-D-Link-DCS-8302LH-laesst-sich-nicht-installiere...Gruss VoPo
-- Als Ergänzung zu@Micha-KrauseBeitrag/Screenshots, danke dafür.👍🏼Der vollständige Link zur Lösung:https://telekomhilft.telekom.de/t5/Smart-Home/Kamera-D-Link-DCS-8302LH-laesst-sich-nicht-installiere...Gruss VoPo

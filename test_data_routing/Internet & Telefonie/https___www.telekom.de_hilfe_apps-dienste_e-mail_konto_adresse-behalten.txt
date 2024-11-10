@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/adresse-behalten
-
-Question: Wie kann ich meine E-Mail-Adresse nach der Kündigung meines Anschlusses behalten?
-Answer: Ihre E-Mail-Adresse und das zugehörige Postfach sind mit dem Anschluss gekoppelt. Wenn Sie Ihren Festnetz-Anschluss gekündigt haben, fällt auch dieser Dienst weg. Sie können aber durch einenWechsel auf FreemailIhre E-Mail-Adresse behalten.
-150 Tage nach der Kündigung wird der Zugang gesperrt. In den folgenden 30 Tagen werden Sie beim Login automatisch zum Wechsel geleitet.
-Hinweis:Die E-Mail-Adresse ist 90 Tage lang gesperrt und kann in dieser Zeit nicht wieder eingerichtet werden. Nach dieser Frist wird die Adresse wieder der Allgemeinheit freigegeben.
-

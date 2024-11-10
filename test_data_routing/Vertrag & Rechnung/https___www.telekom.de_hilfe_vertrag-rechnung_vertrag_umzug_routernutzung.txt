@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/umzug/routernutzung
-
-Question: Wie kann ich meinen Router weiterhin nutzen, wenn mein Festnetz-Anschluss umzieht?
-Answer: Wenn sich durch den Umzug nichts an Ihrem bisherigen Tarif ändert, können Sie den Router und zusätzliche Geräte (z. B. Telefon, WLAN-Repeater, Mesh-Adapter etc.) weiterhin nutzen.
-

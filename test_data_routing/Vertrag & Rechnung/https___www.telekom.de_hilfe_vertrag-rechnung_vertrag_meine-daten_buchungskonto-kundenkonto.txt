@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/meine-daten/buchungskonto-kundenkonto
-
-Question: Wo finde ich mein Buchungs- oder Kundenkonto?
-Answer: Sie finden Ihr Buchungskonto für Ihren Festnetz-Vertrag bzw. Ihr Kundenkonto für Ihren Mobilfunk-Vertrag
-• imKundencenterim Bereich "Rechnung & Zahlung",
-• in derMeinMagenta Appim Menü unter "Zahlungen" und
-• oben rechts auf Ihrer Rechnung.
-

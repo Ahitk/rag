@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/nutzung-der-smart-home-app-und-der-home-base/zugriff-auf-kontakte
-
-Question: Warum erscheint in der Magenta SmartHome App ein Dialog, der nach der Erlaubnis fragt auf meine Kontakte zuzugreifen?
-Answer: Um im Alarmfall eine SMS versenden zu können, geben wir Ihnen die Möglichkeit die Telefonnummer (eine Mobilfunknummer) aus Ihrem Adressbuch zu wählen. Die Zugrifferlaubnis der App auf Ihre Kontakte muss dafür einmalig erteilt werden.
-

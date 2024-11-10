@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Wie-konfiguriere-ich-Magenta-Receiver-401-so-dass-nach-dem/td-p/6960867/jump-to/first-unread-message
-Subject: Wie konfiguriere ich Magenta Receiver 401 so, dass nach dem Einschalten nicht die Startseite, sondern sofort das (letzte) TV-Programm erscheint?
-Content: Wie konfiguriere ich Magenta Receiver 401 so, dass nach dem Einschalten nicht die Startseite, sondern sofort das (letzte) TV-Programm erscheint?
-
-Accepted Solutions:
-- Einstellungen / Mein MagentaTV / Startseite/ Live TV anzeigenGruss VoPo
-- Einstellungen / Mein MagentaTV / Startseite/ Live TV anzeigenGruss VoPo

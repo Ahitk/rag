@@ -1,6 +1,5 @@
 import operator
 import streamlit as st
-from IPython.display import Image, display
 from tavily import TavilyClient
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_core.output_parsers import StrOutputParser
@@ -155,11 +154,6 @@ def retrieve_fusion(state):
 
     vector_store = generate_vectorstore_semantic_chunking(question, initials.model, initials.data_directory, initials.embedding)
     
-    #============================== FOR TEST PURPOSES ONLY =====================================================
-    #test_directory = '/Users/taha/Desktop/rag/test_data_naive'
-    #vector_store = get_vectorstore_semantic_chunking_no_summary(test_directory, initials.embedding)  
-    #============================== FOR TEST PURPOSES ONLY =====================================================
-
     retriever = vector_store.as_retriever()
 
     # Generate multiple queries using the multi_query_prompt and model
@@ -642,7 +636,6 @@ def run_fusion_graph(question, chat_history, question_history, documents):
             # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
         pprint("===========================================================")
 
-    #display(Image(app.get_graph().draw_mermaid_png()))
     print("---END!---")
     # Final generation
     answer = value["generation"]
@@ -709,7 +702,6 @@ def run_graph_hyde(question, chat_history, question_history, documents):
             # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
         pprint("===========================================================")
 
-    #display(Image(app.get_graph().draw_mermaid_png()))
     print("---END!---")
     # Final generation
     answer = value["generation"]
@@ -776,7 +768,7 @@ def run_graph_multi(question, chat_history, question_history, documents):
             # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
         pprint("===========================================================")
 
-    #display(Image(app.get_graph().draw_mermaid_png()))
+
     print("---END!---")
     # Final generation
     answer = value["generation"]
@@ -824,7 +816,7 @@ def run_graph_stepback(question, chat_history, question_history, documents):
             # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
         pprint("===========================================================")
 
-    #display(Image(app.get_graph().draw_mermaid_png()))
+
     print("---END!---")
     # Final generation
     answer = value["generation"]
@@ -890,7 +882,7 @@ def run_graph_naive(question, chat_history, question_history, documents):
             # pprint.pprint(value["keys"], indent=2, width=80, depth=None)
         pprint("===========================================================")
 
-    #display(Image(app.get_graph().draw_mermaid_png()))
+
     print("---END!---")
     # Final generation
     answer = value["generation"]

@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/rufnummernzuordnung-speedport
-
-Question: Wie funktioniert die Rufnummernzuordnung am Speedport?
-Answer: Anhand des Speedport Smart 4 zeigen wir Ihnen beispielhaft, wie Sie Ihren Telefonen Rufnummern zuordnen können.Sie können den Assistenten des Speedport nutzen oder die Konfiguration manuell vornehmen.
-Tipp: Wenn Sie einen anderen Speedport verwenden, finden Sie den Punkt "Rufnummernzuordnung" in der Bedienungsanleitung Ihres Gerätes oder aufunserer Hilfe-Seite.
-So geht´s manuell:Starten Sie das Konfigurationsmenü Ihres Speedport über http://speedport.ip und geben Sie das Gerätepasswort ein.
-
-Folgen Sie einfach den einzelnen Schritten und tragen Sie die nötigen Informationen in die entsprechenden Felder ein.
-

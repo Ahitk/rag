@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Darstellung-der-E-Mail-bei-Ankunft/td-p/6946486/jump-to/first-unread-message
-Subject: Darstellung der E-Mail bei Ankunft
-Content: Ich habe heute festgestellt, in meinem Outlook die Mails per IMAP unterschiedlich angezeigt werden, abhängig davon, ob sie im Posteingang liegen oder im Trash-Ordner liegen.Im Posteingang so:Im Trash-Ordner so:Im Pop3-Posteingang und Gelöschte sowie im Mailcenter so, wie im Trash-Ordner.Weiß jemand, woran das im IMAP-Posteingang liegen könnte?
-
-Accepted Solutions:
-- Ich habe es gefunden inzwischen.Für den Beitrag mit dem Business Webmail hatte ich den Ordneransichten das "An" mal hinzugefügt, was offenbar den Effekt verursacht hatte.Habe es eben wieder rausgenommen - alles wieder gleich mit Absender-Anzeige.Trotzdem Danke.
-- Ich habe es gefunden inzwischen.Für den Beitrag mit dem Business Webmail hatte ich den Ordneransichten das "An" mal hinzugefügt, was offenbar den Effekt verursacht hatte.Habe es eben wieder rausgenommen - alles wieder gleich mit Absender-Anzeige.Trotzdem Danke.

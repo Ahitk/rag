@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/tarife-optionen/sicherheitspaket/lizenz-uebertragen
-
-Question: Wie kann ich eine Lizenz aus meinem Telekom Sicherheitspaket auf ein neues Gerät übertragen?
-Answer: Öffnen Sie die Seite "Mein Norton" (Sie werden auf my.norton.com weitergeleitet) und klicken anschließend auf "Ich habe einen Partnercode". Sofern Sie das Sicherheitspaket über Ihren Mobilfunk-Vertrag gebucht haben, klicken Sie direkt auf "Einloggen" und melden Sie sich an. Machen Sie in dem Fall mit Schritt 4 weiter.
-

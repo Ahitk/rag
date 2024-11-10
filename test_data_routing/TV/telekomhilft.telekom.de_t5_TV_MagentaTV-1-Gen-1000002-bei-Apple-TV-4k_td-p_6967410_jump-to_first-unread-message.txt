@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/MagentaTV-1-Gen-1000002-bei-Apple-TV-4k/td-p/6967410/jump-to/first-unread-message
-Subject: MagentaTV 1.Gen 1000002 bei Apple TV 4k
-Content: Seit gestern erhalte ich die Fehlermeldung 1000002 bei MagentaTV 1.GenIch verwende die AppleTV 4k (2022) Box mit iOS 18.
-
-Accepted Solutions:
-- Hallo@bluecarforever,hat sich denn gerade etwas geändert? Oder hat es mit iOS 18 funktioniert?Sie könnten mal die App deinstallieren, AppleTV runterfahren und mal stromlos machen, App wieder installieren.In einigen Fällen hat das so zum Erfolg geführt.Viele Grüße,Coole Katze
-- Hallo@bluecarforever,hat sich denn gerade etwas geändert? Oder hat es mit iOS 18 funktioniert?Sie könnten mal die App deinstallieren, AppleTV runterfahren und mal stromlos machen, App wieder installieren.In einigen Fällen hat das so zum Erfolg geführt.Viele Grüße,Coole Katze

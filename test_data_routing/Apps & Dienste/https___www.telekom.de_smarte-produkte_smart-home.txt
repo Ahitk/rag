@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/smarte-produkte/smart-home
-
-Question: Wie sicher sind Smart Home Systeme?
-Answer: Das unabhängige IT-Sicherheitsinstitut AV-Test zeichnete SmartHome der Telekom mit dem Testurteil „Sicher“ aus. Außerdem speichern wir alle Daten Ihres Smart Homes ausnahmslos in deutschen Rechenzentren mit höchsten Sicherheitsstandards. Damit Ihr Smart Home umfangreich vor Angriffen aus dem Internet und Hackern geschützt ist, sollten Sie bei den Einstellungen dennoch Folgendes beachten:
-• Richten Sie starke Passwörter (auch für Ihre WLAN-Verbindung) ein.
-• Achten Sie auf ein (mit WPA2) verschlüsseltes WLAN.
-• Wenn Sie mehrere Apps verwenden: Vergeben Sie unterschiedliche und sichere Passwörter.
-

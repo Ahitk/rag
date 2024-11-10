@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/hauptadresse-festlegen-tauschen
-
-Question: Wie kann ich die Haupt-E-Mail-Adresse festlegen bzw. mit einer zusätzlichen E-Mail-Adresse tauschen?
-Answer: Die Haupt-E-Mail-Adresse wird in den Einstellungen desE-Mail-Centersverwaltet. Zu den Einstellungen gelangen Sie wie folgt:
-Zahnrad > Alle Einstellungen anzeigen > E-Mail-Adressen > Haupt-Adresse
-Klicken Sie auf den Punkt "Haupt-E-Mail-Adresse mit einer zusätzlichen E-Mail-Adresse tauschen". Anschließend können Sie eine der zusätzlichen E-Mail-Adressen als Haupt-E-Mail-Adresse festlegen.
-

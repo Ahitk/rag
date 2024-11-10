@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/apple-tv-4k/magenta-tv-fernbedienung
-
-Question: Wie verbinde ich die MagentaTV-Fernbedienung mit Apple TV 4K und welche Funktionen haben die Tasten?
-Answer: Während der Ersteinrichtung von Apple TV 4K wird die Fernbedienung automatisch verbunden, sobald Sie die Lasche vom Batteriefach am unteren Ende entfernt haben und eine beliebige Taste drücken.
-Wichtig:Positionieren Sie die Fernbedienung in einem Abstand von ca. 8 bis 10 cm so, dass sie auf die Vorderseite des Apple TV 4K weist.
-Wenn Ihr Apple TV 4K nicht reagiert, halten Sie bitte die Tasten "Menü" und "+" fünf Sekunden lang gleichzeitig gedrückt, um den Kopplungsmodus der Fernbedienung zu aktivieren.
-Die Kopplung ist erfolgreich, sobald Ihnen dies per Meldung auf Ihrem Apple TV 4K angezeigt wird.
-Tipp:Wenn Ihre Fernbedienung nicht reagiert oder funktioniert, prüfen Sie bitte, ob die Batterien richtig eingelegt sind.
-

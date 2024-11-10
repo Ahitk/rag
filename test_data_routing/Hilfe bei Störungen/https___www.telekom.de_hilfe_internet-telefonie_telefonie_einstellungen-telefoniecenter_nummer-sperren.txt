@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/nummer-sperren
-
-Question: Wie kann ich bei meinem Festnetz-Anschluss Anrufe zu bestimmten Rufnummern sperren?
-Answer: Rufen Sie das Telefoniecenter auf und melden sich mit dem Telekom Login an.
-

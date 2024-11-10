@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/meine-daten/mobilfunk-laufzeit-einsehen
-
-Question: Wo kann ich die Laufzeit meines Mobilfunk-Vertrags sehen?
-Answer: So können Sie Ihre Mobilfunk-Vertragslaufzeit prüfen:
-• Im KundencenterWählen Sie imKundencenterim Bereich "Verträge" den entsprechenden Mobilfunk-Vertrag aus.
-• In der MeinMagenta AppWählen Sie in derMeinMagenta Appden entsprechenden Vertrag aus und klicken Sie dann auf "Vertrag anpassen".
-• Auf Ihrer RechnungLoggen Sie sich im Kundencenter ein und gehen Sie im Bereich "Rechnung & Zahlung" auf "Alle anzeigen". Klicken Sie auf die gewünschte Rechnung. Auf der letzten Seite des PDFs finden Sie Vertragsbeginn und Kündigungsfrist.
-• Auf der AuftragsbestätigungDiese erhalten Sie vor Vertragsbeginn per E-Mail oder per Post.
-

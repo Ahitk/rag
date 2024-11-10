@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/wlan-voraussetzungen
-
-Question: Funktioniert WLAN Call in jedem WLAN oder nur bei mir zu Hause?
-Answer: Grundsätzlich können alle öffentlichen und privaten WLAN-Zugänge weltweit für WLAN Call verwendet werden.
-Ob und in welcher Qualität WLAN Call möglich ist, hängt von der Kapazität und Stärke des verbundenen WLAN-Netzes ab. Für WLAN Call müssen aber mindestens 100 KBit/s Bandbreite zur Verfügung stehen, um ein Telefonat führen zu können.
-

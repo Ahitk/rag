@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/freemail-mobilfunk-nummer
-
-Question: Warum brauche ich für die Einrichtung einer Freemail-Adresse eine Mobilfunk-Nummer?
-Answer: Wenn Sie einmal das Passwort für Ihr E-Mail-Postfach @magenta.de/@t-online.de vergessen haben, senden wir Ihnen einen Bestätigungscode per SMS zu, damit Sie Ihr Passwort zurücksetzen können.
-Aus Sicherheitsgründen wird dieser Code an die Mobilfunk-Nummer verschickt, die bei der Einrichtung der E-Mail-Adresse hinterlegt wurde.
-Hinweis: Wenn Sie keine Mobilfunk-Nummer haben, ist eine Registrierung für Freemail leider nicht möglich.
-

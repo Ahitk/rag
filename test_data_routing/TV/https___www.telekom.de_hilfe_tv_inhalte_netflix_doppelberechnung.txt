@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/tv/inhalte/netflix/doppelberechnung
-
-Question: Warum wird mein Netflix Abo doppelt berechnet, obwohl ich einen MagentaTV Tarif mit Netflix habe?
-Answer: Ihr Netflix Abo wird Ihnen doppelt berechnet, wenn es nicht mit dem MagentaTV Tarif verknüpft wurde. Nach der Buchung der Option Netflix by Telekom haben Sie einen Registrierungslink erhalten, über den Sie Ihr bestehendes Abo verbinden können.
-Hinweis:Die Abrechnung über Netflix wird automatisch gestoppt und Ihr Netflix Abo wird pausiert. Ihre Profile und Empfehlungen bleiben Ihnen erhalten. Wenn Sie MagentaTV mit Netflix by Telekom kündigen, wird Ihr Netflix Abo über Netflix fortgesetzt.
-

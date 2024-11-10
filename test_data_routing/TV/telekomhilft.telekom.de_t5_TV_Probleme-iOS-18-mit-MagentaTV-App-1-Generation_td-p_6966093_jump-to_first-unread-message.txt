@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Probleme-iOS-18-mit-MagentaTV-App-1-Generation/td-p/6966093/jump-to/first-unread-message
-Subject: Probleme iOS 18 mit MagentaTV App 1. Generation
-Content: Guten Abend,Ich bin jetzt von Android auf iOS umgestiegen und kann leider die für meinen alten Tarif erforderliche MagentaTV App 1. Generation nicht starten.es kommt immer der Hinweis, dass ich die neue Version installieren muss und im Anschluss, dass die neue aber nicht mit meinem Tarif kompatibel ist.Kann jemand helfen? Laut Hotline liegt es an Apple und es gibt keine Lösung, womit ich mich aber nicht wirklich zufrieden geben möchte.Vielen Dank
-
-Accepted Solutions:
-- Hallo@TR73deaktiviere in den Einstellungen vom iPhone unter TV Anbieter MagentaTVdann die passende App für deinen Tarif installieren - einloggen und TV Anbieter überspringen.
-- Hallo@TR73deaktiviere in den Einstellungen vom iPhone unter TV Anbieter MagentaTVdann die passende App für deinen Tarif installieren - einloggen und TV Anbieter überspringen.

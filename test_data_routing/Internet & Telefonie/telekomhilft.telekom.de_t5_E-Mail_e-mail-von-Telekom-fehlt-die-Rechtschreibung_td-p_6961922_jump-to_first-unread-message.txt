@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/E-Mail/e-mail-von-Telekom-fehlt-die-Rechtschreibung/td-p/6961922/jump-to/first-unread-message
-Subject: e-mail von Telekom fehlt die Rechtschreibung
-Content: Hallo, im e-mail von Telekom fehlt die Rechtschreibung obwohl ich in Einstellung das Häkchen gesetzt habe
-
-Accepted Solutions:
-- @klaus-bittelschrieb:nur bei Firefox nichtDen richtigen Hinweis dazu hat dir@Käseblümchenbereits gegeben.Man muss entsprechende Wörterbücher erst separat hinzufügen. Dann gehts auch mit dem Firefox🤗PS.: das hat auch nichts mit dem E-Mail-Center zu tun, sondern gilt generell für alle besuchten Webseiten im Firefox
-- Es scheint so, dass man beim Firefox erst ein "Wörterbuch" hinzufügen muss, bevor die Rechtschreibpüfung funktionieren kann.Einfach mal mit "rechtschreibung firefox" googeln.https://support.mozilla.org/de/kb/Rechtschreibpruefung-nutzen
-- Es scheint so, dass man beim Firefox erst ein "Wörterbuch" hinzufügen muss, bevor die Rechtschreibpüfung funktionieren kann.Einfach mal mit "rechtschreibung firefox" googeln.https://support.mozilla.org/de/kb/Rechtschreibpruefung-nutzen
-- @klaus-bittelschrieb:nur bei Firefox nichtDen richtigen Hinweis dazu hat dir@Käseblümchenbereits gegeben.Man muss entsprechende Wörterbücher erst separat hinzufügen. Dann gehts auch mit dem Firefox🤗PS.: das hat auch nichts mit dem E-Mail-Center zu tun, sondern gilt generell für alle besuchten Webseiten im Firefox

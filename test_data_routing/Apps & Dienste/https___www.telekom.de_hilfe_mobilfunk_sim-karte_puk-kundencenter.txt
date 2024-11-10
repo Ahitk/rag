@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/sim-karte/puk-kundencenter
-
-Question: Wie finde ich den PUK im Kundencenter?
-Answer: Loggen Sie sich imKundencenterein.
-

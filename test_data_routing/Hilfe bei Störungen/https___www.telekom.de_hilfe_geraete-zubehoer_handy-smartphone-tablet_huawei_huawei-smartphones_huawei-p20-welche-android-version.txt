@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei/huawei-smartphones/huawei-p20-welche-android-version
-
-Question: Welche Android-Version ist auf dem HUAWEI P20 installiert?
-Answer: Bei der Auslieferung ist das Betriebssystem Android 8.1 mit EMUI 8.1 installiert.
-

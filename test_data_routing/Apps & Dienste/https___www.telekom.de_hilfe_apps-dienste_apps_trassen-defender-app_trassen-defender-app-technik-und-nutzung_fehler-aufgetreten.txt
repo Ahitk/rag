@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/trassen-defender-app/trassen-defender-app-technik-und-nutzung/fehler-aufgetreten
-
-Question: Ich bekomme in der Trassen Defender App die Meldung "Fehler aufgetreten, bitte versuchen Sie es später erneut". Was kann ich tun?
-Answer: Eine bereits verwendete E-Mail-Adresse oder Handynummer kann nicht für weitere Trassen Defender Accounts verwendet werden. Möchten Sie die fragliche  E-Mail-Adresse oder Handynummer für einen neuen Account verwenden, löschen Sie bitte zunächst den alten Account.
-Falls die Fehlermeldung weiterhin bestehen sollte, wenden Sie sich bitte überdas Kontaktformularan uns.Dazu benötigen wir eine ausführliche Beschreibung des Problems.
-

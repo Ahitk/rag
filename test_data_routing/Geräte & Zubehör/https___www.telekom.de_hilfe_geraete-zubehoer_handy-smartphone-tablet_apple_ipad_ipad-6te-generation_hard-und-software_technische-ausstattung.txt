@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/ipad/ipad-6te-generation/hard-und-software/technische-ausstattung
-
-Question: Wie ist die technische Ausstattung des iPad (6. Generation)?
-Answer: Das iPad der 6. Generation hat ein Multi-Touch Retina Display mit 24,63 cm Displaydiagonale (9,7 Zoll) mit LED-Hintergrundbeleuchtung und ISP-Technologie mit einer Auflösung von  2.048 x 1.536 Pixeln (16,7 Mio. Farben) sowie einer fettabweisenden Beschichtung.
-Das Gerät hat einen A 10 Fusion Chip mit 64-Bit Architektur Integrierter M10 Coprozessor.
-Die Kamera für Foto- und Videoaufnahmen hat eine Auflösung von 8.0 Megapixeln.
-Die maximale Foto-Auflösung beträgt 8 Megapixel und die HD Video-Aufnahmen 1.920 x 1.080 Pixel.
-

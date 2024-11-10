@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Bestellung-Internet-Zuhause/td-p/6958008/jump-to/first-unread-message
-Subject: Bestellung Internet Zuhause
-Content: Guten Abend,ich wollte soeben meine Bestellung abschicken, Daten habe ich eingeben können, aber beim zahlungspflichtigen bestellen wurde der Vorgang abgebrochen. Bzw kam eine Fehlermeldung/Error der Seite.Ausgerechnet heute, am letzten Tag der Aktion.Könnt ihr mir bitte helfen?!Liebe Grüße Yvonne
-
-Accepted Solutions:
-- Hallo@Yvonne84Vielleicht malCache,Cookieslöschen.Ggf mal einen anderen Browser versuchenIch nutze Firefox und auch mal Chrome
-- Hallo@Yvonne84Vielleicht malCache,Cookieslöschen.Ggf mal einen anderen Browser versuchenIch nutze Firefox und auch mal Chrome

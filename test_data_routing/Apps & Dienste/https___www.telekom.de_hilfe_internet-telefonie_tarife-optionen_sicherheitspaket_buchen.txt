@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/tarife-optionen/sicherheitspaket/buchen
-
-Question: Wie kann ich das Telekom Sicherheitspaket buchen?
-Answer: Sie können das Sicherheitspaket auf derProdukt-Seiteoder wie folgt imKundencenterbestellen:
-Über den Festnetz-Anschluss:Zum Vertrag > Tarifoptionen > Zu den Optionen > Optionen hinzufügen > Sicherheitspakete > Klick auf das gewünschte Sicherheitspaket > Bestellen
-Über den Mobilfunk-Vertrag:Vertragsdetails > Meine Zubuchoptionen > Zubuchoptionen hinzufügen > Norton Sicherheitspaket > Klick auf das gewünschte Sicherheitspaket > Jetzt bestellen
-

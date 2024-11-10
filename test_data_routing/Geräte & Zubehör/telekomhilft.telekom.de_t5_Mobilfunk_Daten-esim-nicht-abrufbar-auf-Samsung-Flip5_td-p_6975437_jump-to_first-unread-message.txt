@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Daten-esim-nicht-abrufbar-auf-Samsung-Flip5/td-p/6975437/jump-to/first-unread-message
-Subject: Daten-esim nicht abrufbar auf Samsung Flip5
-Content: Servus, ich verzweifle gerade kurz vorm Urlaub. Das Samsung Flip 5 hat die Möglichkeit einer zusätzlichen esim. Ich habe mir nun für den Aufenthalt in USA eine solche geholt. Nun möchte ich diese im SIM- Manager hinzufügen, aber außer den 4 im Uhrzeigersinn drehenden kleinen Punkten tut sich hier nichts. Normal sollte man doch zu einer weiteren Auswahl kommen, bei der man einen QR- Code abfotografieren oder einem Code eingeben kann.  Leider komme ich bis dahin nicht. Muss da noch irgendwas vorher freigeschalten werden? Ich finde dazu nichts.
-
-Accepted Solutions:
-- Google sagthttps://www.samsung.com/de/support/mobile-devices/so-verwendest-du-dein-galaxy-smartphone-mit-esim/
-- Google sagthttps://www.samsung.com/de/support/mobile-devices/so-verwendest-du-dein-galaxy-smartphone-mit-esim/

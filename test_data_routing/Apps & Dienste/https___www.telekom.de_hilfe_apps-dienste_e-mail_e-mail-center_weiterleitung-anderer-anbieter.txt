@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/weiterleitung-anderer-anbieter
-
-Question: Kann ich meine E-Mails von anderen Anbietern im E-Mail Center empfangen?
-Answer: Ja, wenn Sie E-Mails eines anderen Anbieters über dasE-Mail Centereinsehen möchten, richten Sie in dem jeweiligen Drittanbieter-Postfach eine automatische Weiterleitung an Ihre Telekom E-Mail-Adresse ein.
-Informieren Sie sich zur Einstellung der Weiterleitung auf den Hilfeseiten des jeweiligen Anbieters.
-Hinweis:Die Einstellung im E-Mail Center zur automatischen Weiterleitung von E-Mails anderer Anbieter ist nicht mehr möglich.
-

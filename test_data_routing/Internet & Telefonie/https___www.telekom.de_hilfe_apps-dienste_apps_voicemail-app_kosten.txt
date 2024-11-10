@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/kosten
-
-Question: Entstehen mir Kosten bei der Nutzung der Voicemail App?
-Answer: Der Dienst Spracherkennung wird zum 1. Juni 2024 eingestellt. Daher können bereits heute keine neuen Abos und keine Verlängerungen mehr gebucht werden.
-Der Download und die Nutzung der Voicemail App sind kostenfrei.
-Wenn Sie aus der App heraus jemanden zurückrufen oder eine SMS versenden, wird das von Ihrem Mobilfunk-Anbieter in Rechnung gestellt. Die genauen Kosten sind dabei von Ihrem Tarif abhängig.
-Datenverkehr, wie z. B. Benachrichtigungen oder der Download von Nachrichten, wird wie das Surfen im Internet mit Ihrem Mobilfunk-Datentarif verrechnet.
-

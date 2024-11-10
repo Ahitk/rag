@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/sicherheit/spam-sms
-
-Question: Wie kann ich mich vor Spam-SMS schützen?
-Answer: Wenn Sie eine betrügerische SMS erhalten, löschen Sie diese und ignorieren Sie eventuell folgende Nachrichten. Klicken Sie auf keinen Fall die hinterlegten Links an oder geben persönliche Daten ein.
-Zu Ihrem Schutz können Sie
-Handelt es sich ausschließlich um ungewollte Spam-SMS, können Sie sich an dieBundesnetzagenturwenden. Bei Straftaten wiePhishingwenden Sie sich bitte an die Strafverfolgungsbehörden wie Polizei oder Staatsanwaltschaft. Falls Sie bereits auf einen Link geklickt haben oder eine Software installiert wurde, können Sie eine Strafanzeige erstatten.
-• eineDrittanbietersperreanlegen oder
-• dieMehr-Faktor-Authentifizierungeinrichten.
-

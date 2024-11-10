@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/einstellungen/tarifoption-wechsel
-
-Question: Wie kann ich von Mail M auf das kostenlose Mail S wechseln?
-Answer: Haben Sie einen Festnetz-Anschluss, erfolgt der Wechsel auf "Mail S" automatisch, wenn Sie den Dienst "Mail M" kündigen. ImKundencentergelangen Sie zu Ihren Verträgen und können "Mail M" wie folgt kündigen:
-Zum Vertrag > Tarifoptionen > Zu den Optionen > Mail M > Aktionen > Kündigen
-Wenn Sie eineFreemail-Adresse nutzen, gehen Sie wie folgt vor:Telekom Mail Verwalten > Mail M > Kündigen
-

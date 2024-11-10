@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/apple/apple-watch/nutzung-netze-apple-watch
-
-Question: Kann ich mit meiner Apple Watch LTE nutzen?
-Answer: Ja. Die Apple Watch können Sie im LTE- und UMTS-Netz nutzen. Die Uhr verbindet sich bei aktivierter Mobilfunk-Funktion immer automatisch mit dem Mobilfunknetz, wenn keine Bluetooth- oder WLAN-Verbindung mit dem iPhone möglich ist.
-

@@ -1,6 +1,0 @@
-Question:
-Können Sie erklären, wie man das Magenta Smart Home-System für ein Fenster einrichtet?
-
-Answer:
-In dieser Videozusammenfassung erklärt Karsten, wie er die Magenta Smart Home Lösung verwendet, um zu überprüfen, ob sein Fenster geöffnet oder geschlossen ist. Er erhält Hilfe von einem Experten namens Lea, die ihm zeigt, wie er sein Speedport Smart 3 Router einrichtet, um als Zentrale für seine Smart Home Geräte zu fungieren. Sie schlägt vor, die Homebase 2 zu verwenden, wenn er mehr Geräte hinzufügen möchte. Außerdem führt sie Karsten durch die Installation des Magenta Smart Home Apps und die Registrierung mit seiner Festnetznummer. Anschließend führt Lea Karsten durch den Prozess der Hinzufügung eines Türfensterkontakts zu seiner Smart Home App, damit er über die App verfolgen kann, ob sein Fenster offen oder geschlossen ist. Lea weist dabei auch auf die zusätzliche Möglichkeit hin, Benachrichtigungen bei Änderungen des Fensterstatus zu erhalten, wenn er nicht zuhause ist.
-

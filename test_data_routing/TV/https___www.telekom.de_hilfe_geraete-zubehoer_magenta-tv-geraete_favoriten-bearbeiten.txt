@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/favoriten-bearbeiten
-
-Question: Wie kann ich meine Favoriten bei MagentaTV bearbeiten?
-Answer: Ihre bereits eingerichteten Favoriten können Sie in den Einstellungen Ihres MagentaTV Gerätes oder der MagentaTV App, wie hier beschrieben, verwalten:
-Durch die Aktivierung/Deaktivierung des Herz-Symbols regeln Sie die Senderanzahl in Ihrer Favoritenliste. Die Sender, die ein aktiviertes Herz zeigen, sind Teil der Favoritenliste. Um Sender auszublenden, wählen Sie das Augen-Symbol (bei MagentaTV Geräten).
-• Über ein MagentaTV GerätMagentaTV One & MagentaTV StickHaus-Taste > Menü > Einstellungen > MagentaTV-Einstellungen > Senderverwaltung > Sender mit OK auswählen > über die Pfeiltasten verschieben > BestätigenMagentaTV Box, Media Receivern 401, 201 oder 601Haus-Taste > Einstellungen > Aufnahmen & Sender > Senderlisten > Meine Favoriten > Sender mit OK auswählen > über die Pfeiltasten verschieben > Bestätigen
-• Über die MagentaTV AppMeins (rechts unten auf dem Startbildschirm) > Einstellungen > Senderverwaltung > über die drei Balken können Sie den Sender auf einen anderen Platz verschieben > speichern
-

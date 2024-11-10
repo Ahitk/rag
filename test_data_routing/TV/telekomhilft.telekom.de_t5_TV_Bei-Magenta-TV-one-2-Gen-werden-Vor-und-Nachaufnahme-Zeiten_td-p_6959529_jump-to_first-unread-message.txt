@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Bei-Magenta-TV-one-2-Gen-werden-Vor-und-Nachaufnahme-Zeiten/td-p/6959529/jump-to/first-unread-message
-Subject: Bei Magenta TV one 2.Gen. werden Vor- und Nachaufnahme-Zeiten nicht mehr beachtet
-Content: Bei dem Vorgänger (TV-Box) wurden diese Zeiten ( z.B. 15 Minuten vor und 30 Minute nach der gewählten Sendung z.B. Tagesschau) beachtet. Damit konnte ich den 'Wetterbericht' und die 'Börseninformationen' sowie ggf. den folgenden 'Brennpunkt' in einer Programmierung aufnehmen. Besonders für den 'Brennpunkt' ist das wichtig, da er meist nicht oder zu spät imEPGsteht.Jetzt muss ich die Sendungen einzeln programmieren und oft auf den Brennpunkt verzichten, da er nicht in der Mediathek erscheint und da ich die Nachrichten meist lange nach der Sendung abrufe.Die jetzige Software zeigt - trotz der programmierten Vor- und Nachlaufzeiten  - nur die tatsächliche Sendung. Bei dem Wetterbericht kommt es zudem oft vor, das die Sendung erst eine Zeit nach dem Start aufgenommen wird
-
-Accepted Solutions:
-- @PellySunny37schrieb:@gacinonyxschrieb:@gacinonyxWird noch nicht unterstützt@gacinonyxDas sollte bei Magenta TV 2.0 auch so sein . Derzeit gibt es damit aber einen Fehler, der noch in Untersuchung ist .Gruß Ralf
-- @gacinonyxschrieb:Bei dem Vorgänger (TV-Box) wurden diese Zeiten ( z.B. 15 Minuten vor und 30 Minute nach der gewählten Sendung z.B. Tagesschau) beachtet.@gacinonyxWird noch nicht unterstützt
-- @gacinonyxschrieb:Bei dem Vorgänger (TV-Box) wurden diese Zeiten ( z.B. 15 Minuten vor und 30 Minute nach der gewählten Sendung z.B. Tagesschau) beachtet.@gacinonyxWird noch nicht unterstützt
-- @PellySunny37schrieb:@gacinonyxschrieb:@gacinonyxWird noch nicht unterstützt@gacinonyxDas sollte bei Magenta TV 2.0 auch so sein . Derzeit gibt es damit aber einen Fehler, der noch in Untersuchung ist .Gruß Ralf

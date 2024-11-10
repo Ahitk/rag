@@ -1,6 +1,0 @@
-Question:
-Was kann ich tun, wenn die automatische Anmeldung bei Magenta TV über Apple TV 4K nicht funktioniert?
-
-Answer:
-Das ist das Apple TV 4K mit der Magenta TV Fernbedienung. Bei Problemen mit der automatischen Anmeldung, sollten Sie sicherstellen, ob Ihr Anschluss bereits freigeschaltet ist. Wenn Sie bereits einen Anschluss haben und dieser besteht schon länger, können Sie die Magenta TV Zugangsdaten zur manuellen Anmeldung nutzen. Sollte das nicht funktionieren, können Sie Ihren Internetrouter neu starten und sich bei Apple TV erneut anmelden. Wenn die Verbindung zwischen der Magenta TV-Fernbedienung und Apple TV 4K nicht funktionieren sollte, können Sie durch Drücken der Menü- und Plus-Taste für 5 Sekunden einen erneuten Verbindungsversuch starten. Eine kostenlose Apple ID ist erforderlich, um Apple TV nutzen zu können, diese können Sie bequem auf verschiedenen Geräten einrichten. Bei der Installation von Apple TV ohne iPhone, sind einige zusätzliche Schritte notwendig, diese sind jedoch nicht kompliziert. Ein älteres Apple TV kann problemlos in einem anderen Raum genutzt werden, Sie können das volle Programm von Magenta TV genießen.
-

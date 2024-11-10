@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/quot-neue-Softwareaktualisierung-quot-trotz-erfolgreichem/td-p/6977463/jump-to/first-unread-message
-Subject: "neue Softwareaktualisierung", trotz erfolgreichem manuellem Update
-Content: Wenn der TV am nächsten Tag neu eingeschaltet wird, erscheint das abgebildete Textfenster.Es ist jedoch nicht möglich mit der Fernbedienung eine der Wahlmöglichkeiten anzuklicken.Der Ton ist aus, auchEPGfunktioniert nicht, auch nach längerem Warten!Dieses Problem taucht erneut auf, auch wenn, wie in der Anleitung beschrieben, ein manuelles Update durchgeführt wurde.Lösung des Problems:TV mit Fernbedienung ausschalten, kurz warten, dann wieder einschalten. Es erfolgt dann offensichtlich ein erneuter Ladevorgang der Steuerungsroutine, d.h. Ladevorgang mit %-Angaben der Fertigstellung, dann viaEPGzur Senderwahl.Diese Lösung ist jedoch absolut unbefriedigend, da auch  nach zwischenzeitlich kurzem Ausschalten des TV jedesmalfolgender Ablauf ist:init, Laden, Bildschirm: MAGENTA TV, Dunkelschirm, MediaReceiver startet mit % Angabe.Nach dieser Abfolge ist dann erst der normale TV Betrieb mit Sendserwahl möglich!Bitte helfen Sie diesen Mißstand zu beseitigen, ggf. schicken Sie einen neuen Receiver!Mit freundlichen Grüßen
-
-Accepted Solutions:
-- Danke!In der Tat, es ließ sich nur über die Tv-Original Fernbedienung lösen!
-- Die Mitteilung kommt von deinem Fernseher und nicht von MagentaTV. BitteFBdes TV-Geräts verwenden und/oder Handbuch bzw. Hersteller konsultieren.Viele GrüßeThomas
-- Die Mitteilung kommt von deinem Fernseher und nicht von MagentaTV. BitteFBdes TV-Geräts verwenden und/oder Handbuch bzw. Hersteller konsultieren.Viele GrüßeThomas
-- Danke!In der Tat, es ließ sich nur über die Tv-Original Fernbedienung lösen!

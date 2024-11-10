@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/lte-serie/mode-lampe-lte-2-violett
-
-Question: Was kann ich tun, wenn ich keinen Internetzugriff habe und die Mode-Lampe am Speedport LTE II violett leuchtet?
-Answer: Geben Sie in diesem Fall die PIN in den Speedport LTE II ein.
-Öffnen Sie hierzu das Konfigurationsmenü des Routers, indem Sie in die Adresszeile Ihres Browsers http://192.168.1.1.oderhttp://speedport.ipeingeben. Tragen Sie nun das Gerätepasswort ein und klicken Sie auf "Anmelden".
-Wählen Sie links im Menü: Einstellungen/Allgemeine Einstellungen/SIM-Einstellungen. Die Seite "PIN-Verwaltung" wird angezeigt.
-
-Klicken Sie hier "Deaktivieren", damit nicht bei jedem Internetzugriff die PIN abgefragt wird. Hinterlegen Sie nun die PIN, die Sie per Post von uns erhalten haben und speichern Sie die Einstellungen mit "Übernehmen".
-

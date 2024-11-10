@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Verbindungsprobleme/td-p/6943385/jump-to/first-unread-message
-Subject: Verbindungsprobleme
-Content: Mein Anschluss hat heute schon sieben Aussetzer .es wird immer das Internet getrennt und nach ein paar Minuten ist es wieder da und dieses Problem trat heute in 20 Stunden 7mal auf .Eigentlich war bis am Samstag wo ich mit einer Telekommitarbeiterin telefoniert habe keine Abbrüche vorhanden
-
-Accepted Solutions:
-- Aktuell passt allesich habe das Update gemacht aber ob es an dem gelegen hat glaube ich nicht , ich habe nämlich Montag noch mit einem Techniker von der Störung gesprochen und der meinte es müsse irgendwo ein Problem liegen das er über die Ferne nicht regeln kann .Dann kam am Mittwoch ein Techniker der im Schaltkasten eine Lötstelle erneuert hat .
-- @KevKevTeleGanz einfach - den ftp-AVM-Server nutzen, bitte sehr:https://download.avm.de/fritzbox/fritzbox-7590-ax/deutschland/fritz.os/
-- @KevKevTeleGanz einfach - den ftp-AVM-Server nutzen, bitte sehr:https://download.avm.de/fritzbox/fritzbox-7590-ax/deutschland/fritz.os/
-- Aktuell passt allesich habe das Update gemacht aber ob es an dem gelegen hat glaube ich nicht , ich habe nämlich Montag noch mit einem Techniker von der Störung gesprochen und der meinte es müsse irgendwo ein Problem liegen das er über die Ferne nicht regeln kann .Dann kam am Mittwoch ein Techniker der im Schaltkasten eine Lötstelle erneuert hat .

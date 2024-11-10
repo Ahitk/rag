@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/speed-home-wifi/vorteile-speed-home-wifi
-
-Question: Welche Vorteile hat Speed Home WiFi?
-Answer: Die Speed Home WiFi Geräte sind optimal auf MagentaZuhause (auch mit MagentaTV) getestet und ausgerichtet. Das unterscheidet unser Mesh-System von denen anderer Hersteller.
-Es funktioniert auch mit hohen Internet-Geschwindigkeiten und ist kompatibel mit derMeinMagenta App– das macht die Einrichtung besonders einfach.
-Außerdem unterstützt Speed Home WiFi die Funktion "Seamless Handover". Das bedeutet, dass Ihre Geräte wie z. B. Smartphones, Tablets und Laptops nahtlos von Mesh-Gerät zu Mesh-Gerät weitergereicht werden, damit Sie in den Genuss einer optimalen und störungsfreien Verbindungsqualität kommen.
-

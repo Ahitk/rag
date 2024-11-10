@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/bauherren/informationen-kabel-lage
-
-Question: Wo finde ich Informationen zur Lage der Telekom Kabel auf meinem Grundstück?
-Answer: Über dieTrassenauskunftder Telekom können Sie sich einen Lageplan für die Kabelführung zu Ihrem Gebäude per E-Mail zuschicken lassen.
-Hinweis:Zum Schutz der unterirdischen Leitungen auf Ihrem Grundstück beachten Sie bitte auch die Kabelschutzanweisung, die Sie zusammen mit dem Lageplan erhalten.
-

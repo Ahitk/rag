@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/benutzername
-
-Question: Welche E-Mail-Adressen kann ich für die Einrichtung des Telekom Login verwenden?
-Answer: Sie können jede beliebige E-Mail-Adresse von einem Anbieter Ihrer Wahl als Benutzernamen verwenden, also z. B. @magenta.de, @t-online.de, @gmx.de, @web.de oder @gmail.com. Wenn die genutzte E-Mail-Adresse nicht automatisch Ihrem Namen zugeordnet werden kann, senden wir Ihnen während der Einrichtung einen Freischaltcode zur Überprüfung.
-Haben Sie noch keine E-Mail-Adresse oder möchten eine neue für den Telekom Login verwenden? Dann können Sie sich hier bequem eineTelekom E-Mail einrichten.
-

@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-von-regeln-und-szenen/automatisierte-regeln-und-szenen/dauer-automatisch-abschalten-nach
-
-Question: Was bedeutet "Dauer: automatisch abschalten ...nach"?
-Answer: Es gibt eine geräte- und eine szenenspezifische Nachlaufzeit der Geräte. Ein Bewegungsmelder verbleibt für vier Minuten im Zustand Bewegung, auch wenn sein Sensor keine Bewegung mehr festgestellt hat. Danach zählt die eingestellte Zeitdauer und schaltet die Szene ab. Es greifen dann die Regelungen bei Szenenende.
-

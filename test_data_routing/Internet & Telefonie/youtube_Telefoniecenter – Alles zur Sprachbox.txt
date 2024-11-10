@@ -1,6 +1,0 @@
-Question:
-Möchten Sie wissen, wie Sie die Bedingungen für die Annahme von Anrufen durch Ihre Sprachbox einstellen können?
-
-Answer:
-Willkommen beim Telefoniecenter, Ihrem Leitfaden für die Einrichtung und Verwendung Ihrer Sprachbox. Hier können Sie einstellen, unter welchen Bedingungen Ihre Sprachbox Anrufe annehmen soll - ob nach einer bestimmten Zeit, bei Besetztzeichen oder sofort. Sie können Benachrichtigungseinstellungen ändern, um zu entscheiden, ob Sie per Anruf oder SMS über neue Nachrichten informiert werden. Bitte beachten Sie, dass die Sprachbox für jede Rufnummer eines Nutzers automatisch eingerichtet wird. Unter dem Punkt Begrüßung finden Sie Anleitungen zum Aufnehmen Ihrer Begrüßung. Zudem erklären wir Ihnen, wie Sie Ihre Nachrichten per E-Mail, App oder Telefon abfragen können. Zur Sicherheit können Sie eine PIN für die Telefonabfrage Ihrer Sprachbox festlegen. Weitere Erklärungen zu den verschiedenen Themenbereichen des Telefoniecenters finden Sie in unseren Videotutorials.
-

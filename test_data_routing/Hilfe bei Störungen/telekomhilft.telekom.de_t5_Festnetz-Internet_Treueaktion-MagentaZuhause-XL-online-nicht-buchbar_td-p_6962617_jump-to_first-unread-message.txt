@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Treueaktion-MagentaZuhause-XL-online-nicht-buchbar/td-p/6962617/jump-to/first-unread-message
-Subject: Treueaktion MagentaZuhause XL online nicht buchbar
-Content: Hallo an alle!Meine Mutter hatte vor einigen Tagen einen Brief von Telekom erhalten mit zwei möglichen Angeboten und sie möchte nun unbedingt auf eines der Angebote wechseln. Ich habe es mehrfach versucht über den angegebenen Link aber leider geht das nur bis zu einem bestimmten Punkt und plötzlich steht dort das die Seite nicht erreichbar sei, seit eben kann ich noch nicht mal mehr die Seite dafür an sich aufrufen und werde mit einem 400 Error begrüßt. Gibt es aktuell Störungen oder muss ich doch zum Hörer greifen und das so erledigen?🙉Vielen Dank im voraus!
-
-Accepted Solutions:
-- Hallo@wetterfee2Versuche mal bitte denCache,Cookieszu löschen.Dann nochmal versuchenGgf einen anderen BrowserIch nutze Firefox oder Chrome
-- Hallo@wetterfee2Versuche mal bitte denCache,Cookieszu löschen.Dann nochmal versuchenGgf einen anderen BrowserIch nutze Firefox oder Chrome

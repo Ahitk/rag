@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/drittanbieter-sperre
-
-Question: Wie kann ich Drittanbieterdienste für meinen Mobilfunk-Vertrag sperren oder entsperren?
-Answer: ImKundencenterkönnen Sie die Drittanbietersperren verwalten und einzelne oder alle Dienste für Ihre Mobilfunk-Rufnummer sperren bzw. entsperren. Gehen Sie dazu wie folgt vor:
-Verträge > Mobilfunk-Vertrag auswählen > Ansicht wechseln > Meine Rufnummer (unterhalb der Kacheln) > Drittanbietersperren verwalten
-Hinweis: Bei einer Sperre aller Drittanbieterdienste können z. B. auch Fahrscheine für den öffentlichen Personennahverkehr, Eintrittskarten oder Parkscheine nicht mehr über Ihre Mobilfunk-Rechnung bezahlt werden.
-

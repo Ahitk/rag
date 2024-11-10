@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/tv/inhalte/magenta-sport/kuendigung
-
-Question: Wie kann ich mein MagentaSport Abo kündigen?
-Answer: Sie können Ihr MagentaSport Abo im Kundencenter selbst kündigen. Wie das geht, hängt davon ab, wie Sie Ihr Abo nutzen:
-Hinweis: Eine Kündigung Ihres Abos ist zum Ablauf der Mindestvertragslaufzeit von einem Monat (Monatsabo) bzw. 12 Monaten (Jahresabo) möglich, Details können Sie in derLeistungsbeschreibungnachlesen.
-• Mit Telekom Festnetz-VertragLogin imKundencenter> Verträge > Verträge verwalten > Klick auf den Pfeil des entsprechenden Festnetz-Vertrages (> Ansicht wechseln) > Tarifoptionen > Zu den Optionen > MagentaSport > Aktionen > Option kündigen
-• Mit Telekom Mobilfunk-VertragLogin imKundencenter> Verträge > Verträge verwalten > Klick auf den Pfeil des entsprechenden Mobilfunk-Vertrages (> Ansicht wechseln) > Meine Partnerdienste > MagentaSport > Details > Produkt kündigen
-• Ohne Telekom VertragLogin imKundencenter Erleben> Verträge > MagentaSport Abo > Vertragsdetails > Vertragsstatus > Kündigen
-

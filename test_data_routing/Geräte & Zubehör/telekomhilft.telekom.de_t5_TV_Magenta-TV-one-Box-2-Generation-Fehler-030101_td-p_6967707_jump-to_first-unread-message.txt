@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Magenta-TV-one-Box-2-Generation-Fehler-030101/td-p/6967707/jump-to/first-unread-message
-Subject: Magenta TV one Box 2. Generation  - Fehler 030101
-Content: Hallo zusammen,das Hauptmenü meiner Magenta TV one 2. Generation Box öffnet sich nicht mehr. Es wird dauerhaft nur "wird geladen" angezeigt.Über den Knopf "TV" an der Fernbedienung kann ich zum Glück Fernsehen. Allerdings kann ich auf meine Streaming Apps nicht mehr zugreifen, da das Hauptmenü nicht mehr funktioniert. An der Verkabelung wurde nichts geändert.Es kommt folgende Meldung:Hauptmenü kann nicht geladen werden. 030101Habe bereits folgende Fehlerbehebung versucht:-Neustart der Box-An-/Abmelden-Vom Stromnetz getrennt und frisch verbunden-ResetAm Nachmittag hatte ich keine Probleme. Das Problem ist erst heute Abend aufgetaucht.Kann mir hier bitte jemand weiterhelfen?Danke schon mal.Grüße elocin
-
-Accepted Solutions:
-- https://telekomhilft.telekom.de/t5/TV/Kein-Netflix-RTL-usw-mehr-in-der-Startseite/m-p/6967649#M69159...
-- https://telekomhilft.telekom.de/t5/TV/Kein-Netflix-RTL-usw-mehr-in-der-Startseite/m-p/6967649#M69159...

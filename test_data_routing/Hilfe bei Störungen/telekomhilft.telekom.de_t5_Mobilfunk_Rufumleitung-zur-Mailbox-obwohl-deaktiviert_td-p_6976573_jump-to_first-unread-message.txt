@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Rufumleitung-zur-Mailbox-obwohl-deaktiviert/td-p/6976573/jump-to/first-unread-message
-Subject: Rufumleitung zur Mailbox obwohl deaktiviert
-Content: Hallo,egal was ich einstelle (Mailbox deaktivert oder nach 30 Sekunden) geht die Mailbox immer nach ca. 13 Sekunden dran.In der VoiceMail App habe ich 30 Sekunden eingetragen und die Mailbox geht früher dran.Wenn ich allerdings 5 Sekunde einstelle, dann geht die Mailbiox nach 5 Sekunden dran.Das Problem habe ich nach dem Wechsel auf ein Iphone 16.Jens
-
-Accepted Solutions:
-- @u.seidenstueckerdas wird die AppleLive-Voicemail sein, die gibt es jetzt mit iOS 18 auch in Deutschland und die geht nach 14 Sekunden ran. Geh mal auf Einstellungen - Apps - Telefon und da kann man die Live-Voicemail Funktion ausschalten
-- @u.seidenstueckerdas wird die AppleLive-Voicemail sein, die gibt es jetzt mit iOS 18 auch in Deutschland und die geht nach 14 Sekunden ran. Geh mal auf Einstellungen - Apps - Telefon und da kann man die Live-Voicemail Funktion ausschalten

@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/apple-music/apple-music-volle-nutzung
-
-Question: Ich kann Apple Music nicht in vollem Umfang nutzen, woran liegt das?
-Answer: Vermutlich haben Sie nach der Buchung der Option Apple Music noch keine Apple-ID mit der Buchung verknüpft.
-Bitte holen Sie dies nach, indem Sie Folgendes tun:
-

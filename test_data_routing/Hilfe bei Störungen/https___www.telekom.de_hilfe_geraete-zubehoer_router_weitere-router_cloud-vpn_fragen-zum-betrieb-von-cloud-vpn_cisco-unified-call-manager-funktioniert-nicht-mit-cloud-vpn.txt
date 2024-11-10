@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/cisco-unified-call-manager-funktioniert-nicht-mit-cloud-vpn
-
-Question: Der Cisco Unified Call Manager funktioniert nicht mit Cloud VPN. Was kann ich tun?
-Answer: Bitte prüfen Sie im Self-Service-Portal die Visual QoS Anwendungsklassen:
-Für Cisco UCM solltekeine Klasse blockiert werden.Achten Sie insbesondere darauf, dass dieAnwendungsklassen "Voice/Video" und "Business Applications" nicht blockiert werden.
-

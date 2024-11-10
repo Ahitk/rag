@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/programme/daten
-
-Question: Welche Daten brauche ich, wenn ich meine E-Mail-Adresse in einem E-Mail-Programm einrichten möchte?
-Answer: Um Ihre E-Mail-Adresse @magenta.de/@t-online in einem E-Mail-Programm einzurichten, benötigen Sie neben Ihrem Namen und Ihrer E-Mail-Adresse, das Passwort für E-Mail-Programme, sowie denPosteingangsserver/Postausgangsserver.
-Hier gelangen Sie zu den Anleitungen für die gängigsten E-Mail-Programme:Microsoft Outlook(Sie werden weitergeleitet auf support.microsoft.com)Apple Mail(Sie werden weitergeleitet auf support.apple.com)Mozilla Thunderbird(Sie werden weitergeleitet auf support.mozilla.org)
-

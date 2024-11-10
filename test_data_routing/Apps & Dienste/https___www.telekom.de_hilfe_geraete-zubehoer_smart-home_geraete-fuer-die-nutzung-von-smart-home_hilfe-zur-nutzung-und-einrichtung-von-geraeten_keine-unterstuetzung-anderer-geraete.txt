@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/hilfe-zur-nutzung-und-einrichtung-von-geraeten/keine-unterstuetzung-anderer-geraete
-
-Question: Warum kann ich einige der unterstützten Geräte nicht mit meinem Magenta SmartHome nutzen?
-Answer: Geräte einiger Hersteller werden nur von Magenta SmartHomePro unterstützt. Sie können mit Ihrem SmartHome ganz einfach auf die App mit vollem Funktionsumfang wechseln. Ihre heutigen Geräte und Einstellungen bleiben dabei erhalten.
-Sie können ganz einfach auf Magenta SmartHome Pro umstellen: Gehen Sie dazu im Menü der Magenta SmartHome App auf die Schaltfläche „Zu Magenta SmartHome Pro“. Sie werden Schritt für Schritt durch die Buchung geführt.
-Hinweis:Bitte melden Sie sich nach dem Upgrade einmal von Ihrer Magenta SmartHome App ab, und anschließend wieder an. Die App stellt sich dabei auf die Pro-Version um. Danach können Sie alle mit „Pro“ gekennzeichneten Geräte wie gewohnt verbinden.
-

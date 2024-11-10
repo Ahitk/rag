@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Glasfaserdose-vom-Stromnetz-trennen/td-p/6972063/jump-to/first-unread-message
-Subject: Glasfaserdose vom Stromnetz trennen
-Content: Nächste Woche soll bei uns ein neuer Stromzähler eingebaut werden. Die Einbaufirma gab den Hinweis, sämtliche Geräte vom Stromnetz zu trennen. Der damalige Telekommitarbeiter, der die Glasfaserdose installiert hat, gab den Hinweis die Glasfaserdose nie vom Netz zu nehmen bzw. den Stecker zu ziehen. Nun meine Frage, was passiert, wenn ich die Verbindung nun unterbreche. Muss dann nach dem Stromzählereinbau wieder ein Telekommitarbeiter kommen, um irgendwelche Einstellungen an der Glasfaserdose vorzunehmen? Ich muss echt mal so blöd fragen.
-
-Accepted Solutions:
-- Nein. Du kannst sie vom Strom nehmen.Der Techniker hat nur den guten Rat gegeben den Strom nicht zu trennen wenn es nicht unbedingt notwendig ist.
-- Nein. Du kannst sie vom Strom nehmen.Der Techniker hat nur den guten Rat gegeben den Strom nicht zu trennen wenn es nicht unbedingt notwendig ist.

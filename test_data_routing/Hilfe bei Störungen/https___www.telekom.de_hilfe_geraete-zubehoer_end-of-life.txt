@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/end-of-life
-
-Question: Warum finde ich nichts mehr zu meinem Gerät?
-Answer: Das gesuchte Gerät ist End of Life (EoL). Das bedeutet, es wird schon seit über 10 Jahren nicht mehr bei der Telekom verkauft und der Hersteller liefert inzwischen weder Ersatzteile noch Updates zu dem Gerät. Aus Sicherheitsgründen empfehlen wir Ihnen auf ein aktuelles Gerät zu wechseln.
-

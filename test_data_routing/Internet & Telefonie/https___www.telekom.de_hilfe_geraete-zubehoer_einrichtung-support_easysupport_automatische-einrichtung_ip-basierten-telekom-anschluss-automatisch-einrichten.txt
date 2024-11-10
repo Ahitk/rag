@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/einrichtung-support/easysupport/automatische-einrichtung/ip-basierten-telekom-anschluss-automatisch-einrichten
-
-Question: Wie kann ich einen IP-basierten Telekom Anschluss automatisch einrichten lassen?
-Answer: Sie können Ihren IP-basierten Anschluss über zwei Wege mit Ihrem Internet-Browser einrichten:
-A. Über den Assistenten zur automatischen Einrichtung der IP-basierten Telefonie:
-Rufen Sie die Seitewww.telekom.de/einrichtenauf und folgen Sie einfach den Anweisungen.
-B. Über das Kundencenter:
-

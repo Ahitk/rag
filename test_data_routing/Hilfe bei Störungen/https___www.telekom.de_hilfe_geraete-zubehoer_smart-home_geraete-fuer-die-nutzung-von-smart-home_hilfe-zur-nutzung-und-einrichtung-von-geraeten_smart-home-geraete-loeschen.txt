@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/hilfe-zur-nutzung-und-einrichtung-von-geraeten/smart-home-geraete-loeschen
-
-Question: Wie kann ich in der Magenta SmartHome App meine Geräte löschen?
-Answer: Sensoren und Aktoren entfernenSie können Ihre Geräte löschen, indem Sie in der Magenta SmartHome App unter Einstellungen > Geräte > den Raum und anschließend das Gerät auswählen. Tippen Sie dann auf "Gerät löschen".
-Zusatzmodule ("Gateways") oder Internetdienste löschenFür einige Geräte werden Hersteller-spezifische Zusatzmodule oder Internetdienste benötigt, wie zum Beispiel die Philips Hue Bridge oder das Ikea Tradfri Gateway.Zum Löschen wählen Sie in der Magenta SmartHome App im Menü "Einstellungen", und dann "Zentrale". Scrollen Sie nach unten und wählen Sie unter "Netzwerkmodule und Internetdienste" das entsprechende Gerät oder den Internetdienst aus und tippen Sie auf "Gerät löschen".
-

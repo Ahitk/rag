@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/nutzung-und-funktionen-von-smart-home/magenta-smarthome-pro/unterschied-magenta-smarthome-und-magenta-smarthome-pro
-
-Question: Was ist der Unterschied zwischen Magenta SmartHome und Magenta SmartHome Pro?
-Answer: Magenta SmartHome wurde speziell für den Einstieg in das smarte Zuhause entwickelt.Die kostenfreie Magenta SmartHome App unterstützt uneingeschränkt alle Funktionen, die auchMagenta SmartHome Proanbietet. Jedoch sind einige Geräte nicht in der kostenfreien App-Version enthalten.Die Profi-Variante von Magenta SmartHome bietet Nutzern noch mehr Möglichkeiten: Es lassen sich auch Geräte der Funkstandards Zigbee, HomeMatic und Homematic IP vernetzen.Hinweis:Je nach verwendeter Zentrale sind ergänzende Funksticks für Homematic IP und Zigbee erforderlich. HomeMatic kann nicht mit einem Router Speedport Smart als SmartHome Zentrale genutzt werden.
-Sie benötigen mehr Informationen?Mehr Informationen und Vorteile zum Magenta SmartHome und Magenta SmartHome ProZentralen und FunkstandardsGeräte für Ihr SmartHome
-

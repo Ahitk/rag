@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/telefonie/einstellungen-telefoniecenter/offline-rufannahme
-
-Question: Was ist die Offline-Rufannahme im Telefoniecenter?
-Answer: Mithilfe der Einstellung "Offline-Rufannahme" imTelefoniecenterlegen Sie selbst fest, ob im Falle einer Störung Ihres Anschlusses eine Anrufweiterleitung erfolgen soll. Sie können auswählen, ob im Störungszeitraum automatisch alle Anrufe auf die SprachBox oder auf eine selbst gewählte Rufnummer umgeleitet werden sollen.
-

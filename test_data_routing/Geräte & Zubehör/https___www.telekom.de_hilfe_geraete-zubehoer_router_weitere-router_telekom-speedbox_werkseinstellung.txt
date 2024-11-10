@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/telekom-speedbox/werkseinstellung
-
-Question: Wie setze ich die Speedbox wieder auf die Werkseinstellungen zurück?
-Answer: Die Reset-Taste finden Sie unter der Speedbox neben dem SIM-Karten Slot. Drücken Sie die Reset-Taste bei eingeschaltetem Gerät bis die Betriebsanzeige auf der Vorderseite zu blinken beginnt. Jetzt sind alle Einstellungen zurückgesetzt und Ihre Speedbox befindet sich nun wieder im Werkszustand.
-

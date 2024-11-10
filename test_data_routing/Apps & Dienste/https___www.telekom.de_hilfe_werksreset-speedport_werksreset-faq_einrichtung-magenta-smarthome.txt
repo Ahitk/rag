@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/werksreset-speedport/werksreset-faq/einrichtung-magenta-smarthome
-
-Question: Wo erhalte ich Unterstützung für die Einrichtung meiner SmartHome-Geräte?
-Answer: Zur erstmaligen bzw. erneuten Einrichtung von Magenta SmartHome finden Sie hier weitere Informationen.
-

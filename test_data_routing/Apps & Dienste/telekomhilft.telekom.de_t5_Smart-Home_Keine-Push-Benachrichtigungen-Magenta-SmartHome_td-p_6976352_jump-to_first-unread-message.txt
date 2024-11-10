@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Smart-Home/Keine-Push-Benachrichtigungen-Magenta-SmartHome/td-p/6976352/jump-to/first-unread-message
-Subject: Keine Push-Benachrichtigungen Magenta SmartHome
-Content: Hallo,Seit ein paar Tagen bekommen wir auf unseren Android-Handys keine Benachrichtigungen mehr bei Alarm an/aus etc.Neuinstallation hat nichts gebracht.Liebe GrüßeMicha
-
-Accepted Solutions:
-- Hallo, passiert in meinem msh auch ab und zu. Ich logge mich einmal aus und gleich wieder ein. Hat bisher immer funktioniert.
-- Hallo, passiert in meinem msh auch ab und zu. Ich logge mich einmal aus und gleich wieder ein. Hat bisher immer funktioniert.

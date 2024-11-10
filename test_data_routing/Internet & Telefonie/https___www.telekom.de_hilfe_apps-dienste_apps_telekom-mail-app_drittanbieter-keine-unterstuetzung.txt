@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/telekom-mail-app/drittanbieter-keine-unterstuetzung
-
-Question: Warum kann ich in der Telekom Mail App Postfächer anderer E-Mail-Anbieter nicht mehr einsehen?
-Answer: Aufgrund geringer Nutzung ist seit der Version 4.6.2 (iOS) und der Version 3.0.0 (Android) das Einbinden und Abrufen von Drittanbieter-E-Mails oder der eigenen Domain in der Telekom Mail App nicht mehr möglich. E-Mail-Postfächer wie Gmail, GMX, WEB.DE oder von der eigenen Domain werden nicht mehr unterstützt und automatisch ohne Datenverlust aus der App entfernt. Alternative Lösungsvorschläge finden Siehier. Kunden mit Homepage-Postfächern erhalten über dasHomepage Centerder Telekom weitere Informationen.
-

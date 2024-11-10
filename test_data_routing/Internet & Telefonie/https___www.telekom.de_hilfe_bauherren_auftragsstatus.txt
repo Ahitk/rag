@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/bauherren/auftragsstatus
-
-Question: Sie haben bereits einen Festnetz-Anschluss der Telekom oder haben von uns Zugangsdaten erhalten?
-Answer: Falls Sie noch keinen Telekom Login haben, können Sie Ihren Auftrag über unser Formular aktualisieren.
-Bitte beachten Sie, dass Änderungen über diesen Weg verzögert in den Auftrag übernommen werden.
-Zum Formular:Aktualisierung der AuftragsdatenZur FAQ:Auftrag Hausanschluss verfolgen und aktualisieren
-

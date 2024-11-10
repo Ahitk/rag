@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Speedphone-52-Mikrofon/td-p/6940528/jump-to/first-unread-message
-Subject: Speedphone 52 Mikrofon
-Content: Hallo zusammen,Wir haben ein Speedphone 52 an Speedport Router.Seit einigen Tagen funktioniert das Mikrofon nicht mehr, also Anrufer hören uns nicht.Was ich unternommen habe:- ab- und angemeldet- zurückgesetzt-einen halben Tag ausgeschaltet ohne AkkusBisher alles ohne Erfolg.
-
-Accepted Solutions:
-- Vielen Dank für die Antwort.Es hat sich letztlich herausgestellt,  dass es am Router  lag, der sich irgendwie in den Tiefen des Innenlebens aufgehängt hatte.Nachdem der nun volldtändigvresettet war und alle Gräte neu angemeldet wurden können wir wieder telefonieren.
-- Vielen Dank für die Antwort.Es hat sich letztlich herausgestellt,  dass es am Router  lag, der sich irgendwie in den Tiefen des Innenlebens aufgehängt hatte.Nachdem der nun volldtändigvresettet war und alle Gräte neu angemeldet wurden können wir wieder telefonieren.

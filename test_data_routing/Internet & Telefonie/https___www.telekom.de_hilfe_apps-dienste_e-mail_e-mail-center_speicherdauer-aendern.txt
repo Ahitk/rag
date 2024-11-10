@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/e-mail-center/speicherdauer-aendern
-
-Question: Wie ändere ich die Speicherdauer meiner E-Mails im E-Mail Center?
-Answer: Um die Dauer der Speicherung imE-Mail Centerfür jeden Ordner individuell festzulegen, gehen Sie wie folgt vor:
-Zahnrad > Alle Einstellungen anzeigen > Speicher > Speicherdauer
-Über das Aufklapp-Menü, den Pfeil rechts neben dem jeweiligen Ordnernamen, wählen Sie die gewünschte Speicherdauer von "Nach 3 Tagen" bis "Nie löschen".
-

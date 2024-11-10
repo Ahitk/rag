@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/voicemail-app/benachrichtigung
-
-Question: Warum erhalte ich keine Benachrichtigung von der App, obwohl neue Sprachnachrichten vorliegen?
-Answer: Das kann verschiedene Ursachen haben:
-1. Bitte stellen Sie sicher, dass Sie beim ersten Nutzen der App die Push-Benachrichtigung zulassen. Sie können später die Benachrichtigungsfunktion für Voicemail auch unter "Einstellungen" in Ihrem Gerät festlegen.
-2. Wenn Sie für Ihre @magenta.de/@t-online.de E-Mail-Adresse eine E-Mail-Weiterleitung zu einem anderen Postfach eingerichtet haben, werden Ihre Sprachnachrichten im Festnetz automatisch weitergeleitet. Eine Abfrage der Sprachnachrichten über die App ist dann nicht mehr möglich. Die Weiterleitungs-Option können Sie wie folgt rückgängig machen:Öffnen Sie das E-Mail Center. Dort deaktivieren Sie die Weiterleitung folgendermaßen: Klicken Sie auf das Zahnrad und wählen Sie "Alle Einstellungen" aus. Unter E-Mail Optionen finden Sie dann "Weiterleitung".
-Zum E-Mail Center|Wie öffne und schließe ich das E-Mail Center?
-

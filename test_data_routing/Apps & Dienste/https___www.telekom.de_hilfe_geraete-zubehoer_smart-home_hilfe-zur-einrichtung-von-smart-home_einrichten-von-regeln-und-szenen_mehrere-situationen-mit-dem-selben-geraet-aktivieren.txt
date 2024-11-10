@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/hilfe-zur-einrichtung-von-smart-home/einrichten-von-regeln-und-szenen/mehrere-situationen-mit-dem-selben-geraet-aktivieren
-
-Question: Was passiert, wenn ich mehrere Regeln mit dem selben Gerät aktiviere?
-Answer: Sie haben auch die Möglichkeit mehrere Regeln gleichzeitig zu aktivieren. Bei einer rein zeitgesteuerten Regel erfolgt die Schaltung der Geräte einmalig am Anfang der Zeitspanne. Bei einer sensorgesteuerten Regel wird der Zustand der Sensoren immer wieder ermittelt und führt zu wiederholten Schaltbefehlen der in der Regel ausgewählten Geräte.Eine Regel schaltet z. B. Leuchte 1 von 08:00 bis 16:00 Uhr ein. Eine zweite Regel schaltet die selbe Leuchte 1 von 10:00 bis 12:00 Uhr ein. So wird die Leuchte um 08:00 Uhr eingeschaltet, um 12:00 Uhr ausgeschaltet (weil die zweite Regel um 12:00 Uhr endet) und bleibt aus.Ist eine der beiden Regeln darüber hinaus noch sensorgesteuert, dann bestimmt deren Regelung die Schaltung der Leuchte ab 12:00 Uhr.
-

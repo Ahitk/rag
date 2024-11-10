@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/LG-WebOS-App-laedt-nicht-mehr/td-p/6967563/jump-to/first-unread-message
-Subject: LG WebOS App lädt nicht mehr
-Content: Hallo, ich schaue MagentaTV über die App auf dem LG Fernseher. Seit 2-3 Tagen dauerte es etwas länger bis der Startbildschirm erschienen ist. Heute bleibt der Bildschirm leer und wir haben keine Möglichkeit Fern zu sehen.Eine Deinstallation und Neustart hat leider nichts gebracht.Über eine Info bin ich dankbar.Gruß
-
-Accepted Solutions:
-- @Franz68Gestern gab es eine Störung, die mittlerweile behoben ist
-- @Franz68Gestern gab es eine Störung, die mittlerweile behoben ist

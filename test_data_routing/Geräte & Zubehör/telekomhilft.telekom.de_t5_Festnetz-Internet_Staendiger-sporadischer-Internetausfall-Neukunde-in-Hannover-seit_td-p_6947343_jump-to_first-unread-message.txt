@@ -1,6 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Staendiger-sporadischer-Internetausfall-Neukunde-in-Hannover-seit/td-p/6947343/jump-to/first-unread-message
-Subject: Ständiger sporadischer Internetausfall. Neukunde in Hannover seit heute 23.09.2024
-Content: Fritzbox 7490, seit heute (23.09.2024) Neukunde bei der Telekom aufgeschaltet und ständiger, sporadischer Internetausfall.Diagnosetool funktioniert nicht und beendet sofort mit Fehler 1001.Und das aller größte Problem, mit dem ich absolut nicht gerechnet hätte, das ich keine Servicenummer entdecken kann, die ein menschliches Wesen besetzt hat.Bitte dringend um Hilfe
-
-Accepted Solutions:
-- Sodele, habe jetzt alle D-Lan Adapter entfernt und... und... und es funktioniert.Vielen herzlichen Dank.🙏🙏🙏Wenn ich D-Lan Adapter von Fritz nehme funzt das dann oder soll ich besser einen Fritz Repeater kaufen?

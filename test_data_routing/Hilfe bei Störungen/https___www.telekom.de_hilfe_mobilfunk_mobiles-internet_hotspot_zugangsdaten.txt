@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/hotspot/zugangsdaten
-
-Question: Wie erhalte ich die zu meiner Telekom Mobilfunk-Rufnummer gehörenden HotSpot Zugangsdaten?
-Answer: Um die zu Ihrer Telekom Mobilfunk-Rufnummer gehörenden HotSpot Zugangsdaten zu erhalten, senden Sie eine SMS mit dem Inhalt "OPEN" an die 9526. Je nach Tarif können Ihnen für diese SMS Kosten entstehen.
-

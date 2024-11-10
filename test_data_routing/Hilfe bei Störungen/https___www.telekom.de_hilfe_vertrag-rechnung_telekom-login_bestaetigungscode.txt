@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/telekom-login/bestaetigungscode
-
-Question: Wozu dient der Bestätigungscode für meinen Telekom Login?
-Answer: Haben Sie das Passwort für Ihren Telekom Login vergessen, dann können wir mit dem Bestätigungscode sicherstellen, dass die zum Login hinterlegte E-Mail-Adresse auch wirklich Ihnen gehört, bevor wir ein neues Passwort verschicken. Dies erhöht die Sicherheit Ihrer Daten.
-Sie erhalten den Bestätigungscode als E-Mail oder per SMS an die hinterlegte Mobilfunk-Rufnummer. Bei Bedarf können Sie den Code erneut anfordern. Die Zustellung kann bis zu drei Minuten dauern. Bitte prüfen Sie zudem auch Ihren Spam-Ordner.
-Hinweis:Haben Sie gerade keinen Zugriff auf Ihr E-Mail-Postfach, dann nutzen Sie dieanderen Anmeldeoptionenzu Ihrem Telekom Login.
-

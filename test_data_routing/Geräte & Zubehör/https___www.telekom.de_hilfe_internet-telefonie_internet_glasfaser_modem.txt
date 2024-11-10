@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/glasfaser/modem
-
-Question: Wann benötige ich ein zusätzliches Glasfaser-Modem?
-Answer: Ein separates Modem ist notwendig, wenn bei IhnenFTTH(Fiber to the Home) als Glasfaser-Anschlusstechnik zum Einsatz kommt und Ihr Router nicht bereits über ein integriertes Modem verfügt. Ist Ihr Gebäude überFTTB(Fiber to the Building) an unser Glasfaser-Netz angeschlossen, benötigen Sie kein zusätzliches Modem.
-

@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Sonstiges/Bestellung-DLink-Kamera-bei-Magenta-Moments/td-p/6940645/jump-to/first-unread-message
-Subject: Bestellung DLink Kamera bei Magenta Moments
-Content: Hallo,ich habe bereits mehrmals versucht die vergünstigte Aussenkamera von DLink über die MagentaApp zu kaufen, ich bekomme im Bestellprozess jedoch immer die ErroMessage das der Login nicht geklappt hat und ich mich unter „hier“ erneut einloggen soll. Nachdem ich mich ab und wieder anmelde kommt geht der Fehler jedoch nicht weg.Ich hatte auch probiert die Kamera ohne Login zu bestellen, dann kommt aber das ich bereits Kunde bin und mich einloggen soll.mache ich irgendwas falsch?danke schonmal
-
-Accepted Solutions:
-- Versuchs mal da, am besten im privaten Modus / inkognito Modus:https://www.telekom.de/zuhause/magenta-smarthome/d-link-aussenkamera-dcs-8302lh
-- Versuchs mal da, am besten im privaten Modus / inkognito Modus:https://www.telekom.de/zuhause/magenta-smarthome/d-link-aussenkamera-dcs-8302lh

@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/MediaReceiver-kein-Home-Menue-mehr/td-p/6967693/jump-to/first-unread-message
-Subject: MediaReceiver: kein Home-Menü mehr
-Content: Mein MediaReceiver 302 hat kein „Home“-Menü mehr (wenn man auf der Fernbedienung auf das Haus drückt), zeigt nur noch leeren magentafarbenen Bildschirm!Alle weiteren Menüs, für die es eine Extra-Taste gibt, lassen sich aufrufen, z.B.EPG, Musik, Schnelltaste für meine Aufnahmen (auf rot gelegt)Auch kompletter neuer Download desOShat nix gebracht (= 3x hintereinander: Receiver auf der Rückseite ausschalten, bis „Laden“ warten, wieder ausschalten; erst beim vierten Mal komplett booten lassen)Help!
-
-Accepted Solutions:
-- Geht jetzt bei mir wieder.✌️Puh!
-- Geht jetzt bei mir wieder.✌️Puh!

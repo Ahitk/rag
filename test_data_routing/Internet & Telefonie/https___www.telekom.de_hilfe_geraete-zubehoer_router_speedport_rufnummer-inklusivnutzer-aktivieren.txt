@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/rufnummer-inklusivnutzer-aktivieren
-
-Question: Wie aktiviere ich die Rufnummer des Inklusivnutzers in meinem Speedport?
-Answer: Öffnen Sie das Router-Menü und geben Sie das Gerätepasswort ein. Wie genau Sie zumMenü Ihres Speedportsgelangen, erklären wir hier.
-

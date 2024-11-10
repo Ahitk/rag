@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/prepaid-tarife/startguthaben
-
-Question: Was passiert mit meinem Prepaid-Startguthaben?
-Answer: Wenn eine neue Prepaid-Karte aktiviert wird, buchen wir automatisch für den ersten Zahlungszeitraum den Betrag des gewählten Tarifs vom Startguthaben ab.
-Beispiel:Wenn Ihr Wunschtarif 9,95 Euro für 4 Wochen kostet, beträgt das Startguthaben 10 Euro. Nach der Aktivierung der Karte haben Sie dann nur noch 5 Cent Prepaid-Restguthaben.
-

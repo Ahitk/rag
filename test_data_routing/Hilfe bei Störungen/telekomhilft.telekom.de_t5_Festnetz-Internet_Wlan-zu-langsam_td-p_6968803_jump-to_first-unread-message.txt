@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Wlan-zu-langsam/td-p/6968803/jump-to/first-unread-message
-Subject: Wlan zu langsam
-Content: Bei 2,4 GHz habe ich nur eine Leistung von 72 Mbp/s
-
-Accepted Solutions:
-- @p-lorenz-1schrieb:Bei 2,4 GHz habe ich nur eine Leistung von 72 Mbp/sIst normal bei 20MHz Bandbreite.
-- @p-lorenz-1schrieb:Bei 2,4 GHz habe ich nur eine Leistung von 72 Mbp/sIst normal bei 20MHz Bandbreite.

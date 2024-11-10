@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Bleiben-Mails-nach-Kuendigung-und-Wechsel-auf-Freemail/td-p/6956904/jump-to/first-unread-message
-Subject: Bleiben Mails nach Kündigung und Wechsel auf Freemail automatisch erhalten?
-Content: Hallo,wir wollen von der Telekom zu einem anderen Anbieter wechseln. Die Telekom-Mail kann man dann ja auf einen Freemail-Account umstellen. Ziehen dann auch automatisch alle Mails mit? Bei mir haben sich inzwischen tausende wichtige Mails angesammelt. Leider kann man aus dem Mailaccount heraus nur einzelne Mails weiterleiten und nur 15 am Stück sichern. Echt ein Witz. Oder gibt es hier einen Trick? Grüße!
-
-Accepted Solutions:
-- @Simi75ja wenn nicht mehr als 1GB Speicher belegt ist, dann bleiben die Mails erhalten. Freemail bietet nur 1 GB Mail Speicher an
-- @Simi75ja wenn nicht mehr als 1GB Speicher belegt ist, dann bleiben die Mails erhalten. Freemail bietet nur 1 GB Mail Speicher an

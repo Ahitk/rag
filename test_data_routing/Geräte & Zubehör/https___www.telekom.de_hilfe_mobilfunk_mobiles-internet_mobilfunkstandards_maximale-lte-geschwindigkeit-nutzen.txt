@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/mobiles-internet/mobilfunkstandards/maximale-lte-geschwindigkeit-nutzen
-
-Question: Wie kann ich mit meinem Mobilfunk-Gerät die maximale LTE-Geschwindigkeit von bis zu 300 MBit/s nutzen?
-Answer: Um mit Ihrem Smartphone, Tablet oder Ihrer Smartwatch LTE (4G) nutzen zu können, benötigen Sie Folgendes:
-• LTE-fähiges Smartphone/Tablet/Smartwatch.Die meisten neueren Geräte sind heutzutage LTE-fähig. Manche älteren Geräte unterstützen zwar LTE, aber nicht in der vollen Geschwindigkeit. Im Zweifel kann Ihnen der Hersteller Auskunft geben. LTE-fähige Geräte stellen wir darüber hinaus auf unseremShop-Seitevor.
-• LTE-fähiger Tarif.In unseren TarifenMagentaMobilundData Comfortist die Nutzung der LTE-Maximalgeschwindigkeit enthalten.
-

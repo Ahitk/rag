@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/magenta-zuhause-app/internet-tv-funktionen/router-steuern
-
-Question: Wie kann ich meinen Telekom Router über die MagentaZuhause App steuern?
-Answer: Tippen Sie in der MagentaZuhause App unter "Geräte" auf Ihren Router. Dort können Sie die vorhandenen Router-Funktionen, wie z. B. das Ein- und Ausschalten des WLANs einstellen.
-Hinweis:Für einige Router-Funktionen werden Sie in dieMeinMagenta Appbzw. zum Download der App weitergeleitet.
-

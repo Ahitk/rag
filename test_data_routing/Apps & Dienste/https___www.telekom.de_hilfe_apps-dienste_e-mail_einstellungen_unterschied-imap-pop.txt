@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/einstellungen/unterschied-imap-pop
-
-Question: Was ist der Unterschied zwischen dem E-Mail-Protokoll IMAP und POP?
-Answer: Bei Verwendung eines IMAP bezeichneten Postfaches werden die E-Mails auf dem Server synchronisiert und verwaltet, während bei POP-Postfächern die E-Mails vom Server heruntergeladen und lokal gespeichert werden. Auf die bereits abgerufenen und versendeten E-Mails haben Sie dann bei POP-Postfächern nur noch über diesen lokalen Computer Zugriff.
-

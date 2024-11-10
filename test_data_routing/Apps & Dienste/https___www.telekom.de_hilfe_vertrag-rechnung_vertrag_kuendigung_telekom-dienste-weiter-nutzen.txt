@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/vertrag/kuendigung/telekom-dienste-weiter-nutzen
-
-Question: Wie kann ich Telekom Dienste wie E-Mail und MagentaCLOUD nach der Kündigung weiternutzen?
-Answer: Nach Ihrer Kündigung senden wir Ihnen eine E-Mail mit dem Hinweis, dass die Daten Ihres E-Mail-Postfachs und Ihrer MagentaCLOUD gelöscht werden. Diese Nachricht ist kein Spam! Möchten Sie die Dienste weiterhin nutzen, dann klicken Sie auf den Link in der E-Mail und folgen Sie den weiteren Schritten, um die Telekom Dienste kostenlos umzustellen.
-Sie haben die E-Mail nicht mehr zur Hand? Über diesen Link können Sie ebenfalls dieTelekom Dienste kostenlos umstellen, sobald der Kündigungstermin Ihres Festnetz-Vertrags erreicht ist.
-Hinweis:Wird Ihnen bei der Umstellung weniger MagentaCLOUD Speicher angeboten als Sie aktuell besitzen, bleiben Ihre Daten trotzdem erhalten und werden nicht gelöscht. Sie können allerdings keine weiteren Daten hinzufügen.
-Fristen nach KündigungAb dem Kündigungstermin haben Sie keinen Zugriff mehr auf Ihre Daten in der MagentaCLOUD, können den Dienst zur Weiternutzung aber wie beschrieben kostenlos umstellen. 150 Tage nach Ihrer Kündigung wird auch der Zugang zum E-Mail-Postfach gesperrt, sofern nicht vorher umgestellt.
-Für Ihren mit dem Anschluss verknüpften Telekom Login gilt eine Übergangsfrist von 180 Tagen nach Kündigung. Danach wird Ihr Telekom Login automatisch gelöscht, sofern keine weiteren Dienste gebucht werden.
-

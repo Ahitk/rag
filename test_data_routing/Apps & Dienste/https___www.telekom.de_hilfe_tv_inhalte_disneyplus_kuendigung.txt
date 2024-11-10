@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/tv/inhalte/disneyplus/kuendigung
-
-Question: Wie kann ich die Option Disney+ kündigen?
-Answer: Sie können die Option Disney+ online zum Ende der Mindestvertragslaufzeit wie folgt abmelden:
-Über den Festnetz-Vertrag imKundencenterZum Vertrag > Tarifoptionen > Zu den Optionen > Disney+ by Telekom > Aktionen > Option kündigen
-Über den Mobilfunk-Vertrag über dieWebseiteSMS-TAN anfordern > Freischalten > Details (Disney+) > Produkt kündigen
-

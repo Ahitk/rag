@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/fernseher-steuern
-
-Question: Wie kann ich meinen Fernseher mit der Fernbedienung meines MagentaTV Gerätes steuern?
-Answer: Um den Fernseher mit der Fernbedienung Ihres MagentaTV Gerätes steuern zu können, aktivieren Sie in den Einstellungen des Media Receivers, der MagentaTV Box oder der MagentaTV One die HDMI-CEC Funktion wie folgt:
-Media Receiver & MagentaTV BoxEinstellungen > Weitere Geräte > Fernseher > Fernseher einschalten aktivieren
-MagentaTV OneEinstellungen > Geräteeinstellungen > Bild & Ton > HDMI CEC > gewünschte Funktion aktivieren
-Hinweis:Unter Umständen ist eine Aktivierung der Funktion an Ihrem Fernseher erforderlich. Was genau dafür zu tun ist, entnehmen Sie der Bedienungsanleitung Ihres Fernsehers.
-

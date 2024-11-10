@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/senderliste-aktualisieren
-
-Question: Wie kann ich die Senderliste von meinem MagentaTV Gerät aktualisieren?
-Answer: Um die Senderliste zu aktualisieren, starten Sie Ihr MagentaTV Gerät inkl. des Routers einmal neu. Sollten die Sender dann noch nicht verfügbar sein, setzen Sie die Senderliste über das Einstellungs-Menü (Haus-Taste auf der Fernbedienung) je nach Gerät wie folgt zurück:
-Media Receiver 201, 401 & MagentaTV Box (PLAY)Haus-Taste > Einstellungen > Aufnahmen & Sender > Senderlisten > Zurücksetzen > Bestätigen
-MagentaTV One & MagentaTV StickHaus-Taste > Einstellungen > MagentaTV Einstellungen > Senderverwaltung > Liste zurücksetzen > Bestätigen
-Hinweis:Wenn Sie Ihre Senderliste zurücksetzen, geht die bisher von Ihnen festgelegte Sortierung verloren. Mit dieserAnleitungkönnen Sie die Sender nach Ihrer gewünschten Reihenfolge neu anordnen.
-

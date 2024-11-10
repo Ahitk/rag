@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/sendung-neu-starten
-
-Question: Wie kann ich eine laufende Sendung bei MagentaTV neu starten?
-Answer: Mit der Restart-Funktion können Sie laufende Sendungen auf Ihrem MagentaTV Gerät (z. B. Media Receiver oder MagentaTV App) neu starten und von Anfang schauen.
-Drücken Sie dazu im aktuellen TV-Programm die "Info"-, "OK"- oder "Pause"-Taste und beginnen Sie die Sendung mit dem "Restart"-Symbol (kreisförmiger Pfeil gegen den Uhrzeigersinn) erneut. Alternativ können Sie auch über "EPG" (Elektronischer Programm Guide) eine laufende Sendung über das "Restart"-Symbol erneut starten.
-Hinweis: Aus lizenzrechtlichen Gründen steht nicht bei jeder Sendung bzw. jedem Sender die Restart-Funktion zur Verfügung.
-

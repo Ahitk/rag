@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/bezahlen-entsperren
-
-Question: Wann wird mein Anschluss wieder freigeschaltet, wenn dieser wegen Zahlungsverzug gesperrt wurde?
-Answer: Ihr Anschluss wird umgehend nach Zahlungseingang entsperrt. Bei einer Überweisung oder Bareinzahlung kann es bis zu zwei Tage dauern, bis der Betrag bei uns ankommt.
-Hinweis: Eine schnellere Freischaltung ist nicht möglich, da die Entsperrung automatisiert erfolgt.
-

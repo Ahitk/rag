@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Private-Sender-auf-allen-Geraeten-nur-in-SD-Qualitaet/td-p/6976914/jump-to/first-unread-message
-Subject: Private Sender auf allen Geräten nur in SD Qualität.
-Content: Hallo zusammen,Ich habe seit gestern ein Problem:Auf Magenta TV (Generation 2) habe ich nur SD Qualität für alle Privaten Sender.Geräte:Samsung Galaxy Tab S7 FEXiaomi Redmi Note 12ok. Smart TVSamsung Smart TV
-
-Accepted Solutions:
-- Hallo@zd20020,@zd20020wrote: Die Bandbreite weiß ich aktuell nicht, da ich in einem Ferienhaus mit WLAN binwir sind uns sehr sicher, das es an dem WLAN vor Ort bzw. dem verwendeten Router liegt.Da wird der Stream dann wegen der Qualität runtergeschraubt und es geht nur noch SD.Grüße Detlev
-- Hallo@zd20020,@zd20020wrote: Die Bandbreite weiß ich aktuell nicht, da ich in einem Ferienhaus mit WLAN binwir sind uns sehr sicher, das es an dem WLAN vor Ort bzw. dem verwendeten Router liegt.Da wird der Stream dann wegen der Qualität runtergeschraubt und es geht nur noch SD.Grüße Detlev

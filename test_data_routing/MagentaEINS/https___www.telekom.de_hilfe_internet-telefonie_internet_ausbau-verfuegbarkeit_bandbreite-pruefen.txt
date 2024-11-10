@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/internet-telefonie/internet/ausbau-verfuegbarkeit/bandbreite-pruefen
-
-Question: Wie kann ich prüfen, welche Geschwindigkeit mit welcher Technik bei mir verfügbar ist?
-Answer: Hier können Sie testen, ob Glasfaser, DSL/VDSL, MagentaZuhause mit Hybrid 5G/LTE oder MagentaZuhause Regio an Ihrer Adresse möglich ist und welche Internet-Geschwindigkeiten jeweils erreicht werden können. Für jede Anschlusstechnik bieten wir Ihnen separate Verfügbarkeitschecks an:
-• Verfügbarkeit vonGlasfaser prüfen
-• Verfügbarkeit vonDSL/VDSL prüfen
-• Verfügbarkeit vonMagentaZuhause mit Hybrid 5G/LTE prüfen
-• Verfügbarkeit vonMagentaZuhause Regio prüfen
-

@@ -1,9 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/magenta-tv-geraete/anzahl
-
-Question: Wie viele MagentaTV Geräte kann ich über einen Festnetz-Anschluss nutzen?
-Answer: Sie können an einem MagentaTV Anschluss einen Haupt-Receiver und bis zu 3 Zweit-Receiver nutzen. Dabei sind folgende Kombinationen möglich:
-• Media Receiver 401 oder 601 Sat als Hauptgerät und bis zu 3 Media Receiver 201 als Zweitgerät
-• Media Receiver 401 oder 601 Sat als Hauptgerät und einen Media Receiver 401 als Zweitgerät (ohne eingesetzte Festplatte)
-• Media Receiver 401 mit 3 weiteren MagentaTV Boxen
-• MagentaTV Box mit bis zu 3 MagentaTV Box PLAY oder Media Receiver 201
-

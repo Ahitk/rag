@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Magenta-TV-ueber-Starlink/td-p/6981497/jump-to/first-unread-message
-Subject: Magenta TV über Starlink
-Content: Bis vor 4 Tagen konnte ich Magenta TV über Starlink, hier in Deutschland, anschauen. Seit 4 Tagen wird mir die Meldung angezeigt, dass Magenta TV nur in Deutschland nutzbar ist und der Bildschirm schwarz bleibt. Muss hier etwas anderes eingestellt werden?
-
-Accepted Solutions:
-- Vermutlich hat dir Starlink jetzt eine IP-Adresse zugeteilt, die nicht zu Deutschland GEO Verortet ist.Kannst du Starlink mal komplett neu startet (mal 10 Minuten ausgeschaltet lassen) - möglicherweise bekommst du dann eine neu IP aus D.Das Problem kann aber immer wieder auftreten, falls das überhaupt was hilft.
-- Vermutlich hat dir Starlink jetzt eine IP-Adresse zugeteilt, die nicht zu Deutschland GEO Verortet ist.Kannst du Starlink mal komplett neu startet (mal 10 Minuten ausgeschaltet lassen) - möglicherweise bekommst du dann eine neu IP aus D.Das Problem kann aber immer wieder auftreten, falls das überhaupt was hilft.

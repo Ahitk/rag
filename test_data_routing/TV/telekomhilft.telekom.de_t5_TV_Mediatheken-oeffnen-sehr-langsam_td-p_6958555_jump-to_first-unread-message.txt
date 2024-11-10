@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/Mediatheken-oeffnen-sehr-langsam/td-p/6958555/jump-to/first-unread-message
-Subject: Mediatheken öffnen sehr langsam
-Content: Hallo,wenn ich bei Magenta2.0 Apps ( ZDF und ARD Mediathek, RTL+) öffne und eine Sendung anwähle, dauert es mehrere Minuten, bis die Sendung startet.Cachehabe ich geleert, bringt aber nichts. Woran kann das liegen?
-
-Accepted Solutions:
-- Ich habe das Problem mittlerweile gelöst. Nachdem ich auf Werkseinstellungen zurückgesetzt und alles neu installiert habe läuft‘s wieder wie es soll.
-- Ich habe das Problem mittlerweile gelöst. Nachdem ich auf Werkseinstellungen zurückgesetzt und alles neu installiert habe läuft‘s wieder wie es soll.

@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/vertrag-rechnung/rechnung/bankverbindung-ueberweisung
-
-Question: Wo finde ich die Bankverbindung, wenn ich die Rechnung überweisen möchte?
-Answer: Die Kontodaten für die Überweisung stehen auf Ihrer Festnetz- bzw. Mobilfunk-Rechnung. Im Kundencenter und in der MeinMagenta App können Sie die letztenRechnungen einsehen.
-Bitte nutzen Sie den folgenden Verwendungszweck, damit wir Ihre Zahlung zuordnen können:
-• Bei Festnetz-Rechnungen: Rechnungsnummer und Buchungskonto
-• Bei Mobilfunk-Rechnungen: Kundenkonto oder Mobilfunk-Rufnummer
-

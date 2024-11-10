@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/handy-smartphone-tablet/huawei/huawei-smartphones/mate10-pro-technische-ausstattung
-
-Question: Wie ist die technische Ausstattung des HUAWEI Mate10 Pro?
-Answer: Das HUAWEI Mate10 Pro hat ein AMOLED Display mit 16,7 Mio Farben mit 15,24 cm (6 Zoll) Displaydiagonale und mit 1.080 x 2.160 Pixel.
-Das Gerät hat einen HUAWEI Kirin 970 Octa-Core-Prozessor mit 4 x 2,36 GHz (Cortex A73), 4 x 1,8 GHz (Cortex A53) Mali G72 GPU mit 12 Kernen und verfügt über einen Arbeitsspeicher von 6 GB.
-Die neue Leica Dual-Kamera, mit großen f/1.6 Blenden, hat eine Auflösung von 20 Megapixel Monochrom und 12 Megapixel RGB.
-Die max. Bildauflösung für Fotoaufnahmen beträgt 8 Megapixel und für 4K Video-Aufnahmen 3.840 x 2.160 Pixel (HD 1080).
-

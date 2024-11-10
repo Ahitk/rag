@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Mobilfunk/Mobilfunk-Stoerung-58095-Hagen/td-p/6950144/jump-to/first-unread-message
-Subject: Mobilfunk Störung 58095 Hagen
-Content: Seit ca. 12:45 Uhr ist das Mobilfunknetz in 58095 Hagen weg mehrer Handys und Tablet wie auch ein Hybrid Anschluss sind betroffen. Alle Geräte wurden mehrfach neu gestartet, beim Hybrid natürlich auch der POE Adapter.Ist absehbar wie lange die Störung dauert? Zum Glück gibt es ja WLAN Call
-
-Accepted Solutions:
-- Scheint wieder zu funktionieren, alles Geräte haben wieder Empfang
-- Scheint wieder zu funktionieren, alles Geräte haben wieder Empfang

@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/e-mail/konto/loeschen
-
-Question: Wie lösche ich meine Telekom E-Mail-Adresse und das Postfach?
-Answer: Wenn Ihre E-Mail-Adresse mit Ihrem Telekom Festnetz-Anschluss gekoppelt ist, kann diese nicht gelöscht werden, da die E-Mail-Adresse ein fester Bestandteil des Festnetz-Vertrags ist. Sollten Sie die E-Mail-Adresse nicht mehr nutzen wollen, empfehlen wir Ihnen dieÄnderung der E-Mail-Adresse.
-Hinweis:Damit ändert sich auch der Benutzername für die Anmeldung im Kundencenter und anderen gebuchten Telekom Diensten (z. B. MagentaTV).
-Bei einer Freemail-Adresse (also ohne Telekom Festnetz-Anschluss) oder einer E-Mail-Adresse, die mit einem Mobilfunk-Vertrag verknüpft ist, können Sie IhrenTelekom Login inkl. Postfach löschen.
-

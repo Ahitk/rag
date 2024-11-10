@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/telefonieren-sms-mms/wlan-call/option-aktivieren
-
-Question: Wie kann ich die Option VoLTE und WLAN Call bei meinem Mobilfunk-Vertrag aktivieren?
-Answer: Loggen Sie sich insKundencenterein.
-

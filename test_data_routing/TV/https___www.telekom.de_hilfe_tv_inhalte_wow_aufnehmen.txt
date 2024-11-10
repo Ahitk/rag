@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/tv/inhalte/wow/aufnehmen
-
-Question: Kann ich Inhalte von WOW mit meinem MagentaTV Gerät aufnehmen?
-Answer: Sie können das TV-Programm von den WOW Sendern mit den Media Receivern 401, 601 und der MagentaTV Box (PLAY) aufnehmen.
-Mit dem MagentaTV Stick und der MagentaTV One sind keine Aufnahmen möglich, da sie keine eingebaute Festplatte haben und WOW Inhalte nicht in der MagentaCLOUD gespeichert werden können.
-

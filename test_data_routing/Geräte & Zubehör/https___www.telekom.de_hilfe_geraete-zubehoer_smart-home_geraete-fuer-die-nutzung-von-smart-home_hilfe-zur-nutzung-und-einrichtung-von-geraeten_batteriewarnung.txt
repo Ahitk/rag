@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/smart-home/geraete-fuer-die-nutzung-von-smart-home/hilfe-zur-nutzung-und-einrichtung-von-geraeten/batteriewarnung
-
-Question: Warum bekomme ich eine Batteriewarnung in der Magenta SmartHome App, obwohl die Batterien für das betroffene Gerät noch in Ordnung sind?
-Answer: Die Zentrale versendet für verbundene, batteriebetriebene Geräte eine Push-Nachricht an das Smartphone, sollte die Batterieladung eines oder mehrerer Geräte unter einen gewissen Schwellwert fallen. Bei Schaltvorgängen eines batteriebetriebenen Gerätes kann der resultierende Spannungsabfall dazu führen, dass das System eine frühzeitige Batteriewarnung verschickt.
-Sie erkennen eine solche Warnung daran, dass weder auf der Startseite der SmartHome App, noch am Gerät selbst eine dauerhafte Batteriewarnung zu sehen ist. Das Gerät ist weiterhin voll funktionsfähig und die Batterieladung noch nicht im kritischen Bereich.
-

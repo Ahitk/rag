@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/TV/RTL-nicht-gebucht/td-p/6945886/jump-to/first-unread-message
-Subject: RTL nicht gebucht
-Content: Hallo Zusammen,habe mal ne Frage zu einem Problem.Über Apple TV kann ich alle gebuchten Sender (meistens) sehen.Am Laptop über Firefox und Chrome laufen alle Sender soweit auch ohne Probleme.Wenn ich jetzt aber versuche an meinem PC über den Browser Sender wie RTL, Sat1 oder Pro Sieben zu schauen, sagt der Sender nicht gebucht. Habs auf Edge, Chrome und Firefox versucht.ARD und ZDF funktionieren ohne Probleme.Hoffe jemand kann helfen.
-
-Accepted Solutions:
-- @Svarneschrieb:Hoffe jemand kann helfen.Kann der Monitor an deinem PC keinHDCP? Die Telekom hat neulich irgendwas amDRMgeändert, da gab es noch einige andere Kunden mit Problemen. Einfach mal hier im Forum suchen.Viele GrüßeThomas
-- @Svarneschrieb:Hoffe jemand kann helfen.Kann der Monitor an deinem PC keinHDCP? Die Telekom hat neulich irgendwas amDRMgeändert, da gab es noch einige andere Kunden mit Problemen. Einfach mal hier im Forum suchen.Viele GrüßeThomas

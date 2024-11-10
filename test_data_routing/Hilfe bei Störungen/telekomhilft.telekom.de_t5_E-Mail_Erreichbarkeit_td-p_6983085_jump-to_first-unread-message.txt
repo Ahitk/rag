@@ -1,6 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/E-Mail/Erreichbarkeit/td-p/6983085/jump-to/first-unread-message
-Subject: Erreichbarkeit
-Content: Hallo zusammen,seit ca 3 Tage ist unter der Adressehttps://www.telekom.de/kundencenter/emaildas email Portal nicht erreichbar.Auchhttps://www.telekom.de/kundencenterkann nicht mehr erreicht werden um Einstellungen zu Ändern.Was ist zu tun?
-
-Accepted Solutions:
-- Um wieder runter zu kommen habe ich erst mal eine Pause gemacht.Und was ist?Nichts getan!Kein Browser "aufgeräumt".tracert telekom.de wieder normal!Viele sinnlos Aktionen unterlassen.Es läuft wieder alles wie es sein soll.Hat da doch jemand nach der "Bastelei am System" den vergessenen "Schalter" umgelegt?Wer weiß das schon...Jedenfalls läuft alles wieder bei unseren vielen Anschlüssen/PC's und mein Puls hat auch wieder den Normalzustand erreicht.Mal sehen wann das nächste „Ei“ gelegt wird.An alle besten Dank für die Suche nach einer Lösung ...

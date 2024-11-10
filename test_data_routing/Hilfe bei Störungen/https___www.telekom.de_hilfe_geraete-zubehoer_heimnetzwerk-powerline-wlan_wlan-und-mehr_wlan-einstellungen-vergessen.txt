@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/heimnetzwerk-powerline-wlan/wlan-und-mehr/wlan-einstellungen-vergessen
-
-Question: Ich habe meinen WLAN-Schlüssel vergessen, was kann ich tun?
-Answer: Sie möchten ein Gerät über WLAN mit dem Internet verbinden und können den WLAN-Schlüssel einfach nicht finden?
-Ein Tipp:Schauen Sie auf der Rückseite bzw. Unterseite des Routers nach einem Etikett. Dort steht meist neben dem Gerätepasswort auch der WLAN-Schlüssel.
-Wenn das nicht hilft, gibt es verschiedene Möglichkeiten, wie Sie die Verbindung wiederherstellen können:
-

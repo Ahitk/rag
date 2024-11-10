@@ -111,7 +111,6 @@ if user_query:
             print(f"Metrics for question '{user_query}': {metrics_results}")
 
 
-
             print("==========   PROCESS ENDED  ==========")
             if response:
                 # Calculate response time

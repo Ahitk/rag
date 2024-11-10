@@ -1,8 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/mobilfunk/tarife-optionen/prepaid-tarife/grundpreis-anteilig
-
-Question: Warum wird mir nicht der vollständige Grundpreis meines Prepaid-Tarifs vom Guthaben abgezogen?
-Answer: Wenn am Abbuchungstag (auch Stichtag genannt) nicht ausreichend Prepaid-Guthaben auf Ihrer Karte ist, ziehen wir den Grundpreis nur anteilig ab. So können Sie den Tarif erstmal noch weiter nutzen.
-Sobald Sie Ihr Guthaben wieder aufgeladen haben, ziehen wir nur noch den Differenzbetrag zwischen dem bereits anteilig abgezogenen und dem tatsächlichen Grundpreis für 4 Wochen ab.
-Beispiel-RechnungWenn Ihr Prepaid-Tarif monatlich9,95 Eurokostet und am Abbuchungstag nicht mehr ausreichend Guthaben auf Ihrer Karte ist, dann ziehen wir anteilig pro Tag gerundet 36 Cent von Ihrem Guthaben ab. Das entspricht 9,95 Euro geteilt durch 28 Tage. Bei einem Restguthaben von 4 Euro wären es dann3,96 Eurofür 11 Tage.
-Wenn Sie anschließend innerhalb der nächsten 11 Tage Ihr Guthaben wieder aufladen, ziehen wir automatisch nur noch die Differenz 9,95 Euro minus 3,96 Euro =5,99 Eurofür die fehlenden 17 Tage von Ihrem Guthaben ab. Nach insgesamt 28 Tagen wird dann der reguläre Tarifpreis von 9,95 Euro wieder vom Guthaben abgebucht. Laden Sie in der Zeit Ihr Guthaben nicht mehr neu auf, dann Endet der Tarif automatisch nach 11 Tagen.
-

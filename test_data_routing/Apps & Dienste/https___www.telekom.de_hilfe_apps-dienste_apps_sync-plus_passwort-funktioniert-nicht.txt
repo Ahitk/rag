@@ -1,6 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/apps/sync-plus/passwort-funktioniert-nicht
-
-Question: Mein Passwort funktioniert nicht für das Login der Sync-Plus App. Was kann ich tun?
-Answer: Für das Login in der Sync-Plus App können Sie das Passwort verwenden, das Sie auch für den Login in das E-Mail Center nutzen.
-Das E-Mail-Passwort benötigen Sie, um die Synchronisation von E-Mails auf dem vorinstallierten E-Mail-Programm Ihres Smartphones oder Tablets einzurichten.
-

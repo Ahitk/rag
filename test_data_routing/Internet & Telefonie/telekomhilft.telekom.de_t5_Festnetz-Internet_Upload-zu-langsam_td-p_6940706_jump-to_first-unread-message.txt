@@ -1,9 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Festnetz-Internet/Upload-zu-langsam/td-p/6940706/jump-to/first-unread-message
-Subject: Upload zu langsam
-Content: Hallo Telekom-Team,ich habe gestern meinen Vertrag von 500/100 auf 600/300 angepasst, allerdings wurde der Upload bei mir nicht verändert / verbessert. Könnt Ihr da bitte einman nachsehen, warum ich noch die "alten" 100 MBit im Upload habe?Vielen Dank vorab,Christian.
-
-Accepted Solutions:
-- @onex.deDen Router auf jedenfall einmal neu starten.Bei einer Fritzbox reicht unter Onlinemonitor, auf "neu verbinden" zu klicken.Da war bei mir auch nach der Umstellung. Der Upload war auch niedrig.Wenn du eine Fritzbox 4060 hast, müssen die Werte Downstream und Upstream angepasst werden. (Down passt ja anscheinend ), Upstream auf 400 stellen oder so
-- Was für ein Router hast du und wurde der auch mal neu gestartet? Falls noch nicht neu gestartet bzw neu verbunden bitte mal machen und danach nochmal prüfen
-- Was für ein Router hast du und wurde der auch mal neu gestartet? Falls noch nicht neu gestartet bzw neu verbunden bitte mal machen und danach nochmal prüfen
-- @onex.deDen Router auf jedenfall einmal neu starten.Bei einer Fritzbox reicht unter Onlinemonitor, auf "neu verbinden" zu klicken.Da war bei mir auch nach der Umstellung. Der Upload war auch niedrig.Wenn du eine Fritzbox 4060 hast, müssen die Werte Downstream und Upstream angepasst werden. (Down passt ja anscheinend ), Upstream auf 400 stellen oder so

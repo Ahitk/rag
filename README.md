@@ -12,17 +12,22 @@ MacOS: source venv/bin/activate
 
 deactivate
 
-# STREAMLIT APP SELECTION
-# App that got best evaluation score is selected to run.
-
 # Retrieve API keys from environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # OpenAI API Key
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")  # Tavily API Key
 
+# Testset ve datalarinin hangi klasörde oldugunu belirt
+# ORJINAL DATA'LAR YANI WEB, YOUTUBE, PDF BUNLAR STORAGE'DAN ÖTÜRÜ CLOUD'TA OLACAK. DRIVE LINKI VER BURDA:
+
+# STREAMLIT APP SELECTION
+# hangi streamlir app'i nasil calistiracak
+streamlit run app.py
+# App that got best evaluation score is selected to run.
+
+
 #youtube transkriptlerini almak icin bu gerekti, belirtmek gerekebilir
 brew install ffmpeg
 
-# ORJINAL DATA'LAR YANI WEB, YOUTUBE, PDF BUNLAR STORAGE'DAN ÖTÜRÜ CLOUD'TA OLACAK. DRIVE LINKI VER BURDA:
 
 # IMPORTANT NOTE: The version v.0.1.21 of RAGAS has been used to create the test data. 
 # The higher version v.0.2x has a significantly different test data generation structure, which is why v.0.1.21 was preferred.

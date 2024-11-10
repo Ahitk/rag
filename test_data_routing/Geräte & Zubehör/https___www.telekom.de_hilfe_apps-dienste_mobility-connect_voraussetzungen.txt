@@ -1,7 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/apps-dienste/mobility-connect/voraussetzungen
-
-Question: Was sind die Voraussetzungen für die Nutzung von MobilityConnect?
-Answer: Voraussetzung für die Buchung der MobilityConnect Option ist ein Fahrzeug der BMW Group mit eingebautem Personal eSIM Modul.
-Die Buchung der MobilityConnect Option erfolgt direkt in der My BMW App oder My BMW Web.
-Für die Aktivierung und Buchung benötigen Sie Ihre BMW ID (www.bmw.de) und Ihre Telekom Mobilfunk-Rufnummer. Bitte halten Sie beides bereit.
-

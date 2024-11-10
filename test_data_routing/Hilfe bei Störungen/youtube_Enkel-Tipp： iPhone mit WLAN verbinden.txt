@@ -1,6 +1,0 @@
-Question:
-Wissen Sie, wie Sie Ihr iPhone mit dem Passwort und dem Wählernamen Ihres Routers verbinden können?
-
-Answer:
-In diesem Artikel erklären wir, wie Sie Ihr iPhone problemlos mit Ihrem Router verbinden können. Sie benötigen dazu den Wählernamen und das Passwort, die Sie in der Regel auf der Rück- oder Unterseite des Routers finden. Sobald Sie diese Informationen haben, öffnen Sie auf dem iPhone die Einstellungen und wählen den Menüpunkt "Wählern" aus. Nachdem Sie auf den gewünschten Wählernamen geklickt haben, geben Sie das Passwort ein, das oft sehr lang sein kann. Klicken Sie abschließend auf "Verbinden", um Ihr iPhone mit Ihrem Router zu verbinden. Sollten Sie weitere Unterstützung benötigen, finden Sie mehr Informationen in unseren Videos.
-

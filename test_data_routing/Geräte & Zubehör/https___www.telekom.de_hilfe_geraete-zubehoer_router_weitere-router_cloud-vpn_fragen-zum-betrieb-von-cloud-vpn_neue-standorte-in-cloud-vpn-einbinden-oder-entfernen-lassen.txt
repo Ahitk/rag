@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/weitere-router/cloud-vpn/fragen-zum-betrieb-von-cloud-vpn/neue-standorte-in-cloud-vpn-einbinden-oder-entfernen-lassen
-
-Question: Wie kann ich neue Standorte in Cloud VPN einbinden oder entfernen lassen?
-Answer: Setzen Sie sich bitte in jedem Fall mit Ihrem persönlichen Berater in Verbindung.Derzeit können neue Standorte nur über eine Neueinrichtung eingebunden werden.
-

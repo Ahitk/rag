@@ -1,7 +1,0 @@
-Source URL: https://telekomhilft.telekom.de/t5/Homepage-Shop/bei-mir-ist-https-ist-nicht-aktivierbar-bei-meiner-Homepage-ich/td-p/6972298/jump-to/first-unread-message
-Subject: bei mir ist https ist nicht aktivierbar bei meiner Homepage ich habe schon einen Anruf vom Datenschutzbeauftragten des Landes bekommen...
-Content: ich habe schon einen Anruf vom Datenschutzbeauftragten des Landes bekommen...Habe mich jetzt belesen, auch bei mir kannhttps nicht aktiviert werden, es werde über http gesucht?? ich verstehe nicht wieso auf einmal? https lässt sich nicht aktivieren. Muss ich mehr machen? Ich habe Formulare auf der Seite! Die Seite sollte schon sicher sein.
-
-Accepted Solutions:
-- Hallo! Ja mittlerweile wurde von der Telekom der Schalter auf https gestellt. Das ging nicht.Es war übrigens der Landesbeauftragte für Datenschutz und Informationssicherheit Baden-Württemberg. Es gibt ihn und es war kein Betrüger.
-- Hallo! Ja mittlerweile wurde von der Telekom der Schalter auf https gestellt. Das ging nicht.Es war übrigens der Landesbeauftragte für Datenschutz und Informationssicherheit Baden-Württemberg. Es gibt ihn und es war kein Betrüger.

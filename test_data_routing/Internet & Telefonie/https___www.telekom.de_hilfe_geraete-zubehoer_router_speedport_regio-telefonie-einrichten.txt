@@ -1,5 +1,0 @@
-Source URL: https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport/regio-telefonie-einrichten
-
-Question: Wie richte ich die Telefonie bei MagentaZuhause Regio ein?
-Answer: Öffnen Sie Ihren Browser und geben Sie in die Adresszeile "http://speedport.ip" oder "http://192.168.2.1" ein. Bestätigen Sie Ihre Eingabe mit "Enter". DasSpeedport Einrichtungsprogrammstartet.
-
