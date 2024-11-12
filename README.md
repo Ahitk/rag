@@ -2,9 +2,9 @@
 
 ### API Keys
 ```bash
-### Create .env file, and add API keys 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
+### Create .env file, and add your API keys 
+OPENAI_API_KEY = "YOUR_API_KEY"
+TAVILY_API_KEY = "YOUR_API_KEY"
 ```
 
 ### Install Dependencies
@@ -25,8 +25,6 @@ python -m venv venv
 .\venv\Scripts\activate
 
 ```
-
-
 
 ### Run Streamlit Chatbot
 ```bash
