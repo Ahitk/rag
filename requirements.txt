@@ -1,12 +1,12 @@
 # RAGAS OLD VERSION FOR TESTDATA CREATION
 #ragas==0.1.21
 # RAGAS NEW VERSION FOR EVALUATION
-git+https://github.com/explodinggradients/ragas.git
+ragas
+#git+https://github.com/explodinggradients/ragas.git #latest main branch
 aiohttp
 beautifulsoup4
 chromadb
 cryptography
-git+https://github.com/openai/whisper.git
 google-api-python-client
 langchain
 langchain-chroma
@@ -22,6 +22,7 @@ opencv-python
 opencv-python-headless
 openai
 openai-whisper
+#git+https://github.com/openai/whisper.git
 paddleocr
 paddlepaddle
 pdf2image
