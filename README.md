@@ -2,26 +2,26 @@
 
 ### Install Dependencies
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### Virtual Environment
 #### For MacOS
-python3 -m venv venv
-source venv/bin/activate
+`python3 -m venv venv`
+`source venv/bin/activate`
 
 #### For Windows
-python -m venv venv
-.\venv\Scripts\activate
+`python -m venv venv`
+`.\venv\Scripts\activate`
 
-deactivate
+`deactivate`
 
-### Retrieve API keys from environment variables
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # OpenAI API Key
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")  # Tavily API Key
+### Create .env file, and retrieve API keys from 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
 ### Run Streamlit Chatbot (example)
-streamlit run app_fusion.py
-streamlit run graph_fusion.py 
+`streamlit run app_fusion.py`
+`streamlit run graph_fusion.py`
 
 ### Testset and Data
 
