@@ -15,13 +15,11 @@ source venv/bin/activate
 python -m venv venv
 .\venv\Scripts\activate
 
-`deactivate
+deactivate
+
 
 ### Create .env file, and retrieve API keys from 
-```python
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-```
-```python
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 ```
 
@@ -32,7 +30,7 @@ streamlit run graph_fusion.py
 ```
 ### Testset and Data
 
-#### Drive Link: [text](https://drive.google.com/drive/folders/15oI_Kaivu39pkNFeSbLzGO3kA0HhBOBG?usp=sharing)
+#### [Drive Link:](https://drive.google.com/drive/folders/15oI_Kaivu39pkNFeSbLzGO3kA0HhBOBG?usp=sharing)
 
 #### IMPORTANT NOTE:
 > The version v.0.1.21 of RAGAS has been used to create the test data. 
