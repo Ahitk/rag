@@ -5,6 +5,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain_community.callbacks import get_openai_callback
 from indexing import generate_vectorstore_semantic_chunking, generate_vectorstore
+import chromadb
 import prompts as prompts
 import initials as initials
 
@@ -103,6 +104,9 @@ if user_query:
 
                 # Display the AI's response with the response time
                 st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
+
+                # Clear the system cache after processing the response
+                chromadb.api.client.SharedSystemClient.clear_system_cache()
 
                 # Append the AI response to the session state chat history
                 st.session_state.chat_history.append(AIMessage(content=response))

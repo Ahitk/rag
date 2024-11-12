@@ -8,6 +8,7 @@ from langchain_community.callbacks import get_openai_callback
 from indexing import get_vectorstore, generate_vectorstore_semantic_chunking
 import prompts as prompts
 import initials as initials
+import chromadb
 
 # Initialize the chat history and token/cost tracking
 if "chat_history" not in st.session_state:
@@ -94,9 +95,11 @@ if user_query:
             st.markdown(f"{response}\n\n**Response time:** {response_time:.1f}s")
 
     # Append the AI response to the session state chat history
-    
     st.session_state.chat_history.append(AIMessage(content=response))
     st.session_state.question_history.append(HumanMessage(content=user_query))
+
+    # Clear the system cache after processing the response
+    chromadb.api.client.SharedSystemClient.clear_system_cache()
 
     with st.sidebar:
         # Display the token count in the sidebar
