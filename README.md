@@ -1,5 +1,12 @@
 ## Advancing IT Support Services with Generative AI: Leveraging Large Language Models and Retrieval Augmented Generation for Domain-Specific Chatbots
 
+### API Keys
+```bash
+### Create .env file, and add API keys 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
+```
+
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
@@ -8,25 +15,24 @@ pip install -r requirements.txt
 #### For MacOS
 ```bash
 python3 -m venv venv
+#activate env
 source venv/bin/activate
 ```
 #### For Windows
 ```bash
 python -m venv venv
+#activate env
 .\venv\Scripts\activate
 
-deactivate
-```
-```bash
-### Create .env file, and retrieve API keys from 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 ```
 
-### Run Streamlit Chatbot (example)
+
+
+### Run Streamlit Chatbot
 ```bash
 streamlit run app_fusion.py
-streamlit run graph_fusion.py 
+streamlit run graph_fusion.py
+#... and other app and graph .py files 
 ```
 ### Testset and Data
 
