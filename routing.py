@@ -2,7 +2,8 @@ import os
 from typing import Literal
 from langchain_core.runnables import RunnableLambda
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.pydantic_v1 import BaseModel, Field
+#from langchain_core.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 
 # Define a data model for routing user questions to the most relevant data category
 class RouteQuery(BaseModel):

@@ -4,7 +4,7 @@
 ```bash
 ### Create .env file, and add your API keys 
 OPENAI_API_KEY = "YOUR_API_KEY"
-TAVILY_API_KEY = "YOUR_API_KEY"
+TAVILY_API_KEY = "YOUR_API_KEY" # For web-search https://tavily.com
 ```
 
 ### Install Dependencies
@@ -32,7 +32,7 @@ streamlit run app_fusion.py
 streamlit run graph_fusion.py
 #... and other app and graph .py files 
 ```
-### Testset and Data
+### Data source files
 
 #### [Drive Link](https://drive.google.com/drive/folders/15oI_Kaivu39pkNFeSbLzGO3kA0HhBOBG?usp=sharing)
 

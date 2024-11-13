@@ -1,21 +1,20 @@
-# Import necessary libraries
-import gc  # Garbage collection
-import glob  # File pattern matching
-import os  # OS operations like file paths
-import random  # Random selection
-from langchain.docstore.document import Document  # Document object from LangChain
+import gc  
+import glob  
+import os  
+import random  
+from langchain.docstore.document import Document  
 from langchain_experimental.text_splitter import SemanticChunker  # Advanced semantic text splitting
 from langchain_text_splitters import CharacterTextSplitter  # Basic text splitting by character
-from langchain.retrievers import EnsembleRetriever  # Combine multiple retrieval methods
-from langchain_community.retrievers import BM25Retriever  # BM25-based keyword retriever
-from langchain_community.document_loaders import DirectoryLoader, TextLoader  # Document loading
-from langchain_chroma import Chroma  # Vector storage
-from routing import get_specific_directory  # Custom directory routing function
+from langchain.retrievers import EnsembleRetriever  # Hybrid: Combine multiple retrieval methods
+from langchain_community.retrievers import BM25Retriever  # BM25-based keyword search
+from langchain_community.document_loaders import DirectoryLoader, TextLoader  
+from langchain_chroma import Chroma  
+from routing import get_specific_directory  
 
 
 # ============================= CONSTANTS =============================
 # These constants control parameters like number of retrieved documents
-TOP_N = 30  # Number of closest documents to retrieve
+TOP_N = 30  # Routing: Number of closest documents to retrieve
 HYBRID_VECTORSTORE_WEIGHT = 0.5  # Weight for combining semantic and keyword search
 MAX_CHUNK_NUMBER = 5  # Maximum chunks allowed per document
 MAX_DOCUMENT_NUMBER_K = 10  # Maximum documents for retrieval

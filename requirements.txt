@@ -1,8 +1,7 @@
 # RAGAS OLD VERSION FOR TESTDATA CREATION
 #ragas==0.1.21
 # RAGAS NEW VERSION FOR EVALUATION
-ragas
-#git+https://github.com/explodinggradients/ragas.git #latest main branch
+ragas #git+https://github.com/explodinggradients/ragas.git #latest main branch
 aiohttp
 beautifulsoup4
 chromadb
@@ -21,8 +20,7 @@ nltk
 opencv-python
 opencv-python-headless
 openai
-openai-whisper
-#git+https://github.com/openai/whisper.git
+openai-whisper #git+https://github.com/openai/whisper.git
 paddleocr
 paddlepaddle
 pdf2image
@@ -31,17 +29,13 @@ Pillow
 pydub
 pypdf
 pytube
-ragatouille
 rank_bm25
 requests
 rouge_score
 selenium
 streamlit
 tavily-python
-tiktoken
 torchvision
-unstructured
-unstructured[all-docs]
 watchdog
 whisper
 youtube-transcript-api

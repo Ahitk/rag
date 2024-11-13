@@ -1,5 +1,4 @@
 import os
-import tiktoken
 import numpy as np
 import streamlit as st
 from dotenv import load_dotenv
@@ -19,7 +18,7 @@ load_dotenv()
 
 # Retrieve API keys from environment variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # OpenAI API Key
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")  # Tavily API Key
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")  # Web search
 
 # Define maximum token limit for language models
 MAX_TOKENS = 8192
@@ -80,17 +79,17 @@ def format_documents(docs, question):
     doc_with_similarity = []
 
     for doc in docs:
-        content_hash = hash(doc.page_content.strip())  # Doküman içeriğini benzersiz bir şekilde temsil eden hash
+        content_hash = hash(doc.page_content.strip())  # A hash uniquely representing the document content
         if content_hash not in unique_docs:
-            unique_docs.add(content_hash)  # Tekrar eden dokümanları engellemek için hash'i set'e ekle
+            unique_docs.add(content_hash)  # Add the hash to a set to prevent duplicate documents
             document_embedding = embedding.embed_query(doc.page_content)
             similarity = cosine_similarity(question_embedding, document_embedding)
             doc_with_similarity.append((doc, similarity))
 
-    # Similarity'e göre sırala (azalan)
+    # Sort by similarity (descending)
     doc_with_similarity.sort(key=lambda x: x[1], reverse=True)
 
-    # Formatlama işlemi
+    # Format
     for i, (doc, similarity) in enumerate(doc_with_similarity, start=1):
         content = doc.page_content.strip() or "This document content is empty."
         formatted_docs.append(
@@ -246,8 +245,6 @@ def summarize(data_directory):
                                 summary_file.write(
                                     f"\n=== Chunk ===\n[File path: {file_path}\nFile summary: {summary}]\n"
                                 )
-
-import os
 
 def summarize_with_filename(data_directory): 
     """
